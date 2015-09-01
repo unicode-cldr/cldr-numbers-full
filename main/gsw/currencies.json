@@ -3,11 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "gsw"
       },
@@ -591,7 +588,8 @@
             "displayName": "Georgische Lari",
             "displayName-count-one": "Georgische Lari",
             "displayName-count-other": "Georgischi Lari",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "Ghanaische Cedi (GHC)",
@@ -1260,7 +1258,7 @@
             "displayName-count-one": "Russische Rubel",
             "displayName-count-other": "Russischi Rubel",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "Russische Rubel (alt)",
@@ -1484,7 +1482,7 @@
             "displayName-count-one": "Nöie Taiwan-Dollar",
             "displayName-count-other": "Nöii Taiwan-Dollar",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "Tansania-Schilling",

@@ -3,11 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ee",
         "territory": "TG"
@@ -124,10 +121,10 @@
             "symbol": "ATS"
           },
           "AUD": {
-            "displayName": "australiaga dollar",
-            "displayName-count-one": "ɔstraliaga dollar",
-            "displayName-count-other": "ɔstraliaga dollar",
-            "symbol": "A$",
+            "displayName": "Australiaga dollar",
+            "displayName-count-one": "Australiaga dollar",
+            "displayName-count-other": "Australiaga dollar",
+            "symbol": "AU$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
@@ -293,9 +290,9 @@
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "brazilga real",
-            "displayName-count-one": "braziliaga real",
-            "displayName-count-other": "braziliaga real",
+            "displayName": "Braziliaga real",
+            "displayName-count-one": "Brazilga real",
+            "displayName-count-other": "Braziliaga real",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -364,9 +361,9 @@
             "symbol-alt-narrow": "$"
           },
           "CAD": {
-            "displayName": "kanadaga dollar",
-            "displayName-count-one": "kanadaga dollar",
-            "displayName-count-other": "kanadaga dollar",
+            "displayName": "Canadaga dollar",
+            "displayName-count-one": "Canadaga dollar",
+            "displayName-count-other": "Canadaga dollar",
             "symbol": "CA$",
             "symbol-alt-narrow": "$"
           },
@@ -383,9 +380,9 @@
             "symbol": "CHE"
           },
           "CHF": {
-            "displayName": "swissga franc",
-            "displayName-count-one": "swissga franc",
-            "displayName-count-other": "swissga franc",
+            "displayName": "Swissga franc",
+            "displayName-count-one": "Swissga franc",
+            "displayName-count-other": "Swissga franc",
             "symbol": "CHF"
           },
           "CHW": {
@@ -419,9 +416,9 @@
             "displayName-count-other": "tsainatɔwo ƒe gadzraɖoƒe dollarwo"
           },
           "CNY": {
-            "displayName": "tsainaga yuan",
-            "displayName-count-one": "tsainaga yuan",
-            "displayName-count-other": "tsainaga yuan",
+            "displayName": "Chinesega yuan",
+            "displayName-count-one": "Chinesega yuan",
+            "displayName-count-other": "Chinesega yuan",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -509,9 +506,9 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "danemarkga krone",
-            "displayName-count-one": "denmarkga krone",
-            "displayName-count-other": "denmarkga krone",
+            "displayName": "Denmarkga krone",
+            "displayName-count-one": "Denmarkga krone",
+            "displayName-count-other": "Denmarkga krone",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
@@ -585,7 +582,7 @@
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "euro",
+            "displayName": "EUR",
             "displayName-count-one": "euro",
             "displayName-count-other": "euro",
             "symbol": "€",
@@ -618,9 +615,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "britainga pound",
-            "displayName-count-one": "britainga pound",
-            "displayName-count-other": "britainga pound",
+            "displayName": "Britishga pound",
+            "displayName-count-one": "Britishga pound",
+            "displayName-count-other": "Britishga pound",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -634,7 +631,8 @@
             "displayName": "dzɔdziaga lari",
             "displayName-count-one": "dzɔdziaga larit",
             "displayName-count-other": "dzɔdziaga larit",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "ghana siɖi (1979–2007)",
@@ -713,9 +711,9 @@
             "symbol-alt-narrow": "$"
           },
           "HKD": {
-            "displayName": "hong kongga dollar",
-            "displayName-count-one": "hong kongga dollar",
-            "displayName-count-other": "hong kongga dollar",
+            "displayName": "Hong Kongga dollar",
+            "displayName-count-one": "Hong Kongga dollar",
+            "displayName-count-other": "Hong Kongga dollar",
             "symbol": "HK$",
             "symbol-alt-narrow": "$"
           },
@@ -753,9 +751,9 @@
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "indinesiaga rupiah",
-            "displayName-count-one": "indinesiaga rupiah",
-            "displayName-count-other": "indinesiaga rupiah",
+            "displayName": "Indonesiaga rupiah",
+            "displayName-count-one": "Indonesiaga rupiah",
+            "displayName-count-other": "Indonesiaga rupiah",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
@@ -784,9 +782,9 @@
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "indiaga rupee",
-            "displayName-count-one": "indiaga rupee",
-            "displayName-count-other": "indiaga rupee",
+            "displayName": "Indiaga rupee",
+            "displayName-count-one": "Indiaga rupee",
+            "displayName-count-other": "Indiaga rupee",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -834,9 +832,9 @@
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "dzapanga yen",
-            "displayName-count-one": "dzapanga yen",
-            "displayName-count-other": "dzapanga yen",
+            "displayName": "Japanesega yen",
+            "displayName-count-one": "Japanesega yen",
+            "displayName-count-other": "Japanesega yen",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
           },
@@ -886,9 +884,9 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "anyiehe koreaga won",
-            "displayName-count-one": "anyiehe koreaga won",
-            "displayName-count-other": "anyiehe koreaga won",
+            "displayName": "South Koreaga won",
+            "displayName-count-one": "South Koreaga won",
+            "displayName-count-other": "South Koreaga won",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
@@ -1113,9 +1111,9 @@
             "symbol": "MWK"
           },
           "MXN": {
-            "displayName": "meksikoga peso",
-            "displayName-count-one": "meksikoga peso",
-            "displayName-count-other": "meksikoga peso",
+            "displayName": "Mexicoga peso",
+            "displayName-count-one": "Mexicoga peso",
+            "displayName-count-other": "Mexicoga peso",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -1178,9 +1176,9 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "norwayga krone",
-            "displayName-count-one": "nɔweiga krone",
-            "displayName-count-other": "nɔweiga krone",
+            "displayName": "Norwayga krone",
+            "displayName-count-one": "Norwayga krone",
+            "displayName-count-other": "Norwayga krone",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
@@ -1305,11 +1303,11 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "rɔtsiaga ruble",
-            "displayName-count-one": "rɔtsiaga ruble",
-            "displayName-count-other": "rɔtsiaga ruble",
+            "displayName": "Russiaga ruble",
+            "displayName-count-one": "Russiaga ruble",
+            "displayName-count-other": "Russiaga ruble",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "rɔtsiaga ruble (1991–1998)",
@@ -1326,9 +1324,9 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "saudiga riyal",
-            "displayName-count-one": "saudiga riyal",
-            "displayName-count-other": "saudiga riyal",
+            "displayName": "Saudi Arabiaga riyal",
+            "displayName-count-one": "Saudi Arabiaga riyal",
+            "displayName-count-other": "Saudi Arabiaga riyal",
             "symbol": "SAR"
           },
           "SBD": {
@@ -1363,9 +1361,9 @@
             "symbol": "SDP"
           },
           "SEK": {
-            "displayName": "swedenga krona",
-            "displayName-count-one": "swedenga krona",
-            "displayName-count-other": "swedenga krona",
+            "displayName": "Swedishga krone",
+            "displayName-count-one": "Swedishga krone",
+            "displayName-count-other": "Swedishga krone",
             "symbol": "SEK",
             "symbol-alt-narrow": "kr"
           },
@@ -1458,10 +1456,10 @@
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "thaiga baht",
-            "displayName-count-one": "thaiga baht",
-            "displayName-count-other": "thaiga baht",
-            "symbol": "THB",
+            "displayName": "Thailandga baht",
+            "displayName-count-one": "Thailandga baht",
+            "displayName-count-other": "Thailandga baht",
+            "symbol": "฿",
             "symbol-alt-narrow": "฿"
           },
           "TJR": {
@@ -1514,9 +1512,9 @@
             "symbol": "TRL"
           },
           "TRY": {
-            "displayName": "tɛkiiga lira",
-            "displayName-count-one": "tɛkiiga lira",
-            "displayName-count-other": "tɛkiiga lira",
+            "displayName": "Turkishga lira",
+            "displayName-count-one": "Turkishga lira",
+            "displayName-count-other": "Turkishga lira",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
@@ -1529,11 +1527,11 @@
             "symbol-alt-narrow": "$"
           },
           "TWD": {
-            "displayName": "taiwanga yeye dollar",
-            "displayName-count-one": "taiwanga yeye dollar",
-            "displayName-count-other": "taiwanga yeye dollar",
+            "displayName": "Taiwanga dollar",
+            "displayName-count-one": "Taiwanga dollar",
+            "displayName-count-other": "Taiwanga dollar",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "Tanzaniatɔwofɛgadudu",
@@ -1567,9 +1565,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "us ga dollar",
-            "displayName-count-one": "us ga dollar",
-            "displayName-count-other": "us ga dollar",
+            "displayName": "US ga dollar",
+            "displayName-count-one": "US ga dollar",
+            "displayName-count-other": "US ga dollar",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },
@@ -1814,9 +1812,9 @@
             "symbol": "ZAL"
           },
           "ZAR": {
-            "displayName": "anyiehe afrikaga rand",
-            "displayName-count-one": "anyiehe afrikaga rand",
-            "displayName-count-other": "anyiehe afrikaga rand",
+            "displayName": "South Africaga rand",
+            "displayName-count-one": "South Africaga rand",
+            "displayName-count-other": "South Africaga rand",
             "symbol": "ZAR",
             "symbol-alt-narrow": "R"
           },

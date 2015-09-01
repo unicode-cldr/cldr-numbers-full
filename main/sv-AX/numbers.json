@@ -3,11 +3,8 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10819 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-14 22:53:08 -0500 (Thu, 14 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "sv",
         "territory": "AX"
@@ -26,7 +23,7 @@
           "plusSign": "+",
           "minusSign": "−",
           "exponential": "×10^",
-          "superscriptingExponent": "·",
+          "superscriptingExponent": "×",
           "perMille": "‰",
           "infinity": "∞",
           "nan": "¤¤¤",
@@ -110,8 +107,36 @@
               "insertBetween": " "
             }
           },
-          "accounting": "#,##0.00 ¤",
           "standard": "#,##0.00 ¤",
+          "accounting": "#,##0.00 ¤",
+          "short": {
+            "standard": {
+              "1000": "0 tn ¤",
+              "1000": "0 tn ¤",
+              "10000": "00 tn ¤",
+              "10000": "00 tn ¤",
+              "100000": "000 tn ¤",
+              "100000": "000 tn ¤",
+              "1000000": "0 mn ¤",
+              "1000000": "0 mn ¤",
+              "10000000": "00 mn ¤",
+              "10000000": "00 mn ¤",
+              "100000000": "000 mn ¤",
+              "100000000": "000 mn ¤",
+              "1000000000": "0 md ¤",
+              "1000000000": "0 md ¤",
+              "10000000000": "00 md ¤",
+              "10000000000": "00 md ¤",
+              "100000000000": "000 md ¤",
+              "100000000000": "000 md ¤",
+              "1000000000000": "0 bn ¤",
+              "1000000000000": "0 bn ¤",
+              "10000000000000": "00 bn ¤",
+              "10000000000000": "00 bn ¤",
+              "100000000000000": "000 bn ¤",
+              "100000000000000": "000 bn ¤"
+            }
+          },
           "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },

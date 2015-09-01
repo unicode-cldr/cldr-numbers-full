@@ -3,11 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "ks"
       },
@@ -429,7 +426,8 @@
           },
           "GEL": {
             "displayName": "جارجِیَن لاری",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "گَنیٚیَن سٮ۪ڑی(۱۹۷۹–۲٠٠۷)",
@@ -896,7 +894,7 @@
           "RUB": {
             "displayName": "رٔشیَن رَبٕل",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "رٔشیَن رَبٕل(۱۹۹۱–۱۹۹۸)",
@@ -1052,7 +1050,7 @@
           "TWD": {
             "displayName": "نوٚو تیوانُک ڈالَر",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "تَنزانیاہُک شِلِنٛگ",

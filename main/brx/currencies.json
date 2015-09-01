@@ -3,11 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "brx"
       },
@@ -22,7 +19,7 @@
             "symbol": "AED"
           },
           "AFA": {
-            "displayName": "अफ़ग़ानी 1927-2002",
+            "displayName": "अफ़ग़ानी 1927–2002",
             "symbol": "AFA"
           },
           "AFN": {
@@ -429,7 +426,8 @@
           },
           "GEL": {
             "displayName": "जॉर्जिया का लारी",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "घाना चेदी (1979–2007)",
@@ -896,7 +894,7 @@
           "RUB": {
             "displayName": "रूसी रूबल",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "RUR",
@@ -1052,7 +1050,7 @@
           "TWD": {
             "displayName": "ताईवानी नया डॉलर",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "तान्ज़ेनियाई शीलींग",

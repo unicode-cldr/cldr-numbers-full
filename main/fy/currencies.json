@@ -3,11 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "fy"
       },
@@ -623,7 +620,8 @@
             "displayName": "Georgyske lari",
             "displayName-count-one": "Georgyske lari",
             "displayName-count-other": "Georgyske lari",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "Ghanese cedi (1979–2007)",
@@ -1302,7 +1300,7 @@
             "displayName-count-one": "Russyske roebel",
             "displayName-count-other": "Russyske roebel",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "Russyske roebel (1991–1998)",
@@ -1528,7 +1526,7 @@
             "displayName-count-one": "Nije Taiwanese dollar",
             "displayName-count-other": "Nije Taiwanese dollar",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "Tanzaniaanske shilling",

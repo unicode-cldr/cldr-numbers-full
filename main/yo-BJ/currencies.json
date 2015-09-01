@@ -3,11 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11324 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-26 16:53:17 -0600 (Thu, 26 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11980 $"
         },
         "language": "yo",
         "territory": "BJ"
@@ -430,7 +427,8 @@
           },
           "GEL": {
             "displayName": "GEL",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "shidi ti Orílɛ́ède Gana",
@@ -897,7 +895,7 @@
           "RUB": {
             "displayName": "RUB",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "RUR",
@@ -1053,7 +1051,7 @@
           "TWD": {
             "displayName": "TWD",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "Sile ti Orílɛ́ède Tansania",

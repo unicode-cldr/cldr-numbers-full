@@ -3,11 +3,8 @@
     "nyn": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10739 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-07 12:54:13 -0500 (Thu, 07 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "nyn"
       },
@@ -429,7 +426,8 @@
           },
           "GEL": {
             "displayName": "GEL",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "Cedi ya Ghana",
@@ -896,7 +894,7 @@
           "RUB": {
             "displayName": "RUB",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "RUR",
@@ -1052,7 +1050,7 @@
           "TWD": {
             "displayName": "TWD",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "Eshiringi ya Tanzania",

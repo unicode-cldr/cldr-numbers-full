@@ -3,11 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "rm"
       },
@@ -448,7 +445,8 @@
           },
           "GEL": {
             "displayName": "lari georgian",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "cedi ghanais (1979–2007)",
@@ -946,7 +944,7 @@
             "displayName-count-one": "rubel russ (nov)",
             "displayName-count-other": "rubel russ (nov)",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "rubel russ (vegl)",
@@ -1110,7 +1108,7 @@
           "TWD": {
             "displayName": "nov dollar taiwanais",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "schilling tansanian",

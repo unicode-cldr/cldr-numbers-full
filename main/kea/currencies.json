@@ -3,11 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11042 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-10-31 12:11:19 -0500 (Fri, 31 Oct 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "kea"
       },
@@ -451,7 +448,8 @@
           },
           "GEL": {
             "displayName": "GEL",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "Sedi di Gana",
@@ -939,7 +937,7 @@
             "displayName": "Rublu rusu",
             "displayName-count-other": "Rublu rusu",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "RUR",
@@ -1109,7 +1107,7 @@
             "displayName": "Dola Novu di Taiwan",
             "displayName-count-other": "Dola Novu di Taiwan",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "Xelin di Tanzania",

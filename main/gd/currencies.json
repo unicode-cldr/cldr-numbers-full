@@ -3,11 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "gd"
       },
@@ -833,7 +830,8 @@
             "displayName-count-two": "lari Cairtbheileach",
             "displayName-count-few": "lari Cairtbheileach",
             "displayName-count-other": "lari Cairtbheileach",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "Cedi Gànach (1979–2007)",
@@ -1748,7 +1746,7 @@
             "displayName-count-few": "rùbalan Ruiseach",
             "displayName-count-other": "rùbal Ruiseach",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "Rùbal Ruiseach (1991–1998)",
@@ -1904,8 +1902,8 @@
           },
           "STD": {
             "displayName": "Dobra São Tomé agus Príncipe",
-            "displayName-count-one": "dhobra São Tomé agus Príncipe",
-            "displayName-count-two": "dobra São Tomé agus Príncipe",
+            "displayName-count-one": "dobra São Tomé agus Príncipe",
+            "displayName-count-two": "dhobra São Tomé agus Príncipe",
             "displayName-count-few": "dobra São Tomé agus Príncipe",
             "displayName-count-other": "dobra São Tomé agus Príncipe",
             "symbol": "STD",
@@ -2189,7 +2187,7 @@
           },
           "WST": {
             "displayName": "Tala Samothach",
-            "displayName-count-one": "thala Samothach",
+            "displayName-count-one": "tala Samothach",
             "displayName-count-two": "thala Samothach",
             "displayName-count-few": "tala Samothach",
             "displayName-count-other": "tala Samothach",

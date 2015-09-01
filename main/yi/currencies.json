@@ -3,11 +3,8 @@
     "yi": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10741 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-07 13:24:47 -0500 (Thu, 07 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11994 $"
         },
         "language": "yi"
       },
@@ -199,7 +196,9 @@
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "BRL",
+            "displayName": "בראזיל רעאל",
+            "displayName-count-one": "בראזיל רעאל",
+            "displayName-count-other": "בראזיל רעאלן",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -282,7 +281,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNY": {
-            "displayName": "CNY",
+            "displayName": "כינעזישער יואן",
+            "displayName-count-one": "כינעזישער יואן",
+            "displayName-count-other": "כינעזישע יואן",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -421,7 +422,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "GBP",
+            "displayName": "פֿונט שטערלינג",
+            "displayName-count-one": "פֿונט שטערלינג",
+            "displayName-count-other": "פֿונט שטערלינג",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -431,7 +434,8 @@
           },
           "GEL": {
             "displayName": "GEL",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "GHC",
@@ -532,7 +536,9 @@
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "INR",
+            "displayName": "אינדישער רופי",
+            "displayName-count-one": "אינדישער רופי",
+            "displayName-count-other": "אינדישע רופי",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -563,7 +569,9 @@
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "JPY",
+            "displayName": "יאפאנעזישער יען",
+            "displayName-count-one": "יאפאנעזישער יען",
+            "displayName-count-other": "יאפאנעזישע יען",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
           },
@@ -896,9 +904,11 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "RUB",
+            "displayName": "רוסישער רובל",
+            "displayName-count-one": "רוסישער רובל",
+            "displayName-count-other": "רוסישע רובל",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "RUR",
@@ -1054,7 +1064,7 @@
           "TWD": {
             "displayName": "TWD",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "TZS",
@@ -1078,7 +1088,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "USD",
+            "displayName": "אמעריקאנער דאלאר",
+            "displayName-count-one": "אמעריקאנער דאלאר",
+            "displayName-count-other": "אמעריקאנער דאלארן",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },
@@ -1215,7 +1227,9 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "XXX",
+            "displayName": "אומבאַוואוסטע וואַלוטע",
+            "displayName-count-one": "אומבאַוואוסטע וואַלוטע",
+            "displayName-count-other": "אומבאַוואוסטע וואַלוטע",
             "symbol": "XXX"
           },
           "YDD": {
