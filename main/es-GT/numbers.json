@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12032 $"
         },
         "language": "es",
         "territory": "GT"
@@ -142,7 +142,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "atLeast": "Más de {0}",
-          "range": "{0} 'al' {1}"
+          "range": "{0} al {1}"
         }
       }
     }
