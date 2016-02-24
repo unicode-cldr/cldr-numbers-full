@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "hsb"
       },
@@ -707,7 +707,7 @@
             "displayName-count-few": "georgiske larije",
             "displayName-count-other": "georgiskich larijow",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "GHC",

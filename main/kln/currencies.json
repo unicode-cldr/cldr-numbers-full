@@ -3,8 +3,8 @@
     "kln": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "kln"
       },
@@ -427,7 +427,7 @@
           "GEL": {
             "displayName": "GEL",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "Rabisiekab Ghana",

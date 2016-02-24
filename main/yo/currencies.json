@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11980 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "yo"
       },
@@ -427,7 +427,7 @@
           "GEL": {
             "displayName": "GEL",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "ṣidi ti Orílẹ́ède Gana",

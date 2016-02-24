@@ -3,8 +3,8 @@
     "os": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12313 $",
+          "_cldrVersion": "29"
         },
         "language": "os"
       },
@@ -434,8 +434,8 @@
             "displayName": "Лар",
             "displayName-count-one": "лар",
             "displayName-count-other": "лары",
-            "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol": "₾",
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "GHC",

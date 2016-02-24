@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11990 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -695,7 +695,7 @@
             "displayName-count-few": "грузијска лариса",
             "displayName-count-other": "грузијских лариса",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "Гански цеди (1979–2007)",

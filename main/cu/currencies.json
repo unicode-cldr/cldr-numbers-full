@@ -3,8 +3,8 @@
     "cu": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11977 $"
+          "_number": "$Revision: 11977 $",
+          "_cldrVersion": "29"
         },
         "language": "cu"
       },
@@ -427,7 +427,7 @@
           "GEL": {
             "displayName": "GEL",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "GHC",

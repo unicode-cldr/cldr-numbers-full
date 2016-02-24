@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "dsb"
       },
@@ -707,7 +707,7 @@
             "displayName-count-few": "georgiske lari",
             "displayName-count-other": "georgiskich lari",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "GHC",

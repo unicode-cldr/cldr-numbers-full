@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ee"
       },
@@ -631,7 +631,7 @@
             "displayName-count-one": "dzɔdziaga larit",
             "displayName-count-other": "dzɔdziaga larit",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "ghana siɖi (1979–2007)",

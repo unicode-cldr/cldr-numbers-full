@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "lb"
       },
@@ -605,7 +605,7 @@
             "displayName-count-one": "Georgesche Lari",
             "displayName-count-other": "Georgesch Lari",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "Ghanaeschen Cedi (1979–2007)",

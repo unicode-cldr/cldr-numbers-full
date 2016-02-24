@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 12004 $"
+          "_number": "$Revision: 12293 $",
+          "_cldrVersion": "29"
         },
         "language": "gd"
       },
@@ -831,7 +831,7 @@
             "displayName-count-few": "lari Cairtbheileach",
             "displayName-count-other": "lari Cairtbheileach",
             "symbol": "GEL",
-            "symbol-alt-variant": "₾"
+            "symbol-alt-narrow": "₾"
           },
           "GHC": {
             "displayName": "Cedi Gànach (1979–2007)",
