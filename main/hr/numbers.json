@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hr"
       },
@@ -178,7 +178,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
-          "range": "{0}–{1}"
+          "range": "{0} – {1}"
         }
       }
     }

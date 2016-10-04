@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pl"
       },
@@ -366,14 +366,22 @@
             "displayName": "rubel białoruski (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "rubel białoruski",
             "displayName-count-one": "rubel białoruski",
             "displayName-count-few": "ruble białoruskie",
             "displayName-count-many": "rubli białoruskich",
             "displayName-count-other": "rubla białoruskiego",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "rubel białoruski (2000–2016)",
+            "displayName-count-one": "rubel białoruski (2000–2016)",
+            "displayName-count-few": "ruble białoruskie (2000–2016)",
+            "displayName-count-many": "rubli białoruskich (2000–2016)",
+            "displayName-count-other": "rubla białoruskiego (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dolar belizeński",
@@ -634,7 +642,7 @@
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "dolar fidżi",
+            "displayName": "dolar fidżyjski",
             "displayName-count-one": "dolar fidżyjski",
             "displayName-count-few": "dolary fidżyjskie",
             "displayName-count-many": "dolarów fidżyjskich",
@@ -679,7 +687,8 @@
             "displayName-count-many": "lari gruzińskich",
             "displayName-count-other": "lari gruzińskiego",
             "symbol": "GEL",
-            "symbol-alt-narrow": "₾"
+            "symbol-alt-narrow": "₾",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "cedi ghańskie (1979–2007)",
@@ -1188,11 +1197,11 @@
             "symbol": "MVR"
           },
           "MWK": {
-            "displayName": "kwacha malawska",
-            "displayName-count-one": "kwacha malawska",
-            "displayName-count-few": "kwacha malawskie",
-            "displayName-count-many": "kwacha malawskich",
-            "displayName-count-other": "kwacha malawskiej",
+            "displayName": "kwacha malawijska",
+            "displayName-count-one": "kwacha malawijska",
+            "displayName-count-few": "kwacha malawijskie",
+            "displayName-count-many": "kwacha malawijskich",
+            "displayName-count-other": "kwacha malawijskiej",
             "symbol": "MWK"
           },
           "MXN": {
@@ -1231,10 +1240,10 @@
           },
           "MZN": {
             "displayName": "metical mozambicki",
-            "displayName-count-one": "metical mozambijski",
-            "displayName-count-few": "meticale mozambijskie",
-            "displayName-count-many": "meticali mozambijskich",
-            "displayName-count-other": "meticala mozambijskiego",
+            "displayName-count-one": "metical mozambicki",
+            "displayName-count-few": "meticale mozambickie",
+            "displayName-count-many": "meticali mozambickich",
+            "displayName-count-other": "meticala mozambickiego",
             "symbol": "MZN"
           },
           "NAD": {
@@ -1417,7 +1426,8 @@
             "displayName-count-few": "leje rumuńskie",
             "displayName-count-many": "lejów rumuńskich",
             "displayName-count-other": "leja rumuńskiego",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinar serbski",
@@ -1822,15 +1832,15 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "vatu Vanuatu",
-            "displayName-count-one": "vatu vanuatuańskie",
-            "displayName-count-few": "vatu vanuatuańskie",
-            "displayName-count-many": "vatu vanuatuańskich",
-            "displayName-count-other": "vatu vanuatuańskiego",
+            "displayName": "vatu wanuackie",
+            "displayName-count-one": "vatu wanuackie",
+            "displayName-count-few": "vatu wanuackie",
+            "displayName-count-many": "vatu wanuackich",
+            "displayName-count-other": "vatu wanuackiego",
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "tala samoańska",
+            "displayName": "tala samoańskie",
             "displayName-count-one": "tala samoańskie",
             "displayName-count-few": "tala samoańskie",
             "displayName-count-many": "tala samoańskich",

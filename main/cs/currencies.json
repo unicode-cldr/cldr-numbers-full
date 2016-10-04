@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "cs"
       },
@@ -446,14 +446,22 @@
             "displayName-count-other": "běloruských rublů (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "běloruský rubl",
             "displayName-count-one": "běloruský rubl",
             "displayName-count-few": "běloruské rubly",
             "displayName-count-many": "běloruského rublu",
             "displayName-count-other": "běloruských rublů",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "běloruský rubl (2000–2016)",
+            "displayName-count-one": "běloruský rubl (2000–2016)",
+            "displayName-count-few": "běloruské rubly (2000–2016)",
+            "displayName-count-many": "běloruského rublu (2000–2016)",
+            "displayName-count-other": "běloruských rublů (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizský dolar",
@@ -1709,12 +1717,13 @@
             "symbol": "ROL"
           },
           "RON": {
-            "displayName": "rumunské leu",
-            "displayName-count-one": "rumunské leu",
+            "displayName": "rumunský leu",
+            "displayName-count-one": "rumunský leu",
             "displayName-count-few": "rumunské lei",
             "displayName-count-many": "rumunského leu",
             "displayName-count-other": "rumunských lei",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "srbský dinár",

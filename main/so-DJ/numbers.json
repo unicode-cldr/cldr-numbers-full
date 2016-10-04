@@ -3,8 +3,8 @@
     "so-DJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "so",
         "territory": "DJ"
@@ -33,8 +33,11 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
+              "1000-count-one": "Kun",
               "1000-count-other": "0K",
+              "10000-count-one": "00K",
               "10000-count-other": "00K",
+              "100000-count-one": "000K",
               "100000-count-other": "000K",
               "1000000-count-other": "0M",
               "10000000-count-other": "00M",

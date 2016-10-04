@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "uz",
         "script": "Latn"
@@ -26,9 +26,9 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "Afg‘oniston afg‘oni",
-            "displayName-count-one": "Afg‘oniston afg‘oni",
-            "displayName-count-other": "Afg‘oniston afg‘oni",
+            "displayName": "Afg‘oniston afg‘oniysi",
+            "displayName-count-one": "Afg‘oniston afg‘oniysi",
+            "displayName-count-other": "Afg‘oniston afg‘oniysi",
             "symbol": "AFN"
           },
           "ALL": {
@@ -44,9 +44,9 @@
             "symbol": "AMD"
           },
           "ANG": {
-            "displayName": "Niderland antil guldeni",
-            "displayName-count-one": "Niderland antil guldeni",
-            "displayName-count-other": "Niderland antil guldeni",
+            "displayName": "Niderlandiya antil guldeni",
+            "displayName-count-one": "Niderlandiya antil guldeni",
+            "displayName-count-other": "Niderlandiya antil guldeni",
             "symbol": "ANG"
           },
           "AOA": {
@@ -281,12 +281,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Belarus rubli",
             "displayName-count-one": "Belarus rubli",
             "displayName-count-other": "Belarus rubli",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belarus rubli (2000–2016)",
+            "displayName-count-one": "Belarus rubli (2000–2016)",
+            "displayName-count-other": "Belarus rubli (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Beliz dollari",
@@ -423,9 +429,9 @@
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "Dominikan pesosi",
-            "displayName-count-one": "Dominikan pesosi",
-            "displayName-count-other": "Dominikan pesosi",
+            "displayName": "Dominikana pesosi",
+            "displayName-count-one": "Dominikana pesosi",
+            "displayName-count-other": "Dominikana pesosi",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
@@ -546,7 +552,7 @@
           },
           "GMD": {
             "displayName": "Gambiya dalasisi",
-            "displayName-count-one": "Gambiya dalisisi",
+            "displayName-count-one": "Gambiya dalasisi",
             "displayName-count-other": "Gambiya dalasisi",
             "symbol": "GMD"
           },
@@ -617,9 +623,9 @@
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "Gaiti gurdasi",
-            "displayName-count-one": "Gaiti gurdasi",
-            "displayName-count-other": "Gaiti gurdasi",
+            "displayName": "Gaiti gurdi",
+            "displayName-count-one": "Gaiti gurdi",
+            "displayName-count-other": "Gaiti gurdi",
             "symbol": "HTG"
           },
           "HUF": {
@@ -665,9 +671,9 @@
             "symbol": "IQD"
           },
           "IRR": {
-            "displayName": "Eron riali",
-            "displayName-count-one": "Eron riali",
-            "displayName-count-other": "Eron riali",
+            "displayName": "Eron riyoli",
+            "displayName-count-one": "Eron riyoli",
+            "displayName-count-other": "Eron riyoli",
             "symbol": "IRR"
           },
           "ISK": {
@@ -708,15 +714,15 @@
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "Qirg‘iziston so‘mi",
-            "displayName-count-one": "Qirg‘iziston so‘mi",
-            "displayName-count-other": "Qirg‘iziston so‘mi",
+            "displayName": "Qirg‘iziston somi",
+            "displayName-count-one": "Qirg‘iziston somi",
+            "displayName-count-other": "Qirg‘iziston somi",
             "symbol": "KGS"
           },
           "KHR": {
-            "displayName": "Kamboja rieli",
-            "displayName-count-one": "Kamboja rieli",
-            "displayName-count-other": "Kamboja rieli",
+            "displayName": "Kambodja rieli",
+            "displayName-count-one": "Kambodja rieli",
+            "displayName-count-other": "Kambodja rieli",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
@@ -750,9 +756,9 @@
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "Quvayt dinori",
-            "displayName-count-one": "Quvayt dinori",
-            "displayName-count-other": "Quvayt dinori",
+            "displayName": "Kuvayt dinori",
+            "displayName-count-one": "Kuvayt dinori",
+            "displayName-count-other": "Kuvayt dinori",
             "symbol": "KWD"
           },
           "KYD": {
@@ -911,9 +917,9 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "Mavritaniya ugiyasi",
-            "displayName-count-one": "Mavritaniya ugiyasi",
-            "displayName-count-other": "Mavritaniya ugiyasi",
+            "displayName": "Mavritaniya uqiyasi",
+            "displayName-count-one": "Mavritaniya uqiyasi",
+            "displayName-count-other": "Mavritaniya uqiyasi",
             "symbol": "MRO"
           },
           "MTL": {
@@ -980,9 +986,9 @@
             "symbol": "MZN"
           },
           "NAD": {
-            "displayName": "Nambiya dollari",
-            "displayName-count-one": "Nambiya dollari",
-            "displayName-count-other": "Nambiya dollari",
+            "displayName": "Namibiya dollari",
+            "displayName-count-one": "Namibiya dollari",
+            "displayName-count-other": "Namibiya dollari",
             "symbol": "NAD",
             "symbol-alt-narrow": "$"
           },
@@ -1030,9 +1036,9 @@
             "symbol-alt-narrow": "$"
           },
           "OMR": {
-            "displayName": "Ummon riali",
-            "displayName-count-one": "Ummon riali",
-            "displayName-count-other": "Ummon riali",
+            "displayName": "Ummon riyoli",
+            "displayName-count-one": "Ummon riyoli",
+            "displayName-count-other": "Ummon riyoli",
             "symbol": "OMR"
           },
           "PAB": {
@@ -1098,9 +1104,9 @@
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "Qatar riali",
-            "displayName-count-one": "Qatar riali",
-            "displayName-count-other": "Qatar riali",
+            "displayName": "Qatar riyoli",
+            "displayName-count-one": "Qatar riyoli",
+            "displayName-count-other": "Qatar riyoli",
             "symbol": "QAR"
           },
           "RHD": {
@@ -1115,7 +1121,8 @@
             "displayName": "Ruminiya leyi",
             "displayName-count-one": "Ruminiya leyi",
             "displayName-count-other": "Ruminiya leyi",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbiya dinori",
@@ -1296,9 +1303,9 @@
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "Tonga pangasi",
-            "displayName-count-one": "Tonga pangasi",
-            "displayName-count-other": "Tonga pangasi",
+            "displayName": "Tonga paangasi",
+            "displayName-count-one": "Tonga paangasi",
+            "displayName-count-other": "Tonga paangasi",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1390,9 +1397,9 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "Oʻzbekiston soʻmi",
-            "displayName-count-one": "Oʻzbekiston soʻmi",
-            "displayName-count-other": "Oʻzbekiston soʻmi",
+            "displayName": "O‘zbekiston so‘mi",
+            "displayName-count-one": "O‘zbekiston so‘mi",
+            "displayName-count-other": "O‘zbekiston so‘mi",
             "symbol": "soʻm"
           },
           "VEB": {
@@ -1519,9 +1526,9 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "Noma’lum pul birligi",
-            "displayName-count-one": "(noma’lum pul birligi)",
-            "displayName-count-other": "(noma’lum pul birligi)",
+            "displayName": "Noma’lum valyuta",
+            "displayName-count-one": "(noma’lum valyuta)",
+            "displayName-count-other": "(noma’lum valyuta)",
             "symbol": "XXX"
           },
           "YDD": {
@@ -1529,9 +1536,9 @@
             "symbol": "YDD"
           },
           "YER": {
-            "displayName": "Yaman riali",
-            "displayName-count-one": "Yaman riali",
-            "displayName-count-other": "Yaman riali",
+            "displayName": "Yaman riyoli",
+            "displayName-count-one": "Yaman riyoli",
+            "displayName-count-other": "Yaman riyoli",
             "symbol": "YER"
           },
           "YUD": {

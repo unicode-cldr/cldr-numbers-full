@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "hsb"
       },
@@ -414,14 +414,22 @@
             "displayName-count-other": "běłoruskich rublow (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "běłoruski rubl",
             "displayName-count-one": "běłoruski rubl",
             "displayName-count-two": "běłoruskej rublej",
             "displayName-count-few": "běłoruske ruble",
             "displayName-count-other": "běłoruskich rublow",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "běłoruski rubl (2000–2016)",
+            "displayName-count-one": "běłoruski rubl (2000–2016)",
+            "displayName-count-two": "běłoruskej rublej (2000–2016)",
+            "displayName-count-few": "běłoruske ruble (2000–2016)",
+            "displayName-count-other": "běłoruskich rublow (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizeski dolar",
@@ -1441,7 +1449,8 @@
             "displayName-count-two": "rumunskej leuwaj",
             "displayName-count-few": "rumunske leuwy",
             "displayName-count-other": "rumunskich leuwow",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "serbiski dinar",

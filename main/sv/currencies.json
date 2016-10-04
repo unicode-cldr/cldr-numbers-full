@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12366 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13007 $",
+          "_cldrVersion": "30"
         },
         "language": "sv"
       },
@@ -345,12 +345,18 @@
             "displayName-count-other": "vitryska nya rubel (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "vitrysk rubel",
             "displayName-count-one": "vitrysk rubel",
             "displayName-count-other": "vitryska rubel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "vitrysk rubel (2000–2016)",
+            "displayName-count-one": "vitrysk rubel (2000–2016)",
+            "displayName-count-other": "vitryska rubel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizisk dollar",
@@ -705,9 +711,9 @@
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "guyanansk dollar",
-            "displayName-count-one": "guyanansk dollar",
-            "displayName-count-other": "guyanska dollar",
+            "displayName": "Guyanadollar",
+            "displayName-count-one": "Guyanadollar",
+            "displayName-count-other": "Guyanadollar",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
@@ -752,9 +758,9 @@
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "indonesisk rupiah",
-            "displayName-count-one": "indonesisk rupiah",
-            "displayName-count-other": "indonesiska rupiah",
+            "displayName": "indonesisk rupie",
+            "displayName-count-one": "indonesisk rupie",
+            "displayName-count-other": "indonesiska rupier",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
@@ -762,7 +768,7 @@
             "displayName": "irländskt pund",
             "displayName-count-one": "irländskt pund",
             "displayName-count-other": "irländska pund",
-            "symbol": "IEP"
+            "symbol": "IE£"
           },
           "ILP": {
             "displayName": "israeliskt pund",
@@ -1072,9 +1078,9 @@
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "macaosk pataca",
-            "displayName-count-one": "macaosk pataca",
-            "displayName-count-other": "macaoska pataca",
+            "displayName": "makanesisk pataca",
+            "displayName-count-one": "makanesisk pataca",
+            "displayName-count-other": "makanesiska pataca",
             "symbol": "MOP"
           },
           "MRO": {
@@ -1316,7 +1322,8 @@
             "displayName": "rumänsk leu",
             "displayName-count-one": "rumänsk leu",
             "displayName-count-other": "rumänska lei",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "serbisk dinar",
@@ -1436,8 +1443,8 @@
           },
           "SRG": {
             "displayName": "surinamesisk gulden",
-            "displayName-count-one": "Surinam-gulden",
-            "displayName-count-other": "Surinam-gulden",
+            "displayName-count-one": "surinamesisk gulden",
+            "displayName-count-other": "surinamesiska gulden",
             "symbol": "SRG"
           },
           "SSP": {
@@ -1702,7 +1709,7 @@
           },
           "XBC": {
             "displayName": "europeisk kontoenhet (XBC)",
-            "displayName-count-one": "europeisk gammal kontoenhet-9",
+            "displayName-count-one": "europeisk gammal kontoenhet",
             "displayName-count-other": "europeiska kontoenheter (XBC)",
             "symbol": "XBC"
           },
@@ -1738,7 +1745,7 @@
             "symbol": "XFO"
           },
           "XFU": {
-            "displayName": "French UIC-Franc",
+            "displayName": "internationella järnvägsunionens franc",
             "displayName-count-one": "internationella järnvägsunionens franc",
             "displayName-count-other": "internationella järnvägsunionens franc",
             "symbol": "XFU"

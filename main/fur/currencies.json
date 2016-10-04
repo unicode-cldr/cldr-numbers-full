@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "fur"
       },
@@ -238,10 +238,14 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rubli bielorùs",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rubli bielorùs (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "BZD",
@@ -917,7 +921,8 @@
           },
           "RON": {
             "displayName": "RON",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar serp",

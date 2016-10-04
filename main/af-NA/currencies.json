@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "af",
         "territory": "NA"
@@ -281,12 +281,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Belo-Russiese roebel",
             "displayName-count-one": "Belo-Russiese roebel",
             "displayName-count-other": "Belo-Russiese roebel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belo-Russiese roebel (2000–2016)",
+            "displayName-count-one": "Belo-Russiese roebel (2000–2016)",
+            "displayName-count-other": "Belo-Russiese roebel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Beliziese dollar",
@@ -1113,7 +1119,8 @@
             "displayName": "Roemeense leu",
             "displayName-count-one": "Roemeense leu",
             "displayName-count-other": "Roemeense leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbiese dinar",

@@ -3,8 +3,8 @@
     "ca-AD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ca",
         "territory": "AD"
@@ -63,7 +63,7 @@
             "displayName-count-one": "kwanza angolès",
             "displayName-count-other": "kwanzas angolesos",
             "symbol": "AOA",
-            "symbol-alt-narrow": "AOA"
+            "symbol-alt-narrow": "Kz"
           },
           "AOK": {
             "displayName": "kwanza angolès (1977–1991)",
@@ -251,7 +251,7 @@
             "displayName-count-one": "bolivià",
             "displayName-count-other": "bolivians",
             "symbol": "BOB",
-            "symbol-alt-narrow": "BOB"
+            "symbol-alt-narrow": "Bs"
           },
           "BOL": {
             "displayName": "boliviano bolivià (1863–1963)",
@@ -346,12 +346,18 @@
             "displayName-count-other": "nous rubles bielorussos (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ruble bielorús",
             "displayName-count-one": "ruble bielorús",
             "displayName-count-other": "rubles bielorussos",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ruble bielorús (2000–2016)",
+            "displayName-count-one": "ruble bielorús (2000–2016)",
+            "displayName-count-other": "rubles bielorussos (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dòlar de Belize",
@@ -509,7 +515,7 @@
             "displayName-count-one": "corona danesa",
             "displayName-count-other": "corones daneses",
             "symbol": "DKK",
-            "symbol-alt-narrow": "DKK"
+            "symbol-alt-narrow": "kr"
           },
           "DOP": {
             "displayName": "peso dominicà",
@@ -692,7 +698,7 @@
             "displayName-count-one": "quetzal guatemalenc",
             "displayName-count-other": "quetzals guatemalencs",
             "symbol": "GTQ",
-            "symbol-alt-narrow": "GTQ"
+            "symbol-alt-narrow": "Q"
           },
           "GWE": {
             "displayName": "escut de la Guinea Portuguesa",
@@ -725,7 +731,7 @@
             "displayName-count-one": "lempira hondurenya",
             "displayName-count-other": "lempires hondurenyes",
             "symbol": "HNL",
-            "symbol-alt-narrow": "HNL"
+            "symbol-alt-narrow": "L"
           },
           "HRD": {
             "displayName": "dinar croat",
@@ -813,7 +819,7 @@
             "displayName-count-one": "corona islandesa",
             "displayName-count-other": "corones islandeses",
             "symbol": "ISK",
-            "symbol-alt-narrow": "ISK"
+            "symbol-alt-narrow": "kr"
           },
           "ITL": {
             "displayName": "lira italiana",
@@ -1197,7 +1203,7 @@
             "displayName-count-one": "corona noruega",
             "displayName-count-other": "corones noruegues",
             "symbol": "NOK",
-            "symbol-alt-narrow": "NOK"
+            "symbol-alt-narrow": "kr"
           },
           "NPR": {
             "displayName": "rupia nepalesa",
@@ -1311,7 +1317,8 @@
             "displayName": "leu romanès",
             "displayName-count-one": "leu romanès",
             "displayName-count-other": "lei romanesos",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinar serbi",
@@ -1382,7 +1389,7 @@
             "displayName-count-one": "corona sueca",
             "displayName-count-other": "corones sueques",
             "symbol": "SEK",
-            "symbol-alt-narrow": "SEK"
+            "symbol-alt-narrow": "kr"
           },
           "SGD": {
             "displayName": "dòlar de Singapur",
@@ -1447,7 +1454,7 @@
             "displayName-count-one": "dobra de São Tomé i Príncipe",
             "displayName-count-other": "dobras de São Tomé i Príncipe",
             "symbol": "STD",
-            "symbol-alt-narrow": "STD"
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "ruble soviètic",

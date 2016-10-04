@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12954 $",
+          "_cldrVersion": "30"
         },
         "language": "bn",
         "territory": "IN"
@@ -33,8 +33,8 @@
           },
           "ALL": {
             "displayName": "আলবেনিয়ান লেক",
-            "displayName-count-one": "আলবেনিয়ান লিক",
-            "displayName-count-other": "আলবেনিয়ান লিক",
+            "displayName-count-one": "আলবেনিয়ান লেক",
+            "displayName-count-other": "আলবেনিয়ান লেক",
             "symbol": "ALL"
           },
           "AMD": {
@@ -281,12 +281,18 @@
             "displayName": "বেলারুশিয়ান নিউ রুবেল (১৯৯৪–১৯৯৯)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "বেলারুশিয়ান রুবেল",
             "displayName-count-one": "বেলারুশিয়ান রুবেল",
             "displayName-count-other": "বেলারুশিয়ান রুবেল",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "বেলারুশিয়ান রুবেল (2000–2016)",
+            "displayName-count-one": "বেলারুশিয়ান রুবেল (2000–2016)",
+            "displayName-count-other": "বেলারুশিয়ান রুবেল (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "বেলিজ ডলার",
@@ -313,9 +319,9 @@
             "symbol": "CHE"
           },
           "CHF": {
-            "displayName": "সুইস ফ্রাঙ্ক",
-            "displayName-count-one": "সুইস ফ্রাঙ্ক",
-            "displayName-count-other": "সুইস ফ্রাঙ্ক",
+            "displayName": "সুইস ফ্রাঁ",
+            "displayName-count-one": "সুইস ফ্রাঁ",
+            "displayName-count-other": "সুইস ফ্রাঁ",
             "symbol": "CHF"
           },
           "CHW": {
@@ -395,9 +401,9 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "চেকোস্লোভাক কোরুনা",
-            "displayName-count-one": "চেকোস্লোভাক কোরুনা",
-            "displayName-count-other": "চেকোস্লোভাক কোরুনা",
+            "displayName": "চেক প্রজাতন্ত্র কোরুনা",
+            "displayName-count-one": "চেক প্রজাতন্ত্র কোরুনা",
+            "displayName-count-other": "চেক প্রজাতন্ত্র কোরুনা",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -509,9 +515,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "ব্রিটিশ পাউন্ড স্টার্লিং",
-            "displayName-count-one": "ব্রিটিশ পাউন্ড স্টার্লিং",
-            "displayName-count-other": "ব্রিটিশ পাউন্ড স্টার্লিং",
+            "displayName": "ব্রিটিশ পাউন্ড",
+            "displayName-count-one": "ব্রিটিশ পাউন্ড",
+            "displayName-count-other": "ব্রিটিশ পাউন্ড",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -612,7 +618,7 @@
           "HRK": {
             "displayName": "ক্রোয়েশিয়ান কুনা",
             "displayName-count-one": "ক্রোয়েশিয়ান কুনা",
-            "displayName-count-other": "ক্রোয়েশিয়ান কুনাস",
+            "displayName-count-other": "ক্রোয়েশিয়ান কুনা",
             "symbol": "HRK",
             "symbol-alt-narrow": "kn"
           },
@@ -682,9 +688,9 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "জ্যামাইকান ডলার",
-            "displayName-count-one": "জ্যামাইকান ডলার",
-            "displayName-count-other": "জ্যামাইকান ডলার",
+            "displayName": "জামাইকান ডলার",
+            "displayName-count-one": "জামাইকান ডলার",
+            "displayName-count-other": "জামাইকান ডলার",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
@@ -791,9 +797,9 @@
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
-            "displayName": "লাইবেরিয়ান ডলার",
-            "displayName-count-one": "লাইবেরিয়ান ডলার",
-            "displayName-count-other": "লাইবেরিয়ান ডলার",
+            "displayName": "লিবেরিয়ান ডলার",
+            "displayName-count-one": "লিবেরিয়ান ডলার",
+            "displayName-count-other": "লিবেরিয়ান ডলার",
             "symbol": "LRD",
             "symbol-alt-narrow": "$"
           },
@@ -1091,9 +1097,9 @@
             "symbol": "PTE"
           },
           "PYG": {
-            "displayName": "প্যারগুয়ান",
-            "displayName-count-one": "প্যারগুয়ান",
-            "displayName-count-other": "প্যারগুয়ান",
+            "displayName": "প্যারাগুয়ান গুয়ারানি",
+            "displayName-count-one": "প্যারাগুয়ান গুয়ারানি",
+            "displayName-count-other": "প্যারাগুয়ান গুয়ারানি",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
           },
@@ -1115,7 +1121,8 @@
             "displayName": "রুমানিয়া লেয়ু",
             "displayName-count-one": "রুমানিয়া লেয়ু",
             "displayName-count-other": "রুমানিয়া লেয়ু",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "সারবিয়ান দিনার",

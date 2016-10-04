@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "et"
       },
@@ -327,12 +327,18 @@
             "displayName-count-other": "Valgevene uut rubla (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Valgevene rubla",
             "displayName-count-one": "Valgevene rubla",
             "displayName-count-other": "Valgevene rubla",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Valgevene rubla (2000–2016)",
+            "displayName-count-one": "Valgevene rubla (2000–2016)",
+            "displayName-count-other": "Valgevene rubla (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belize’i dollar",
@@ -1257,7 +1263,8 @@
             "displayName": "Rumeenia leu",
             "displayName-count-one": "Rumeenia leu",
             "displayName-count-other": "Rumeenia leud",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbia dinaar",

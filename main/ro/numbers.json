@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ro"
       },
@@ -177,7 +177,7 @@
           "unitPattern-count-other": "{0} de {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": ">{0}",
+          "atLeast": "⩾{0}",
           "range": "{0} - {1}"
         }
       }

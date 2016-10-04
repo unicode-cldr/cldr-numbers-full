@@ -3,8 +3,8 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sw"
       },
@@ -122,9 +122,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Convertible Mark ya Bosnia na Hezegovina",
+            "displayName": "Mark Inayoweza Kubadilishwa ya Bosnia na Hezegovina",
             "displayName-count-one": "Convertible Mark ya Bosnia na Hezegovina",
-            "displayName-count-other": "Convertible Mark za Bosnia na Hezegovina",
+            "displayName-count-other": "Mark Inayoweza Kubadilishwa ya Bosnia na Hezegovina",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Ruble ya Belarusi",
             "displayName-count-one": "Ruble ya Belarusi",
             "displayName-count-other": "Ruble za Belarusi",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Ruble ya Belarusi (2000–2016)",
+            "displayName-count-one": "Ruble ya Belarusi (2000–2016)",
+            "displayName-count-other": "Ruble za Belarusi (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dola ya Belize",
@@ -644,9 +650,9 @@
             "symbol": "ILP"
           },
           "ILS": {
-            "displayName": "Sheqel Mpya ya Israeli",
-            "displayName-count-one": "Sheqel Mpya ya Israeli",
-            "displayName-count-other": "Sheqel Mpya za Israeli",
+            "displayName": "Shekeli Mpya ya Israel",
+            "displayName-count-one": "Shekeli Mpya ya Israel",
+            "displayName-count-other": "Shekeli Mpya za Israel",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -1116,7 +1122,8 @@
             "displayName": "Leu ya Romania",
             "displayName-count-one": "Leu ya Romania",
             "displayName-count-other": "Leu za Romania",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar ya Serbia",
@@ -1433,9 +1440,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "CFA faranga ya BEAC",
-            "displayName-count-one": "CFA faranga ya BEAC",
-            "displayName-count-other": "CFA faranga za BEAC",
+            "displayName": "Faranga ya Afrika ya Kati CFA",
+            "displayName-count-one": "faranga ya Afrika ya Kati CFA",
+            "displayName-count-other": "faranga za Afrika ya Kati CFA",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1486,9 +1493,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "CFA faranga za BCEAO",
-            "displayName-count-one": "CFA faranga za BCEAO",
-            "displayName-count-other": "CFA faranga za BCEAO",
+            "displayName": "Faranga ya Afrika Magharibi CFA",
+            "displayName-count-one": "faranga ya Afrika Magharibi CFA",
+            "displayName-count-other": "faranga za Afrika Magharibi CFA",
             "symbol": "CFA"
           },
           "XPD": {
@@ -1523,8 +1530,8 @@
           },
           "XXX": {
             "displayName": "Sarafu isiyojulikana",
-            "displayName-count-one": "sarafu isiyojulikana",
-            "displayName-count-other": "sarafu zisizojulikana",
+            "displayName-count-one": "(sarafu isiyojulikana)",
+            "displayName-count-other": "(sarafu isiyojulikana)",
             "symbol": "XXX"
           },
           "YDD": {

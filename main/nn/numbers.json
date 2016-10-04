@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12366 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "nn"
       },
@@ -26,8 +26,8 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": ".",
-          "timeSeparator-alt-variant": ":"
+          "timeSeparator": ":",
+          "timeSeparator-alt-variant": "."
         },
         "decimalFormats-numberSystem-latn": {
           "standard": "#,##0.###",
@@ -106,7 +106,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
-          "range": "{0}–{1}"
+          "range": "{0}‒{1}"
         }
       }
     }

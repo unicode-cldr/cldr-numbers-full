@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ru"
       },
@@ -214,8 +214,8 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
-          "range": "{0}-{1}"
+          "atLeast": "⩾{0}",
+          "range": "{0}–{1}"
         }
       }
     }

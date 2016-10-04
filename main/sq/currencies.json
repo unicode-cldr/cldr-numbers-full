@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sq"
       },
@@ -84,9 +84,9 @@
             "symbol": "ARP"
           },
           "ARS": {
-            "displayName": "Pezoja argjentinase",
-            "displayName-count-one": "pezo argjentinase",
-            "displayName-count-other": "pezo argjentinase",
+            "displayName": "Pesoja argjentinase",
+            "displayName-count-one": "peso argjentinase",
+            "displayName-count-other": "peso argjentinase",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rubla bjelloruse",
             "displayName-count-one": "rubël bjelloruse",
             "displayName-count-other": "rubla bjelloruse",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rubla bjelloruse (2000–2016)",
+            "displayName-count-one": "rubël bjelloruse (2000–2016)",
+            "displayName-count-other": "rubla bjelloruse (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dollari i Ishujve Belize",
@@ -330,9 +336,9 @@
             "symbol": "CLF"
           },
           "CLP": {
-            "displayName": "Pezoja kiliane",
-            "displayName-count-one": "pezo kiliane",
-            "displayName-count-other": "pezo kiliane",
+            "displayName": "Pesoja kiliane",
+            "displayName-count-one": "peso kiliane",
+            "displayName-count-other": "peso kiliane",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
@@ -344,9 +350,9 @@
             "symbol-alt-narrow": "¥"
           },
           "COP": {
-            "displayName": "Pezoja kolumbiane",
-            "displayName-count-one": "pezo kolumbiane",
-            "displayName-count-other": "pezo kolumbiane",
+            "displayName": "Pesoja kolumbiane",
+            "displayName-count-one": "peso kolumbiane",
+            "displayName-count-other": "peso kolumbiane",
             "symbol": "COP",
             "symbol-alt-narrow": "$"
           },
@@ -370,16 +376,16 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "Pezoja kubaneze e shkëmbyeshme",
-            "displayName-count-one": "pezo kubaneze e shkëmbyeshme",
-            "displayName-count-other": "pezo kubaneze të shkëmbyeshme",
+            "displayName": "Pesoja kubaneze e shkëmbyeshme",
+            "displayName-count-one": "peso kubaneze e shkëmbyeshme",
+            "displayName-count-other": "peso kubaneze e shkëmbyeshme",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "Pezoja kubaneze",
-            "displayName-count-one": "pezo kubaneze",
-            "displayName-count-other": "pezo kubaneze",
+            "displayName": "Pesoja kubaneze",
+            "displayName-count-one": "peso kubaneze",
+            "displayName-count-other": "peso kubaneze",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -422,9 +428,9 @@
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "Pezoja dominikane",
-            "displayName-count-one": "pezo dominikane",
-            "displayName-count-other": "pezo dominikane",
+            "displayName": "Pesoja dominikane",
+            "displayName-count-one": "peso dominikane",
+            "displayName-count-other": "peso dominikane",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
@@ -497,9 +503,9 @@
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "Stërlina e Ishujve Folkland",
-            "displayName-count-one": "stërlinë e Ishujve Folkland",
-            "displayName-count-other": "stërlina të Ishujve Folkland",
+            "displayName": "Stërlina e Ishujve Falkland",
+            "displayName-count-one": "stërlinë e Ishujve Falkland",
+            "displayName-count-other": "stërlina të Ishujve Falkland",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -942,9 +948,9 @@
             "symbol": "MWK"
           },
           "MXN": {
-            "displayName": "Pezoja meksikane",
-            "displayName-count-one": "pezo meksikane",
-            "displayName-count-other": "pezo meksikane",
+            "displayName": "Pesoja meksikane",
+            "displayName-count-one": "peso meksikane",
+            "displayName-count-other": "peso meksikane",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -1060,9 +1066,9 @@
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "Pezoja filipinase",
-            "displayName-count-one": "pezo filipinase",
-            "displayName-count-other": "pezo filipinase",
+            "displayName": "Pesoja filipinase",
+            "displayName-count-one": "peso filipinase",
+            "displayName-count-other": "peso filipinase",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
@@ -1113,7 +1119,8 @@
             "displayName": "Leu rumun",
             "displayName-count-one": "leu rumun",
             "displayName-count-other": "leu rumun",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinari serb",
@@ -1381,9 +1388,9 @@
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "Pezoja uruguaiane",
-            "displayName-count-one": "pezo uruguaiane",
-            "displayName-count-other": "pezo uruguaiane",
+            "displayName": "Pesoja uruguaiane",
+            "displayName-count-one": "peso uruguaiane",
+            "displayName-count-other": "peso uruguaiane",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
@@ -1553,9 +1560,9 @@
             "symbol": "ZAL"
           },
           "ZAR": {
-            "displayName": "Randa afrikano-jugore",
-            "displayName-count-one": "randë afrikano-jugore",
-            "displayName-count-other": "randa afrikano-jugore",
+            "displayName": "Randi afrikano-jugor",
+            "displayName-count-one": "rand afrikano-jugor",
+            "displayName-count-other": "randë afrikano-jugorë",
             "symbol": "ZAR",
             "symbol-alt-narrow": "R"
           },

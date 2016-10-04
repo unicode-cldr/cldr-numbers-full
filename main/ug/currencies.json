@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12313 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ug"
       },
@@ -345,12 +345,18 @@
             "displayName-count-other": "بېلارۇسىيە يېڭى رۇبلىسى (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "بېلارۇسىيە رۇبلىسى",
             "displayName-count-one": "بېلارۇسىيە رۇبلىسى",
             "displayName-count-other": "بېلارۇسىيە رۇبلىسى",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "بېلارۇسىيە رۇبلىسى (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-one": "بېلارۇسىيە رۇبلىسى (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-other": "بېلارۇسىيە رۇبلىسى (۲۰۰۰–۲۰۱۶)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "بېلىز دوللىرى",
@@ -1312,7 +1318,8 @@
             "displayName": "رۇمىنىيە لېيى",
             "displayName-count-one": "رۇمىنىيە لېيى",
             "displayName-count-other": "رۇمىنىيە لېيى",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "سېربىيە دىنارى",

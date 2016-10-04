@@ -3,8 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ee",
         "territory": "TG"
@@ -346,12 +346,18 @@
             "displayName-count-other": "belarusiaga ruble yeyetɔ (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "belarusiaga ruble",
             "displayName-count-one": "belarusiaga ruble",
             "displayName-count-other": "belarusiaga rublewo",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "belarusiaga ruble (2000–2016)",
+            "displayName-count-one": "belarusiaga ruble (2000–2016)",
+            "displayName-count-other": "belarusiaga rublewo (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizega dollar",
@@ -1294,7 +1300,8 @@
             "displayName": "romaniaga leu",
             "displayName-count-one": "romaniaga leu",
             "displayName-count-other": "romaniaga leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "serbiaga dinar",

@@ -3,8 +3,8 @@
     "smn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "smn"
       },
@@ -15,8 +15,8 @@
         },
         "minimumGroupingDigits": "1",
         "symbols-numberSystem-latn": {
-          "decimal": ".",
-          "group": ",",
+          "decimal": ",",
+          "group": " ",
           "list": ";",
           "percentSign": "%",
           "plusSign": "+",
@@ -26,7 +26,7 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "epiloho",
-          "timeSeparator": ":"
+          "timeSeparator": "."
         },
         "decimalFormats-numberSystem-latn": {
           "standard": "#,##0.###",
@@ -91,7 +91,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##0%"
+          "standard": "#,##0 %"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
@@ -106,8 +106,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00",
-          "accounting": "¤ #,##0.00",
+          "standard": "#,##0.00 ¤",
+          "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {
               "1000-count-other": "¤ 0K",
@@ -124,6 +124,8 @@
               "100000000000000-count-other": "¤ 000T"
             }
           },
+          "unitPattern-count-one": "{0} {1}",
+          "unitPattern-count-two": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {

@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12384 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "my"
       },
@@ -13,7 +13,7 @@
         "otherNumberingSystems": {
           "native": "mymr"
         },
-        "minimumGroupingDigits": "3",
+        "minimumGroupingDigits": "1",
         "symbols-numberSystem-latn": {
           "decimal": ".",
           "group": ",",
@@ -52,11 +52,11 @@
               "1000000-count-other": "0သန်း",
               "10000000-count-other": "0ကုဋေ",
               "100000000-count-other": "00ကုဋေ",
-              "1000000000-count-other": "000ကုဋေ",
-              "10000000000-count-other": "0000ကုဋေ",
-              "100000000000-count-other": "00000ကုဋေ",
-              "1000000000000-count-other": "000000ကုဋေ",
-              "10000000000000-count-other": "0000000ကုဋေ",
+              "1000000000-count-other": "ကုဋေ000",
+              "10000000000-count-other": "ကုဋေ0000",
+              "100000000000-count-other": "ကုဋေ0သောင်း",
+              "1000000000000-count-other": "ကုဋေ0သိန်း",
+              "10000000000000-count-other": "ကုဋေ0သန်း",
               "100000000000000-count-other": "0ကောဋိ"
             }
           },
@@ -69,10 +69,10 @@
               "10000000-count-other": "0ကုဋေ",
               "100000000-count-other": "00ကုဋေ",
               "1000000000-count-other": "ကုဋေ000",
-              "10000000000-count-other": "ကုဋေ0000",
-              "100000000000-count-other": "0000ကုဋေ",
-              "1000000000000-count-other": "ကုဋေ0သိန်း",
-              "10000000000000-count-other": "ကုဋေ0သန်း",
+              "10000000000-count-other": "ကုဋေ0ထ",
+              "100000000000-count-other": "ကုဋေ0သ",
+              "1000000000000-count-other": "ဋေ0သိန်း",
+              "10000000000000-count-other": "ဋေ0သန်း",
               "100000000000000-count-other": "0ကောဋိ"
             }
           }
@@ -87,11 +87,11 @@
               "1000000-count-other": "0သန်း",
               "10000000-count-other": "0ကုဋေ",
               "100000000-count-other": "00ကုဋေ",
-              "1000000000-count-other": "000ကုဋေ",
-              "10000000000-count-other": "0000ကုဋေ",
-              "100000000000-count-other": "00000ကုဋေ",
-              "1000000000000-count-other": "000000ကုဋေ",
-              "10000000000000-count-other": "0000000ကုဋေ",
+              "1000000000-count-other": "ကုဋေ000",
+              "10000000000-count-other": "ကုဋေ0000",
+              "100000000000-count-other": "ကုဋေ0သောင်း",
+              "1000000000000-count-other": "ကုဋေ0သိန်း",
+              "10000000000000-count-other": "ကုဋေ0သန်း",
               "100000000000000-count-other": "0ကောဋိ"
             }
           },
@@ -104,10 +104,10 @@
               "10000000-count-other": "0ကုဋေ",
               "100000000-count-other": "00ကုဋေ",
               "1000000000-count-other": "ကုဋေ000",
-              "10000000000-count-other": "ကုဋေ0000",
-              "100000000000-count-other": "0000ကုဋေ",
-              "1000000000000-count-other": "ကုဋေ0သိန်း",
-              "10000000000000-count-other": "ကုဋေ0သန်း",
+              "10000000000-count-other": "ကုဋေ0ထ",
+              "100000000000-count-other": "ကုဋေ0သ",
+              "1000000000000-count-other": "ဋေ0သိန်း",
+              "10000000000000-count-other": "ဋေ0သန်း",
               "100000000000000-count-other": "0ကောဋိ"
             }
           }
@@ -137,7 +137,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00",
+          "standard": "#,##0.00 ¤",
           "accounting": "¤ #,##0.00",
           "short": {
             "standard": {
@@ -149,13 +149,13 @@
               "100000000-count-other": "¤ 00ကုဋေ",
               "1000000000-count-other": "¤ ကုဋေ000",
               "10000000000-count-other": "¤ ကုဋေ0000",
-              "100000000000-count-other": "¤ 0000ကုဋေ",
+              "100000000000-count-other": "¤ ကုဋေ0သောင်း",
               "1000000000000-count-other": "¤ ကုဋေ0သိန်း",
               "10000000000000-count-other": "¤ ကုဋေ0သန်း",
               "100000000000000-count-other": "¤ 0ကောဋိ"
             }
           },
-          "unitPattern-count-other": "{0} {1}"
+          "unitPattern-count-other": "{1} {0}"
         },
         "currencyFormats-numberSystem-mymr": {
           "currencySpacing": {
@@ -170,7 +170,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00",
+          "standard": "#,##0.00 ¤",
           "accounting": "¤ #,##0.00",
           "short": {
             "standard": {
@@ -182,21 +182,21 @@
               "100000000-count-other": "¤ 00ကုဋေ",
               "1000000000-count-other": "¤ ကုဋေ000",
               "10000000000-count-other": "¤ ကုဋေ0000",
-              "100000000000-count-other": "¤ 0000ကုဋေ",
+              "100000000000-count-other": "¤ ကုဋေ0သောင်း",
               "1000000000000-count-other": "¤ ကုဋေ0သိန်း",
               "10000000000000-count-other": "¤ ကုဋေ0သန်း",
               "100000000000000-count-other": "¤ 0ကောဋိ"
             }
           },
-          "unitPattern-count-other": "{0} {1}"
+          "unitPattern-count-other": "{1} {0}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "⩾{0}",
-          "range": "{0}–{1}"
+          "atLeast": "{0} နှင့်အထက်",
+          "range": "{0} - {1}"
         },
         "miscPatterns-numberSystem-mymr": {
-          "atLeast": "⩾{0}",
-          "range": "{0}–{1}"
+          "atLeast": "{0} နှင့်အထက်",
+          "range": "{0} - {1}"
         }
       }
     }

@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fa",
         "territory": "AF"
@@ -287,12 +287,18 @@
             "displayName": "روبل جدید بیلوروسی (۱۹۹۴ تا ۱۹۹۹)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "روبل روسیهٔ سفید",
             "displayName-count-one": "روبل بیلوروسی",
             "displayName-count-other": "روبل بیلوروسی",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "روبل روسیهٔ سفید (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-one": "روبل بیلوروسی (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-other": "روبل بیلوروسی (۲۰۰۰–۲۰۱۶)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "دلار بلیز",
@@ -1129,7 +1135,8 @@
             "displayName": "لئوی رومانی",
             "displayName-count-one": "لئوی رومانی",
             "displayName-count-other": "لئوی رومانی",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "دینار صربستان",

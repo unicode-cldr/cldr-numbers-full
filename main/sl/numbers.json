@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sl"
       },
@@ -20,7 +20,7 @@
           "list": ";",
           "percentSign": "%",
           "plusSign": "+",
-          "minusSign": "-",
+          "minusSign": "–",
           "exponential": "e",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -139,7 +139,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##0%"
+          "standard": "#,##0 %"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {

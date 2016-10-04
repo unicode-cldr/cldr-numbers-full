@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12416 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ms"
       },
@@ -257,11 +257,16 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
-            "displayName": "Ruble Belarus",
-            "displayName-count-other": "Ruble Belarus",
-            "symbol": "BYR",
+          "BYN": {
+            "displayName": "Rubel Belarus",
+            "displayName-count-other": "Rubel Belarus",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rubel Belarus (2000–2016)",
+            "displayName-count-other": "Rubel Belarus (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dolar Belize",
@@ -999,7 +1004,8 @@
           "RON": {
             "displayName": "Leu Romania",
             "displayName-count-other": "Leu Romania",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar Serbia",
@@ -1007,8 +1013,8 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "Ruble Rusia",
-            "displayName-count-other": "Ruble Rusia",
+            "displayName": "Rubel Rusia",
+            "displayName-count-other": "Rubel Rusia",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },

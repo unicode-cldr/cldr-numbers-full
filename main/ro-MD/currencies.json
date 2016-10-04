@@ -3,8 +3,8 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "ro",
         "territory": "MD"
@@ -157,7 +157,7 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "dolar Barbados",
+            "displayName": "dolar din Barbados",
             "displayName-count-one": "dolar Barbados",
             "displayName-count-few": "dolari Barbados",
             "displayName-count-other": "dolari Barbados",
@@ -318,9 +318,9 @@
           },
           "BWP": {
             "displayName": "pula Botswana",
-            "displayName-count-one": "pulă Botswana",
-            "displayName-count-few": "pule Botswana",
-            "displayName-count-other": "pule Botswana",
+            "displayName-count-one": "pula Botswana",
+            "displayName-count-few": "pula Botswana",
+            "displayName-count-other": "pula Botswana",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -328,13 +328,20 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "rublă belarusă",
             "displayName-count-one": "rublă belarusă",
             "displayName-count-few": "ruble belaruse",
             "displayName-count-other": "ruble belaruse",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "rublă belarusă (2000–2016)",
+            "displayName-count-one": "rublă belarusă (2000–2016)",
+            "displayName-count-few": "ruble belaruse (2000–2016)",
+            "displayName-count-other": "ruble belaruse (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dolar din Belize",
@@ -929,10 +936,10 @@
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "rupie din Sri Lanka",
-            "displayName-count-one": "rupie din Sri Lanka",
-            "displayName-count-few": "rupii din Sri Lanka",
-            "displayName-count-other": "rupii Sri Lanka",
+            "displayName": "rupie srilankeză",
+            "displayName-count-one": "rupie srilankeză",
+            "displayName-count-few": "rupii srilankeze",
+            "displayName-count-other": "rupii srilankeze",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
@@ -1337,7 +1344,8 @@
             "displayName-count-one": "leu românesc",
             "displayName-count-few": "lei românești",
             "displayName-count-other": "lei românești",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinar sârbesc",
@@ -1419,10 +1427,10 @@
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "dolar Singapore",
-            "displayName-count-one": "dolar Singapore",
-            "displayName-count-few": "dolari Singapore",
-            "displayName-count-other": "dolari Singapore",
+            "displayName": "dolar singaporez",
+            "displayName-count-one": "dolar singaporez",
+            "displayName-count-few": "dolari singaporezi",
+            "displayName-count-other": "dolari singaporezi",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
@@ -1478,10 +1486,10 @@
             "symbol": "SRG"
           },
           "SSP": {
-            "displayName": "liră sud-sudaneză",
-            "displayName-count-one": "liră sud-sudaneză",
-            "displayName-count-few": "lire sud-sudaneze",
-            "displayName-count-other": "lire sud-sudaneze",
+            "displayName": "liră din Sudanul de Sud",
+            "displayName-count-one": "liră din Sudanul de Sud",
+            "displayName-count-few": "lire din Sudanul de Sud",
+            "displayName-count-other": "lire din Sudanul de Sud",
             "symbol": "SSP",
             "symbol-alt-narrow": "£"
           },
@@ -1738,7 +1746,7 @@
             "displayName": "franc CFA BEAC",
             "displayName-count-one": "franc CFA BEAC",
             "displayName-count-few": "franci CFA BEAC",
-            "displayName-count-other": "franci Comunitatea Financiară",
+            "displayName-count-other": "franci CFA central-africani",
             "symbol": "FCFA"
           },
           "XAG": {

@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "tr",
         "territory": "CY"
@@ -340,12 +340,18 @@
             "displayName-count-other": "Yeni Beyaz Rusya Rublesi (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Beyaz Rusya Rublesi",
             "displayName-count-one": "Beyaz Rusya rublesi",
             "displayName-count-other": "Beyaz Rusya rublesi",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Beyaz Rusya Rublesi (2000–2016)",
+            "displayName-count-one": "Beyaz Rusya rublesi (2000–2016)",
+            "displayName-count-other": "Beyaz Rusya rublesi (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belize Doları",
@@ -1284,7 +1290,8 @@
             "displayName": "Romen Leyi",
             "displayName-count-one": "Romen leyi",
             "displayName-count-other": "Romen leyi",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "Sırp Dinarı",

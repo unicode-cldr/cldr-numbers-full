@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "te"
       },
@@ -177,9 +177,9 @@
             "symbol": "BGO"
           },
           "BHD": {
-            "displayName": "బహ్రైని దీనార్",
-            "displayName-count-one": "బహ్రైని దీనార్",
-            "displayName-count-other": "బహ్రైని దీనార్‌లు",
+            "displayName": "బహ్రెయిన్ దినార్",
+            "displayName-count-one": "బహ్రెయిన్ దినార్",
+            "displayName-count-other": "బహ్రెయిన్ దినార్‌లు",
             "symbol": "BHD"
           },
           "BIF": {
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "బెలరూసియన్ రూబల్",
             "displayName-count-one": "బెలరూసియన్ రూబల్",
             "displayName-count-other": "బెలరూసియన్ రూబల్‌లు",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "బెలరూసియన్ రూబల్ (2000–2016)",
+            "displayName-count-one": "బెలరూసియన్ రూబల్ (2000–2016)",
+            "displayName-count-other": "బెలరూసియన్ రూబల్‌లు (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "బెలీజ్ డాలర్",
@@ -1114,7 +1120,8 @@
             "displayName": "రోమానియాన్ లెయు",
             "displayName-count-one": "రోమానియాన్ లెయు",
             "displayName-count-other": "రోమానియాన్ లీ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "సెర్బియన్ దీనార్",
@@ -1353,9 +1360,9 @@
             "symbol": "UGS"
           },
           "UGX": {
-            "displayName": "యుగండన్ షిల్లింగ్",
-            "displayName-count-one": "యుగండన్ షిల్లింగ్",
-            "displayName-count-other": "యుగండన్ షిల్లింగ్‌లు",
+            "displayName": "ఉగాండన్ షిల్లింగ్",
+            "displayName-count-one": "ఉగాండన్ షిల్లింగ్",
+            "displayName-count-other": "ఉగాండన్ షిల్లింగ్‌లు",
             "symbol": "UGX"
           },
           "USD": {
@@ -1429,9 +1436,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "సిఎఫ్‌ఎ ఫ్రాంక్ బిఇఏసి",
-            "displayName-count-one": "సిఎఫ్‌ఎ ఫ్రాంక్ బిఇఏసి",
-            "displayName-count-other": "సిఎఫ్‌ఎ ఫ్రాంక్ బిఇఏసి",
+            "displayName": "సెంట్రల్ ఆఫ్రికన్ సిఎఫ్‌ఎ ఫ్రాంక్",
+            "displayName-count-one": "సెంట్రల్ ఆఫ్రికన్ సిఎఫ్‌ఎ ఫ్రాంక్",
+            "displayName-count-other": "సెంట్రల్ ఆఫ్రికన్ సిఎఫ్‌ఎ ఫ్రాంక్‌లు",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1482,9 +1489,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "సిఎఫ్‌ఎ ఫ్రాంక్ బిసిఈఏఓ",
-            "displayName-count-one": "సిఎఫ్‌ఎ ఫ్రాంక్ బిసిఈఏఓ",
-            "displayName-count-other": "సిఎఫ్‌ఎ ఫ్రాంక్ బిసిఈఏఓ",
+            "displayName": "పశ్చిమ ఆఫ్రికన్ సిఏఫ్ఏ ఫ్రాంక్",
+            "displayName-count-one": "పశ్చిమ ఆఫ్రికన్ సిఏఫ్ఏ ఫ్రాంక్",
+            "displayName-count-other": "పశ్చిమ ఆఫ్రికన్ సిఏఫ్ఏ ఫ్రాంక్‌లు",
             "symbol": "CFA"
           },
           "XPD": {

@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hy"
       },
@@ -16,8 +16,8 @@
           },
           "AED": {
             "displayName": "Արաբական Միացյալ Էմիրությունների դիրհամ",
-            "displayName-count-one": "Արաբական Միացյալ Էմիրությունների դիրհամ",
-            "displayName-count-other": "Արաբական Միացյալ Էմիրությունների դիրհամ",
+            "displayName-count-one": "ԱՄԷ դիրհամ",
+            "displayName-count-other": "ԱՄԷ դիրհամ",
             "symbol": "AED"
           },
           "AFA": {
@@ -26,33 +26,33 @@
           },
           "AFN": {
             "displayName": "Աֆղանական աֆղանի",
-            "displayName-count-one": "Աֆղանական աֆղանի",
-            "displayName-count-other": "Աֆղանական աֆղանի",
+            "displayName-count-one": "աֆղանական աֆղանի",
+            "displayName-count-other": "աֆղանական աֆղանի",
             "symbol": "AFN"
           },
           "ALL": {
             "displayName": "Ալբանական լեկ",
-            "displayName-count-one": "Ալբանական լեկ",
-            "displayName-count-other": "Ալբանական լեկ",
+            "displayName-count-one": "ալբանական լեկ",
+            "displayName-count-other": "ալբանական լեկ",
             "symbol": "ALL"
           },
           "AMD": {
             "displayName": "Հայկական դրամ",
-            "displayName-count-one": "Հայկական դրամ",
-            "displayName-count-other": "Հայկական դրամ",
+            "displayName-count-one": "հայկական դրամ",
+            "displayName-count-other": "հայկական դրամ",
             "symbol": "֏",
             "symbol-alt-variant": "դր."
           },
           "ANG": {
-            "displayName": "Նիդերլանդական Անտիլների գուլդեն",
-            "displayName-count-one": "Նիդերլանդական Անտիլների գուլդեն",
-            "displayName-count-other": "Նիդերլանդական Անտիլների գուլդեն",
+            "displayName": "Նիդեռլանդական անտիլյան գուլդեն",
+            "displayName-count-one": "նիդեռլանդական անտիլյան գուլդեն",
+            "displayName-count-other": "նիդեռլանդական անտիլյան գուլդեն",
             "symbol": "ANG"
           },
           "AOA": {
             "displayName": "Անգոլական կվանզա",
-            "displayName-count-one": "Անգոլական կվանզա",
-            "displayName-count-other": "Անգոլական կվանզա",
+            "displayName-count-one": "անգոլական կվանզա",
+            "displayName-count-other": "անգոլական կվանզա",
             "symbol": "AOA",
             "symbol-alt-narrow": "Kz"
           },
@@ -86,8 +86,8 @@
           },
           "ARS": {
             "displayName": "Արգենտինական պեսո",
-            "displayName-count-one": "Արգենտինական պեսո",
-            "displayName-count-other": "Արգենտինական պեսո",
+            "displayName-count-one": "արգենտինական պեսո",
+            "displayName-count-other": "արգենտինական պեսո",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -96,16 +96,16 @@
             "symbol": "ATS"
           },
           "AUD": {
-            "displayName": "Ավստրալական դոլար",
-            "displayName-count-one": "Ավստրալական դոլար",
-            "displayName-count-other": "Ավստրալական դոլար",
+            "displayName": "Ավստրալիական դոլար",
+            "displayName-count-one": "ավստրալիական դոլար",
+            "displayName-count-other": "ավստրալիական դոլար",
             "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
             "displayName": "Արուբական ֆլորին",
-            "displayName-count-one": "Արուբական ֆլորին",
-            "displayName-count-other": "Արուբական ֆլորին",
+            "displayName-count-one": "արուբական ֆլորին",
+            "displayName-count-other": "արուբական ֆլորին",
             "symbol": "AWG"
           },
           "AZM": {
@@ -114,8 +114,8 @@
           },
           "AZN": {
             "displayName": "Ադրբեջանական մանաթ",
-            "displayName-count-one": "Ադրբեջանական մանաթ",
-            "displayName-count-other": "Ադրբեջանական մանաթ",
+            "displayName-count-one": "ադրբեջանական մանաթ",
+            "displayName-count-other": "ադրբեջանական մանաթ",
             "symbol": "AZN"
           },
           "BAD": {
@@ -123,9 +123,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Բոսնիա և Հերցեգովինայի փոխարկելի մարկա",
-            "displayName-count-one": "Բոսնիա և Հերցեգովինայի փոխարկելի մարկա",
-            "displayName-count-other": "Բոսնիա և Հերցեգովինայի փոխարկելի մարկա",
+            "displayName": "Բոսնիա և Հերցեգովինայի փոխարկվող մարկ",
+            "displayName-count-one": "Բոսնիա և Հերցեգովինայի փոխարկվող մարկ",
+            "displayName-count-other": "Բոսնիա և Հերցեգովինայի փոխարկվող մարկ",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -135,8 +135,8 @@
           },
           "BBD": {
             "displayName": "Բարբադոսյան դոլար",
-            "displayName-count-one": "Բարբադոսյան դոլար",
-            "displayName-count-other": "Բարբադոսյան դոլար",
+            "displayName-count-one": "բարբադոսյան դոլար",
+            "displayName-count-other": "բարբադոսյան դոլար",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
@@ -169,8 +169,8 @@
           },
           "BGN": {
             "displayName": "Բուլղարական լև",
-            "displayName-count-one": "Բուլղարական լև",
-            "displayName-count-other": "Բուլղարական լև",
+            "displayName-count-one": "բուլղարական լև",
+            "displayName-count-other": "բուլղարական լև",
             "symbol": "BGN"
           },
           "BGO": {
@@ -178,35 +178,35 @@
             "symbol": "BGO"
           },
           "BHD": {
-            "displayName": "Բահրեյնական դինար",
-            "displayName-count-one": "Բահրեյնական դինար",
-            "displayName-count-other": "Բահրեյնական դինար",
+            "displayName": "Բահրեյնի դինար",
+            "displayName-count-one": "Բահրեյնի դինար",
+            "displayName-count-other": "Բահրեյնի դինար",
             "symbol": "BHD"
           },
           "BIF": {
-            "displayName": "Բուրունդիի ֆրանկ",
-            "displayName-count-one": "Բուրունդիի ֆրանկ",
-            "displayName-count-other": "Բուրունդիի ֆրանկ",
+            "displayName": "Բուրունդիական ֆրանկ",
+            "displayName-count-one": "բուրունդիական ֆրանկ",
+            "displayName-count-other": "բուրունդիական ֆրանկ",
             "symbol": "BIF"
           },
           "BMD": {
             "displayName": "Բերմուդյան դոլար",
-            "displayName-count-one": "Բերմուդյան դոլար",
-            "displayName-count-other": "Բերմուդյան դոլար",
+            "displayName-count-one": "բերմուդյան դոլար",
+            "displayName-count-other": "բերմուդյան դոլար",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
           "BND": {
-            "displayName": "Բրունեյական դոլար",
-            "displayName-count-one": "Բրունեյական դոլար",
-            "displayName-count-other": "Բրունեյական դոլար",
+            "displayName": "Բրունեյի դոլար",
+            "displayName-count-one": "Բրունեյի դոլար",
+            "displayName-count-other": "Բրունեյի դոլար",
             "symbol": "BND",
             "symbol-alt-narrow": "$"
           },
           "BOB": {
             "displayName": "Բոլիվիական բոլիվիանո",
-            "displayName-count-one": "Բոլիվիական բոլիվիանո",
-            "displayName-count-other": "Բոլիվիական բոլիվիանո",
+            "displayName-count-one": "բոլիվիական բոլիվիանո",
+            "displayName-count-other": "բոլիվիական բոլիվիանո",
             "symbol": "BOB",
             "symbol-alt-narrow": "Bs"
           },
@@ -236,8 +236,8 @@
           },
           "BRL": {
             "displayName": "Բրազիլական ռեալ",
-            "displayName-count-one": "Բրազիլական ռեալ",
-            "displayName-count-other": "Բրազիլական ռեալ",
+            "displayName-count-one": "բրազիլական ռեալ",
+            "displayName-count-other": "բրազիլական ռեալ",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -254,16 +254,16 @@
             "symbol": "BRZ"
           },
           "BSD": {
-            "displayName": "Բահամական դոլար",
-            "displayName-count-one": "Բահամական դոլար",
-            "displayName-count-other": "Բահամական դոլար",
+            "displayName": "Բահամյան դոլար",
+            "displayName-count-one": "բահամյան դոլար",
+            "displayName-count-other": "բահամյան դոլար",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
             "displayName": "Բութանական նգուլտրում",
-            "displayName-count-one": "Բութանական նգուլտրում",
-            "displayName-count-other": "Բութանական նգուլտրում",
+            "displayName-count-one": "բութանական նգուլտրում",
+            "displayName-count-other": "բութանական նգուլտրում",
             "symbol": "BTN"
           },
           "BUK": {
@@ -272,8 +272,8 @@
           },
           "BWP": {
             "displayName": "Բոթսվանական պուլա",
-            "displayName-count-one": "Բոթսվանական պուլա",
-            "displayName-count-other": "Բոթսվանական պուլա",
+            "displayName-count-one": "բոթսվանական պուլա",
+            "displayName-count-other": "բոթսվանական պուլա",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -281,12 +281,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Բելառուսական ռուբլի",
-            "displayName-count-one": "Բելառուսական ռուբլի",
-            "displayName-count-other": "Բելառուսական ռուբլի",
-            "symbol": "BYR",
+            "displayName-count-one": "բելառուսական ռուբլի",
+            "displayName-count-other": "բելառուսական ռուբլի",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Բելառուսական ռուբլի (2000–2016)",
+            "displayName-count-one": "բելառուսական ռուբլի (2000–2016)",
+            "displayName-count-other": "բելառուսական ռուբլի (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Բելիզի դոլար",
@@ -297,8 +303,8 @@
           },
           "CAD": {
             "displayName": "Կանադական դոլար",
-            "displayName-count-one": "Կանադական դոլար",
-            "displayName-count-other": "Կանադական դոլար",
+            "displayName-count-one": "կանադական դոլար",
+            "displayName-count-other": "կանադական դոլար",
             "symbol": "CA$",
             "symbol-alt-narrow": "$"
           },
@@ -314,8 +320,8 @@
           },
           "CHF": {
             "displayName": "Շվեյցարական ֆրանկ",
-            "displayName-count-one": "Շվեյցարական ֆրանկ",
-            "displayName-count-other": "Շվեյցարական ֆրանկ",
+            "displayName-count-one": "շվեյցարական ֆրանկ",
+            "displayName-count-other": "շվեյցարական ֆրանկ",
             "symbol": "CHF"
           },
           "CHW": {
@@ -332,22 +338,22 @@
           },
           "CLP": {
             "displayName": "Չիլիական պեսո",
-            "displayName-count-one": "Չիլիական պեսո",
-            "displayName-count-other": "Չիլիական պեսո",
+            "displayName-count-one": "չիլիական պեսո",
+            "displayName-count-other": "չիլիական պեսո",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
           "CNY": {
             "displayName": "Չինական յուան",
-            "displayName-count-one": "Չինական յուան",
-            "displayName-count-other": "Չինական յուան",
+            "displayName-count-one": "չինական յուան",
+            "displayName-count-other": "չինական յուան",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
           "COP": {
             "displayName": "Կոլումբիական պեսո",
-            "displayName-count-one": "Կոլումբիական պեսո",
-            "displayName-count-other": "Կոլումբիական պեսո",
+            "displayName-count-one": "կոլումբիական պեսո",
+            "displayName-count-other": "կոլումբիական պեսո",
             "symbol": "COP",
             "symbol-alt-narrow": "$"
           },
@@ -371,16 +377,16 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "Կուբական փոխարկելի պեսո",
-            "displayName-count-one": "Կուբական փոխարկելի պեսո",
-            "displayName-count-other": "Կուբական փոխարկելի պեսո",
+            "displayName": "Կուբայական փոխարկվող պեսո",
+            "displayName-count-one": "կուբայական փոխարկվող պեսո",
+            "displayName-count-other": "կուբայական փոխարկվող պեսո",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "Կուբական պեսո",
-            "displayName-count-one": "Կուբական պեսո",
-            "displayName-count-other": "Կուբական պեսո",
+            "displayName": "կուբայական պեսո",
+            "displayName-count-one": "կուբայական պեսո",
+            "displayName-count-other": "կուբայական պեսո",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -395,9 +401,9 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "Չեխական կրոնա",
-            "displayName-count-one": "Չեխական կրոնա",
-            "displayName-count-other": "Չեխական կրոնա",
+            "displayName": "Չեխական կրոն",
+            "displayName-count-one": "չեխական կրոն",
+            "displayName-count-other": "չեխական կրոն",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -416,23 +422,23 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "Դանիական կրոնա",
-            "displayName-count-one": "Դանիական կրոնա",
-            "displayName-count-other": "Դանիական կրոնա",
+            "displayName": "Դանիական կրոն",
+            "displayName-count-one": "դանիական կրոն",
+            "displayName-count-other": "դանիական կրոն",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "Դոմինիկական պեսո",
-            "displayName-count-one": "Դոմինիկական պեսո",
-            "displayName-count-other": "Դոմինիկական պեսո",
+            "displayName": "Դոմինիկյան պեսո",
+            "displayName-count-one": "դոմինիկյան պեսո",
+            "displayName-count-other": "դոմինիկյան պեսո",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "Ալժիրական դինար",
-            "displayName-count-one": "Ալժիրական դինար",
-            "displayName-count-other": "Ալժիրական դինար",
+            "displayName": "Ալժիրյան դինար",
+            "displayName-count-one": "ալժիրյան դինար",
+            "displayName-count-other": "ալժիրյան դինար",
             "symbol": "DZD"
           },
           "ECS": {
@@ -449,15 +455,15 @@
           },
           "EGP": {
             "displayName": "Եգիպտական ֆունտ",
-            "displayName-count-one": "Եգիպտական ֆունտ",
-            "displayName-count-other": "Եգիպտական ֆունտ",
+            "displayName-count-one": "եգիպտական ֆունտ",
+            "displayName-count-other": "եգիպտական ֆունտ",
             "symbol": "EGP",
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
             "displayName": "Էրիթրեական նակֆա",
-            "displayName-count-one": "Էրիթրեական նակֆա",
-            "displayName-count-other": "Էրիթրեական նակֆա",
+            "displayName-count-one": "էրիթրեական նակֆա",
+            "displayName-count-other": "էրիթրեական նակֆա",
             "symbol": "ERN"
           },
           "ESA": {
@@ -474,15 +480,15 @@
             "symbol-alt-narrow": "₧"
           },
           "ETB": {
-            "displayName": "Եթովպական բիր",
-            "displayName-count-one": "Եթովպական բիր",
-            "displayName-count-other": "Եթովպական բիր",
+            "displayName": "Եթովպիական բիր",
+            "displayName-count-one": "եթովպիական բիր",
+            "displayName-count-other": "եթովպիական բիր",
             "symbol": "ETB"
           },
           "EUR": {
             "displayName": "Եվրո",
-            "displayName-count-one": "Եվրո",
-            "displayName-count-other": "Եվրո",
+            "displayName-count-one": "եվրո",
+            "displayName-count-other": "եվրո",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -492,15 +498,15 @@
           },
           "FJD": {
             "displayName": "Ֆիջիական դոլար",
-            "displayName-count-one": "Ֆիջիական դոլար",
-            "displayName-count-other": "Ֆիջիական դոլար",
+            "displayName-count-one": "ֆիջիական դոլար",
+            "displayName-count-other": "ֆիջիական դոլար",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "Ֆոլկլենդյան կղզիներ ֆունտ",
-            "displayName-count-one": "Ֆոլկլենդյան կղզիներ ֆունտ",
-            "displayName-count-other": "Ֆոլկլենդյան կղզիներ ֆունտ",
+            "displayName": "Ֆոլքլենդյան կղզիների ֆունտ",
+            "displayName-count-one": "Ֆոլքլենդյան կղզիների ֆունտ",
+            "displayName-count-other": "Ֆոլքլենդյան կղզիների ֆունտ",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -509,9 +515,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "Բրիտանական ֆունտ",
-            "displayName-count-one": "Բրիտանական ֆունտ",
-            "displayName-count-other": "Բրիտանական ֆունտ",
+            "displayName": "Բրիտանական ֆունտ ստերլինգ",
+            "displayName-count-one": "բրիտանական ֆունտ ստերլինգ",
+            "displayName-count-other": "բրիտանական ֆունտ ստերլինգ",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -521,8 +527,8 @@
           },
           "GEL": {
             "displayName": "Վրացական լարի",
-            "displayName-count-one": "Վրացական լարի",
-            "displayName-count-other": "Վրացական լարի",
+            "displayName-count-one": "վրացական լարի",
+            "displayName-count-other": "վրացական լարի",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾"
           },
@@ -531,9 +537,9 @@
             "symbol": "GHC"
           },
           "GHS": {
-            "displayName": "Գանական սեդի",
-            "displayName-count-one": "Գանական սեդի",
-            "displayName-count-other": "Գանական սեդի",
+            "displayName": "Գանայական սեդի",
+            "displayName-count-one": "գանայական սեդի",
+            "displayName-count-other": "գանայական սեդի",
             "symbol": "GHS"
           },
           "GIP": {
@@ -545,14 +551,14 @@
           },
           "GMD": {
             "displayName": "Գամբիական դալասի",
-            "displayName-count-one": "Գամբիական դալասի",
-            "displayName-count-other": "Գամբիական դալասի",
+            "displayName-count-one": "գամբիական դալասի",
+            "displayName-count-other": "գամբիական դալասի",
             "symbol": "GMD"
           },
           "GNF": {
             "displayName": "Գվինեական ֆրանկ",
-            "displayName-count-one": "Գվինեական ֆրանկ",
-            "displayName-count-other": "Գվինեական ֆրանկ",
+            "displayName-count-one": "գվինեական ֆրանկ",
+            "displayName-count-other": "գվինեական ֆրանկ",
             "symbol": "GNF",
             "symbol-alt-narrow": "FG"
           },
@@ -570,8 +576,8 @@
           },
           "GTQ": {
             "displayName": "Գվատեմալական կետսալ",
-            "displayName-count-one": "Գվատեմալական կետսալ",
-            "displayName-count-other": "Գվատեմալական կետսալ",
+            "displayName-count-one": "գվատեմալական կետսալ",
+            "displayName-count-other": "գվատեմալական կետսալ",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -585,8 +591,8 @@
           },
           "GYD": {
             "displayName": "Գայանական դոլար",
-            "displayName-count-one": "Գայանական դոլար",
-            "displayName-count-other": "Գայանական դոլար",
+            "displayName-count-one": "գայանական դոլար",
+            "displayName-count-other": "գայանական դոլար",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
@@ -598,9 +604,9 @@
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "Հոնդուրասական լեմպրիա",
-            "displayName-count-one": "Հոնդուրասական լեմպրիա",
-            "displayName-count-other": "Հոնդուրասական լեմպրիա",
+            "displayName": "Հոնդուրասական լեմպիրա",
+            "displayName-count-one": "հոնդուրասական լեմպիրա",
+            "displayName-count-other": "հոնդուրասական լեմպիրա",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
@@ -610,28 +616,28 @@
           },
           "HRK": {
             "displayName": "Խորվաթական կունա",
-            "displayName-count-one": "Խորվաթական կունա",
-            "displayName-count-other": "Խորվաթական կունա",
+            "displayName-count-one": "խորվաթական կունա",
+            "displayName-count-other": "խորվաթական կունա",
             "symbol": "HRK",
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "Հաիթյան գուրդ",
-            "displayName-count-one": "Հաիթյան գուրդ",
-            "displayName-count-other": "Հաիթյան գուրդ",
+            "displayName": "Հայիթյան գուրդ",
+            "displayName-count-one": "հայիթյան գուրդ",
+            "displayName-count-other": "հայիթյան գուրդ",
             "symbol": "HTG"
           },
           "HUF": {
             "displayName": "Հունգարական ֆորինտ",
-            "displayName-count-one": "Հունգարական ֆորինտ",
-            "displayName-count-other": "Հունգարական ֆորինտ",
+            "displayName-count-one": "հունգարական ֆորինտ",
+            "displayName-count-other": "հունգարական ֆորինտ",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "Ինդոնեզական ռուփի",
-            "displayName-count-one": "Ինդոնեզական ռուփի",
-            "displayName-count-other": "Ինդոնեզական ռուփի",
+            "displayName": "Ինդոնեզիական ռուփի",
+            "displayName-count-one": "ինդոնեզիական ռուփի",
+            "displayName-count-other": "ինդոնեզիական ռուփի",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
@@ -652,27 +658,27 @@
           },
           "INR": {
             "displayName": "Հնդկական ռուփի",
-            "displayName-count-one": "Հնդկական ռուփի",
-            "displayName-count-other": "Հնդկական ռուփի",
+            "displayName-count-one": "հնդկական ռուփի",
+            "displayName-count-other": "հնդկական ռուփի",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
             "displayName": "Իրաքյան դինար",
-            "displayName-count-one": "Իրաքյան դինար",
-            "displayName-count-other": "Իրաքյան դինար",
+            "displayName-count-one": "իրաքյան դինար",
+            "displayName-count-other": "իրաքյան դինար",
             "symbol": "IQD"
           },
           "IRR": {
             "displayName": "Իրանական ռիալ",
-            "displayName-count-one": "Իրանական ռիալ",
-            "displayName-count-other": "Իրանական ռիալ",
+            "displayName-count-one": "իրանական ռիալ",
+            "displayName-count-other": "իրանական ռիալ",
             "symbol": "IRR"
           },
           "ISK": {
-            "displayName": "Իսլանդական կրոնա",
-            "displayName-count-one": "Իսլանդական կրոնա",
-            "displayName-count-other": "Իսլանդական կրոնա",
+            "displayName": "Իսլանդական կրոն",
+            "displayName-count-one": "իսլանդական կրոն",
+            "displayName-count-other": "իսլանդական կրոն",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
@@ -681,55 +687,55 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "Ջամայկական դոլար",
-            "displayName-count-one": "Ջամայկական դոլար",
-            "displayName-count-other": "Ջամայկական դոլար",
+            "displayName": "Ճամայկայի դոլար",
+            "displayName-count-one": "Ճամայկայի դոլար",
+            "displayName-count-other": "Ճամայկայի դոլար",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "Հորդանանական դինար",
-            "displayName-count-one": "Հորդանանական դինար",
-            "displayName-count-other": "Հորդանանական դինար",
+            "displayName": "Հորդանանյան դինար",
+            "displayName-count-one": "հորդանանյան դինար",
+            "displayName-count-other": "հորդանանյան դինար",
             "symbol": "JOD"
           },
           "JPY": {
             "displayName": "Ճապոնական իեն",
-            "displayName-count-one": "Ճապոնական իեն",
-            "displayName-count-other": "Ճապոնական իեն",
+            "displayName-count-one": "ճապոնական իեն",
+            "displayName-count-other": "ճապոնական իեն",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
             "displayName": "Քենիական շիլինգ",
-            "displayName-count-one": "Քենիական շիլինգ",
-            "displayName-count-other": "Քենիական շիլինգ",
+            "displayName-count-one": "քենիական շիլինգ",
+            "displayName-count-other": "քենիական շիլինգ",
             "symbol": "KES"
           },
           "KGS": {
             "displayName": "Ղրղզական սոմ",
-            "displayName-count-one": "Ղրղզական սոմ",
-            "displayName-count-other": "Ղրղզական սոմ",
+            "displayName-count-one": "ղրղզական սոմ",
+            "displayName-count-other": "ղրղզական սոմ",
             "symbol": "KGS"
           },
           "KHR": {
             "displayName": "Կամբոջական ռիել",
-            "displayName-count-one": "Կամբոջական ռիել",
-            "displayName-count-other": "Կամբոջական ռիել",
+            "displayName-count-one": "կամբոջական ռիել",
+            "displayName-count-other": "կամբոջական ռիել",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
           "KMF": {
-            "displayName": "Կոմորյան կղզիների ֆրանկ",
-            "displayName-count-one": "Կոմորյան կղզիների ֆրանկ",
-            "displayName-count-other": "Կոմորյան կղզիների ֆրանկ",
+            "displayName": "Կոմորյան ֆրանկ",
+            "displayName-count-one": "կոմորյան ֆրանկ",
+            "displayName-count-other": "կոմորյան ֆրանկ",
             "symbol": "KMF",
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "ԿԺԴՀ-ի վոնա",
-            "displayName-count-one": "ԿԺԴՀ-ի վոնա",
-            "displayName-count-other": "ԿԺԴՀ-ի վոնա",
+            "displayName": "Հյուսիսկորեական վոն",
+            "displayName-count-one": "հյուսիսկորեական վոն",
+            "displayName-count-other": "հյուսիսկորեական վոն",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -742,16 +748,16 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "Հարավկորեական վոնա",
-            "displayName-count-one": "Հարավկորեական վոնա",
-            "displayName-count-other": "Հարավկորեական վոնա",
+            "displayName": "Հարավկորեական վոն",
+            "displayName-count-one": "հարավկորեական վոն",
+            "displayName-count-other": "հարավկորեական վոն",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "Քուվեյթական դինար",
-            "displayName-count-one": "Քուվեյթական դինար",
-            "displayName-count-other": "Քուվեյթական դինար",
+            "displayName": "Քուվեյթի դինար",
+            "displayName-count-one": "Քուվեյթի դինար",
+            "displayName-count-other": "Քուվեյթի դինար",
             "symbol": "KWD"
           },
           "KYD": {
@@ -763,36 +769,36 @@
           },
           "KZT": {
             "displayName": "Ղազախական տենգե",
-            "displayName-count-one": "Ղազախական տենգե",
-            "displayName-count-other": "Ղազախական տենգե",
+            "displayName-count-one": "ղազախական տենգե",
+            "displayName-count-other": "ղազախական տենգե",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
           "LAK": {
             "displayName": "Լաոսական կիպ",
-            "displayName-count-one": "Լաոսական կիպ",
-            "displayName-count-other": "Լաոսական կիպ",
+            "displayName-count-one": "լաոսական կիպ",
+            "displayName-count-other": "լաոսական կիպ",
             "symbol": "LAK",
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "Լիբանանական ֆունտ",
-            "displayName-count-one": "Լիբանանական ֆունտ",
-            "displayName-count-other": "Լիբանանական ֆունտ",
+            "displayName": "Լիբանանյան ֆունտ",
+            "displayName-count-one": "լիբանանյան ֆունտ",
+            "displayName-count-other": "լիբանանյան ֆունտ",
             "symbol": "LBP",
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "Լանկիական ռուփի",
-            "displayName-count-one": "Լանկիական ռուփի",
-            "displayName-count-other": "Լանկիական ռուփի",
+            "displayName": "Շրի Լանկայի ռուփի",
+            "displayName-count-one": "Շրի Լանկայի ռուփի",
+            "displayName-count-other": "Շրի Լանկայի ռուփի",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
             "displayName": "Լիբերիական դոլար",
-            "displayName-count-one": "Լիբերիական դոլար",
-            "displayName-count-other": "Լիբերիական դոլար",
+            "displayName-count-one": "լիբերիական դոլար",
+            "displayName-count-other": "լիբերիական դոլար",
             "symbol": "LRD",
             "symbol-alt-narrow": "$"
           },
@@ -836,14 +842,14 @@
           },
           "LYD": {
             "displayName": "Լիբիական դինար",
-            "displayName-count-one": "Լիբիական դինար",
-            "displayName-count-other": "Լիբիական դինար",
+            "displayName-count-one": "լիբիական դինար",
+            "displayName-count-other": "լիբիական դինար",
             "symbol": "LYD"
           },
           "MAD": {
-            "displayName": "Մարոկական դիրհամ",
-            "displayName-count-one": "Մարոկական դիրհամ",
-            "displayName-count-other": "Մարոկական դիրհամ",
+            "displayName": "Մարոկկոյի դիրհամ",
+            "displayName-count-one": "Մարոկկոյի դիրհամ",
+            "displayName-count-other": "Մարոկկոյի դիրհամ",
             "symbol": "MAD"
           },
           "MAF": {
@@ -860,8 +866,8 @@
           },
           "MDL": {
             "displayName": "Մոլդովական լեյ",
-            "displayName-count-one": "Մոլդովական լեյ",
-            "displayName-count-other": "Մոլդովական լեյ",
+            "displayName-count-one": "մոլդովական լեյ",
+            "displayName-count-other": "մոլդովական լեյ",
             "symbol": "MDL"
           },
           "MGA": {
@@ -876,9 +882,9 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "Մակեդոնական դենար",
-            "displayName-count-one": "Մակեդոնական դենար",
-            "displayName-count-other": "Մակեդոնական դենար",
+            "displayName": "Մակեդոնյան դենար",
+            "displayName-count-one": "մակեդոնյան դենար",
+            "displayName-count-other": "մակեդոնյան դենար",
             "symbol": "MKD"
           },
           "MKN": {
@@ -890,29 +896,29 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "Մյանմական կյատ",
-            "displayName-count-one": "Մյանմական կյատ",
-            "displayName-count-other": "Մյանմական կյատ",
+            "displayName": "Մյանմայի կյատ",
+            "displayName-count-one": "Մյանմայի կյատ",
+            "displayName-count-other": "Մյանմայի կյատ",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
           "MNT": {
             "displayName": "Մոնղոլական տուգրիկ",
-            "displayName-count-one": "Մոնղոլական տուգրիկ",
-            "displayName-count-other": "Մոնղոլական տուգրիկ",
+            "displayName-count-one": "մոնղոլական տուգրիկ",
+            "displayName-count-other": "մոնղոլական տուգրիկ",
             "symbol": "MNT",
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "Մակաոյի պատակա",
-            "displayName-count-one": "Մակաոյի պատակա",
-            "displayName-count-other": "Մակաոյի պատակա",
+            "displayName": "Մակաուի պատակա",
+            "displayName-count-one": "Մակաուի պատակա",
+            "displayName-count-other": "Մակաուի պատակա",
             "symbol": "MOP"
           },
           "MRO": {
             "displayName": "Մավրիտանական ուգիյա",
-            "displayName-count-one": "Մավրիտանական ուգիյա",
-            "displayName-count-other": "Մավրիտանական ուգիյա",
+            "displayName-count-one": "մավրիտանական ուգիյա",
+            "displayName-count-other": "մավրիտանական ուգիյա",
             "symbol": "MRO"
           },
           "MTL": {
@@ -924,28 +930,28 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "Մավրիկական ռուփի",
-            "displayName-count-one": "Մավրիկական ռուփի",
-            "displayName-count-other": "Մավրիկական ռուփի",
+            "displayName": "Մավրիկյան ռուփի",
+            "displayName-count-one": "մավրիկյան ռուփի",
+            "displayName-count-other": "մավրիկյան ռուփի",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
           "MVR": {
-            "displayName": "Մալդիվյան ռուֆիա",
-            "displayName-count-one": "Մալդիվյան ռուֆիա",
-            "displayName-count-other": "Մալդիվյան ռուֆիա",
+            "displayName": "Մալդիվյան ռուֆիյա",
+            "displayName-count-one": "մալդիվյան ռուֆիյա",
+            "displayName-count-other": "մալդիվյան ռուֆիյա",
             "symbol": "MVR"
           },
           "MWK": {
             "displayName": "Մալավիական կվաչա",
-            "displayName-count-one": "Մալավիական կվաչա",
-            "displayName-count-other": "Մալավիական կվաչա",
+            "displayName-count-one": "մալավիական կվաչա",
+            "displayName-count-other": "մալավիական կվաչա",
             "symbol": "MWK"
           },
           "MXN": {
             "displayName": "Մեքսիկական պեսո",
-            "displayName-count-one": "Մեքսիկական պեսո",
-            "displayName-count-other": "Մեքսիկական պեսո",
+            "displayName-count-one": "մեքսիկական պեսո",
+            "displayName-count-other": "մեքսիկական պեսո",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -959,8 +965,8 @@
           },
           "MYR": {
             "displayName": "Մալայզիական ռինգիտ",
-            "displayName-count-one": "Մալայզիական ռինգիտ",
-            "displayName-count-other": "Մալայզիական ռինգիտ",
+            "displayName-count-one": "մալայզիական ռինգիտ",
+            "displayName-count-other": "մալայզիական ռինգիտ",
             "symbol": "MYR",
             "symbol-alt-narrow": "RM"
           },
@@ -974,21 +980,21 @@
           },
           "MZN": {
             "displayName": "Մոզամբիկյան մետիկալ",
-            "displayName-count-one": "Մոզամբիկյան մետիկալ",
-            "displayName-count-other": "Մոզամբիկյան մետիկալ",
+            "displayName-count-one": "մոզամբիկյան մետիկալ",
+            "displayName-count-other": "մոզամբիկյան մետիկալ",
             "symbol": "MZN"
           },
           "NAD": {
             "displayName": "Նամիբիական դոլար",
-            "displayName-count-one": "Նամիբիական դոլար",
-            "displayName-count-other": "Նամիբիական դոլար",
+            "displayName-count-one": "նամիբիական դոլար",
+            "displayName-count-other": "նամիբիական դոլար",
             "symbol": "NAD",
             "symbol-alt-narrow": "$"
           },
           "NGN": {
             "displayName": "Նիգերիական նայրա",
-            "displayName-count-one": "Նիգերիական նայրա",
-            "displayName-count-other": "Նիգերիական նայրա",
+            "displayName-count-one": "նիգերիական նայրա",
+            "displayName-count-other": "նիգերիական նայրա",
             "symbol": "NGN",
             "symbol-alt-narrow": "₦"
           },
@@ -998,8 +1004,8 @@
           },
           "NIO": {
             "displayName": "Նիկարագուական կորդոբա",
-            "displayName-count-one": "Նիկարագուական կորդոբա",
-            "displayName-count-other": "Նիկարագուական կորդոբա",
+            "displayName-count-one": "նիկարագուական կորդոբա",
+            "displayName-count-other": "նիկարագուական կորդոբա",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -1008,36 +1014,36 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "Նորվեգական կրոնա",
-            "displayName-count-one": "Նորվեգական կրոնա",
-            "displayName-count-other": "Նորվեգական կրոնա",
+            "displayName": "Նորվեգական կրոն",
+            "displayName-count-one": "նորվեգական կրոն",
+            "displayName-count-other": "նորվեգական կրոն",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
           "NPR": {
-            "displayName": "Նեպալական ռուփի",
-            "displayName-count-one": "Նեպալական ռուփի",
-            "displayName-count-other": "Նեպալական ռուփի",
+            "displayName": "Նեպալի ռուփի",
+            "displayName-count-one": "Նեպալի ռուփի",
+            "displayName-count-other": "Նեպալի ռուփի",
             "symbol": "NPR",
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
             "displayName": "Նորզելանդական դոլար",
-            "displayName-count-one": "Նորզելանդական դոլար",
-            "displayName-count-other": "Նորզելանդական դոլար",
+            "displayName-count-one": "նորզելանդական դոլար",
+            "displayName-count-other": "նորզելանդական դոլար",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
           "OMR": {
-            "displayName": "Օմանական ռիալ",
-            "displayName-count-one": "Օմանական ռիալ",
-            "displayName-count-other": "Օմանական ռիալ",
+            "displayName": "Օմանի ռիալ",
+            "displayName-count-one": "Օմանի ռիալ",
+            "displayName-count-other": "Օմանի ռիալ",
             "symbol": "OMR"
           },
           "PAB": {
             "displayName": "Պանամական բալբոա",
-            "displayName-count-one": "Պանամական բալբոա",
-            "displayName-count-other": "Պանամական բալբոա",
+            "displayName-count-one": "պանամական բալբոա",
+            "displayName-count-other": "պանամական բալբոա",
             "symbol": "PAB"
           },
           "PEI": {
@@ -1055,29 +1061,29 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "Պապուա-Նոր Գվինեայի կինա",
-            "displayName-count-one": "Պապուա-Նոր Գվինեայի կինա",
-            "displayName-count-other": "Պապուա-Նոր Գվինեայի կինա",
+            "displayName": "Պապուա Նոր Գվինեայի կինա",
+            "displayName-count-one": "Պապուա Նոր Գվինեայի կինա",
+            "displayName-count-other": "Պապուա Նոր Գվինեայի կինա",
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "Ֆիլիպինական պեսո",
-            "displayName-count-one": "Ֆիլիպինական պեսո",
-            "displayName-count-other": "Ֆիլիպինական պեսո",
+            "displayName": "Ֆիլիպինյան պեսո",
+            "displayName-count-one": "ֆիլիպինյան պեսո",
+            "displayName-count-other": "ֆիլիպինյան պեսո",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
           "PKR": {
-            "displayName": "Պակիստանական ռուփի",
-            "displayName-count-one": "Պակիստանական ռուփի",
-            "displayName-count-other": "Պակիստանական ռուփի",
+            "displayName": "Պակիստանյան ռուփի",
+            "displayName-count-one": "պակիստանյան ռուփի",
+            "displayName-count-other": "պակիստանյան ռուփի",
             "symbol": "PKR",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
             "displayName": "Լեհական զլոտի",
-            "displayName-count-one": "Լեհական զլոտի",
-            "displayName-count-other": "Լեհական զլոտի",
+            "displayName-count-one": "լեհական զլոտի",
+            "displayName-count-other": "լեհական զլոտի",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
@@ -1091,15 +1097,15 @@
           },
           "PYG": {
             "displayName": "Պարագվայական գուարանի",
-            "displayName-count-one": "Պարագվայական գուարանի",
-            "displayName-count-other": "Պարագվայական գուարանի",
+            "displayName-count-one": "պարագվայական գուարանի",
+            "displayName-count-other": "պարագվայական գուարանի",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "Քաթարական ռիալ",
-            "displayName-count-one": "Քաթարական ռիալ",
-            "displayName-count-other": "Քաթարական ռիալ",
+            "displayName": "Կատարի ռիալ",
+            "displayName-count-one": "Կատարի ռիալ",
+            "displayName-count-other": "Կատարի ռիալ",
             "symbol": "QAR"
           },
           "RHD": {
@@ -1112,20 +1118,21 @@
           },
           "RON": {
             "displayName": "Ռումինական լեյ",
-            "displayName-count-one": "Ռումինական լեյ",
-            "displayName-count-other": "Ռումինական լեյ",
-            "symbol": "RON"
+            "displayName-count-one": "ռումինական լեյ",
+            "displayName-count-other": "ռումինական լեյ",
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Սերբական դինար",
-            "displayName-count-one": "Սերբական դինար",
-            "displayName-count-other": "Սերբական դինար",
+            "displayName-count-one": "սերբական դինար",
+            "displayName-count-other": "սերբական դինար",
             "symbol": "RSD"
           },
           "RUB": {
             "displayName": "Ռուսական ռուբլի",
-            "displayName-count-one": "Ռուսական ռուբլի",
-            "displayName-count-other": "Ռուսական ռուբլի",
+            "displayName-count-one": "ռուսական ռուբլի",
+            "displayName-count-other": "ռուսական ռուբլի",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
@@ -1136,8 +1143,8 @@
           },
           "RWF": {
             "displayName": "Ռուանդական ֆրանկ",
-            "displayName-count-one": "Ռուանդական ֆրանկ",
-            "displayName-count-other": "Ռուանդական ֆրանկ",
+            "displayName-count-one": "ռուանդական ֆրանկ",
+            "displayName-count-other": "ռուանդական ֆրանկ",
             "symbol": "RWF",
             "symbol-alt-narrow": "RF"
           },
@@ -1148,16 +1155,16 @@
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "Սողոմոնյան կղզիների դոլար",
-            "displayName-count-one": "Սողոմոնյան կղզիների դոլար",
-            "displayName-count-other": "Սողոմոնյան կղզիների դոլար",
+            "displayName": "Սողոմոնի կղզիների դոլար",
+            "displayName-count-one": "Սողոմոնի կղզիների դոլար",
+            "displayName-count-other": "Սողոմոնի կղզիների դոլար",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },
           "SCR": {
-            "displayName": "Սեյշելյան կղզիների ռուփի",
-            "displayName-count-one": "Սեյշելյան կղզիների ռուփի",
-            "displayName-count-other": "Սեյշելյան կղզիների ռուփի",
+            "displayName": "Սեյշելյան ռուփի",
+            "displayName-count-one": "սեյշելյան ռուփի",
+            "displayName-count-other": "սեյշելյան ռուփի",
             "symbol": "SCR"
           },
           "SDD": {
@@ -1166,8 +1173,8 @@
           },
           "SDG": {
             "displayName": "Սուդանական ֆունտ",
-            "displayName-count-one": "Սուդանական ֆունտ",
-            "displayName-count-other": "Սուդանական ֆունտ",
+            "displayName-count-one": "սուդանական ֆունտ",
+            "displayName-count-other": "սուդանական ֆունտ",
             "symbol": "SDG"
           },
           "SDP": {
@@ -1175,23 +1182,23 @@
             "symbol": "SDP"
           },
           "SEK": {
-            "displayName": "Շվեդական կրոնա",
-            "displayName-count-one": "Շվեդական կրոնա",
-            "displayName-count-other": "Շվեդական կրոնա",
+            "displayName": "Շվեդական կրոն",
+            "displayName-count-one": "շվեդական կրոն",
+            "displayName-count-other": "շվեդական կրոն",
             "symbol": "SEK",
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "Սինգապուրյան դոլար",
-            "displayName-count-one": "Սինգապուրյան դոլար",
-            "displayName-count-other": "Սինգապուրյան դոլար",
+            "displayName": "Սինգապուրի դոլար",
+            "displayName-count-one": "Սինգապուրի դոլար",
+            "displayName-count-other": "Սինգապուրի դոլար",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "Սուրբ Հեղինեի կղզու ֆունտ",
-            "displayName-count-one": "Սուրբ Հեղինեի կղզու ֆունտ",
-            "displayName-count-other": "Սուրբ Հեղինեի կղզու ֆունտ",
+            "displayName": "Սուրբ Հեղինեի ֆունտ",
+            "displayName-count-one": "Սուրբ Հեղինեի ֆունտ",
+            "displayName-count-other": "Սուրբ Հեղինեի ֆունտ",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1204,21 +1211,21 @@
             "symbol": "SKK"
           },
           "SLL": {
-            "displayName": "Սիերա-Լեոնեի լեոնե",
-            "displayName-count-one": "Սիերա-Լեոնեի լեոնե",
-            "displayName-count-other": "Սիերա-Լեոնեի լեոնե",
+            "displayName": "Սիեռա Լեոնեի լեոնե",
+            "displayName-count-one": "Սիեռա Լեոնեի լեոնե",
+            "displayName-count-other": "Սիեռա Լեոնեի լեոնե",
             "symbol": "SLL"
           },
           "SOS": {
             "displayName": "Սոմալիական շիլինգ",
-            "displayName-count-one": "Սոմալիական շիլինգ",
-            "displayName-count-other": "Սոմալիական շիլինգ",
+            "displayName-count-one": "սոմալիական շիլինգ",
+            "displayName-count-other": "սոմալիական շիլինգ",
             "symbol": "SOS"
           },
           "SRD": {
-            "displayName": "Սուրինամական դոլար",
-            "displayName-count-one": "Սուրինամական դոլար",
-            "displayName-count-other": "Սուրինամական դոլար",
+            "displayName": "Սուրինամի դոլար",
+            "displayName-count-one": "Սուրինամի դոլար",
+            "displayName-count-other": "Սուրինամի դոլար",
             "symbol": "SRD",
             "symbol-alt-narrow": "$"
           },
@@ -1228,15 +1235,15 @@
           },
           "SSP": {
             "displayName": "Հարավսուդանական ֆունտ",
-            "displayName-count-one": "Հարավսուդանական ֆունտ",
-            "displayName-count-other": "Հարավսուդանական ֆունտ",
+            "displayName-count-one": "հարավսուդանական ֆունտ",
+            "displayName-count-other": "հարավսուդանական ֆունտ",
             "symbol": "SSP",
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Սան Տոմե և Պրինսիպիի դոբրա",
-            "displayName-count-one": "Սան Տոմե և Պրինսիպիի դոբրա",
-            "displayName-count-other": "Սան Տոմե և Պրինսիպիի դոբրա",
+            "displayName": "Սան Տոմե և Փրինսիպիի դոբրա",
+            "displayName-count-one": "Սան Տոմե և Փրինսիպիի դոբրա",
+            "displayName-count-other": "Սան Տոմե և Փրինսիպիի դոբրա",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
@@ -1250,21 +1257,21 @@
           },
           "SYP": {
             "displayName": "Սիրիական ֆունտ",
-            "displayName-count-one": "Սիրիական ֆունտ",
-            "displayName-count-other": "Սիրիական ֆունտ",
+            "displayName-count-one": "սիրիական ֆունտ",
+            "displayName-count-other": "սիրիական ֆունտ",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },
           "SZL": {
             "displayName": "Սվազիլենդական լիլանգենի",
-            "displayName-count-one": "Սվազիլենդական լիլանգենի",
-            "displayName-count-other": "Սվազիլենդական լիլանգենի",
+            "displayName-count-one": "սվազիլենդական լիլանգենի",
+            "displayName-count-other": "սվազիլենդական լիլանգենի",
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "Թաիլանդական բատ",
-            "displayName-count-one": "Թաիլանդական բատ",
-            "displayName-count-other": "Թաիլանդական բատ",
+            "displayName": "Թայլանդական բատ",
+            "displayName-count-one": "թայլանդական բատ",
+            "displayName-count-other": "թայլանդական բատ",
             "symbol": "฿",
             "symbol-alt-narrow": "฿"
           },
@@ -1274,8 +1281,8 @@
           },
           "TJS": {
             "displayName": "Տաջիկական սոմոնի",
-            "displayName-count-one": "Տաջիկական սոմոնի",
-            "displayName-count-other": "Տաջիկական սոմոնի",
+            "displayName-count-one": "տաջիկական սոմոնի",
+            "displayName-count-other": "տաջիկական սոմոնի",
             "symbol": "TJS"
           },
           "TMM": {
@@ -1284,14 +1291,14 @@
           },
           "TMT": {
             "displayName": "Թուրքմենական մանաթ",
-            "displayName-count-one": "Թուրքմենական մանաթ",
-            "displayName-count-other": "Թուրքմենական մանաթ",
+            "displayName-count-one": "թուրքմենական մանաթ",
+            "displayName-count-other": "թուրքմենական մանաթ",
             "symbol": "TMT"
           },
           "TND": {
-            "displayName": "Թունիսական դինար",
-            "displayName-count-one": "Թունիսական դինար",
-            "displayName-count-other": "Թունիսական դինար",
+            "displayName": "Թունիսյան դինար",
+            "displayName-count-one": "թունիսյան դինար",
+            "displayName-count-other": "թունիսյան դինար",
             "symbol": "TND"
           },
           "TOP": {
@@ -1311,8 +1318,8 @@
           },
           "TRY": {
             "displayName": "Թուրքական լիրա",
-            "displayName-count-one": "Թուրքական լիրա",
-            "displayName-count-other": "Թուրքական լիրա",
+            "displayName-count-one": "թուրքական լիրա",
+            "displayName-count-other": "թուրքական լիրա",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
@@ -1326,21 +1333,21 @@
           },
           "TWD": {
             "displayName": "Թայվանական նոր դոլար",
-            "displayName-count-one": "Թայվանական նոր դոլար",
-            "displayName-count-other": "Թայվանական նոր դոլար",
+            "displayName-count-one": "թայվանական նոր դոլար",
+            "displayName-count-other": "թայվանական նոր դոլար",
             "symbol": "NT$",
             "symbol-alt-narrow": "NT$"
           },
           "TZS": {
             "displayName": "Տանզանիական շիլինգ",
-            "displayName-count-one": "Տանզանիական շիլինգ",
-            "displayName-count-other": "Տանզանիական շիլինգ",
+            "displayName-count-one": "տանզանիական շիլինգ",
+            "displayName-count-other": "տանզանիական շիլինգ",
             "symbol": "TZS"
           },
           "UAH": {
             "displayName": "Ուկրաինական գրիվնա",
-            "displayName-count-one": "Ուկրաինական գրիվնա",
-            "displayName-count-other": "Ուկրաինական գրիվնա",
+            "displayName-count-one": "ուկրաինական գրիվնա",
+            "displayName-count-other": "ուկրաինական գրիվնա",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
@@ -1354,8 +1361,8 @@
           },
           "UGX": {
             "displayName": "Ուգանդական շիլինգ",
-            "displayName-count-one": "Ուգանդական շիլինգ",
-            "displayName-count-other": "Ուգանդական շիլինգ",
+            "displayName-count-one": "ուգանդական շիլինգ",
+            "displayName-count-other": "ուգանդական շիլինգ",
             "symbol": "UGX"
           },
           "USD": {
@@ -1383,15 +1390,15 @@
           },
           "UYU": {
             "displayName": "Ուրուգվայական պեսո",
-            "displayName-count-one": "Ուրուգվայական պեսո",
-            "displayName-count-other": "Ուրուգվայական պեսո",
+            "displayName-count-one": "ուրուգվայական պեսո",
+            "displayName-count-other": "ուրուգվայական պեսո",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "Ուզբեկական սում",
-            "displayName-count-one": "Ուզբեկական սում",
-            "displayName-count-other": "Ուզբեկական սում",
+            "displayName": "Ուզբեկական սոմ",
+            "displayName-count-one": "ուզբեկական սոմ",
+            "displayName-count-other": "ուզբեկական սոմ",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1400,15 +1407,15 @@
           },
           "VEF": {
             "displayName": "Վենեսուելական բոլիվար",
-            "displayName-count-one": "Վենեսուելական բոլիվար",
-            "displayName-count-other": "Վենեսուելական բոլիվար",
+            "displayName-count-one": "վենեսուելական բոլիվար",
+            "displayName-count-other": "վենեսուելական բոլիվար",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
           },
           "VND": {
             "displayName": "Վիետնամական դոնգ",
-            "displayName-count-one": "Վիետնամական դոնգ",
-            "displayName-count-other": "Վիետնամական դոնգ",
+            "displayName-count-one": "վիետնամական դոնգ",
+            "displayName-count-other": "վիետնամական դոնգ",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1424,14 +1431,14 @@
           },
           "WST": {
             "displayName": "Սամոական տալա",
-            "displayName-count-one": "Սամոական տալա",
-            "displayName-count-other": "Սամոական տալա",
+            "displayName-count-one": "սամոական տալա",
+            "displayName-count-other": "սամոական տալա",
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "Աֆրիկական ֆինանսական համայնքի ֆրանկ BEAC",
-            "displayName-count-one": "Աֆրիկական ֆինանսական համայնքի ֆրանկ BEAC",
-            "displayName-count-other": "Աֆրիկական ֆինանսական համայնքի ֆրանկ BEAC",
+            "displayName": "Կենտրոնական Աֆրիկայի ԿՖԱ ֆրանկ",
+            "displayName-count-one": "Կենտրոնական Աֆրիկայի ԿՖԱ ֆրանկ",
+            "displayName-count-other": "Կենտրոնական Աֆրիկայի ԿՖԱ ֆրանկ",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1460,8 +1467,8 @@
           },
           "XCD": {
             "displayName": "Արևելակարիբյան դոլար",
-            "displayName-count-one": "Արևելակարիբյան դոլար",
-            "displayName-count-other": "Արևելակարիբյան դոլար",
+            "displayName-count-one": "արևելակարիբյան դոլար",
+            "displayName-count-other": "արևելակարիբյան դոլար",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
@@ -1482,9 +1489,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "Աֆրիկական ֆինանսական համայնքի ֆրանկ BCEAO",
-            "displayName-count-one": "Աֆրիկական ֆինանսական համայնքի ֆրանկ BCEAO",
-            "displayName-count-other": "Աֆրիկական ֆինանսական համայնքի ֆրանկ BCEAO",
+            "displayName": "Արևմտյան Աֆրիկայի ԿՖԱ ֆրանկ",
+            "displayName-count-one": "Արևմտյան Աֆրիկայի ԿՖԱ ֆրանկ",
+            "displayName-count-other": "Արևմտյան Աֆրիկայի ԿՖԱ ֆրանկ",
             "symbol": "CFA"
           },
           "XPD": {
@@ -1529,8 +1536,8 @@
           },
           "YER": {
             "displayName": "Եմենական ռիալ",
-            "displayName-count-one": "Եմենական ռիալ",
-            "displayName-count-other": "Եմենական ռիալ",
+            "displayName-count-one": "եմենական ռիալ",
+            "displayName-count-other": "եմենական ռիալ",
             "symbol": "YER"
           },
           "YUD": {
@@ -1554,9 +1561,9 @@
             "symbol": "ZAL"
           },
           "ZAR": {
-            "displayName": "Հարավաֆրիկական ռենդ",
-            "displayName-count-one": "Հարավաֆրիկական ռենդ",
-            "displayName-count-other": "Հարավաֆրիկական ռենդ",
+            "displayName": "Հարավաֆրիկյան ռանդ",
+            "displayName-count-one": "հարավաֆրիկյան ռանդ",
+            "displayName-count-other": "հարավաֆրիկյան ռանդ",
             "symbol": "ZAR",
             "symbol-alt-narrow": "R"
           },
@@ -1568,8 +1575,8 @@
           },
           "ZMW": {
             "displayName": "Զամբիական կվաչա",
-            "displayName-count-one": "Զամբիական կվաչա",
-            "displayName-count-other": "Զամբիական կվաչա",
+            "displayName-count-one": "զամբիական կվաչա",
+            "displayName-count-other": "զամբիական կվաչա",
             "symbol": "ZMW",
             "symbol-alt-narrow": "ZK"
           },

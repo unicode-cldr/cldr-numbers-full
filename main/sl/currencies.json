@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sl"
       },
@@ -29,9 +29,9 @@
           "AFN": {
             "displayName": "afgani",
             "displayName-count-one": "afgani",
-            "displayName-count-two": "afgani",
-            "displayName-count-few": "afgani",
-            "displayName-count-other": "afgani",
+            "displayName-count-two": "afganija",
+            "displayName-count-few": "afganiji",
+            "displayName-count-other": "afganijev",
             "symbol": "AFN"
           },
           "ALL": {
@@ -45,7 +45,7 @@
           "AMD": {
             "displayName": "armenski dram",
             "displayName-count-one": "armenski dram",
-            "displayName-count-two": "armenski dram",
+            "displayName-count-two": "armenska drama",
             "displayName-count-few": "armenski drami",
             "displayName-count-other": "armenskih dramov",
             "symbol": "AMD"
@@ -207,9 +207,9 @@
           "BHD": {
             "displayName": "bahranski dinar",
             "displayName-count-one": "bahranski dinar",
-            "displayName-count-two": "bahranski dinar",
-            "displayName-count-few": "bahranski dinar",
-            "displayName-count-other": "bahranski dinar",
+            "displayName-count-two": "bahranska dinarja",
+            "displayName-count-few": "bahranski dinarji",
+            "displayName-count-other": "bahranskih dinarjev",
             "symbol": "BHD"
           },
           "BIF": {
@@ -326,14 +326,22 @@
             "displayName": "beloruski novi rubelj (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "beloruski rubelj",
             "displayName-count-one": "beloruski rubelj",
             "displayName-count-two": "beloruska rublja",
             "displayName-count-few": "beloruski rublji",
             "displayName-count-other": "beloruskih rubljev",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "beloruski rubelj (2000–2016)",
+            "displayName-count-one": "beloruski rubelj (2000–2016)",
+            "displayName-count-two": "beloruska rublja (2000–2016)",
+            "displayName-count-few": "beloruski rublji (2000–2016)",
+            "displayName-count-other": "beloruskih rubljev (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizejski dolar",
@@ -397,9 +405,9 @@
           "CNY": {
             "displayName": "kitajski juan",
             "displayName-count-one": "kitajski juan renminbi",
-            "displayName-count-two": "kitajski juan renminbi",
-            "displayName-count-few": "kitajski juan renminbi",
-            "displayName-count-other": "kitajski juan renminbi",
+            "displayName-count-two": "kitajska juana renmibi",
+            "displayName-count-few": "kitajski juani renminbi",
+            "displayName-count-other": "kitajskih juanov renminbi",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -794,7 +802,7 @@
             "displayName-count-one": "iranski rial",
             "displayName-count-two": "iranska riala",
             "displayName-count-few": "iranski riali",
-            "displayName-count-other": "iranski rial",
+            "displayName-count-other": "iranskih rialov",
             "symbol": "IRR"
           },
           "ISK": {
@@ -1271,9 +1279,9 @@
           "PGK": {
             "displayName": "kina Papue Nove Gvineje",
             "displayName-count-one": "kina Papue Nove Gvineje",
-            "displayName-count-two": "kina Papue Nove Gvineje",
-            "displayName-count-few": "kina Papue Nove Gvineje",
-            "displayName-count-other": "kina Papue Nove Gvineje",
+            "displayName-count-two": "kini Papue Nove Gvineje",
+            "displayName-count-few": "kine Papue Nove Gvineje",
+            "displayName-count-other": "kin Papue Nove Gvineje",
             "symbol": "PGK"
           },
           "PHP": {
@@ -1342,7 +1350,8 @@
             "displayName-count-two": "romunski leu",
             "displayName-count-few": "romunski leu",
             "displayName-count-other": "romunski leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "srbski dinar",
@@ -1700,9 +1709,9 @@
           "VND": {
             "displayName": "vientnamski dong",
             "displayName-count-one": "vientnamski dong",
-            "displayName-count-two": "vientnamski dong",
-            "displayName-count-few": "vientnamski dong",
-            "displayName-count-other": "vientnamski dong",
+            "displayName-count-two": "vietnamska donga",
+            "displayName-count-few": "vietnamski dongi",
+            "displayName-count-other": "vietnamskih dongov",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1825,10 +1834,10 @@
           },
           "XXX": {
             "displayName": "neznana valuta",
-            "displayName-count-one": "neznana ali neveljavna valuta",
-            "displayName-count-two": "neznana ali neveljavna valuta",
-            "displayName-count-few": "neznana ali neveljavna valuta",
-            "displayName-count-other": "neznana ali neveljavna valuta",
+            "displayName-count-one": "(neznana enota valute)",
+            "displayName-count-two": "(neznana valuta)",
+            "displayName-count-few": "(neznana valuta)",
+            "displayName-count-other": "(neznana valuta)",
             "symbol": "XXX"
           },
           "YDD": {

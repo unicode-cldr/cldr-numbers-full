@@ -3,8 +3,8 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "it"
       },
@@ -209,7 +209,7 @@
             "displayName-count-one": "boliviano",
             "displayName-count-other": "boliviani",
             "symbol": "BOB",
-            "symbol-alt-narrow": "$b"
+            "symbol-alt-narrow": "Bs"
           },
           "BOL": {
             "displayName": "BOL",
@@ -282,12 +282,18 @@
             "displayName": "nuovo rublo bielorusso (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "rublo bielorusso",
             "displayName-count-one": "rublo bielorusso",
             "displayName-count-other": "rubli bielorussi",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "Br"
+          },
+          "BYR": {
+            "displayName": "rublo bielorusso (2000–2016)",
+            "displayName-count-one": "rublo bielorusso (2000–2016)",
+            "displayName-count-other": "rubli bielorussi (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dollaro del Belize",
@@ -376,7 +382,7 @@
             "displayName-count-one": "peso cubano convertibile",
             "displayName-count-other": "pesos cubani convertibili",
             "symbol": "CUC",
-            "symbol-alt-narrow": "CUC$"
+            "symbol-alt-narrow": "$"
           },
           "CUP": {
             "displayName": "peso cubano",
@@ -1123,7 +1129,8 @@
             "displayName": "leu rumeno",
             "displayName-count-one": "leu rumeno",
             "displayName-count-other": "lei rumeni",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "dinaro serbo",

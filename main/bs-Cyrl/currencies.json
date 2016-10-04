@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -373,13 +373,20 @@
             "displayName-count-other": "белоруских нових рубљи",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Белоруска рубља",
             "displayName-count-one": "белоруска рубља",
             "displayName-count-few": "белоруске рубље",
             "displayName-count-other": "белоруске рубље",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Белоруска рубља (2000–2016)",
+            "displayName-count-one": "белоруска рубља (2000–2016)",
+            "displayName-count-few": "белоруске рубље (2000–2016)",
+            "displayName-count-other": "белоруске рубље (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Белизе долар",
@@ -1462,7 +1469,8 @@
             "displayName-count-one": "румунски леи",
             "displayName-count-few": "румунска леија",
             "displayName-count-other": "румунских леија",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Српски динар",

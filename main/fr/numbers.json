@@ -3,8 +3,8 @@
     "fr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12379 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fr"
       },
@@ -140,7 +140,7 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "au moins {0}",
+          "atLeast": "⩾{0}",
           "range": "{0}–{1}"
         }
       }

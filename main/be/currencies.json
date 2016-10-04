@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12966 $",
+          "_cldrVersion": "30"
         },
         "language": "be"
       },
@@ -142,11 +142,11 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "канверсоўная марка",
-            "displayName-count-one": "канверсоўная марка",
-            "displayName-count-few": "канверсоўныя маркі",
-            "displayName-count-many": "канверсоўных марак",
-            "displayName-count-other": "канверсоўнай маркі",
+            "displayName": "канверсоўная марка Босніі і Герцагавіны",
+            "displayName-count-one": "канверсоўная марка Босніі і Герцагавіны",
+            "displayName-count-few": "канверсоўныя маркі Босніі і Герцагавіны",
+            "displayName-count-many": "канверсоўных марак Босніі і Герцагавіны",
+            "displayName-count-other": "канверсоўнай маркі Босніі і Герцагавіны",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -326,14 +326,22 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "беларускі рубель",
             "displayName-count-one": "беларускі рубель",
             "displayName-count-few": "беларускія рублі",
             "displayName-count-many": "беларускіх рублёў",
             "displayName-count-other": "беларускага рубля",
-            "symbol": "р.",
-            "symbol-alt-narrow": "р."
+            "symbol": "Br",
+            "symbol-alt-narrow": "Br"
+          },
+          "BYR": {
+            "displayName": "беларускі рубель (2000–2016)",
+            "displayName-count-one": "беларускі рубель (2000–2016)",
+            "displayName-count-few": "беларускія рублі (2000–2016)",
+            "displayName-count-many": "беларускіх рублёў (2000–2016)",
+            "displayName-count-other": "беларускага рубля (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "белізскі долар",
@@ -766,7 +774,7 @@
           "ILS": {
             "displayName": "новы ізраільскі шэкель",
             "displayName-count-one": "новы ізраільскі шэкель",
-            "displayName-count-few": "новыя ізраільскі шэкелі",
+            "displayName-count-few": "новыя ізраільскія шэкелі",
             "displayName-count-many": "новых ізраільскіх шэкеляў",
             "displayName-count-other": "новага ізраільскага шэкеля",
             "symbol": "₪",
@@ -1334,7 +1342,8 @@
             "displayName-count-few": "румынскія леі",
             "displayName-count-many": "румынскіх леяў",
             "displayName-count-other": "румынскага лея",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "сербскі дынар",
@@ -1376,11 +1385,11 @@
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "долар Саламонавых Астравоў",
-            "displayName-count-one": "долар Саламонавых Астравоў",
-            "displayName-count-few": "долары Саламонавых Астравоў",
-            "displayName-count-many": "долараў Саламонавых Астравоў",
-            "displayName-count-other": "долара Саламонавых Астравоў",
+            "displayName": "долар Саламонавых астравоў",
+            "displayName-count-one": "долар Саламонавых астравоў",
+            "displayName-count-few": "долар Саламонавых астравоў",
+            "displayName-count-many": "долараў Саламонавых астравоў",
+            "displayName-count-other": "долара Саламонавых астравоў",
             "symbol": "SBD",
             "symbol-alt-narrow": "SI$"
           },
@@ -1485,7 +1494,7 @@
             "displayName": "добра Сан-Тамэ і Прынсіпі",
             "displayName-count-one": "добра Сан-Тамэ і Прынсіпі",
             "displayName-count-few": "добры Сан-Тамэ і Прынсіпі",
-            "displayName-count-many": "добр Сан-Тамэ і Прынсіпі",
+            "displayName-count-many": "добраў Сан-Тамэ і Прынсіпі",
             "displayName-count-other": "добры Сан-Тамэ і Прынсіпі",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
@@ -1817,10 +1826,10 @@
           },
           "XXX": {
             "displayName": "невядомая валюта",
-            "displayName-count-one": "невядомая валюта",
-            "displayName-count-few": "невядомая валюта",
-            "displayName-count-many": "невядомая валюта",
-            "displayName-count-other": "невядомая валюта",
+            "displayName-count-one": "невядомай валюты",
+            "displayName-count-few": "невядомай валюты",
+            "displayName-count-many": "невядомай валюты",
+            "displayName-count-other": "невядомай валюты",
             "symbol": "XXX"
           },
           "YDD": {

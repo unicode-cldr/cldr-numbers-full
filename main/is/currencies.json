@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12965 $",
+          "_cldrVersion": "30"
         },
         "language": "is"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "hvítrússnesk rúbla",
             "displayName-count-one": "hvítrússnesk rúbla",
             "displayName-count-other": "hvítrússneskar rúblur",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "hvítrússnesk rúbla (2000–2016)",
+            "displayName-count-one": "hvítrússnesk rúbla (2000–2016)",
+            "displayName-count-other": "hvítrússneskar rúblur (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belískur dalur",
@@ -1116,7 +1122,8 @@
             "displayName": "rúmenskt lei",
             "displayName-count-one": "rúmenskt lei",
             "displayName-count-other": "rúmensk lei",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "serbneskur denari",

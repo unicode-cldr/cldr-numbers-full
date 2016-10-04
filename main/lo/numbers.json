@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lo"
       },
@@ -107,8 +107,8 @@
               "10000000000-count-other": "00 ຕື້",
               "100000000000-count-other": "000 ຕື້",
               "1000000000000-count-other": "0 ລ້ານລ້ານ",
-              "10000000000000-count-other": "00 ລ້ານລ້ານ",
-              "100000000000000-count-other": "000 ລ້ານລ້ານ"
+              "10000000000000-count-other": "00ລລ",
+              "100000000000000-count-other": "000ລລ"
             }
           }
         },

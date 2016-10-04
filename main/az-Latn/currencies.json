@@ -3,8 +3,8 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "az",
         "script": "Latn"
@@ -332,12 +332,18 @@
             "displayName-count-other": "Belarus yeni rublu (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Belarus Rublu",
             "displayName-count-one": "Belarus rublu",
             "displayName-count-other": "Belarus rublu",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belarus Rublu (2000–2016)",
+            "displayName-count-one": "Belarus rublu (2000–2016)",
+            "displayName-count-other": "Belarus rublu (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Beliz Dolları",
@@ -1270,7 +1276,8 @@
             "displayName": "Rumıniya Leyi",
             "displayName-count-one": "Rumıniya leyi",
             "displayName-count-other": "Rumıniya leyi",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "ley"
           },
           "RSD": {
             "displayName": "Serbiya Dinarı",

@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "id"
       },
@@ -48,7 +48,7 @@
           },
           "short": {
             "decimalFormat": {
-              "1000-count-other": "0",
+              "1000-count-other": "0 rb",
               "10000-count-other": "00 rb",
               "100000-count-other": "000 rb",
               "1000000-count-other": "0 jt",
@@ -86,7 +86,7 @@
           "accounting": "¤#,##0.00",
           "short": {
             "standard": {
-              "1000-count-other": "¤0",
+              "1000-count-other": "¤0 rb",
               "10000-count-other": "¤00 rb",
               "100000-count-other": "¤000 rb",
               "1000000-count-other": "¤0 jt",

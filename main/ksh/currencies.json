@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ksh"
       },
@@ -249,10 +249,14 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "wiißrußesche Rubel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "wiißrußesche Rubel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizjaanesche Dollaa",
@@ -966,7 +970,8 @@
           },
           "RON": {
             "displayName": "romäänesche Leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "särbesche Denaare",

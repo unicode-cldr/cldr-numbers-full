@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hant",
@@ -294,11 +294,16 @@
             "displayName-count-other": "白俄羅斯新盧布 (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "白俄羅斯盧布",
             "displayName-count-other": "白俄羅斯盧布",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "白俄羅斯盧布 (2000–2016)",
+            "displayName-count-other": "白俄羅斯盧布 (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "伯利茲元",
@@ -1112,7 +1117,8 @@
           "RON": {
             "displayName": "羅馬尼亞列伊",
             "displayName-count-other": "羅馬尼亞列伊",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "塞爾維亞第納爾",
@@ -1240,8 +1246,8 @@
             "symbol": "SVC"
           },
           "SYP": {
-            "displayName": "敘利亞鎊",
-            "displayName-count-other": "敘利亞鎊",
+            "displayName": "敍利亞鎊",
+            "displayName-count-other": "敍利亞鎊",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },

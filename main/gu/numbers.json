@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "gu"
       },
@@ -161,13 +161,13 @@
           }
         },
         "scientificFormats-numberSystem-gujr": {
-          "standard": "[#E0]"
+          "standard": "#E0"
         },
         "scientificFormats-numberSystem-latn": {
           "standard": "[#E0]"
         },
         "percentFormats-numberSystem-gujr": {
-          "standard": "#,##,##0%"
+          "standard": "#,##0%"
         },
         "percentFormats-numberSystem-latn": {
           "standard": "#,##,##0%"
@@ -185,7 +185,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤#,##,##0.00",
+          "standard": "¤#,##0.00",
           "accounting": "¤#,##,##0.00;(¤#,##,##0.00)",
           "short": {
             "standard": {

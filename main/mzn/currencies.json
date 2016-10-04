@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "mzn"
       },
@@ -256,11 +256,16 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "بلاروس ِروبل",
             "displayName-count-other": "بلاروس ِروبل",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "بلاروس ِروبل (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-other": "بلاروس ِروبل (۲۰۰۰–۲۰۱۶)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "بلیز ِدولار",
@@ -994,7 +999,8 @@
           "RON": {
             "displayName": "رومانی ِلئو",
             "displayName-count-other": "رومانی ِلئو",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "صربستون ِدینار",

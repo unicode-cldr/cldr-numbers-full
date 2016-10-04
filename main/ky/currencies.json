@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ky"
       },
@@ -15,7 +15,7 @@
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "Бириккен Араб Эмираттары дирхамы",
+            "displayName": "Бириккен Араб Эмираттарынын дирхамы",
             "displayName-count-one": "БАЭ дирхамы",
             "displayName-count-other": "БАЭ дирхамы",
             "symbol": "AED"
@@ -122,9 +122,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "босния-герцоговина жүгүртөлмөлүү маркасы",
-            "displayName-count-one": "босния-герцоговина жүгүртөлмөлүү маркасы",
-            "displayName-count-other": "босния-герцоговина жүгүртөлмөлүү маркасы",
+            "displayName": "босния-герцоговина конвертациялануучу маркасы",
+            "displayName-count-one": "босния-герцоговина конвертациялануучу маркасы",
+            "displayName-count-other": "босния-герцоговина конвертациялануучу маркалары",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "беларусь рублу",
             "displayName-count-one": "беларусь рублу",
             "displayName-count-other": "беларусь рублу",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "беларусь рублу (2000–2016)",
+            "displayName-count-one": "беларусь рублу (2000–2016)",
+            "displayName-count-other": "беларусь рублу (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "белиз доллары",
@@ -370,9 +376,9 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "куба жүгүртүлмөлүү песосу",
-            "displayName-count-one": "куба жүгүртүлмөлүү песосу",
-            "displayName-count-other": "куба жүгүртүлмөлүү песосу",
+            "displayName": "кубанын конвертациялануучу песосу",
+            "displayName-count-one": "кубанын конвертациялануучу песосу",
+            "displayName-count-other": "кубанын конвертациялануучу песолору",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
@@ -481,7 +487,7 @@
           "EUR": {
             "displayName": "Евро",
             "displayName-count-one": "евро",
-            "displayName-count-other": "евро",
+            "displayName-count-other": "евролор",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -644,9 +650,9 @@
             "symbol": "ILP"
           },
           "ILS": {
-            "displayName": "Израил жаӊы шегели",
-            "displayName-count-one": "Израил жаӊы шегели",
-            "displayName-count-other": "Израил жаӊы шегели",
+            "displayName": "Израилдин жаңы шекели",
+            "displayName-count-one": "Израилдин жаңы шекели",
+            "displayName-count-other": "Израилдин жаңы шекели",
             "symbol": "ILS",
             "symbol-alt-narrow": "₪"
           },
@@ -1055,9 +1061,9 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "Папуа Жаӊы Гине кинасы",
-            "displayName-count-one": "Папуа Жаӊы Гине кинасы",
-            "displayName-count-other": "Папуа Жаӊы Гине кинасы",
+            "displayName": "Папуа Жаӊы Гвинея кинасы",
+            "displayName-count-one": "Папуа Жаӊы Гвинея кинасы",
+            "displayName-count-other": "Папуа Жаӊы Гвинея кинасы",
             "symbol": "PGK"
           },
           "PHP": {
@@ -1114,7 +1120,8 @@
             "displayName": "румын лейи",
             "displayName-count-one": "румын лейи",
             "displayName-count-other": "румын лейи",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "серб динары",
@@ -1148,9 +1155,9 @@
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "Соломон доллары",
-            "displayName-count-one": "Соломон доллары",
-            "displayName-count-other": "Соломон доллары",
+            "displayName": "Соломон аралдарынын доллары",
+            "displayName-count-one": "Соломон аралдарынын доллары",
+            "displayName-count-other": "Соломон аралдарынын долларлары",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },
@@ -1189,9 +1196,9 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "Ыйык Елена фунту",
-            "displayName-count-one": "Ыйык Елена фунту",
-            "displayName-count-other": "Ыйык Елена фунту",
+            "displayName": "Ыйык Елена аралынын фунту",
+            "displayName-count-one": "Ыйык Елена аралынын фунту",
+            "displayName-count-other": "Ыйык Елена аралынын фунту",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1389,9 +1396,9 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "Өзбекстан сому",
-            "displayName-count-one": "Өзбекстан сому",
-            "displayName-count-other": "Өзбекстан сому",
+            "displayName": "Өзбекстан суму",
+            "displayName-count-one": "Өзбекстан суму",
+            "displayName-count-other": "Өзбекстан суму",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1429,9 +1436,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "КФА ВЕАС франкы",
-            "displayName-count-one": "КФА ВЕАС франкы",
-            "displayName-count-other": "КФА ВЕАС франкы",
+            "displayName": "Борбордук Африка КФА франкы",
+            "displayName-count-one": "Борбордук Африка КФА франкы",
+            "displayName-count-other": "Борбордук Африка КФА франкы",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1482,9 +1489,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "КФА ВСЕАО франкы",
-            "displayName-count-one": "КФА ВСЕАО франкы",
-            "displayName-count-other": "КФА ВСЕАО франкы",
+            "displayName": "КФА франкы",
+            "displayName-count-one": "КФА франкы",
+            "displayName-count-other": "КФА франкы",
             "symbol": "CFA"
           },
           "XPD": {

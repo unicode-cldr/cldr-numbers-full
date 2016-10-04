@@ -3,8 +3,8 @@
     "se": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "se"
       },
@@ -21,7 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "−",
-          "exponential": "×10^",
+          "exponential": "·10^",
           "superscriptingExponent": "·",
           "perMille": "‰",
           "infinity": "∞",

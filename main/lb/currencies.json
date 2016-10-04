@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "lb"
       },
@@ -328,12 +328,18 @@
             "displayName-count-other": "Wäissrussesch Rubel (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Wäissrussesche Rubel",
             "displayName-count-one": "Wäissrussesche Rubel",
             "displayName-count-other": "Wäissrussesch Rubel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Wäissrussesche Rubel (2000–2016)",
+            "displayName-count-one": "Wäissrussesche Rubel (2000–2016)",
+            "displayName-count-other": "Wäissrussesch Rubel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belize-Dollar",
@@ -1261,7 +1267,8 @@
             "displayName": "Rumänesche Leu",
             "displayName-count-one": "Rumänesche Leu",
             "displayName-count-other": "Rumänesch Leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbeschen Dinar",

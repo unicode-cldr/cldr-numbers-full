@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12927 $",
+          "_cldrVersion": "30"
         },
         "language": "he"
       },
@@ -85,30 +85,30 @@
           },
           "short": {
             "decimalFormat": {
-              "1000-count-one": "‏0 אלף",
-              "1000-count-two": "‏0 אלף",
-              "1000-count-many": "‏0 אלף",
-              "1000-count-other": "‏0 אלף",
-              "10000-count-one": "‏00 אלף",
-              "10000-count-two": "‏00 אלף",
-              "10000-count-many": "‏00 אלף",
-              "10000-count-other": "‏00 אלף",
-              "100000-count-one": "‏000 אלף",
-              "100000-count-two": "‏000 אלף",
-              "100000-count-many": "‏000 אלף",
-              "100000-count-other": "‏000 אלף",
-              "1000000-count-one": "‏0 מיל׳",
-              "1000000-count-two": "‏0 מיל׳",
-              "1000000-count-many": "‏0 מיל׳",
-              "1000000-count-other": "‏0 מיל׳",
-              "10000000-count-one": "‏00 מיל׳",
-              "10000000-count-two": "‏00 מיל׳",
-              "10000000-count-many": "‏00 מיל׳",
-              "10000000-count-other": "‏00 מיל׳",
-              "100000000-count-one": "‏000 מיל׳",
-              "100000000-count-two": "‏000 מיל׳",
-              "100000000-count-many": "‏000 מיל׳",
-              "100000000-count-other": "‏000 מיל׳",
+              "1000-count-one": "0K",
+              "1000-count-two": "0K",
+              "1000-count-many": "0K",
+              "1000-count-other": "0K",
+              "10000-count-one": "00K",
+              "10000-count-two": "00K",
+              "10000-count-many": "00K",
+              "10000-count-other": "00K",
+              "100000-count-one": "000K",
+              "100000-count-two": "000K",
+              "100000-count-many": "000K",
+              "100000-count-other": "000K",
+              "1000000-count-one": "0M",
+              "1000000-count-two": "0M",
+              "1000000-count-many": "0M",
+              "1000000-count-other": "0M",
+              "10000000-count-one": "00M",
+              "10000000-count-two": "00M",
+              "10000000-count-many": "00M",
+              "10000000-count-other": "00M",
+              "100000000-count-one": "000M",
+              "100000000-count-two": "000M",
+              "100000000-count-many": "000M",
+              "100000000-count-other": "000M",
               "1000000000-count-one": "0B",
               "1000000000-count-two": "0B",
               "1000000000-count-many": "0B",
@@ -155,7 +155,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "#,##0.00 ¤",
+          "standard": "‏#,##0.00 ¤;‏-#,##0.00 ¤",
           "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {

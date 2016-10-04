@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12384 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "si"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "බෙලරූස් රූබල්",
             "displayName-count-one": "බෙලරූස් රූබල්",
             "displayName-count-other": "බෙලරූස් රූබල්",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "බෙලරූස් රූබල් (2000–2016)",
+            "displayName-count-one": "බෙලරූස් රූබල් (2000–2016)",
+            "displayName-count-other": "බෙලරූස් රූබල් (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "බෙලීස් ඩොලර්",
@@ -1112,7 +1118,8 @@
             "displayName": "රොමේනියානු ලෙව්",
             "displayName-count-one": "රොමේනියානු ලෙව්",
             "displayName-count-other": "රොමේනියානු ලෙව්",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "සර්බියානු ඩිනාර්",

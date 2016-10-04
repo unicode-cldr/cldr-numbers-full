@@ -3,8 +3,8 @@
     "el": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "el"
       },
@@ -151,9 +151,9 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "Δολάριο Μπαρμπάντος",
-            "displayName-count-one": "δολάριο Μπαρμπάντος",
-            "displayName-count-other": "δολάρια Μπαρμπάντος",
+            "displayName": "Δολάριο Μπαρμπέιντος",
+            "displayName-count-one": "δολάριο Μπαρμπέιντος",
+            "displayName-count-other": "δολάρια Μπαρμπέιντος",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
@@ -293,9 +293,9 @@
             "symbol": "BRZ"
           },
           "BSD": {
-            "displayName": "Δολάριο Μπαχάμες",
-            "displayName-count-one": "δολάριο Μπαχάμες",
-            "displayName-count-other": "δολάρια Μπαχάμες",
+            "displayName": "Δολάριο Μπαχαμών",
+            "displayName-count-one": "δολάριο Μπαχαμών",
+            "displayName-count-other": "δολάρια Μπαχαμών",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
@@ -324,12 +324,18 @@
             "displayName-count-other": "νέα ρούβλια Λευκορωσίας (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Ρούβλι Λευκορωσίας",
             "displayName-count-one": "ρούβλι Λευκορωσίας",
             "displayName-count-other": "ρούβλια Λευκορωσίας",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Ρούβλι Λευκορωσίας (2000–2016)",
+            "displayName-count-one": "ρούβλι Λευκορωσίας (2000–2016)",
+            "displayName-count-other": "ρούβλια Λευκορωσίας (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Δολάριο Μπελίζ",
@@ -864,9 +870,9 @@
             "symbol": "KWD"
           },
           "KYD": {
-            "displayName": "Δολάριο Νήσων Κάιμαν",
-            "displayName-count-one": "δολάριο Νήσων Κάιμαν",
-            "displayName-count-other": "δολάρια Νήσων Κάιμαν",
+            "displayName": "Δολάριο Νήσων Κέιμαν",
+            "displayName-count-one": "δολάριο Νήσων Κέιμαν",
+            "displayName-count-other": "δολάρια Νήσων Κέιμαν",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
@@ -1013,9 +1019,9 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "Κυάτ Μιανμάρ",
-            "displayName-count-one": "κυάτ Μιανμάρ",
-            "displayName-count-other": "κυάτ Μιανμάρ",
+            "displayName": "Κιάτ Μιανμάρ",
+            "displayName-count-one": "κιάτ Μιανμάρ",
+            "displayName-count-other": "κιάτ Μιανμάρ",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
@@ -1196,9 +1202,9 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "Κίνα Παπούα Νέα Γουινέα",
-            "displayName-count-one": "κίνα Παπούα Νέα Γουινέα",
-            "displayName-count-other": "κίνα Παπούα Νέα Γουινέα",
+            "displayName": "Κίνα Παπούας Νέας Γουινέας",
+            "displayName-count-one": "κίνα Παπούας Νέας Γουινέας",
+            "displayName-count-other": "κίνα Παπούας Νέας Γουινέας",
             "symbol": "PGK"
           },
           "PHP": {
@@ -1263,7 +1269,8 @@
             "displayName": "Λέου Ρουμανίας",
             "displayName-count-one": "λέου Ρουμανίας",
             "displayName-count-other": "λέου Ρουμανίας",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Δηνάριο Σερβίας",
@@ -1483,9 +1490,9 @@
             "symbol": "TRL"
           },
           "TRY": {
-            "displayName": "Τουρκική Λίρα",
-            "displayName-count-one": "τουρκική λίρα",
-            "displayName-count-other": "τουρκικές λίρες",
+            "displayName": "Λίρα Τουρκίας",
+            "displayName-count-one": "λίρα Τουρκίας",
+            "displayName-count-other": "λίρες Τουρκίας",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
@@ -1614,9 +1621,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "Φράγκο CFA Κεντρικής Αφρικής (BEAC)",
-            "displayName-count-one": "φράγκο CFA Κεντρικής Αφρικής (BEAC)",
-            "displayName-count-other": "φράγκα CFA Κεντρικής Αφρικής (BEAC)",
+            "displayName": "Φράγκο CFA Κεντρικής Αφρικής",
+            "displayName-count-one": "φράγκο CFA Κεντρικής Αφρικής",
+            "displayName-count-other": "φράγκα CFA Κεντρικής Αφρικής",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1683,9 +1690,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "Φράγκο CFA Δυτικής Αφρικής (BCEAO)",
-            "displayName-count-one": "φράγκο CFA Δυτικής Αφρικής (BCEAO)",
-            "displayName-count-other": "φράγκα CFA Δυτικής Αφρικής (BCEAO)",
+            "displayName": "Φράγκο CFA Δυτικής Αφρικής",
+            "displayName-count-one": "φράγκο CFA Δυτικής Αφρικής",
+            "displayName-count-other": "φράγκα CFA Δυτικής Αφρικής",
             "symbol": "CFA"
           },
           "XPD": {

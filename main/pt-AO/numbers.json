@@ -3,8 +3,8 @@
     "pt-AO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "pt",
         "territory": "AO"
@@ -14,7 +14,7 @@
         "otherNumberingSystems": {
           "native": "latn"
         },
-        "minimumGroupingDigits": "2",
+        "minimumGroupingDigits": "1",
         "symbols-numberSystem-latn": {
           "decimal": ",",
           "group": " ",

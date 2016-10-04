@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "zu"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "i-Belarusian Ruble",
             "displayName-count-one": "i-Belarusian Ruble",
             "displayName-count-other": "i-Belarusian Ruble",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "P."
+          },
+          "BYR": {
+            "displayName": "i-Belarusian Ruble (2000–2016)",
+            "displayName-count-one": "i-Belarusian Ruble (2000–2016)",
+            "displayName-count-other": "i-Belarusian Ruble (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "i-Belize Dollar",
@@ -386,7 +392,7 @@
           "CVE": {
             "displayName": "i-Cape Verdean Escudo",
             "displayName-count-one": "i-Cape Verdean Escudo",
-            "displayName-count-other": "i-Cape Verdean Escudo",
+            "displayName-count-other": "i-Cape Verdean escudos",
             "symbol": "CVE"
           },
           "CYP": {
@@ -533,7 +539,7 @@
           "GHS": {
             "displayName": "i-Ghanaian Cedi",
             "displayName-count-one": "i-Ghanaian Cedi",
-            "displayName-count-other": "i-Ghanaian Cedi",
+            "displayName-count-other": "i-Ghanaian cedis",
             "symbol": "GHS"
           },
           "GIP": {
@@ -546,13 +552,13 @@
           "GMD": {
             "displayName": "i-Gambian Dalasi",
             "displayName-count-one": "i-Gambian Dalasi",
-            "displayName-count-other": "i-Gambian Dalasi",
+            "displayName-count-other": "i-Gambian dalasis",
             "symbol": "GMD"
           },
           "GNF": {
             "displayName": "i-Gunean Franc",
             "displayName-count-one": "i-Gunean Franc",
-            "displayName-count-other": "i-Gunean Franc",
+            "displayName-count-other": "i-Guinean francs",
             "symbol": "GNF",
             "symbol-alt-narrow": "FG"
           },
@@ -1110,7 +1116,8 @@
             "displayName": "i-Romanian Leu",
             "displayName-count-one": "i-Romanian leu",
             "displayName-count-other": "i-Romanian lei",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "i-Serbian Dinar",
@@ -1316,7 +1323,7 @@
           "TTD": {
             "displayName": "i-Trinidad and Tobago Dollar",
             "displayName-count-one": "i-Trinidad and Tobago dollar",
-            "displayName-count-other": "i-Trinidad and Tobago dollars",
+            "displayName-count-other": "i-Trinidad & Tobago dollars",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
@@ -1425,7 +1432,7 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "i-CFA Franc BCEA",
+            "displayName": "i-Central African CFA Franc",
             "displayName-count-one": "i-CFA Franc BCEA",
             "displayName-count-other": "i-CFA Franc BCEA",
             "symbol": "FCFA"
@@ -1478,9 +1485,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "i-CFA Franc BCEAO",
-            "displayName-count-one": "i-CFA Franc BCEAO",
-            "displayName-count-other": "i-CFA Franc BCEAO",
+            "displayName": "i-West African CFA Franc",
+            "displayName-count-one": "i-West African CFA Franc",
+            "displayName-count-other": "i-West African CFA francs",
             "symbol": "CFA"
           },
           "XPD": {

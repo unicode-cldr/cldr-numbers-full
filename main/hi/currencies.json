@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hi"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "बेलारूसी रूबल",
             "displayName-count-one": "बेलारूसी रूबल",
             "displayName-count-other": "बेलारूसी रूबल",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "बेलारूसी रूबल (2000–2016)",
+            "displayName-count-one": "बेलारूसी रूबल (2000–2016)",
+            "displayName-count-other": "बेलारूसी रूबल (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "बेलीज़ डॉलर",
@@ -928,7 +934,7 @@
             "displayName-count-one": "मॉरिशियन रुपया",
             "displayName-count-other": "मॉरिशियन रुपया",
             "symbol": "MUR",
-            "symbol-alt-narrow": "₨"
+            "symbol-alt-narrow": "Rs"
           },
           "MVR": {
             "displayName": "मालदीवी रुफ़िया",
@@ -1072,7 +1078,7 @@
             "displayName-count-one": "पाकिस्तानी रुपया",
             "displayName-count-other": "पाकिस्तानी रुपए",
             "symbol": "PKR",
-            "symbol-alt-narrow": "₨"
+            "symbol-alt-narrow": "Rs"
           },
           "PLN": {
             "displayName": "पोलिश ज़्लॉटी",
@@ -1114,7 +1120,8 @@
             "displayName": "रोमानियाई ल्यू",
             "displayName-count-one": "रोमानियाई ल्यू",
             "displayName-count-other": "रोमानियाई ल्यू",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "सर्बियन दिनार",

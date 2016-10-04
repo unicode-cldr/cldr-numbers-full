@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "gd"
       },
@@ -454,14 +454,22 @@
             "displayName-count-other": "rùbal ùr Bealaruiseach (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rùbal Bealaruiseach",
             "displayName-count-one": "rùbal Bealaruiseach",
             "displayName-count-two": "rùbal Bealaruiseach",
             "displayName-count-few": "rùbalan Bealaruiseach",
             "displayName-count-other": "rùbal Bealaruiseach",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rùbal Bealaruiseach (2000–2016)",
+            "displayName-count-one": "rùbal Bealaruiseach (2000–2016)",
+            "displayName-count-two": "rùbal Bealaruiseach (2000–2016)",
+            "displayName-count-few": "rùbalan Bealaruiseach (2000–2016)",
+            "displayName-count-other": "rùbal Bealaruiseach (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dolar Beilìseach",
@@ -1729,7 +1737,8 @@
             "displayName-count-two": "leu Romàineach",
             "displayName-count-few": "leu Romàineach",
             "displayName-count-other": "leu Romàineach",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar Sèirbeach",

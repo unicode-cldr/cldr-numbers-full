@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12379 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13007 $",
+          "_cldrVersion": "30"
         },
         "language": "nb"
       },
@@ -29,7 +29,7 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "afghansk afghani",
+            "displayName": "afghanske afghani",
             "displayName-count-one": "afghansk afghani",
             "displayName-count-other": "afghanske afghani",
             "symbol": "AFN"
@@ -346,12 +346,18 @@
             "displayName-count-other": "hviterussiske nye rubler (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "hviterussiske rubler",
             "displayName-count-one": "hviterussisk rubel",
             "displayName-count-other": "hviterussiske rubler",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "hviterussiske rubler (2000–2016)",
+            "displayName-count-one": "hviterussisk rubel (2000–2016)",
+            "displayName-count-other": "hviterussiske rubler (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "beliziske dollar",
@@ -1313,7 +1319,8 @@
             "displayName": "rumenske leu",
             "displayName-count-one": "rumensk leu",
             "displayName-count-other": "rumenske leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "serbiske dinarer",

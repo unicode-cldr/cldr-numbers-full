@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lt"
       },
@@ -453,14 +453,22 @@
             "displayName-count-other": "Baltarusijos naujųjų rublių",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Baltarusijos rublis",
             "displayName-count-one": "Baltarusijos rublis",
             "displayName-count-few": "Baltarusijos rubliai",
             "displayName-count-many": "Baltarusijos rublio",
             "displayName-count-other": "Baltarusijos rublių",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "Br"
+          },
+          "BYR": {
+            "displayName": "Baltarusijos rublis (2000–2016)",
+            "displayName-count-one": "Baltarusijos rublis (2000–2016)",
+            "displayName-count-few": "Baltarusijos rubliai (2000–2016)",
+            "displayName-count-many": "Baltarusijos rublio (2000–2016)",
+            "displayName-count-other": "Baltarusijos rublių (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belizo doleris",
@@ -829,7 +837,8 @@
             "displayName-count-many": "Gruzijos lario",
             "displayName-count-other": "Gruzijos larių",
             "symbol": "GEL",
-            "symbol-alt-narrow": "₾"
+            "symbol-alt-narrow": "₾",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "Ganos sedis (1979–2007)",
@@ -1724,7 +1733,8 @@
             "displayName-count-few": "Rumunijos lėjos",
             "displayName-count-many": "Rumunijos lėjos",
             "displayName-count-other": "Rumunijos lėjų",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbijos dinaras",

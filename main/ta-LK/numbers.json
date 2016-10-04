@@ -3,8 +3,8 @@
     "ta-LK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ta",
         "territory": "LK"
@@ -249,11 +249,11 @@
               "10000000-count-other": "¤ 00மி",
               "100000000-count-one": "¤ 000மி",
               "100000000-count-other": "¤ 000மி",
-              "1000000000-count-one": "¤0பி",
+              "1000000000-count-one": "¤ 0பி",
               "1000000000-count-other": "¤0பி",
               "10000000000-count-one": "¤ 00பி",
               "10000000000-count-other": "¤ 00பி",
-              "100000000000-count-one": "¤000பி",
+              "100000000000-count-one": "¤ 000பி",
               "100000000000-count-other": "¤000பி",
               "1000000000000-count-one": "¤ 0டி",
               "1000000000000-count-other": "¤ 0டி",

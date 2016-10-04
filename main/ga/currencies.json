@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ga"
       },
@@ -176,7 +176,7 @@
             "symbol": "AZN"
           },
           "BAD": {
-            "displayName": "Dínear Bhoisnia-Heirseagaivéin",
+            "displayName": "Dínear Bhoisnia-Heirseagaivéin (1992–1994)",
             "symbol": "BAD"
           },
           "BAM": {
@@ -437,15 +437,24 @@
             "displayName-count-other": "rúbal nua na Bealarúise (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rúbal na Bealarúise",
             "displayName-count-one": "rúbal na Bealarúise",
             "displayName-count-two": "rúbal na Bealarúise",
             "displayName-count-few": "rúbal na Bealarúise",
             "displayName-count-many": "rúbal na Bealarúise",
             "displayName-count-other": "rúbal na Bealarúise",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rúbal na Bealarúise (2000–2016)",
+            "displayName-count-one": "rúbal na Bealarúise (2000–2016)",
+            "displayName-count-two": "rúbal na Bealarúise (2000–2016)",
+            "displayName-count-few": "rúbal na Bealarúise (2000–2016)",
+            "displayName-count-many": "rúbal na Bealarúise (2000–2016)",
+            "displayName-count-other": "rúbal na Bealarúise (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dollar na Beilíse",
@@ -1626,7 +1635,8 @@
             "displayName-count-few": "leu na Rómáine",
             "displayName-count-many": "leu na Rómáine",
             "displayName-count-other": "leu na Rómáine",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar na Seirbia",
@@ -1983,7 +1993,7 @@
             "symbol-alt-narrow": "₴"
           },
           "UAK": {
-            "displayName": "Karbovanetz Úcránach",
+            "displayName": "Karbovanets Úcránach",
             "symbol": "UAK"
           },
           "UGS": {
@@ -2239,11 +2249,11 @@
             "symbol": "YER"
           },
           "YUD": {
-            "displayName": "Dínear Crua Iúgslavach",
+            "displayName": "Dínear Crua Iúgslavach (1966–1990)",
             "symbol": "YUD"
           },
           "YUM": {
-            "displayName": "Noviy Dinar Iúgslavach",
+            "displayName": "Dínear Nua Iúgslavach (1994–2002)",
             "symbol": "YUM"
           },
           "YUN": {
@@ -2291,7 +2301,7 @@
             "symbol": "ZRZ"
           },
           "ZWD": {
-            "displayName": "Dollar Siombábach",
+            "displayName": "Dollar Siombábach (1980–2008)",
             "symbol": "ZWD"
           },
           "ZWL": {

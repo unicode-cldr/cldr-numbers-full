@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12927 $",
+          "_cldrVersion": "30"
         },
         "language": "he"
       },
@@ -326,14 +326,22 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "רובל בלרוסי",
             "displayName-count-one": "רובל בלרוסי",
             "displayName-count-two": "רובל בלרוסי",
             "displayName-count-many": "רובל בלרוסי",
             "displayName-count-other": "רובל בלרוסי",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "רובל בלרוסי (2000–2016)",
+            "displayName-count-one": "רובל בלרוסי (2000–2016)",
+            "displayName-count-two": "רובל בלרוסי (2000–2016)",
+            "displayName-count-many": "רובל בלרוסי (2000–2016)",
+            "displayName-count-other": "רובל בלרוסי (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "דולר בליזי",
@@ -400,7 +408,7 @@
             "displayName-count-two": "יואן סיני",
             "displayName-count-many": "יואן סיני",
             "displayName-count-other": "יואן סיני",
-            "symbol": "CN¥",
+            "symbol": "‎CN¥‎",
             "symbol-alt-narrow": "¥"
           },
           "COP": {
@@ -764,8 +772,8 @@
             "symbol": "ל״י"
           },
           "ILS": {
-            "displayName": "ש״ח",
-            "displayName-count-one": "שקלים חדשים",
+            "displayName": "שקל חדש",
+            "displayName-count-one": "שקל חדש",
             "displayName-count-two": "שקלים חדשים",
             "displayName-count-many": "שקלים חדשים",
             "displayName-count-other": "שקלים חדשים",
@@ -798,11 +806,11 @@
             "symbol": "IRR"
           },
           "ISK": {
-            "displayName": "קרונה איסלנדית",
-            "displayName-count-one": "קרונה איסלנדית",
-            "displayName-count-two": "קרונה איסלנדית",
-            "displayName-count-many": "קרונה איסלנדית",
-            "displayName-count-other": "קרונה איסלנדית",
+            "displayName": "כתר איסלנדי",
+            "displayName-count-one": "כתר איסלנדי",
+            "displayName-count-two": "כתר איסלנדי",
+            "displayName-count-many": "כתר איסלנדי",
+            "displayName-count-other": "כתר איסלנדי",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
@@ -833,7 +841,7 @@
             "displayName-count-two": "ין יפני",
             "displayName-count-many": "ין יפני",
             "displayName-count-other": "ין יפני",
-            "symbol": "JP¥",
+            "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
@@ -871,11 +879,11 @@
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "וון צפון-קוריאני",
-            "displayName-count-one": "וון צפון-קוריאני",
-            "displayName-count-two": "וון צפון-קוריאני",
-            "displayName-count-many": "וון צפון-קוריאני",
-            "displayName-count-other": "וון צפון-קוריאני",
+            "displayName": "וון צפון קוריאני",
+            "displayName-count-one": "וון צפון קוריאני",
+            "displayName-count-two": "וון צפון קוריאני",
+            "displayName-count-many": "וון צפון קוריאני",
+            "displayName-count-other": "וון צפון קוריאני",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -888,11 +896,11 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "וון דרום-קוריאני",
-            "displayName-count-one": "וון דרום-קוריאני",
-            "displayName-count-two": "וון דרום-קוריאני",
-            "displayName-count-many": "וון דרום-קוריאני",
-            "displayName-count-other": "וון דרום-קוריאני",
+            "displayName": "וון דרום קוריאני",
+            "displayName-count-one": "וון דרום קוריאני",
+            "displayName-count-two": "וון דרום קוריאני",
+            "displayName-count-many": "וון דרום קוריאני",
+            "displayName-count-other": "וון דרום קוריאני",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
@@ -1071,11 +1079,11 @@
             "symbol-alt-narrow": "K"
           },
           "MNT": {
-            "displayName": "טוגריק מונגולי",
-            "displayName-count-one": "טוגריק מונגולי",
-            "displayName-count-two": "טוגריק מונגולי",
-            "displayName-count-many": "טוגריק מונגולי",
-            "displayName-count-other": "טוגריק מונגולי",
+            "displayName": "טוגרוג מונגולי",
+            "displayName-count-one": "טוגרוג מונגולי",
+            "displayName-count-two": "טוגרוג מונגולי",
+            "displayName-count-many": "טוגרוג מונגולי",
+            "displayName-count-other": "טוגרוג מונגולי",
             "symbol": "MNT",
             "symbol-alt-narrow": "₮"
           },
@@ -1197,11 +1205,11 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "קורדובה ניקראגי",
-            "displayName-count-one": "קורדובה ניקראגי",
-            "displayName-count-two": "קורדובה ניקראגי",
-            "displayName-count-many": "קורדובה ניקראגי",
-            "displayName-count-other": "קורדובה ניקראגי",
+            "displayName": "קורדובה ניקרגואה",
+            "displayName-count-one": "קורדובה ניקרגואה",
+            "displayName-count-two": "קורדובה ניקרגואה",
+            "displayName-count-many": "קורדובה ניקרגואה",
+            "displayName-count-other": "קורדובה ניקרגואה",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -1210,11 +1218,11 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "כתר נורבגי",
-            "displayName-count-one": "כתר נורבגי",
-            "displayName-count-two": "כתר נורבגי",
-            "displayName-count-many": "כתר נורבגי",
-            "displayName-count-other": "כתר נורבגי",
+            "displayName": "כתר נורווגי",
+            "displayName-count-one": "כתר נורווגי",
+            "displayName-count-two": "כתר נורווגי",
+            "displayName-count-many": "כתר נורווגי",
+            "displayName-count-other": "כתר נורווגי",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
@@ -1342,7 +1350,8 @@
             "displayName-count-two": "לאו רומני",
             "displayName-count-many": "לאו רומני",
             "displayName-count-other": "לאו רומני",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "דינר סרבי",

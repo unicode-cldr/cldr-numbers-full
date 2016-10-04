@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ml"
       },
@@ -326,12 +326,18 @@
             "displayName-count-other": "ബെലാറഷ്യൻ ന്യൂ റൂബിൾസ് (BYB)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ബെലാറുഷ്യൻ റൂബിൾ",
             "displayName-count-one": "ബെലാറുഷ്യൻ റൂബിൾ",
             "displayName-count-other": "ബെലാറുഷ്യൻ റൂബിൾ",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ബെലാറുഷ്യൻ റൂബിൾ (2000–2016)",
+            "displayName-count-one": "ബെലാറുഷ്യൻ റൂബിൾ (2000–2016)",
+            "displayName-count-other": "ബെലാറുഷ്യൻ റൂബിൾ (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ബെലീസ് ഡോളർ",
@@ -603,7 +609,7 @@
           "GEL": {
             "displayName": "ജോർജ്ജിയൻ ലാറി",
             "displayName-count-one": "ജോർജ്ജിയൻ ലാറി",
-            "displayName-count-other": "ജോർജ്ജിയൻ ലാറി",
+            "displayName-count-other": "ജോർജ്ജിയൻ ലാറിസ്",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾",
             "symbol-alt-variant": "₾"
@@ -864,9 +870,9 @@
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "കസാക്കിസ്ഥാൻ ടെംഗെ",
-            "displayName-count-one": "കസാക്കിസ്ഥാൻ ടെംഗെ",
-            "displayName-count-other": "കസാക്കിസ്ഥാൻ ടെംഗെ",
+            "displayName": "കസാക്കിസ്ഥാനി ടെംഗെ",
+            "displayName-count-one": "കസാക്കിസ്ഥാനി ടെംഗെ",
+            "displayName-count-other": "കസാക്കിസ്ഥാനി ടെംഗെ",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
@@ -1238,7 +1244,8 @@
             "displayName": "റൊമാനിയൻ ലെയു",
             "displayName-count-one": "റൊമാനിയൻ ലെയു",
             "displayName-count-other": "റൊമാനിയൻ ലെയു",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "സെർബിയൻ ദിനാർ",
@@ -1399,8 +1406,8 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "താജിക്കിസ്ഥാനി സൊമോനി",
-            "displayName-count-one": "താജിക്കിസ്ഥാനി സൊമോനി",
+            "displayName": "താജിക്കിസ്ഥാനി സോംനി",
+            "displayName-count-one": "താജിക്കിസ്ഥാനി സോംനി",
             "displayName-count-other": "താജിക്കിസ്ഥാനി സൊമോനി",
             "symbol": "TJS"
           },
@@ -1529,9 +1536,9 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "ഉസ്‌ബെക്കിസ്ഥാൻ സോം",
-            "displayName-count-one": "ഉസ്‌ബെക്കിസ്ഥാൻ സോം",
-            "displayName-count-other": "ഉസ്‌ബെക്കിസ്ഥാൻ സോം",
+            "displayName": "ഉസ്‌ബെക്കിസ്ഥാനി സോം",
+            "displayName-count-one": "ഉസ്‌ബെക്കിസ്ഥാനി സോം",
+            "displayName-count-other": "ഉസ്‌ബെക്കിസ്ഥാനി സോം",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1658,7 +1665,7 @@
           "XPF": {
             "displayName": "CFP ഫ്രാങ്ക്",
             "displayName-count-one": "CFP ഫ്രാങ്ക്",
-            "displayName-count-other": "CFP ഫ്രാങ്ക്സ്",
+            "displayName-count-other": "CFP ഫ്രാങ്ക്",
             "symbol": "CFPF"
           },
           "XPT": {

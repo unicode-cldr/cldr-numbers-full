@@ -3,8 +3,8 @@
     "ta-LK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ta",
         "territory": "LK"
@@ -16,9 +16,9 @@
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹம்",
-            "displayName-count-one": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹம்",
-            "displayName-count-other": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹம்கள்",
+            "displayName": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹாம்",
+            "displayName-count-one": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹாம்",
+            "displayName-count-other": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹாம்கள்",
             "symbol": "AED"
           },
           "AFA": {
@@ -85,9 +85,9 @@
             "symbol": "ARP"
           },
           "ARS": {
-            "displayName": "அர்ஜென்டினா பேசோ",
-            "displayName-count-one": "அர்ஜென்டினா பேசோ",
-            "displayName-count-other": "அர்ஜென்டினா பேசோக்கள்",
+            "displayName": "அர்ஜென்டைன் பெசோ",
+            "displayName-count-one": "அர்ஜென்டைன் பெசோ",
+            "displayName-count-other": "அர்ஜென்டைன் பெசோக்கள்",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -271,9 +271,9 @@
             "symbol": "BUK"
           },
           "BWP": {
-            "displayName": "போட்ஸ்வானா புலா",
-            "displayName-count-one": "போட்ஸ்வானா புலா",
-            "displayName-count-other": "போட்ஸ்வானா புலாக்கள்",
+            "displayName": "போட்ஸ்வானன் புலா",
+            "displayName-count-one": "போட்ஸ்வானன் புலா",
+            "displayName-count-other": "போட்ஸ்வானன் புலாக்கள்",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -281,12 +281,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
-            "displayName": "பெலருசியன் ரூபில்",
-            "displayName-count-one": "பெலருசியன் ரூபில்",
-            "displayName-count-other": "பெலருசியன் ரூபில்கள்",
-            "symbol": "BYR",
+          "BYN": {
+            "displayName": "பெலருசியன் ரூபிள்",
+            "displayName-count-one": "பெலருசியன் ரூபிள்",
+            "displayName-count-other": "பெலருசியன் ரூபிள்கள்",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "பெலருசியன் ரூபிள் (2000–2016)",
+            "displayName-count-one": "பெலருசியன் ரூபிள் (2000–2016)",
+            "displayName-count-other": "பெலருசியன் ரூபிள்கள் (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "பெலீஸ் டாலர்",
@@ -371,16 +377,16 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "கியூபன் கன்வெர்டிபில் பேசோ",
-            "displayName-count-one": "கியூபன் கன்வெர்டிபில் பேசோ",
-            "displayName-count-other": "கியூபன் கன்வெர்டிபில் பேசோக்கள்",
+            "displayName": "கியூபன் கன்வெர்டிபில் பெசோ",
+            "displayName-count-one": "கியூபன் கன்வெர்டிபில் பெசோ",
+            "displayName-count-other": "கியூபன் கன்வெர்டிபில் பெசோக்கள்",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
             "displayName": "கியூபன் பெசோ",
             "displayName-count-one": "கியூபன் பெசோ",
-            "displayName-count-other": "கியூபன் பேசோக்கள்",
+            "displayName-count-other": "கியூபன் பெசோக்கள்",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -397,7 +403,7 @@
           "CZK": {
             "displayName": "செக் குடியரசு கொருனா",
             "displayName-count-one": "செக் குடியரசு கொருனா",
-            "displayName-count-other": "செக்குடியரசு கொருனாக்கள்",
+            "displayName-count-other": "செக் குடியரசு கொருனாக்கள்",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -416,16 +422,16 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "டானிஷ் க்ரோன்",
-            "displayName-count-one": "டானிஷ் க்ரோன்",
-            "displayName-count-other": "டானிஷ் க்ரோன்",
+            "displayName": "டேனிஷ் க்ரோன்",
+            "displayName-count-one": "டேனிஷ் க்ரோன்",
+            "displayName-count-other": "டேனிஷ் க்ரோனர்",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "டொமினிக்கன் பேசோ",
-            "displayName-count-one": "டொமினிக்கன் பேசோ",
-            "displayName-count-other": "டொமினிக்கன் பேசோக்கள்",
+            "displayName": "டொமினிக்கன் பெசோ",
+            "displayName-count-one": "டொமினிக்கன் பெசோ",
+            "displayName-count-other": "டொமினிக்கன் பெசோக்கள்",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
@@ -455,9 +461,9 @@
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
-            "displayName": "இரிடிரியன் நக்ஃபா",
-            "displayName-count-one": "இரிடிரியன் நக்ஃபா",
-            "displayName-count-other": "இரிடிரியன் நக்ஃபாக்கள்",
+            "displayName": "எரித்ரியன் நக்ஃபா",
+            "displayName-count-one": "எரித்ரியன் நக்ஃபா",
+            "displayName-count-other": "எரித்ரியன் நக்ஃபாக்கள்",
             "symbol": "ERN"
           },
           "ESA": {
@@ -509,9 +515,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "பிரிட்டிஷ் பவுண்ட் ஸ்டெர்லிங்",
-            "displayName-count-one": "பிரிட்டிஷ் பவுண்ட் ஸ்டெர்லிங்",
-            "displayName-count-other": "பிரிட்டிஷ் பவுண்ட் ஸ்டெர்லிங்",
+            "displayName": "பிரிட்டிஷ் பவுண்டு",
+            "displayName-count-one": "பிரிட்டிஷ் பவுண்டு",
+            "displayName-count-other": "பிரிட்டிஷ் பவுண்டுகள்",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -520,9 +526,9 @@
             "symbol": "GEK"
           },
           "GEL": {
-            "displayName": "ஜியார்ஜியன் லாரி",
-            "displayName-count-one": "ஜியார்ஜியன் லாரி",
-            "displayName-count-other": "ஜியார்ஜியன் லாரிகள்",
+            "displayName": "ஜார்ஜியன் லாரி",
+            "displayName-count-one": "ஜார்ஜியன் லாரி",
+            "displayName-count-other": "ஜார்ஜியன் லாரிகள்",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾",
             "symbol-alt-variant": "₾"
@@ -538,9 +544,9 @@
             "symbol": "GHS"
           },
           "GIP": {
-            "displayName": "கிப்ரால்டர் பவுண்ட்",
-            "displayName-count-one": "கிப்ரால்டர் பவுண்ட்",
-            "displayName-count-other": "கிப்ரால்டர் பவுண்டுகள்",
+            "displayName": "ஜிப்ரால்டர் பவுண்டு",
+            "displayName-count-one": "ஜிப்ரால்டர் பவுண்டு",
+            "displayName-count-other": "ஜிப்ரால்டர் பவுண்டுகள்",
             "symbol": "GIP",
             "symbol-alt-narrow": "£"
           },
@@ -570,9 +576,9 @@
             "symbol": "GRD"
           },
           "GTQ": {
-            "displayName": "குவாடெமெலன் குயூட்ஸல்",
-            "displayName-count-one": "குவாடெமெலன் குயூட்ஸல்",
-            "displayName-count-other": "குவாடெமெலன் குயூட்ஸல்கள்",
+            "displayName": "குவாதெமாலன் க்யுட்ஸல்",
+            "displayName-count-one": "குவாதெமாலன் க்யுட்ஸல்",
+            "displayName-count-other": "குவாதெமாலன் க்யுட்ஸல்கள்",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -682,9 +688,9 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "ஜமைக்கான் டாலர்",
-            "displayName-count-one": "ஜமைக்கான் டாலர்",
-            "displayName-count-other": "ஜமைக்கான் டாலர்கள்",
+            "displayName": "ஜமைக்கன் டாலர்",
+            "displayName-count-one": "ஜமைக்கன் டாலர்",
+            "displayName-count-other": "ஜமைக்கன் டாலர்கள்",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
@@ -777,8 +783,8 @@
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "லெபனீஸ் பவுண்ட்",
-            "displayName-count-one": "லெபனீஸ் பவுண்ட்",
+            "displayName": "லெபனீஸ் பவுண்டு",
+            "displayName-count-one": "லெபனீஸ் பவுண்டு",
             "displayName-count-other": "லெபனீஸ் பவுண்டுகள்",
             "symbol": "LBP",
             "symbol-alt-narrow": "L£"
@@ -842,9 +848,9 @@
             "symbol": "LYD"
           },
           "MAD": {
-            "displayName": "மொராக்கோ திர்ஹாம்",
-            "displayName-count-one": "மொராக்கோ திர்ஹாம்",
-            "displayName-count-other": "மொராக்கோ திர்ஹாம்கள்",
+            "displayName": "மொராக்கன் திர்ஹாம்",
+            "displayName-count-one": "மொராக்கன் திர்ஹாம்",
+            "displayName-count-other": "மொராக்கன் திர்ஹாம்கள்",
             "symbol": "MAD"
           },
           "MAF": {
@@ -911,9 +917,9 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "மொரிஷியனியன் ஒகுய்யா",
-            "displayName-count-one": "மொரிஷியனியன் ஒகுய்யா",
-            "displayName-count-other": "மொரிஷியனியன் ஒகுய்யாக்கள்",
+            "displayName": "மொரிஷானியன் ஒகுயா",
+            "displayName-count-one": "மொரிஷானியன் ஒகுயா",
+            "displayName-count-other": "மொரிஷானியன் ஒகுயாக்கள்",
             "symbol": "MRO"
           },
           "MTL": {
@@ -974,9 +980,9 @@
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "மொசாம்பிகேன் மெடிகல்",
-            "displayName-count-one": "மொசாம்பிகேன் மெடிகல்",
-            "displayName-count-other": "மொசாம்பிகேன் மெடிகல்கள்",
+            "displayName": "மொசாம்பிகன் மெடிகல்",
+            "displayName-count-one": "மொசாம்பிகன் மெடிகல்",
+            "displayName-count-other": "மொசாம்பிகன் மெடிகல்கள்",
             "symbol": "MZN"
           },
           "NAD": {
@@ -998,9 +1004,9 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "நிகாராகுவான் கோர்டோபா",
-            "displayName-count-one": "நிகாராகுவான் கோர்டோபா",
-            "displayName-count-other": "நிகாராகுவான் கோர்டோபாக்கள்",
+            "displayName": "நிகரகுவன் கோர்டோபா",
+            "displayName-count-one": "நிகரகுவன் கோர்டோபா",
+            "displayName-count-other": "நிகரகுவன் கோர்டோபாக்கள்",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -1046,9 +1052,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "பெருவியன் நியூவோ சோல்",
-            "displayName-count-one": "பெருவியன் நியூவோ சோல்",
-            "displayName-count-other": "பெருவியன் நியூவோ சோல்கள்",
+            "displayName": "பெரூவியன் சோல்",
+            "displayName-count-one": "பெரூவியன் சோல்",
+            "displayName-count-other": "பெரூவியன் சோல்கள்",
             "symbol": "PEN"
           },
           "PES": {
@@ -1115,7 +1121,8 @@
             "displayName": "ரோமானியன் லியூ",
             "displayName-count-one": "ரோமானியன் லியூ",
             "displayName-count-other": "ரோமானியன் லேய்",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "செர்பியன் தினார்",
@@ -1136,9 +1143,9 @@
             "symbol-alt-narrow": "р."
           },
           "RWF": {
-            "displayName": "ருவாண்டா ஃப்ராங்க்",
-            "displayName-count-one": "ருவாண்டா ஃப்ராங்க்",
-            "displayName-count-other": "ருவாண்டா ஃப்ராங்க்குகள்",
+            "displayName": "ருவாண்டன் ஃப்ராங்க்",
+            "displayName-count-one": "ருவாண்டன் ஃப்ராங்க்",
+            "displayName-count-other": "ருவாண்டன் ஃப்ராங்க்குகள்",
             "symbol": "RWF",
             "symbol-alt-narrow": "RF"
           },
@@ -1250,8 +1257,8 @@
             "symbol": "SVC"
           },
           "SYP": {
-            "displayName": "சிரியன் பவுண்ட்",
-            "displayName-count-one": "சிரியன் பவுண்ட்",
+            "displayName": "சிரியன் பவுண்டு",
+            "displayName-count-one": "சிரியன் பவுண்டு",
             "displayName-count-other": "சிரியன் பவுண்டுகள்",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
@@ -1284,9 +1291,9 @@
             "symbol": "TMM"
           },
           "TMT": {
-            "displayName": "துர்க்மேனிஸ்தானி மனத்",
-            "displayName-count-one": "துர்க்மேனிஸ்தானி மனத்",
-            "displayName-count-other": "துர்க்மேனிஸ்தானி மனத்",
+            "displayName": "துர்க்மெனிஸ்தானி மனத்",
+            "displayName-count-one": "துர்க்மெனிஸ்தானி மனத்",
+            "displayName-count-other": "துர்க்மெனிஸ்தானி மனத்",
             "symbol": "TMT"
           },
           "TND": {
@@ -1333,9 +1340,9 @@
             "symbol-alt-narrow": "NT$"
           },
           "TZS": {
-            "displayName": "தன்ஸானியன் ஷில்லிங்",
-            "displayName-count-one": "தன்ஸானியன் ஷில்லிங்",
-            "displayName-count-other": "தன்ஸானியன் ஷில்லிங்குகள்",
+            "displayName": "தான்சானியன் ஷில்லிங்",
+            "displayName-count-one": "தான்சானியன் ஷில்லிங்",
+            "displayName-count-other": "தான்சானியன் ஷில்லிங்குகள்",
             "symbol": "TZS"
           },
           "UAH": {
@@ -1383,9 +1390,9 @@
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "உருகுவேயன் பேசோ",
-            "displayName-count-one": "உருகுவேயன் பேசோ",
-            "displayName-count-other": "உருகுவேயன் பேசோக்கள்",
+            "displayName": "உருகுவேயன் பெசோ",
+            "displayName-count-one": "உருகுவேயன் பெசோ",
+            "displayName-count-other": "உருகுவேயன் பெசோக்கள்",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
@@ -1483,9 +1490,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "மேற்கு ஆப்பிரிக்கன் CFA ஃப்ராங்க்",
-            "displayName-count-one": "மேற்கு ஆப்பிரிக்கன் CFA ஃப்ராங்க்",
-            "displayName-count-other": "மேற்கு ஆப்பிரிக்கன் CFA ஃப்ராங்க்குகள்",
+            "displayName": "மேற்கு ஆப்பிரிக்க CFA ஃப்ராங்க்",
+            "displayName-count-one": "மேற்கு ஆப்பிரிக்க CFA ஃப்ராங்க்",
+            "displayName-count-other": "மேற்கு ஆப்பிரிக்க CFA ஃப்ராங்க்குகள்",
             "symbol": "CFA"
           },
           "XPD": {
@@ -1566,9 +1573,9 @@
             "symbol": "ZMK"
           },
           "ZMW": {
-            "displayName": "ஸாம்பியன் குவாசா",
-            "displayName-count-one": "ஸாம்பியன் குவாசா",
-            "displayName-count-other": "ஸாம்பியன் குவாசாக்கள்",
+            "displayName": "ஸாம்பியன் குவாச்சா",
+            "displayName-count-one": "ஸாம்பியன் குவாச்சா",
+            "displayName-count-other": "ஸாம்பியன் குவாச்சாக்கள்",
             "symbol": "ZMW",
             "symbol-alt-narrow": "ZK"
           },

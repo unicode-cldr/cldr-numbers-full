@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lo"
       },
@@ -257,11 +257,16 @@
             "displayName": "ຣູໂບ ເບຣາຣຸສ ໃໝ່(1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ເບ​ລາ​ຣຸ​ສ​ຊຽນ ຣູ​ເບິນ",
             "displayName-count-other": "ເບ​ລາ​ຣຸ​ສ​ຊຽນ ຣູ​ເບິນ",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ເບ​ລາ​ຣຸ​ສ​ຊຽນ ຣູ​ເບິນ (2000–2016)",
+            "displayName-count-other": "ເບ​ລາ​ຣຸ​ສ​ຊຽນ ຣູ​ເບິນ (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ໂດ​ລ່າ​ເບ​ລິ​ຊ",
@@ -1000,7 +1005,8 @@
           "RON": {
             "displayName": "ໂຣ​ມາ​ນຽນ ເລ​ອູ",
             "displayName-count-other": "ໂຣ​ມາ​ນຽນ ເລ​ອູ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ເຊີ​ບຽນ ດິ​ນາ",
@@ -1245,8 +1251,8 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "ອຸສ​ເບ​ກິ​ສ​ຖານ ໂຊມ",
-            "displayName-count-other": "ອຸສ​ເບ​ກິ​ສ​ຖານ ໂຊມ",
+            "displayName": "ອຸສເບກິສຖານິ ໂຊມ",
+            "displayName-count-other": "ອຸສເບກິສຖານິ ໂຊມ",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1280,7 +1286,7 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "ຟຣັງ ເຊຟານ ທະນາຄານລັດອາຟຣິກາກາງ",
+            "displayName": "ສາທາລະນະລັດອາຟຣິກາກາງ",
             "displayName-count-other": "ຟຣັງ ເຊຟານ ທະນາຄານລັດອາຟຣິກາກາງ",
             "symbol": "FCFA"
           },
@@ -1365,8 +1371,8 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "ສະ​ກຸນ​ເງິນ​ທີ່ບໍ່​ຮູັ​ຈັກ",
-            "displayName-count-other": "ສະ​ກຸນ​ເງິນ​ທີ່ບໍ່​ຮູັ​ຈັກ",
+            "displayName": "ສະກຸນເງິນທີ່ບໍ່ຮູ້ຈັກ",
+            "displayName-count-other": "(ສະກຸນເງິນທີ່ບໍ່ຮູ້ຈັກ)",
             "symbol": "XXX"
           },
           "YDD": {

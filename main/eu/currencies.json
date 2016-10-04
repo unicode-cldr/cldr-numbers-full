@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "eu"
       },
@@ -102,9 +102,9 @@
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "Arubeko florina",
-            "displayName-count-one": "Arubeko florin",
-            "displayName-count-other": "Arubeko florin",
+            "displayName": "Arubako florina",
+            "displayName-count-one": "Arubako florin",
+            "displayName-count-other": "Arubako florin",
             "symbol": "AWG"
           },
           "AZM": {
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Bielorrusiako errubloa",
             "displayName-count-one": "Bielorrusiako errublo",
             "displayName-count-other": "Bielorrusiako errublo",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Bielorrusiako errubloa (2000–2016)",
+            "displayName-count-one": "Bielorrusiako errublo (2000–2016)",
+            "displayName-count-other": "Bielorrusiako errublo (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belizeko dolarra",
@@ -409,9 +415,9 @@
             "symbol": "DEM"
           },
           "DJF": {
-            "displayName": "Djibouteko frankoa",
-            "displayName-count-one": "Djibouteko franko",
-            "displayName-count-other": "Djibouteko franko",
+            "displayName": "Djibutiko frankoa",
+            "displayName-count-one": "Djibutiko franko",
+            "displayName-count-other": "Djibutiko franko",
             "symbol": "DJF"
           },
           "DKK": {
@@ -429,9 +435,9 @@
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "Algeriako dinarra",
-            "displayName-count-one": "Algeriako dinar",
-            "displayName-count-other": "Algeriako dinar",
+            "displayName": "Aljeriako dinarra",
+            "displayName-count-one": "Aljeriako dinar",
+            "displayName-count-other": "Aljeriako dinar",
             "symbol": "DZD"
           },
           "ECS": {
@@ -477,12 +483,12 @@
           },
           "ETB": {
             "displayName": "Etiopiako birra",
-            "displayName-count-one": "Etiopiako birra",
-            "displayName-count-other": "Etiopiako birra",
+            "displayName-count-one": "Etiopiako birr",
+            "displayName-count-other": "Etiopiako birr",
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "Euroa",
+            "displayName": "euroa",
             "displayName-count-one": "euro",
             "displayName-count-other": "euro",
             "symbol": "€",
@@ -512,8 +518,8 @@
           },
           "GBP": {
             "displayName": "Libera esterlina",
-            "displayName-count-one": "libera esterlina",
-            "displayName-count-other": "libera esterlina",
+            "displayName-count-one": "Libera esterlina",
+            "displayName-count-other": "Libera esterlina",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -646,9 +652,9 @@
             "symbol": "ILP"
           },
           "ILS": {
-            "displayName": "Israeleko sheqel berria",
-            "displayName-count-one": "Israeleko sheqel berri",
-            "displayName-count-other": "Israeleko sheqel berri",
+            "displayName": "Israelgo shekel berria",
+            "displayName-count-one": "Israelgo shekel berri",
+            "displayName-count-other": "Israelgo shekel berri",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -878,7 +884,7 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "Mazedoniako denara",
+            "displayName": "Mazedoniako dinarra",
             "displayName-count-one": "Mazedoniako dinar",
             "displayName-count-other": "Mazedoniako dinar",
             "symbol": "MKD"
@@ -1116,7 +1122,8 @@
             "displayName": "Errumaniako leua",
             "displayName-count-one": "Errumaniako leu",
             "displayName-count-other": "Errumaniako leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbiako dinarra",
@@ -1144,9 +1151,9 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "Saudiko riala",
-            "displayName-count-one": "Saudiko rial",
-            "displayName-count-other": "Saudiko rial",
+            "displayName": "Arabia Saudiko riala",
+            "displayName-count-one": "Arabia Saudiko rial",
+            "displayName-count-other": "Arabia Saudiko rial",
             "symbol": "SAR"
           },
           "SBD": {
@@ -1258,9 +1265,9 @@
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "Swaziko lilangenia",
-            "displayName-count-one": "Swaziko lilangeni",
-            "displayName-count-other": "Swaziko lilangeni",
+            "displayName": "Swazilandiako lilangenia",
+            "displayName-count-one": "Swazilandiako lilangeni",
+            "displayName-count-other": "Swazilandiako lilangeni",
             "symbol": "SZL"
           },
           "THB": {
@@ -1320,9 +1327,9 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "Trinidadeko eta Tobagoko dolarra",
-            "displayName-count-one": "Trinidadeko eta Tobagoko dolar",
-            "displayName-count-other": "Trinidadeko eta Tobagoko dolar",
+            "displayName": "Trinidad eta Tobagoko dolarra",
+            "displayName-count-one": "Trinidad eta Tobagoko dolar",
+            "displayName-count-other": "Trinidad eta Tobagoko dolar",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
@@ -1361,9 +1368,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "AEBetako dolarra",
-            "displayName-count-one": "AEBetako dolar",
-            "displayName-count-other": "AEBetako dolar",
+            "displayName": "AEBko dolarra",
+            "displayName-count-one": "AEBko dolar",
+            "displayName-count-other": "AEBko dolar",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },
@@ -1431,9 +1438,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "Afrika erdialdeko frankoa BEAC",
-            "displayName-count-one": "Afrika erdialdeko franko BEAC",
-            "displayName-count-other": "Afrika erdialdeko franko BEAC",
+            "displayName": "Afrika erdialdeko CFA frankoa",
+            "displayName-count-one": "Afrika erdialdeko CFA franko",
+            "displayName-count-other": "Afrika erdialdeko CFA franko",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1484,9 +1491,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "Afrika ekialdeko frankoa BCEAO",
-            "displayName-count-one": "Afrika ekialdeko franko BCEAO",
-            "displayName-count-other": "Afrika ekialdeko franko BCEAO",
+            "displayName": "Afrika mendebaldeko CFA frankoa",
+            "displayName-count-one": "Afrika mendebaldeko CFA franko",
+            "displayName-count-other": "Afrika mendebaldeko CFA franko",
             "symbol": "CFA"
           },
           "XPD": {

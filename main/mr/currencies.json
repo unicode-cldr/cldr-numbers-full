@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mr"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "बेलारुशियन रुबल",
             "displayName-count-one": "बेलारुशियन रुबल",
             "displayName-count-other": "बेलारुशियन रुबल्स",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "बेलारुशियन रुबल (2000–2016)",
+            "displayName-count-one": "बेलारुशियन रुबल (2000–2016)",
+            "displayName-count-other": "बेलारुशियन रुबल्स (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "बेलीझ डॉलर",
@@ -1114,7 +1120,8 @@
             "displayName": "रोमानियन लेऊ",
             "displayName-count-one": "रोमानियन लेऊ",
             "displayName-count-other": "रोमानियन लेई",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "सर्बियन दिनार",

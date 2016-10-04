@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hr"
       },
@@ -397,13 +397,20 @@
             "displayName-count-other": "bjeloruskih novih rublji (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "bjeloruska rublja",
             "displayName-count-one": "bjeloruska rublja",
             "displayName-count-few": "bjeloruske rublje",
             "displayName-count-other": "bjeloruskih rublji",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "bjeloruska rublja (2000–2016)",
+            "displayName-count-one": "bjeloruska rublja (2000–2016)",
+            "displayName-count-few": "bjeloruske rublje (2000–2016)",
+            "displayName-count-other": "bjeloruskih rublji (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belizeanski dolar",
@@ -1518,7 +1525,8 @@
             "displayName-count-one": "rumunjski lej",
             "displayName-count-few": "rumunjska leja",
             "displayName-count-other": "rumunjskih leja",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "srpski dinar",
@@ -1914,7 +1922,7 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "vanuatuški vatu",
+            "displayName": "vanuatski vatu",
             "displayName-count-one": "vanuatski vatu",
             "displayName-count-few": "vanuatska vatua",
             "displayName-count-other": "vanuatskih vatua",

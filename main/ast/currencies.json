@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ast"
       },
@@ -345,12 +345,18 @@
             "displayName-count-other": "rublos nuevos bielorrusos (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rublu bielorrusu",
             "displayName-count-one": "rublu bielorrusu",
             "displayName-count-other": "rublos bielorrusos",
-            "symbol": "BYR",
-            "symbol-alt-narrow": "BYR"
+            "symbol": "BYN",
+            "symbol-alt-narrow": "BYN"
+          },
+          "BYR": {
+            "displayName": "Rublu bielorrusu (2000–2016)",
+            "displayName-count-one": "rublu bielorrusu (2000–2016)",
+            "displayName-count-other": "rublos bielorrusos (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dólar belizianu",
@@ -1312,7 +1318,8 @@
             "displayName": "Leu rumanu",
             "displayName-count-one": "leu rumanu",
             "displayName-count-other": "leus rumanos",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinar serbiu",

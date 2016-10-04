@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12779 $",
+          "_cldrVersion": "30"
         },
         "language": "ur",
         "territory": "IN"
@@ -168,7 +168,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-arabext": {
-          "standard": "#,##,##0%"
+          "standard": "#,##0%"
         },
         "percentFormats-numberSystem-latn": {
           "standard": "#,##,##0%"
@@ -266,11 +266,11 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-arabext": {
-          "atLeast": "⩾{0}",
+          "atLeast": "{0}+",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "⩾{0}",
+          "atLeast": "{0}+",
           "range": "{0}–{1}"
         }
       }

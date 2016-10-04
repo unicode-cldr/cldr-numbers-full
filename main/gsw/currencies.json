@@ -3,8 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "gsw"
       },
@@ -315,17 +315,23 @@
             "symbol-alt-narrow": "P"
           },
           "BYB": {
-            "displayName": "Belarus-Rubel (alt)",
-            "displayName-count-one": "Belarus-Rubel (alt)",
-            "displayName-count-other": "Belarus-Rubel (alt)",
+            "displayName": "Belarus-Rubel (1994–1999)",
+            "displayName-count-one": "Belarus-Rubel (1994–1999)",
+            "displayName-count-other": "Belarus-Rubel (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
-            "displayName": "Belarus Rubel (nöi)",
-            "displayName-count-one": "Belarus-Rubel (nöi)",
-            "displayName-count-other": "Belarus-Rubel (nöi)",
-            "symbol": "BYR",
+          "BYN": {
+            "displayName": "Belarus Rubel",
+            "displayName-count-one": "Belarus-Rubel",
+            "displayName-count-other": "Belarus-Rubel",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belarus Rubel (2000–2016)",
+            "displayName-count-one": "Belarus-Rubel (2000–2016)",
+            "displayName-count-other": "Belarus-Rubel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belize-Dollar",
@@ -1245,7 +1251,8 @@
             "displayName": "Rumäänische Löi",
             "displayName-count-one": "Rumäänische Löi",
             "displayName-count-other": "Rumäänischi Löi",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbische Dinar",

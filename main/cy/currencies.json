@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "cy"
       },
@@ -225,7 +225,7 @@
             "displayName": "Marc Trosadwy Bosnia a Hercegovina",
             "displayName-count-zero": "marc trosadwy Bosnia a Hercegovina",
             "displayName-count-one": "marc trosadwy Bosnia a Hercegovina",
-            "displayName-count-two": "marc trosadwy Bosnia a Hercegovina",
+            "displayName-count-two": "farc trosiadwy Bosnia a Hercegovina",
             "displayName-count-few": "marc trosadwy Bosnia a Hercegovina",
             "displayName-count-many": "marc trosadwy Bosnia a Hercegovina",
             "displayName-count-other": "marc trosadwy Bosnia a Hercegovina",
@@ -239,7 +239,7 @@
           "BBD": {
             "displayName": "Doler Barbados",
             "displayName-count-zero": "doler Barbados",
-            "displayName-count-one": "ddoler Barbados",
+            "displayName-count-one": "doler Barbados",
             "displayName-count-two": "ddoler Barbados",
             "displayName-count-few": "doler Barbados",
             "displayName-count-many": "doler Barbados",
@@ -327,7 +327,7 @@
           "BMD": {
             "displayName": "Doler Bermuda",
             "displayName-count-zero": "doler Bermuda",
-            "displayName-count-one": "ddoler Bermuda",
+            "displayName-count-one": "doler Bermuda",
             "displayName-count-two": "ddoler Bermuda",
             "displayName-count-few": "doler Bermuda",
             "displayName-count-many": "doler Bermuda",
@@ -462,7 +462,7 @@
             "displayName": "Doler y Bahamas",
             "displayName-count-zero": "doler y Bahamas",
             "displayName-count-one": "doler y Bahamas",
-            "displayName-count-two": "doler y Bahamas",
+            "displayName-count-two": "ddoler y Bahamas",
             "displayName-count-few": "doler y Bahamas",
             "displayName-count-many": "doler y Bahamas",
             "displayName-count-other": "doler y Bahamas",
@@ -504,7 +504,7 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rwbl Belarws",
             "displayName-count-zero": "rwbl Belarws",
             "displayName-count-one": "rwbl Belarws",
@@ -512,13 +512,23 @@
             "displayName-count-few": "rwbl Belarws",
             "displayName-count-many": "rwbl Belarws",
             "displayName-count-other": "rwbl Belarws",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rwbl Belarws (2000–2016)",
+            "displayName-count-zero": "rwbl Belarws (2000–2016)",
+            "displayName-count-one": "rwbl Belarws (2000–2016)",
+            "displayName-count-two": "rwbl Belarws (2000–2016)",
+            "displayName-count-few": "rwbl Belarws (2000–2016)",
+            "displayName-count-many": "rwbl Belarws (2000–2016)",
+            "displayName-count-other": "rwbl Belarws (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Doler Belize",
             "displayName-count-zero": "doler Belize",
-            "displayName-count-one": "ddoler Belize",
+            "displayName-count-one": "doler Belize",
             "displayName-count-two": "ddoler Belize",
             "displayName-count-few": "doler Belize",
             "displayName-count-many": "doler Belize",
@@ -529,7 +539,7 @@
           "CAD": {
             "displayName": "Doler Canada",
             "displayName-count-zero": "doler Canada",
-            "displayName-count-one": "ddoler Canada",
+            "displayName-count-one": "doler Canada",
             "displayName-count-two": "ddoler Canada",
             "displayName-count-few": "doler Canada",
             "displayName-count-many": "doler Canada",
@@ -774,7 +784,7 @@
           "EGP": {
             "displayName": "Punt Yr Aifft",
             "displayName-count-zero": "punt yr Aifft",
-            "displayName-count-one": "bunt yr Aifft",
+            "displayName-count-one": "punt yr Aifft",
             "displayName-count-two": "bunt yr Aifft",
             "displayName-count-few": "punt yr Aifft",
             "displayName-count-many": "phunt yr Aifft",
@@ -844,7 +854,7 @@
           "FKP": {
             "displayName": "Punt Ynysoedd Falkland/Malvinas",
             "displayName-count-zero": "punt Ynysoedd Falkland/Malvinas",
-            "displayName-count-one": "bunt Ynysoedd Falkland/Malvinas",
+            "displayName-count-one": "punt Ynysoedd Falkland/Malvinas",
             "displayName-count-two": "bunt Ynysoedd Falkland/Malvinas",
             "displayName-count-few": "punt Ynysoedd Falkland/Malvinas",
             "displayName-count-many": "phunt Ynysoedd Falkland/Malvinas",
@@ -912,7 +922,7 @@
           "GIP": {
             "displayName": "Punt Gibraltar",
             "displayName-count-zero": "punt Gibraltar",
-            "displayName-count-one": "bunt Gibraltar",
+            "displayName-count-one": "punt Gibraltar",
             "displayName-count-two": "bunt Gibraltar",
             "displayName-count-few": "punt Gibraltar",
             "displayName-count-many": "phunt Gibraltar",
@@ -993,7 +1003,7 @@
           "GYD": {
             "displayName": "Doler Guyana",
             "displayName-count-zero": "doler Guyana",
-            "displayName-count-one": "ddoler Guyana",
+            "displayName-count-one": "doler Guyana",
             "displayName-count-two": "ddoler Guyana",
             "displayName-count-few": "doler Guyana",
             "displayName-count-many": "doler Guyana",
@@ -1004,7 +1014,7 @@
           "HKD": {
             "displayName": "Doler Hong Kong",
             "displayName-count-zero": "doler Hong Kong",
-            "displayName-count-one": "ddoler Hong Kong",
+            "displayName-count-one": "doler Hong Kong",
             "displayName-count-two": "ddoler Hong Kong",
             "displayName-count-few": "doler Hong Kong",
             "displayName-count-many": "doler Hong Kong",
@@ -1285,7 +1295,7 @@
           "KYD": {
             "displayName": "Doler Ynysoedd Cayman",
             "displayName-count-zero": "doler Ynysoedd Cayman",
-            "displayName-count-one": "ddoler Ynysoedd Cayman",
+            "displayName-count-one": "doler Ynysoedd Cayman",
             "displayName-count-two": "ddoler Ynysoedd Cayman",
             "displayName-count-few": "doler Ynysoedd Cayman",
             "displayName-count-many": "doler Ynysoedd Cayman",
@@ -1318,7 +1328,7 @@
           "LBP": {
             "displayName": "Punt Libanus",
             "displayName-count-zero": "punt Libanus",
-            "displayName-count-one": "bunt Libanus",
+            "displayName-count-one": "punt Libanus",
             "displayName-count-two": "bunt Libanus",
             "displayName-count-few": "punt Libanus",
             "displayName-count-many": "phunt Libanus",
@@ -1670,7 +1680,7 @@
           "NAD": {
             "displayName": "Doler Namibia",
             "displayName-count-zero": "doler Namibia",
-            "displayName-count-one": "ddoler Namibia",
+            "displayName-count-one": "doler Namibia",
             "displayName-count-two": "ddoler Namibia",
             "displayName-count-few": "doler Namibia",
             "displayName-count-many": "doler Namibia",
@@ -1815,12 +1825,12 @@
           },
           "PHP": {
             "displayName": "Peso’r Philipinau",
-            "displayName-count-zero": "Peso Pilipinas",
-            "displayName-count-one": "Peso Pilipinas",
-            "displayName-count-two": "Peso Pilipinas",
-            "displayName-count-few": "Peso Pilipinas",
-            "displayName-count-many": "Peso Pilipinas",
-            "displayName-count-other": "Peso Pilipinas",
+            "displayName-count-zero": "peso Philipinas",
+            "displayName-count-one": "peso Philipinas",
+            "displayName-count-two": "peso Philipinas",
+            "displayName-count-few": "peso Philipinas",
+            "displayName-count-many": "peso Philipinas",
+            "displayName-count-other": "peso Philipinas",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
@@ -1897,7 +1907,8 @@
             "displayName-count-few": "leu Rwmania",
             "displayName-count-many": "leu Rwmania",
             "displayName-count-other": "leu Rwmania",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar Serbia",
@@ -1939,7 +1950,7 @@
           "SAR": {
             "displayName": "Riyal Saudi Arabia",
             "displayName-count-zero": "riyal Saudi Arabia",
-            "displayName-count-one": "Riyal Saudi Arabia",
+            "displayName-count-one": "riyal Saudi Arabia",
             "displayName-count-two": "riyal Saudi Arabia",
             "displayName-count-few": "riyal Saudi Arabia",
             "displayName-count-many": "riyal Saudi Arabia",
@@ -1980,7 +1991,7 @@
           "SDG": {
             "displayName": "Punt Sudan",
             "displayName-count-zero": "punt Sudan",
-            "displayName-count-one": "bunt Sudan",
+            "displayName-count-one": "punt Sudan",
             "displayName-count-two": "bunt Sudan",
             "displayName-count-few": "punt Sudan",
             "displayName-count-many": "phunt Sudan",
@@ -2022,7 +2033,7 @@
           "SHP": {
             "displayName": "Punt Saint Helena",
             "displayName-count-zero": "punt St. Helena",
-            "displayName-count-one": "bunt St. Helena",
+            "displayName-count-one": "punt St. Helena",
             "displayName-count-two": "bunt St. Helena",
             "displayName-count-few": "punt St. Helena",
             "displayName-count-many": "phunt St. Helena",
@@ -2061,7 +2072,7 @@
           "SRD": {
             "displayName": "Doler Surinam",
             "displayName-count-zero": "doler Surinam",
-            "displayName-count-one": "ddoler Surinam",
+            "displayName-count-one": "doler Surinam",
             "displayName-count-two": "ddoler Surinam",
             "displayName-count-few": "doler Surinam",
             "displayName-count-many": "doler Surinam",
@@ -2082,7 +2093,7 @@
           "SSP": {
             "displayName": "Punt De Sudan",
             "displayName-count-zero": "punt De Sudan",
-            "displayName-count-one": "bunt De Sudan",
+            "displayName-count-one": "punt De Sudan",
             "displayName-count-two": "bunt De Sudan",
             "displayName-count-few": "punt De Sudan",
             "displayName-count-many": "phunt De Sudan",
@@ -2117,12 +2128,12 @@
           },
           "SYP": {
             "displayName": "Punt Syria",
-            "displayName-count-zero": "Punt Syria",
-            "displayName-count-one": "Punt Syria",
-            "displayName-count-two": "Punt Syria",
-            "displayName-count-few": "Punt Syria",
-            "displayName-count-many": "Punt Syria",
-            "displayName-count-other": "Punt Syria",
+            "displayName-count-zero": "punt Syria",
+            "displayName-count-one": "punt Syria",
+            "displayName-count-two": "bunt Syria",
+            "displayName-count-few": "punt Syria",
+            "displayName-count-many": "punt Syria",
+            "displayName-count-other": "punt Syria",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },
@@ -2230,12 +2241,12 @@
           },
           "TRY": {
             "displayName": "Lira Twrci",
-            "displayName-count-zero": "Lira Twrci",
-            "displayName-count-one": "Lira Twrci",
-            "displayName-count-two": "Lira Twrci",
-            "displayName-count-few": "Lira Twrci",
-            "displayName-count-many": "Lira Twrci",
-            "displayName-count-other": "Lira Twrci",
+            "displayName-count-zero": "lira Twrci",
+            "displayName-count-one": "lira Twrci",
+            "displayName-count-two": "lira Twrci",
+            "displayName-count-few": "lira Twrci",
+            "displayName-count-many": "lira Twrci",
+            "displayName-count-other": "lira Twrci",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
@@ -2243,7 +2254,7 @@
           "TTD": {
             "displayName": "Doler Trinidad a Tobago",
             "displayName-count-zero": "doler Trinidad a Tobago",
-            "displayName-count-one": "ddoler Trinidad a Tobago",
+            "displayName-count-one": "doler Trinidad a Tobago",
             "displayName-count-two": "ddoler Trinidad a Tobago",
             "displayName-count-few": "doler Trinidad a Tobago",
             "displayName-count-many": "doler Trinidad a Tobago",
@@ -2254,7 +2265,7 @@
           "TWD": {
             "displayName": "Doler Newydd Taiwan",
             "displayName-count-zero": "doler newydd Taiwan",
-            "displayName-count-one": "ddoler newydd Taiwan",
+            "displayName-count-one": "doler newydd Taiwan",
             "displayName-count-two": "ddoler newydd Taiwan",
             "displayName-count-few": "doler newydd Taiwan",
             "displayName-count-many": "doler newydd Taiwan",
@@ -2310,7 +2321,7 @@
           "USD": {
             "displayName": "Doler UDA",
             "displayName-count-zero": "doler UDA",
-            "displayName-count-one": "ddoler UDA",
+            "displayName-count-one": "doler UDA",
             "displayName-count-two": "ddoler UDA",
             "displayName-count-few": "doler UDA",
             "displayName-count-many": "doler UDA",
@@ -2385,10 +2396,10 @@
           },
           "VEF": {
             "displayName": "Bolívar Venezuela",
-            "displayName-count-zero": "Bolívar Venezuela",
-            "displayName-count-one": "Bolívar Venezuela",
-            "displayName-count-two": "Bolívar Venezuela",
-            "displayName-count-few": "Bolívar Venezuela",
+            "displayName-count-zero": "bolivar Venezuela",
+            "displayName-count-one": "bolivar Venezuela",
+            "displayName-count-two": "bolivar Venezuela",
+            "displayName-count-few": "bolivar Venezuela",
             "displayName-count-many": "bolivar Venezuela",
             "displayName-count-other": "bolivar Venezuela",
             "symbol": "VEF",
@@ -2472,7 +2483,7 @@
           "XCD": {
             "displayName": "Doler Dwyrain y Caribî",
             "displayName-count-zero": "doler Dwyrain y Caribî",
-            "displayName-count-one": "ddoler Dwyrain y Caribî",
+            "displayName-count-one": "doler Dwyrain y Caribî",
             "displayName-count-two": "ddoler Dwyrain y Caribî",
             "displayName-count-few": "doler Dwyrain y Caribî",
             "displayName-count-many": "doler Dwyrain y Caribî",
@@ -2562,12 +2573,12 @@
           },
           "YER": {
             "displayName": "Rial Yemen",
-            "displayName-count-zero": "Rial Yemen",
-            "displayName-count-one": "Rial Yemen",
-            "displayName-count-two": "Rial Yemen",
-            "displayName-count-few": "Rial Yemen",
-            "displayName-count-many": "Rial Yemen",
-            "displayName-count-other": "Rial Yemen",
+            "displayName-count-zero": "rial Yemen",
+            "displayName-count-one": "rial Yemen",
+            "displayName-count-two": "rial Yemen",
+            "displayName-count-few": "rial Yemen",
+            "displayName-count-many": "rial Yemen",
+            "displayName-count-other": "rial Yemen",
             "symbol": "YER"
           },
           "YUD": {

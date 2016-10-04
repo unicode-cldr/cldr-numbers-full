@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "gu"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "બેલારુશિયન રૂબલ",
             "displayName-count-one": "બેલારુશિયન રૂબલ",
             "displayName-count-other": "બેલારુશિયન રૂબલ",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "બેલારુશિયન રૂબલ (2000–2016)",
+            "displayName-count-one": "બેલારુશિયન રૂબલ (2000–2016)",
+            "displayName-count-other": "બેલારુશિયન રૂબલ (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "બેલિઝ ડોલર",
@@ -1114,7 +1120,8 @@
             "displayName": "રોમાનિયન લેઉ",
             "displayName-count-one": "રોમાનિયન લેઉ",
             "displayName-count-other": "રોમાનિયન લેઉ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "સર્બિયન દિનાર",

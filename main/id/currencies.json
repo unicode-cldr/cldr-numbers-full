@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "id"
       },
@@ -276,11 +276,16 @@
             "displayName-count-other": "Rubel Baru Belarus (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rubel Belarusia",
             "displayName-count-other": "Rubel Belarusia",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rubel Belarusia (2000–2016)",
+            "displayName-count-other": "Rubel Belarusia (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dolar Belize",
@@ -1041,7 +1046,8 @@
           "RON": {
             "displayName": "Leu Rumania",
             "displayName-count-other": "Leu Rumania",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Dinar Serbia",
@@ -1416,7 +1422,7 @@
           },
           "XXX": {
             "displayName": "Mata Uang Tidak Dikenal",
-            "displayName-count-other": "Mata Uang Tidak Dikenal",
+            "displayName-count-other": "(mata uang tidak dikenal)",
             "symbol": "XXX"
           },
           "YDD": {

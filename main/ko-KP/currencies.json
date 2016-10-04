@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ko",
         "territory": "KP"
@@ -258,11 +258,16 @@
             "displayName": "벨라루스 신권 루블 (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "벨라루스 루블",
             "displayName-count-other": "벨라루스 루블",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "벨라루스 루블 (2000–2016)",
+            "displayName-count-other": "벨라루스 루블 (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "벨리즈 달러",
@@ -1001,7 +1006,8 @@
           "RON": {
             "displayName": "루마니아 레우",
             "displayName-count-other": "루마니아 레우",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "세르비아 디나르",
@@ -1134,7 +1140,7 @@
           "THB": {
             "displayName": "태국 바트",
             "displayName-count-other": "태국 바트",
-            "symbol": "฿",
+            "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
           "TJR": {
@@ -1281,8 +1287,8 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "CFA 프랑 BEAC",
-            "displayName-count-other": "CFA 프랑 BEAC",
+            "displayName": "중앙아프리카 CFA 프랑",
+            "displayName-count-other": "중앙아프리카 CFA 프랑",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1332,8 +1338,8 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "CFA 프랑 BCEAO",
-            "displayName-count-other": "CFA 프랑 BCEAO",
+            "displayName": "서아프리카 CFA 프랑",
+            "displayName-count-other": "서아프리카 CFA 프랑",
             "symbol": "CFA"
           },
           "XPD": {

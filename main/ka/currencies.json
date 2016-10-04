@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ka"
       },
@@ -280,12 +280,18 @@
             "displayName": "ახალი ბელარუსიული რუბლი (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ბელორუსული რუბლი",
             "displayName-count-one": "ბელორუსული რუბლი",
             "displayName-count-other": "ბელორუსული რუბლი",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ბელორუსული რუბლი (2000–2016)",
+            "displayName-count-one": "ბელორუსული რუბლი (2000–2016)",
+            "displayName-count-other": "ბელორუსული რუბლი (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ბელიზის დოლარი",
@@ -1115,7 +1121,8 @@
             "displayName": "რუმინული ლეუ",
             "displayName-count-one": "რუმინული ლეუ",
             "displayName-count-other": "რუმინული ლეუ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "სერბული დინარი",

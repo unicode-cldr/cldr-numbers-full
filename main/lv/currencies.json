@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lv"
       },
@@ -135,10 +135,10 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Bosnijas un Hercogovinas marka",
-            "displayName-count-zero": "Bosnijas un Hercogovinas markas",
-            "displayName-count-one": "Bosnijas un Hercogovinas marka",
-            "displayName-count-other": "Bosnijas un Hercogovinas markas",
+            "displayName": "Bosnijas un Hercogovinas konvertējamā marka",
+            "displayName-count-zero": "Bosnijas un Hercogovinas konvertējamās markas",
+            "displayName-count-one": "Bosnijas un Hercogovinas konvertējamā marka",
+            "displayName-count-other": "Bosnijas un Hercogovinas konvertējamās markas",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -309,13 +309,20 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Baltkrievijas rubelis",
             "displayName-count-zero": "Baltkrievijas rubeļi",
             "displayName-count-one": "Baltkrievijas rubelis",
             "displayName-count-other": "Baltkrievijas rubeļi",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Baltkrievijas rubelis (2000–2016)",
+            "displayName-count-zero": "Baltkrievijas rubeļi (2000–2016)",
+            "displayName-count-one": "Baltkrievijas rubelis (2000–2016)",
+            "displayName-count-other": "Baltkrievijas rubeļi (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belizas dolārs",
@@ -1240,7 +1247,8 @@
             "displayName-count-zero": "Rumānijas lejas",
             "displayName-count-one": "Rumānijas leja",
             "displayName-count-other": "Rumānijas lejas",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbijas dinārs",

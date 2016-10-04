@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "bg"
       },
@@ -316,12 +316,18 @@
             "displayName-count-other": "беларуски нови рубли (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Беларуска рубла",
             "displayName-count-one": "беларуска рубла",
             "displayName-count-other": "беларуски рубли",
-            "symbol": "BYR",
-            "symbol-alt-narrow": "BYR"
+            "symbol": "BYN",
+            "symbol-alt-narrow": "BYN"
+          },
+          "BYR": {
+            "displayName": "Беларуска рубла (2000–2016)",
+            "displayName-count-one": "беларуска рубла (2000–2016)",
+            "displayName-count-other": "беларуски рубли (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Белизийски долар",
@@ -1208,7 +1214,8 @@
             "displayName": "Румънска лея",
             "displayName-count-one": "румънска лея",
             "displayName-count-other": "румънски леи",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Сръбски динар",

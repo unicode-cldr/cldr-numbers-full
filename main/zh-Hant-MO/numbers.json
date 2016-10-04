@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hant",
@@ -50,7 +50,7 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-other": "0",
+              "1000-count-other": "0千",
               "10000-count-other": "0萬",
               "100000-count-other": "00萬",
               "1000000-count-other": "000萬",
@@ -85,7 +85,7 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-other": "0",
+              "1000-count-other": "0千",
               "10000-count-other": "0萬",
               "100000-count-other": "00萬",
               "1000000-count-other": "000萬",

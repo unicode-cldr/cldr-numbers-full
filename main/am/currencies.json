@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "am"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "የቤላሩስያ ሩብል",
             "displayName-count-one": "የቤላሩስያ ሩብል",
             "displayName-count-other": "የቤላሩስያ ሩብል",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "የቤላሩስያ ሩብል (2000–2016)",
+            "displayName-count-one": "የቤላሩስያ ሩብል (2000–2016)",
+            "displayName-count-other": "የቤላሩስያ ሩብል (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "የቤሊዝ ዶላር",
@@ -890,9 +896,9 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "ምያንማ ክያት",
-            "displayName-count-one": "ምያንማ ክያት",
-            "displayName-count-other": "ምያንማ ክያት",
+            "displayName": "የማያናማር ክያት",
+            "displayName-count-one": "የማያናማር ክያት",
+            "displayName-count-other": "የማያናማር ክያት",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
@@ -1114,7 +1120,8 @@
             "displayName": "የሮማኒያ ለው",
             "displayName-count-one": "የሮማኒያ ለው",
             "displayName-count-other": "የሮማኒያ ለው",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "የሰርቢያ ዲናር",
@@ -1429,9 +1436,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "ሴኤፍአ ፍራንክ ቤእአሴ",
-            "displayName-count-one": "ሴኤፍአ ፍራንክ ቤእአሴ",
-            "displayName-count-other": "ሴኤፍአ ፍራንክ ቤእአሴ",
+            "displayName": "የመካከለኛው አፍሪካ ሴፋ ፍራንክ",
+            "displayName-count-one": "የመካከለኛው አፍሪካ ሴፋ ፍራንክ",
+            "displayName-count-other": "የመካከለኛው አፍሪካ ሴፋ ፍራንክ",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1482,9 +1489,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "ሴኤፍአ ፍራንክ ቤሴእአኦ",
-            "displayName-count-one": "ሴኤፍአ ፍራንክ ቤሴእአኦ",
-            "displayName-count-other": "ሴኤፍአ ፍራንክ ቤሴእአኦ",
+            "displayName": "የምዕራብ አፍሪካ ሴፋ ፍራንክ",
+            "displayName-count-one": "የምዕራብ አፍሪካ ሴፋ ፍራንክ",
+            "displayName-count-other": "የምዕራብ አፍሪካ ሴፋ ፍራንክ",
             "symbol": "CFA"
           },
           "XPD": {

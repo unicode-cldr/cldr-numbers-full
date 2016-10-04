@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hu"
       },
@@ -322,12 +322,18 @@
             "displayName": "Fehérorosz új rubel (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "fehérorosz rubel",
             "displayName-count-one": "fehérorosz rubel",
             "displayName-count-other": "fehérorosz rubel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "fehérorosz rubel (2000–2016)",
+            "displayName-count-one": "fehérorosz rubel (2000–2016)",
+            "displayName-count-other": "fehérorosz rubel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "belize-i dollár",
@@ -1162,7 +1168,8 @@
             "displayName": "román lej",
             "displayName-count-one": "román lej",
             "displayName-count-other": "román lej",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "szerb dínár",

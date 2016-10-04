@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "km"
       },
@@ -257,11 +257,16 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "រ៉ូបល​បេឡារុស",
             "displayName-count-other": "រ៉ូបល​បេឡារុស",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "រ៉ូបល​បេឡារុស (2000–2016)",
+            "displayName-count-other": "រ៉ូបល​បេឡារុស (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ដុល្លារ​បេលី",
@@ -584,8 +589,8 @@
             "symbol": "ILP"
           },
           "ILS": {
-            "displayName": "ស្ស៊ីហ្គែល​អ៊ីស្រាអែល",
-            "displayName-count-other": "ស្ស៊ីហ្គែល​អ៊ីស្រាអែល",
+            "displayName": "ស៊ីគែលថ្មីអ៊ីស្រាអែល",
+            "displayName-count-other": "ស៊ីគែលថ្មីអ៊ីស្រាអែល",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -1000,7 +1005,8 @@
           "RON": {
             "displayName": "លូ​រូម៉ានី",
             "displayName-count-other": "លូ​រូម៉ានី",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ឌីណាស៊ែប",
@@ -1245,8 +1251,8 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "សុម​អ៊ូសបេគីស្ថាន",
-            "displayName-count-other": "សុម​អ៊ូសបេគីស្ថាន",
+            "displayName": "សុមអ៊ូបេគីស្ថាន",
+            "displayName-count-other": "សុមអ៊ូបេគីស្ថាន",
             "symbol": "UZS"
           },
           "VEB": {

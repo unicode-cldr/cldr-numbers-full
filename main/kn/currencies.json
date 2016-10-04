@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kn"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ಬೆಲಾರುಸಿಯನ್ ರೂಬಲ್",
             "displayName-count-one": "ಬೆಲಾರುಸಿಯನ್ ರೂಬಲ್",
             "displayName-count-other": "ಬೆಲಾರುಸಿಯನ್ ರೂಬಲ್‍ಗಳು",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ಬೆಲಾರುಸಿಯನ್ ರೂಬಲ್ (2000–2016)",
+            "displayName-count-one": "ಬೆಲಾರುಸಿಯನ್ ರೂಬಲ್ (2000–2016)",
+            "displayName-count-other": "ಬೆಲಾರುಸಿಯನ್ ರೂಬಲ್‍ಗಳು (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ಬೆಲೀಜ್ ಡಾಲರ್",
@@ -417,7 +423,7 @@
           "DKK": {
             "displayName": "ಡ್ಯಾನಿಶ್ ಕ್ರೋನ್",
             "displayName-count-one": "ಡ್ಯಾನಿಶ್ ಕ್ರೋನ್",
-            "displayName-count-other": "ಡ್ಯಾನಿಶ್ ಕ್ರೋನ್",
+            "displayName-count-other": "ಡ್ಯಾನಿಶ್ ಕ್ರೋನರ್",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
@@ -509,7 +515,7 @@
           },
           "GBP": {
             "displayName": "ಬ್ರಿಟೀಷ್ ಪೌಂಡ್",
-            "displayName-count-one": "ಬ್ರಿಟೀಷ್ ಪೌಂಡ್ ಸ್ಟೆರ್ಲಿಂಗ್",
+            "displayName-count-one": "ಬ್ರಿಟಿಷ್ ಪೌಂಡ್",
             "displayName-count-other": "ಬ್ರಿಟೀಷ್ ಪೌಂಡ್‍ಗಳು",
             "symbol": "£",
             "symbol-alt-narrow": "£"
@@ -1114,7 +1120,8 @@
             "displayName": "ರೊಮೇನಿಯನ್ ಲೆವು",
             "displayName-count-one": "ರೊಮೇನಿಯನ್ ಲೆವು",
             "displayName-count-other": "ರೊಮೇನಿಯನ್ ಲೆಯ್",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ಸೆರ್ಬಿಯನ್ ದಿನಾರ್",
@@ -1167,7 +1174,7 @@
           "SDG": {
             "displayName": "ಸುಡಾನೀಸ್ ಪೌಂಡ್",
             "displayName-count-one": "ಸುಡಾನೀಸ್ ಪೌಂಡ್",
-            "displayName-count-other": "ಸೂಡಾನೀಸ್ ಪೌಂಡ್",
+            "displayName-count-other": "ಸುಡಾನೀಸ್ ಪೌಂಡ್",
             "symbol": "SDG"
           },
           "SDP": {
@@ -1482,9 +1489,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "CFA ಫ್ರಾಂಕ್ BCEAO",
+            "displayName": "ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾದ [CFA] ಫ್ರಾಂಕ್",
             "displayName-count-one": "ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾದ [CFA] ಫ್ರಾಂಕ್‌",
-            "displayName-count-other": "CFA ಫ್ರಾಂಕ್ BCEAO",
+            "displayName-count-other": "ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾದ [CFA] ಫ್ರಾಂಕ್‌ಗಳು",
             "symbol": "CFA"
           },
           "XPD": {
@@ -1493,8 +1500,8 @@
           },
           "XPF": {
             "displayName": "[CFP] ಫ್ರಾಂಕ್",
-            "displayName-count-one": "CFP ಫ್ರಾಂಕ್",
-            "displayName-count-other": "CFP ಫ್ರಾಂಕ್",
+            "displayName-count-one": "[CFP] ಫ್ರಾಂಕ್",
+            "displayName-count-other": "[CFP] ಫ್ರಾಂಕ್‌ಗಳು",
             "symbol": "CFPF"
           },
           "XPT": {
@@ -1518,9 +1525,9 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "ಗೊತ್ತಿಲ್ಲದ ಕರೆನ್ಸಿ",
-            "displayName-count-one": "ಗೊತ್ತಿಲ್ಲದ ಕರೆನ್ಸಿ",
-            "displayName-count-other": "ಗೊತ್ತಿಲ್ಲದ ಕರೆನ್ಸಿ",
+            "displayName": "ಅಪರಿಚಿತ ಕರೆನ್ಸಿ",
+            "displayName-count-one": "(ಅಪರಿಚಿತ ಕರೆನ್ಸಿ ಯುನಿಟ್)",
+            "displayName-count-other": "(ಅಪರಿಚಿತ ಕರೆನ್ಸಿ)",
             "symbol": "XXX"
           },
           "YDD": {

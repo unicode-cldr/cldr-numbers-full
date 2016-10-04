@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "rm"
       },
@@ -239,10 +239,14 @@
             "displayName": "nov rubel bieloruss (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "rubel bieloruss",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "rubel bieloruss (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dollar dal Belize",
@@ -933,7 +937,8 @@
           },
           "RON": {
             "displayName": "leu rumen",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinar serb",

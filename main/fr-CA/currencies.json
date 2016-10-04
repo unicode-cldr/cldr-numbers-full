@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12413 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "CA"
@@ -332,12 +332,18 @@
             "displayName-count-other": "nouveaux roubles biélorusses (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "rouble biélorusse",
             "displayName-count-one": "rouble biélorusse",
             "displayName-count-other": "roubles biélorusses",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "rouble biélorusse (2000–2016)",
+            "displayName-count-one": "rouble biélorusse (2000–2016)",
+            "displayName-count-other": "roubles biélorusses (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dollar bélizéen",
@@ -611,7 +617,7 @@
             "displayName-count-one": "lari géorgien",
             "displayName-count-other": "lari géorgiens",
             "symbol": "GEL",
-            "symbol-alt-narrow": "₾",
+            "symbol-alt-narrow": "GEL",
             "symbol-alt-variant": "₾"
           },
           "GHC": {
@@ -760,7 +766,7 @@
             "displayName": "roupie indienne",
             "displayName-count-one": "roupie indienne",
             "displayName-count-other": "roupies indiennes",
-            "symbol": "₹",
+            "symbol": "INR",
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
@@ -1268,7 +1274,8 @@
             "displayName": "leu roumain",
             "displayName-count-one": "leu roumain",
             "displayName-count-other": "lei roumains",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "dinar serbe",

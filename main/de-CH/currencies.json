@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11987 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12933 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "CH"
@@ -346,12 +346,18 @@
             "displayName-count-other": "Belarus-Rubel (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Weissrussischer Rubel",
             "displayName-count-one": "Weissrussischer Rubel",
             "displayName-count-other": "Weissrussische Rubel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Weissrussischer Rubel (2000–2016)",
+            "displayName-count-one": "Weissrussischer Rubel (2000–2016)",
+            "displayName-count-other": "Weissrussische Rubel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belize-Dollar",
@@ -470,9 +476,9 @@
             "symbol-alt-narrow": "$"
           },
           "CVE": {
-            "displayName": "Kap-Verde-Escudo",
-            "displayName-count-one": "Kap-Verde-Escudo",
-            "displayName-count-other": "Kap-Verde-Escudos",
+            "displayName": "Cabo-Verde-Escudo",
+            "displayName-count-one": "Cabo-Verde-Escudo",
+            "displayName-count-other": "Cabo-Verde-Escudos",
             "symbol": "CVE"
           },
           "CYP": {
@@ -586,8 +592,8 @@
             "displayName": "Euro",
             "displayName-count-one": "Euro",
             "displayName-count-other": "Euro",
-            "symbol": "EUR",
-            "symbol-alt-narrow": "EUR"
+            "symbol": "€",
+            "symbol-alt-narrow": "€"
           },
           "FIM": {
             "displayName": "Finnische Mark",
@@ -1236,9 +1242,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruanischer Neuer Sol",
-            "displayName-count-one": "Peruanischer Neuer Sol",
-            "displayName-count-other": "Peruanische Neue Sol",
+            "displayName": "Peruanischer Sol",
+            "displayName-count-one": "Peruanischer Sol",
+            "displayName-count-other": "Peruanische Sol",
             "symbol": "PEN"
           },
           "PES": {
@@ -1315,7 +1321,8 @@
             "displayName": "Rumänischer Leu",
             "displayName-count-one": "Rumänischer Leu",
             "displayName-count-other": "Rumänische Leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "Serbischer Dinar",

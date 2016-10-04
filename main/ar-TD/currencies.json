@@ -3,8 +3,8 @@
     "ar-TD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ar",
         "territory": "TD"
@@ -20,8 +20,8 @@
             "displayName-count-zero": "درهم إماراتي",
             "displayName-count-one": "درهم إماراتي",
             "displayName-count-two": "درهم إماراتي",
-            "displayName-count-few": "دراهم إماراتية",
-            "displayName-count-many": "درهمًا إماراتيًا",
+            "displayName-count-few": "درهم إماراتي",
+            "displayName-count-many": "درهم إماراتي",
             "displayName-count-other": "درهم إماراتي",
             "symbol": "د.إ.‏"
           },
@@ -55,7 +55,7 @@
             "displayName-count-one": "درام أرميني",
             "displayName-count-two": "درام أرميني",
             "displayName-count-few": "درام أرميني",
-            "displayName-count-many": "درامًا أرمينيًا",
+            "displayName-count-many": "درام أرميني",
             "displayName-count-other": "درام أرميني",
             "symbol": "AMD"
           },
@@ -238,8 +238,8 @@
             "displayName-count-zero": "دينار بحريني",
             "displayName-count-one": "دينار بحريني",
             "displayName-count-two": "دينار بحريني",
-            "displayName-count-few": "دينارات بحرينية",
-            "displayName-count-many": "دينارًا بحرينيًا",
+            "displayName-count-few": "دينار بحريني",
+            "displayName-count-many": "دينار بحريني",
             "displayName-count-other": "دينار بحريني",
             "symbol": "د.ب.‏"
           },
@@ -373,7 +373,7 @@
             "displayName": "روبل بيلاروسي جديد - 1994-1999",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "روبل بيلاروسي",
             "displayName-count-zero": "روبل بيلاروسي",
             "displayName-count-one": "روبل بيلاروسي",
@@ -381,8 +381,18 @@
             "displayName-count-few": "روبل بيلاروسي",
             "displayName-count-many": "روبل بيلاروسي",
             "displayName-count-other": "روبل بيلاروسي",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "displayName-count-zero": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "displayName-count-one": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "displayName-count-two": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "displayName-count-few": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "displayName-count-many": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "displayName-count-other": "روبل بيلاروسي (٢٠٠٠–٢٠١٦)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "دولار بليزي",
@@ -867,13 +877,13 @@
           },
           "IDR": {
             "displayName": "روبية إندونيسية",
-            "displayName-count-zero": "روبيه إندونيسية",
-            "displayName-count-one": "روبيه إندونيسية",
-            "displayName-count-two": "روبيه إندونيسية",
-            "displayName-count-few": "روبيه إندونيسية",
-            "displayName-count-many": "روبيه إندونيسية",
-            "displayName-count-other": "روبيه إندونيسية",
-            "symbol": "ر.إن.",
+            "displayName-count-zero": "روبية إندونيسية",
+            "displayName-count-one": "روبية إندونيسية",
+            "displayName-count-two": "روبية إندونيسية",
+            "displayName-count-few": "روبية إندونيسية",
+            "displayName-count-many": "روبية إندونيسية",
+            "displayName-count-other": "روبية إندونيسية",
+            "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
           "IEP": {
@@ -896,7 +906,7 @@
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "روبيه هندي",
+            "displayName": "روبية هندي",
             "displayName-count-zero": "روبية هندي",
             "displayName-count-one": "روبية هندي",
             "displayName-count-two": "روبية هندي",
@@ -911,8 +921,8 @@
             "displayName-count-zero": "دينار عراقي",
             "displayName-count-one": "دينار عراقي",
             "displayName-count-two": "دينار عراقي",
-            "displayName-count-few": "دينارات عراقية",
-            "displayName-count-many": "دينارًا عراقيًا",
+            "displayName-count-few": "دينار عراقي",
+            "displayName-count-many": "دينار عراقي",
             "displayName-count-other": "دينار عراقي",
             "symbol": "د.ع.‏"
           },
@@ -957,8 +967,8 @@
             "displayName-count-zero": "دينار أردني",
             "displayName-count-one": "دينار أردني",
             "displayName-count-two": "دينار أردني",
-            "displayName-count-few": "دينارات أردنية",
-            "displayName-count-many": "دينارًا أردنيًا",
+            "displayName-count-few": "دينار أردني",
+            "displayName-count-many": "دينار أردني",
             "displayName-count-other": "دينار أردني",
             "symbol": "د.أ.‏"
           },
@@ -1050,8 +1060,8 @@
             "displayName-count-zero": "دينار كويتي",
             "displayName-count-one": "دينار كويتي",
             "displayName-count-two": "دينار كويتي",
-            "displayName-count-few": "دينارات كويتية",
-            "displayName-count-many": "دينارًا كويتيًا",
+            "displayName-count-few": "دينار كويتي",
+            "displayName-count-many": "دينار كويتي",
             "displayName-count-other": "دينار كويتي",
             "symbol": "د.ك.‏"
           },
@@ -1093,7 +1103,7 @@
             "displayName-count-zero": "جنيه لبناني",
             "displayName-count-one": "جنيه لبناني",
             "displayName-count-two": "جنيه لبناني",
-            "displayName-count-few": "جنية لبناني",
+            "displayName-count-few": "جنيه لبناني",
             "displayName-count-many": "جنيه لبناني",
             "displayName-count-other": "جنيه لبناني",
             "symbol": "ل.ل.‏",
@@ -1450,8 +1460,8 @@
             "displayName-count-zero": "ريال عماني",
             "displayName-count-one": "ريال عماني",
             "displayName-count-two": "ريال عماني",
-            "displayName-count-few": "ريالات عمانية",
-            "displayName-count-many": "ريالاً عمانيًا",
+            "displayName-count-few": "ريال عماني",
+            "displayName-count-many": "ريال عماني",
             "displayName-count-other": "ريال عماني",
             "symbol": "ر.ع.‏"
           },
@@ -1512,7 +1522,7 @@
             "displayName-count-few": "روبية باكستاني",
             "displayName-count-many": "روبية باكستاني",
             "displayName-count-other": "روبية باكستاني",
-            "symbol": "ر.ب.",
+            "symbol": "PKR",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
@@ -1550,8 +1560,8 @@
             "displayName-count-zero": "ريال قطري",
             "displayName-count-one": "ريال قطري",
             "displayName-count-two": "ريال قطري",
-            "displayName-count-few": "ريالات قطرية",
-            "displayName-count-many": "ريالاً قطريًا",
+            "displayName-count-few": "ريال قطري",
+            "displayName-count-many": "ريال قطري",
             "displayName-count-other": "ريال قطري",
             "symbol": "ر.ق.‏"
           },
@@ -1571,7 +1581,8 @@
             "displayName-count-few": "ليو روماني",
             "displayName-count-many": "ليو روماني",
             "displayName-count-other": "ليو روماني",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "دينار صربي",
@@ -1615,8 +1626,8 @@
             "displayName-count-zero": "ريال سعودي",
             "displayName-count-one": "ريال سعودي",
             "displayName-count-two": "ريال سعودي",
-            "displayName-count-few": "ريالات سعودية",
-            "displayName-count-many": "ريالاً سعوديًا",
+            "displayName-count-few": "ريال سعودي",
+            "displayName-count-many": "ريال سعودي",
             "displayName-count-other": "ريال سعودي",
             "symbol": "ر.س.‏"
           },
@@ -1743,8 +1754,8 @@
             "displayName-count-few": "جنيهات جنوب السودان",
             "displayName-count-many": "جنيهًا جنوب السودان",
             "displayName-count-other": "جنيه جنوب السودان",
-            "symbol": "ج.ج.س.",
-            "symbol-alt-narrow": "ج.ج.س."
+            "symbol": "SSP",
+            "symbol-alt-narrow": "£"
           },
           "STD": {
             "displayName": "دوبرا ساو تومي وبرينسيبي",
@@ -1770,7 +1781,7 @@
             "displayName-count-zero": "ليرة سورية",
             "displayName-count-one": "ليرة سورية",
             "displayName-count-two": "ليرة سورية",
-            "displayName-count-few": "ليرات سورية",
+            "displayName-count-few": "ليرة سورية",
             "displayName-count-many": "ليرة سورية",
             "displayName-count-other": "ليرة سورية",
             "symbol": "ل.س.‏",
@@ -1859,10 +1870,10 @@
             "displayName-count-zero": "ليرة تركية",
             "displayName-count-one": "ليرة تركية",
             "displayName-count-two": "ليرة تركية",
-            "displayName-count-few": "ليرات تركية",
+            "displayName-count-few": "ليرة تركية",
             "displayName-count-many": "ليرة تركية",
             "displayName-count-other": "ليرة تركية",
-            "symbol": "ل.ت.",
+            "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
           },
@@ -2149,8 +2160,8 @@
             "displayName-count-zero": "ريال يمني",
             "displayName-count-one": "ريال يمني",
             "displayName-count-two": "ريال يمني",
-            "displayName-count-few": "ريالات يمنية",
-            "displayName-count-many": "ريالاً يمنيًا",
+            "displayName-count-few": "ريال يمني",
+            "displayName-count-many": "ريال يمني",
             "displayName-count-other": "ريال يمني",
             "symbol": "ر.ي.‏"
           },

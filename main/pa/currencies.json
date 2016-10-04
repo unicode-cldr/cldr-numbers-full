@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pa"
       },
@@ -306,12 +306,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ਬੇਲਾਰੂਸੀ ਰੂਬਲ",
             "displayName-count-one": "ਬੇਲਾਰੂਸੀ ਰੂਬਲ",
             "displayName-count-other": "ਬੇਲਾਰੂਸੀ ਰੂਬਲ",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ਬੇਲਾਰੂਸੀ ਰੂਬਲ (2000–2016)",
+            "displayName-count-one": "ਬੇਲਾਰੂਸੀ ਰੂਬਲ (2000–2016)",
+            "displayName-count-other": "ਬੇਲਾਰੂਸੀ ਰੂਬਲ (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ਬੇਲੀਜ਼ ਡਾਲਰ",
@@ -1146,7 +1152,8 @@
             "displayName": "ਰੋਮਾਨੀਆਈ ਲੇਉ",
             "displayName-count-one": "ਰੋਮਾਨੀਆਈ ਲੇਉ",
             "displayName-count-other": "ਰੋਮਾਨੀਆਈ ਲੇਉ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ਸਰਬੀਆਈ ਦਿਨਾਰ",
@@ -1469,9 +1476,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "ਫ੍ਰੈਂਕ (CFA BEAC)",
-            "displayName-count-one": "ਫ੍ਰੈਂਕ (CFA BEAC)",
-            "displayName-count-other": "ਫ੍ਰੈਂਕ (CFA BEAC)",
+            "displayName": "ਕੇਂਦਰੀ ਅਫ਼ਰੀਕੀ [CFA] ਫ੍ਰੈਂਕ",
+            "displayName-count-one": "ਕੇਂਦਰੀ ਅਫ਼ਰੀਕੀ [CFA] ਫ੍ਰੈਂਕ",
+            "displayName-count-other": "ਕੇਂਦਰੀ ਅਫ਼ਰੀਕੀ [CFA] ਫ੍ਰੈਂਕ",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1531,8 +1538,8 @@
           },
           "XOF": {
             "displayName": "ਪੱਛਮੀ ਅਫ਼ਰੀਕੀ (CFA) ਫ੍ਰੈਂਕ",
-            "displayName-count-one": "ਫ੍ਰੈਂਕ (CFA BCEAO)",
-            "displayName-count-other": "ਫ੍ਰੈਂਕ (CFA BCEAO)",
+            "displayName-count-one": "ਪੱਛਮੀ ਅਫ਼ਰੀਕੀ (CFA) ਫ੍ਰੈਂਕ",
+            "displayName-count-other": "ਪੱਛਮੀ ਅਫ਼ਰੀਕੀ (CFA) ਫ੍ਰੈਂਕ",
             "symbol": "CFA"
           },
           "XPD": {

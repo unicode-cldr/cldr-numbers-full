@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "th"
       },
@@ -257,11 +257,16 @@
             "displayName": "นิวรูเบิลเบลารุส (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "รูเบิลเบลารุส",
             "displayName-count-other": "รูเบิลเบลารุส",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "รูเบิลเบลารุส (2000–2016)",
+            "displayName-count-other": "รูเบิลเบลารุส (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ดอลลาร์เบลีซ",
@@ -633,8 +638,8 @@
             "symbol-alt-narrow": "¥"
           },
           "KES": {
-            "displayName": "ชิลลิ่งเคนยา",
-            "displayName-count-other": "ชิลลิ่งเคนยา",
+            "displayName": "ชิลลิงเคนยา",
+            "displayName-count-other": "ชิลลิงเคนยา",
             "symbol": "KES"
           },
           "KGS": {
@@ -1000,7 +1005,8 @@
           "RON": {
             "displayName": "ลิวโรมาเนีย",
             "displayName-count-other": "ลิวโรมาเนีย",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ดีนาร์เซอร์เบีย",

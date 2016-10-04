@@ -3,8 +3,8 @@
     "zh-Hans-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hans",
@@ -178,7 +178,7 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "保加利亚新列弗",
+            "displayName": "保加利亚列弗",
             "displayName-count-other": "保加利亚新列弗",
             "symbol": "BGN"
           },
@@ -292,11 +292,16 @@
             "displayName-count-other": "白俄罗斯新卢布 (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "白俄罗斯卢布",
             "displayName-count-other": "白俄罗斯卢布",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "白俄罗斯卢布 (2000–2016)",
+            "displayName-count-other": "白俄罗斯卢布 (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "伯利兹元",
@@ -375,8 +380,8 @@
             "symbol": "CSD"
           },
           "CSK": {
-            "displayName": "捷克硬克郎",
-            "displayName-count-other": "捷克硬克郎",
+            "displayName": "捷克硬克朗",
+            "displayName-count-other": "捷克硬克朗",
             "symbol": "CSK"
           },
           "CUC": {
@@ -402,8 +407,8 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "捷克克郎",
-            "displayName-count-other": "捷克克郎",
+            "displayName": "捷克克朗",
+            "displayName-count-other": "捷克克朗",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -900,7 +905,7 @@
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "澳门元",
+            "displayName": "澳门币",
             "displayName-count-other": "澳门元",
             "symbol": "MOP$"
           },
@@ -924,6 +929,10 @@
             "displayName-count-other": "毛里求斯卢比",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "马尔代夫卢比(1947–1981)",
+            "displayName-count-other": "马尔代夫卢比(1947–1981)"
           },
           "MVR": {
             "displayName": "马尔代夫卢菲亚",
@@ -1100,7 +1109,8 @@
           "RON": {
             "displayName": "罗马尼亚列伊",
             "displayName-count-other": "罗马尼亚列伊",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "塞尔维亚第纳尔",
@@ -1398,8 +1408,8 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "中非金融合作法郎",
-            "displayName-count-other": "中非金融合作法郎",
+            "displayName": "中非法郎",
+            "displayName-count-other": "中非法郎",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1450,8 +1460,8 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "非洲金融共同体法郎",
-            "displayName-count-other": "非洲金融共同体法郎",
+            "displayName": "西非法郎",
+            "displayName-count-other": "西非法郎",
             "symbol": "CFA"
           },
           "XPD": {

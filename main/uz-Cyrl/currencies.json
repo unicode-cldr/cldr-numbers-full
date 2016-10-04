@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -251,10 +251,14 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
+          "BYN": {
+            "displayName": "BYN",
+            "symbol": "BYN",
+            "symbol-alt-narrow": "р."
+          },
           "BYR": {
             "displayName": "BYR",
-            "symbol": "BYR",
-            "symbol-alt-narrow": "р."
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Белиз доллари",
@@ -958,7 +962,8 @@
           },
           "RON": {
             "displayName": "RON",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "RSD",

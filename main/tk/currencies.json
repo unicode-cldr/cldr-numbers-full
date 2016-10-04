@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "tk"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Belorus rubly",
             "displayName-count-one": "belorus rubly",
             "displayName-count-other": "belorus rubly",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belorus rubly (2000–2016)",
+            "displayName-count-one": "belorus rubly (2000–2016)",
+            "displayName-count-other": "belorus rubly (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Beliz dollary",
@@ -645,8 +651,8 @@
           },
           "ILS": {
             "displayName": "Täze Ysraýyl şekeli",
-            "displayName-count-one": "täze ysraýyl şekeli",
-            "displayName-count-other": "täze ysraýl şekeli",
+            "displayName-count-one": "Täze Ysraýyl şekeli",
+            "displayName-count-other": "Täze Ysraýyl şekeli",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -1110,7 +1116,8 @@
             "displayName": "Rumyn leýi",
             "displayName-count-one": "rumyn leýi",
             "displayName-count-other": "rumyn leýi",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serb dinary",

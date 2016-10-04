@@ -3,8 +3,8 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12787 $",
+          "_cldrVersion": "30"
         },
         "language": "sah"
       },
@@ -234,10 +234,14 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
+          "BYN": {
+            "displayName": "BYN",
+            "symbol": "BYN",
+            "symbol-alt-narrow": "р."
+          },
           "BYR": {
             "displayName": "BYR",
-            "symbol": "BYR",
-            "symbol-alt-narrow": "р."
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "BZD",
@@ -885,14 +889,16 @@
           },
           "RON": {
             "displayName": "RON",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "RSD",
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "RUB",
+            "displayName": "Арассыыйа солкуобайа",
+            "displayName-count-other": "Арассыыйа солкуобайа",
             "symbol": "₽",
             "symbol-alt-narrow": "₽"
           },
@@ -1074,7 +1080,8 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "USD",
+            "displayName": "АХШ дуоллара",
+            "displayName-count-other": "АХШ дуоллара",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },

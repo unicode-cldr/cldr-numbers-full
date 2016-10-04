@@ -3,8 +3,8 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "fo",
         "territory": "DK"
@@ -281,12 +281,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Hvítarussland ruble",
             "displayName-count-one": "Hvítarussland ruble",
             "displayName-count-other": "Hvítarussland ruble",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Hvítarussland ruble (2000–2016)",
+            "displayName-count-one": "Hvítarussland ruble (2000–2016)",
+            "displayName-count-other": "Hvítarussland ruble (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belis dollari",
@@ -1110,7 +1116,8 @@
             "displayName": "Rumenia leu",
             "displayName-count-one": "Rumenia leu",
             "displayName-count-other": "Rumenia leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbia dinar",

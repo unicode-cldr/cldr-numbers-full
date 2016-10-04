@@ -3,8 +3,8 @@
     "en-UG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "UG"
@@ -346,12 +346,18 @@
             "displayName-count-other": "Belarusian new roubles (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Belarusian Rouble",
             "displayName-count-one": "Belarusian rouble",
             "displayName-count-other": "Belarusian roubles",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belarusian Rouble (2000–2016)",
+            "displayName-count-one": "Belarusian rouble (2000–2016)",
+            "displayName-count-other": "Belarusian roubles (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belize Dollar",
@@ -770,14 +776,14 @@
             "symbol": "ILP"
           },
           "ILR": {
-            "displayName": "Israeli Sheqel (1980–1985)",
-            "displayName-count-one": "Israeli sheqel (1980–1985)",
-            "displayName-count-other": "Israeli sheqels (1980–1985)"
+            "displayName": "Israeli Shekel (1980–1985)",
+            "displayName-count-one": "Israeli shekel (1980–1985)",
+            "displayName-count-other": "Israeli shekels (1980–1985)"
           },
           "ILS": {
-            "displayName": "Israeli New Sheqel",
-            "displayName-count-one": "Israeli new sheqel",
-            "displayName-count-other": "Israeli new sheqels",
+            "displayName": "Israeli New Shekel",
+            "displayName-count-one": "Israeli new shekel",
+            "displayName-count-other": "Israeli new shekels",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -1234,9 +1240,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruvian Nuevo Sol",
-            "displayName-count-one": "Peruvian nuevo sol",
-            "displayName-count-other": "Peruvian nuevos soles",
+            "displayName": "Peruvian Sol",
+            "displayName-count-one": "Peruvian sol",
+            "displayName-count-other": "Peruvian soles",
             "symbol": "PEN"
           },
           "PES": {
@@ -1313,7 +1319,8 @@
             "displayName": "Romanian Leu",
             "displayName-count-one": "Romanian leu",
             "displayName-count-other": "Romanian lei",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbian Dinar",

@@ -3,8 +3,8 @@
     "om-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "om",
         "territory": "KE"
@@ -102,6 +102,7 @@
               "100000000000000-count-other": "¤ 000T"
             }
           },
+          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {

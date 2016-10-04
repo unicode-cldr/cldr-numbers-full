@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fil"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Belarusian Ruble",
             "displayName-count-one": "Belarusian ruble",
             "displayName-count-other": "Belarusian rubles",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Belarusian Ruble (2000–2016)",
+            "displayName-count-one": "Belarusian ruble (2000–2016)",
+            "displayName-count-other": "Belarusian rubles (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dolyar ng Belize",
@@ -1114,7 +1120,8 @@
             "displayName": "Romanian Leu",
             "displayName-count-one": "Romanian leu",
             "displayName-count-other": "Romanian lei",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Serbian Dinar",
@@ -1167,7 +1174,7 @@
           "SDG": {
             "displayName": "Pound ng Sudan",
             "displayName-count-one": "pound ng Sudan",
-            "displayName-count-other": "Sudanese pounds",
+            "displayName-count-other": "pounds ng Sudan",
             "symbol": "SDG"
           },
           "SDP": {
@@ -1519,7 +1526,7 @@
           },
           "XXX": {
             "displayName": "Hindi Kilalang Pera",
-            "displayName-count-one": "(hindi kilalang uri ng pera)",
+            "displayName-count-one": "(hindi kilalang unit ng currency)",
             "displayName-count-other": "(hindi kilalang pera)",
             "symbol": "XXX"
           },

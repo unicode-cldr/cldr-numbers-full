@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ne"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "बेलारूसी रूबल",
             "displayName-count-one": "बेलारूसी रूबल",
             "displayName-count-other": "बेलारूसी रूबल",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "बेलारूसी रूबल (2000–2016)",
+            "displayName-count-one": "बेलारूसी रूबल (2000–2016)",
+            "displayName-count-other": "बेलारूसी रूबल (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "वेलिज डलर",
@@ -1019,7 +1025,8 @@
             "displayName-count-one": "नेपाली रूपैयाँ",
             "displayName-count-other": "नेपाली रूपैयाँ",
             "symbol": "नेरू",
-            "symbol-alt-narrow": "Rs"
+            "symbol-alt-narrow": "रू",
+            "symbol-alt-variant": "Rs"
           },
           "NZD": {
             "displayName": "न्यूजिल्याण्ड डलर",
@@ -1114,7 +1121,8 @@
             "displayName": "रोमानियाली लेऊ",
             "displayName-count-one": "रोमानियाली लेऊ",
             "displayName-count-other": "रोमानियाली लेई",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "सर्बियाली डिनार",

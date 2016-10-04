@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "br"
       },
@@ -453,15 +453,24 @@
             "displayName-count-other": "roubl nevez Belarus (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "roubl Belarus",
             "displayName-count-one": "roubl Belarus",
             "displayName-count-two": "roubl Belarus",
             "displayName-count-few": "roubl Belarus",
             "displayName-count-many": "a roubloù Belarus",
             "displayName-count-other": "roubl Belarus",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "roubl Belarus (2000–2016)",
+            "displayName-count-one": "roubl Belarus (2000–2016)",
+            "displayName-count-two": "roubl Belarus (2000–2016)",
+            "displayName-count-few": "roubl Belarus (2000–2016)",
+            "displayName-count-many": "a roubloù Belarus (2000–2016)",
+            "displayName-count-other": "roubl Belarus (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dollar Belize",
@@ -1819,7 +1828,8 @@
             "displayName-count-few": "leu Roumania",
             "displayName-count-many": "leu Roumania",
             "displayName-count-other": "leu Roumania",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinar Serbia",

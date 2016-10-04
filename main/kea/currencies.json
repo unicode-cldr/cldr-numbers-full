@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12746 $",
+          "_cldrVersion": "30"
         },
         "language": "kea"
       },
@@ -241,10 +241,14 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
+          "BYN": {
+            "displayName": "BYN",
+            "symbol": "BYN",
+            "symbol-alt-narrow": "р."
+          },
           "BYR": {
             "displayName": "BYR",
-            "symbol": "BYR",
-            "symbol-alt-narrow": "р."
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "BZD",
@@ -330,8 +334,7 @@
             "displayName": "Skudu Kabuverdianu",
             "displayName-count-other": "Skudu Kabuverdianu",
             "symbol": "​",
-            "decimal": "$",
-            "group": ","
+            "decimal": "$"
           },
           "CYP": {
             "displayName": "CYP",
@@ -927,7 +930,8 @@
           },
           "RON": {
             "displayName": "RON",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "RSD",
@@ -1028,7 +1032,7 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Dobra di Sãu Tume i Prinsipi",
+            "displayName": "Dobra di Sãu Tume i Prínsipi",
             "displayName-count-other": "Dobra di Sãu Tume i Prinsipi",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
@@ -1190,8 +1194,8 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "Franku CFA BEAC",
-            "displayName-count-other": "Franku CFA BEAC",
+            "displayName": "Franku CFA (BEAC)",
+            "displayName-count-other": "Franku CFA (BEAC)",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1240,8 +1244,8 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "Franku CFA BCEAO",
-            "displayName-count-other": "Franku CFA BCEAO",
+            "displayName": "Franku CFA (BCEAO)",
+            "displayName-count-other": "Franku CFA (BCEAO)",
             "symbol": "CFA"
           },
           "XPD": {

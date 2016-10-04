@@ -3,8 +3,8 @@
     "fr-MF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "MF"
@@ -141,7 +141,7 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "au moins {0}",
+          "atLeast": "⩾{0}",
           "range": "{0}–{1}"
         }
       }

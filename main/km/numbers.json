@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "km"
       },
@@ -137,8 +137,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤#,##0.00",
-          "accounting": "¤#,##0.00;(¤#,##0.00)",
+          "standard": "#,##0.00¤",
+          "accounting": "#,##0.00¤;(#,##0.00¤)",
           "short": {
             "standard": {
               "1000-count-other": "¤0ពាន់",
@@ -170,8 +170,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤#,##0.00",
-          "accounting": "¤#,##0.00;(¤#,##0.00)",
+          "standard": "#,##0.00¤",
+          "accounting": "#,##0.00¤;(#,##0.00¤)",
           "short": {
             "standard": {
               "1000-count-other": "¤0ពាន់",

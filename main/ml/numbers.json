@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ml"
       },
@@ -39,7 +39,7 @@
           "superscriptingExponent": "×",
           "perMille": "‰",
           "infinity": "∞",
-          "nan": "സംഖ്യയല്ല",
+          "nan": "NaN",
           "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {

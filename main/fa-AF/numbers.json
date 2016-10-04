@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fa",
         "territory": "AF"
@@ -19,8 +19,8 @@
           "decimal": "٫",
           "group": "٬",
           "list": "؛",
-          "percentSign": "٪",
-          "plusSign": "‎+‎",
+          "percentSign": "‎٪",
+          "plusSign": "‎+",
           "minusSign": "‎−",
           "exponential": "×۱۰^",
           "superscriptingExponent": "×",
@@ -168,7 +168,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-arabext": {
-          "standard": "#,##0%"
+          "standard": "% #,##0;% -#,##0"
         },
         "percentFormats-numberSystem-latn": {
           "standard": "#,##0%"
@@ -186,8 +186,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "‎¤#,##0.00",
-          "accounting": "‎¤#,##0.00;‎(¤#,##0.00)",
+          "standard": "¤ #,##0.00",
+          "accounting": "¤ #,##0.00;‎(¤ #,##0.00)",
           "short": {
             "standard": {
               "1000-count-one": "0 هزار ¤",
@@ -232,8 +232,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "‎¤#,##0.00",
-          "accounting": "‎¤#,##0.00;‎(¤#,##0.00)",
+          "standard": "¤ #,##0.00",
+          "accounting": "¤ #,##0.00;‎(¤ #,##0.00)",
           "short": {
             "standard": {
               "1000-count-one": "0 هزار ¤",
@@ -267,11 +267,11 @@
         },
         "miscPatterns-numberSystem-arabext": {
           "atLeast": "‎{0}+‎",
-          "range": "{0} تا {1}"
+          "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
           "atLeast": "‎{0}+‎",
-          "range": "{0} تا {1}"
+          "range": "{0}–{1}"
         }
       }
     }

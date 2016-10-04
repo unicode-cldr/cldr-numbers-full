@@ -3,8 +3,8 @@
     "pt-ST": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "pt",
         "territory": "ST"
@@ -346,12 +346,18 @@
             "displayName-count-other": "Novos rublos bielorussos (BYB)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Rublo bielorrusso",
             "displayName-count-one": "Rublo bielorrusso",
             "displayName-count-other": "Rublos bielorrussos",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Rublo bielorrusso (2000–2016)",
+            "displayName-count-one": "Rublo bielorrusso (2000–2016)",
+            "displayName-count-other": "Rublos bielorrussos (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Dólar belizense",
@@ -1311,7 +1317,8 @@
             "displayName": "Leu romeno",
             "displayName-count-one": "Leu romeno",
             "displayName-count-other": "Lei romenos",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "Dinar sérvio",

@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "ks"
       },
@@ -234,10 +234,14 @@
             "displayName": "بِلیروشِیَن نِو رِبٕل",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "بِلیروشِیَن رِبٕل",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "بِلیروشِیَن رِبٕل (۲۰۰۰–۲۰۱۶)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "بِلِزی ڈالر",
@@ -885,7 +889,8 @@
           },
           "RON": {
             "displayName": "رومانِیَن لٮ۪یوٗ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "سٔربِیَن دیٖنار",

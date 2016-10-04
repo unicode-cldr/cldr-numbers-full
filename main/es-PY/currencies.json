@@ -3,8 +3,8 @@
     "es-PY": {
       "identity": {
         "version": {
-          "_number": "$Revision: $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "es",
         "territory": "PY"
@@ -317,12 +317,18 @@
             "displayName-count-other": "nuevos rublos bielorrusos",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "rublo bielorruso",
             "displayName-count-one": "rublo bielorruso",
             "displayName-count-other": "rublos bielorrusos",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "rublo bielorruso (2000–2016)",
+            "displayName-count-one": "rublo bielorruso (2000–2016)",
+            "displayName-count-other": "rublos bielorrusos (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "dólar beliceño",
@@ -1162,9 +1168,9 @@
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "sol peruano",
-            "displayName-count-one": "sol peruano",
-            "displayName-count-other": "soles peruanos",
+            "displayName": "sol peruano (1863–1965)",
+            "displayName-count-one": "sol peruano (1863–1965)",
+            "displayName-count-other": "soles peruanos (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {
@@ -1233,7 +1239,8 @@
             "displayName": "leu rumano",
             "displayName-count-one": "leu rumano",
             "displayName-count-other": "leus rumanos",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "L"
           },
           "RSD": {
             "displayName": "dinar serbio",

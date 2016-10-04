@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ja"
       },
@@ -26,8 +26,8 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "アフガニー",
-            "displayName-count-other": "アフガニー",
+            "displayName": "アフガニスタン アフガニー",
+            "displayName-count-other": "アフガニスタン アフガニー",
             "symbol": "AFN"
           },
           "ALK": {
@@ -51,8 +51,8 @@
             "symbol": "ANG"
           },
           "AOA": {
-            "displayName": "クワンザ",
-            "displayName-count-other": "クワンザ",
+            "displayName": "アンゴラ クワンザ",
+            "displayName-count-other": "アンゴラ クワンザ",
             "symbol": "AOA",
             "symbol-alt-narrow": "Kz"
           },
@@ -105,7 +105,7 @@
           "AUD": {
             "displayName": "オーストラリア ドル",
             "displayName-count-other": "オーストラリア ドル",
-            "symbol": "AU$",
+            "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
@@ -292,11 +292,16 @@
             "displayName-count-other": "ベラルーシ 新ルーブル (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "ベラルーシ ルーブル",
             "displayName-count-other": "ベラルーシ ルーブル",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "ベラルーシ ルーブル (2000–2016)",
+            "displayName-count-other": "ベラルーシ ルーブル (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "ベリーズ ドル",
@@ -734,8 +739,8 @@
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "北朝鮮 ウォン",
-            "displayName-count-other": "北朝鮮 ウォン",
+            "displayName": "北朝鮮ウォン",
+            "displayName-count-other": "北朝鮮ウォン",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -750,8 +755,8 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "韓国 ウォン",
-            "displayName-count-other": "韓国 ウォン",
+            "displayName": "韓国ウォン",
+            "displayName-count-other": "韓国ウォン",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
@@ -1112,7 +1117,8 @@
           "RON": {
             "displayName": "ルーマニア レイ",
             "displayName-count-other": "ルーマニア レイ",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ディナール (セルビア)",
@@ -1218,8 +1224,8 @@
             "symbol": "SRG"
           },
           "SSP": {
-            "displayName": "南スーダン・ポンド",
-            "displayName-count-other": "南スーダン・ポンド",
+            "displayName": "南スーダン ポンド",
+            "displayName-count-other": "南スーダン ポンド",
             "symbol": "SSP",
             "symbol-alt-narrow": "£"
           },
@@ -1253,7 +1259,7 @@
           "THB": {
             "displayName": "タイ バーツ",
             "displayName-count-other": "タイ バーツ",
-            "symbol": "฿",
+            "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
           "TJR": {
@@ -1314,7 +1320,7 @@
             "displayName": "新台湾ドル",
             "displayName-count-other": "新台湾ドル",
             "symbol": "NT$",
-            "symbol-alt-narrow": "NT$"
+            "symbol-alt-narrow": "$"
           },
           "TZS": {
             "displayName": "タンザニア シリング",

@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12306 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "bn"
       },
@@ -25,7 +25,7 @@
           "superscriptingExponent": "×",
           "perMille": "‰",
           "infinity": "∞",
-          "nan": "সংখ্যা না",
+          "nan": "NaN",
           "timeSeparator": ":"
         },
         "symbols-numberSystem-latn": {
@@ -167,7 +167,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-beng": {
-          "standard": "#,##,##0%"
+          "standard": "#,##0%"
         },
         "percentFormats-numberSystem-latn": {
           "standard": "#,##,##0%"

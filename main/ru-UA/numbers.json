@@ -3,8 +3,8 @@
     "ru-UA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "ru",
         "territory": "UA"
@@ -14,7 +14,7 @@
         "otherNumberingSystems": {
           "native": "latn"
         },
-        "minimumGroupingDigits": "1",
+        "minimumGroupingDigits": "2",
         "symbols-numberSystem-latn": {
           "decimal": ",",
           "group": " ",
@@ -215,8 +215,8 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
-          "range": "{0}-{1}"
+          "atLeast": "⩾{0}",
+          "range": "{0}–{1}"
         }
       }
     }

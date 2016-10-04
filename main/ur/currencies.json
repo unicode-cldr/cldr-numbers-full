@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12311 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ur"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "بیلاروسی روبل",
             "displayName-count-one": "بیلاروسی روبل",
             "displayName-count-other": "بیلاروسی روبل",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "بیلاروسی روبل (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-one": "بیلاروسی روبل (۲۰۰۰–۲۰۱۶)",
+            "displayName-count-other": "بیلاروسی روبل (۲۰۰۰–۲۰۱۶)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "بیلائز ڈالر",
@@ -1114,7 +1120,8 @@
             "displayName": "رومانیائی لیو",
             "displayName-count-one": "رومانیائی لیو",
             "displayName-count-other": "رومانیائی لی",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "سربین دینار",

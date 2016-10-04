@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12966 $",
+          "_cldrVersion": "30"
         },
         "language": "be"
       },
@@ -26,7 +26,7 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": "."
+          "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {
           "standard": "#,##0.###",
@@ -155,7 +155,7 @@
             }
           },
           "standard": "#,##0.00 ¤",
-          "accounting": "¤#,##0.00;(¤#,##0.00)",
+          "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {
               "1000-count-one": "0 тыс'.' ¤",

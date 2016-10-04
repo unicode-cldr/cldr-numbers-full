@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fy"
       },
@@ -340,12 +340,18 @@
             "displayName-count-other": "Wit-Russyske nieuwe roebel (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Wit-Russyske roebel",
             "displayName-count-one": "Wit-Russyske roebel",
             "displayName-count-other": "Wit-Russyske roebel",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Wit-Russyske roebel (2000–2016)",
+            "displayName-count-one": "Wit-Russyske roebel (2000–2016)",
+            "displayName-count-other": "Wit-Russyske roebel (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Belizaanske dollar",
@@ -1287,7 +1293,8 @@
             "displayName": "Roemeenske leu",
             "displayName-count-one": "Roemeenske leu",
             "displayName-count-other": "Roemeenske leu",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Servyske dinar",

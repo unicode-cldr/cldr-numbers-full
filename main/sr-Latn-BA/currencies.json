@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12417 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12933 $",
+          "_cldrVersion": "30"
         },
         "language": "sr",
         "script": "Latn",
@@ -228,7 +228,7 @@
             "displayName-count-one": "bugarski lev",
             "displayName-count-few": "bugarska leva",
             "displayName-count-other": "bugarskih leva",
-            "symbol": "[BGN]"
+            "symbol": "BGN"
           },
           "BGO": {
             "displayName": "BGO",
@@ -374,13 +374,20 @@
             "displayName-count-other": "beloruskih novih rublji (1994–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Beloruska rublja",
             "displayName-count-one": "beloruska rublja",
             "displayName-count-few": "beloruske rublje",
             "displayName-count-other": "beloruskih rublji",
-            "symbol": "[BYR]",
+            "symbol": "BYN",
             "symbol-alt-narrow": "r."
+          },
+          "BYR": {
+            "displayName": "Beloruska rublja (2000–2016)",
+            "displayName-count-one": "beloruska rublja (2000–2016)",
+            "displayName-count-few": "beloruske rublje (2000–2016)",
+            "displayName-count-other": "beloruskih rublji (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Beliski dolar",
@@ -696,7 +703,7 @@
             "displayName-count-few": "gruzijska larija",
             "displayName-count-other": "gruzijskih larija",
             "symbol": "GEL",
-            "symbol-alt-narrow": "₾",
+            "symbol-alt-narrow": "ლ",
             "symbol-alt-variant": "ლ"
           },
           "GHC": {
@@ -724,7 +731,7 @@
           "GMD": {
             "displayName": "Gambijski dalasi",
             "displayName-count-one": "gambijski dalasi",
-            "displayName-count-few": "gambijska dalasa",
+            "displayName-count-few": "gambijskih dalasija",
             "displayName-count-other": "gambijskih dalasija",
             "symbol": "GMD"
           },
@@ -982,7 +989,7 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "Južnokorejski Von",
+            "displayName": "Južnokorejski von",
             "displayName-count-one": "južnokorejski von",
             "displayName-count-few": "južnokorejska vona",
             "displayName-count-other": "južnokorejskih vona",
@@ -1140,9 +1147,9 @@
           },
           "MGA": {
             "displayName": "Madagaskarski ariari",
-            "displayName-count-one": "malagasijski ariari",
-            "displayName-count-few": "malagasijska ariarija",
-            "displayName-count-other": "malagasijskih ariarija",
+            "displayName-count-one": "madagaskarski ariari",
+            "displayName-count-few": "madagaskarska ariarija",
+            "displayName-count-other": "madagaskarskih ariarija",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
@@ -1464,7 +1471,8 @@
             "displayName-count-one": "rumunski lej (1952–2006)",
             "displayName-count-few": "rumunska leja (1952–2006)",
             "displayName-count-other": "rumunskih leja (1952–2006)",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Srpski dinar",
@@ -1479,7 +1487,7 @@
             "displayName-count-few": "ruske rublje",
             "displayName-count-other": "ruskih rublji",
             "symbol": "RUB",
-            "symbol-alt-narrow": "rub"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "Ruska rublja (1991–1998)",
@@ -1668,7 +1676,7 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "Tadžihistanski somon",
+            "displayName": "Tadžikistanski somon",
             "displayName-count-one": "tadžikistanski somon",
             "displayName-count-few": "tadžikistanska somona",
             "displayName-count-other": "tadžikistanskih somona",
@@ -1752,7 +1760,7 @@
           "UAH": {
             "displayName": "Ukrajinska hrivnja",
             "displayName-count-one": "ukrajinska hrivnja",
-            "displayName-count-few": "ukrajinske hrivnje",
+            "displayName-count-few": "ukrajinske grivne",
             "displayName-count-other": "ukrajinskih hrivnji",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"

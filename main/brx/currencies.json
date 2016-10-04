@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "brx"
       },
@@ -234,10 +234,14 @@
             "displayName": "बेलारुसी नया रूबल (194–1999)",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "बेलारुसी रूबल",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "बेलारुसी रूबल (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "बेलीज़ डॉलर",
@@ -885,7 +889,8 @@
           },
           "RON": {
             "displayName": "रोमानियाई ल",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "सर्बियाई दिनार",

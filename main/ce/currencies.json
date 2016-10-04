@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12197 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ce"
       },
@@ -280,12 +280,18 @@
             "displayName": "BYB",
             "symbol": "BYB"
           },
-          "BYR": {
+          "BYN": {
             "displayName": "Белоруссин сом",
             "displayName-count-one": "Белоруссин сом",
             "displayName-count-other": "Белоруссин соьмаш",
-            "symbol": "BYR",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
+          },
+          "BYR": {
+            "displayName": "Белоруссин сом (2000–2016)",
+            "displayName-count-one": "Белоруссин сом (2000–2016)",
+            "displayName-count-other": "Белоруссин соьмаш (2000–2016)",
+            "symbol": "BYR"
           },
           "BZD": {
             "displayName": "Белизин доллар",
@@ -1110,7 +1116,8 @@
             "displayName": "Румынин лей",
             "displayName-count-one": "Румынин лей",
             "displayName-count-other": "Румынин лейш",
-            "symbol": "RON"
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "Сербин динар",

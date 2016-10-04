@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12384 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "my"
       },
@@ -29,8 +29,8 @@
             "symbol": "AFN"
           },
           "ALL": {
-            "displayName": "အယ်လ်ဘီးနီးယားလီခ်",
-            "displayName-count-other": "အယ်လ်ဘီးနီးယားလီခ်",
+            "displayName": "အယ်ဘေးနီးယား လီခ်",
+            "displayName-count-other": "အယ်ဘေးနီးယား လီခ်",
             "symbol": "ALL"
           },
           "AMD": {
@@ -41,7 +41,7 @@
           "ANG": {
             "displayName": "နယ်သာလန် အန်တီလန် ဂင်းဒါး",
             "displayName-count-other": "နယ်သာလန် အန်တီလန် ဂင်းဒါး",
-            "symbol": "ANG"
+            "symbol": "NAf"
           },
           "AOA": {
             "displayName": "အင်ဂိုလာ ကန်ဇာ",
@@ -94,9 +94,9 @@
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "အရူဘန် ဂင်းဒါး",
-            "displayName-count-other": "အရူဘန် ဂင်းဒါး",
-            "symbol": "AWG"
+            "displayName": "အရူးဗာ ဖလိုရင်း",
+            "displayName-count-other": "အရူးဗာ ဖလိုရင်း",
+            "symbol": "Afl"
           },
           "AZM": {
             "displayName": "AZM",
@@ -112,8 +112,8 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "ဘော့စနီးယား နှင့် ဟာဇီဂိုဘီးနားမတ်က်",
-            "displayName-count-other": "ဘော့စနီးယား နှင့် ဟာဇီဂိုဘီးနားမတ်က်",
+            "displayName": "ဘော့စနီးယားနှင့် ဟာဇီဂိုဘီးနားမတ်က်",
+            "displayName-count-other": "ဘော့စနီးယားနှင့် ဟာဇီဂိုဘီးနားမတ်က်",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -122,10 +122,10 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "ဘာဘဒီယံဒေါ်လာ",
-            "displayName-count-other": "ဘာဘဒီယံဒေါ်လာ",
+            "displayName": "ဘာဘေးဒီယန်း ဒေါ်လာ",
+            "displayName-count-other": "ဘာဘေးဒီယန်း ဒေါ်လာ",
             "symbol": "BBD",
-            "symbol-alt-narrow": "$"
+            "symbol-alt-narrow": "Bds$"
           },
           "BDT": {
             "displayName": "ဘင်္ဂလားဒေ့ရှ် တာကာ",
@@ -154,8 +154,8 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "ဘူဂေးရီးယားလက်ဖ်",
-            "displayName-count-other": "ဘူဂေးရီးယားလက်ဖ်",
+            "displayName": "ဘူလ်ဂေးရီးယား လက်ဖ်",
+            "displayName-count-other": "ဘူလ်ဂေးရီးယား လက်ဖ်",
             "symbol": "BGN"
           },
           "BGO": {
@@ -173,8 +173,8 @@
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "ဘာမူဒါ ဒေါ်လာ",
-            "displayName-count-other": "ဘာမူဒါ ဒေါ်လာ",
+            "displayName": "ဘာမြူဒါ ဒေါ်လာ",
+            "displayName-count-other": "ဘာမြူဒါ ဒေါ်လာ",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
@@ -185,8 +185,8 @@
             "symbol-alt-narrow": "$"
           },
           "BOB": {
-            "displayName": "ဘိုလီဘီယံ ဘိုလီဘီအားနို",
-            "displayName-count-other": "ဘိုလီဘီယံ ဘိုလီဘီအားနိုစ်",
+            "displayName": "ဘိုလီးဗီးယား ဘိုလီးဗီယားနို",
+            "displayName-count-other": "ဘိုလီးဗီးယား ဘိုလီးဗီယားနို",
             "symbol": "BOB",
             "symbol-alt-narrow": "Bs"
           },
@@ -236,7 +236,7 @@
             "displayName": "ဘဟားမား ဒေါ်လာ",
             "displayName-count-other": "ဘဟားမား ဒေါ်လာ",
             "symbol": "BSD",
-            "symbol-alt-narrow": "$"
+            "symbol-alt-narrow": "B$"
           },
           "BTN": {
             "displayName": "ဘူတန်အံဂါလ်ထရန်",
@@ -248,8 +248,8 @@
             "symbol": "BUK"
           },
           "BWP": {
-            "displayName": "ဘော့စ်ဝါနာ ပုလ",
-            "displayName-count-other": "ဘော့စ်ဝါနာ ပုလ",
+            "displayName": "ဘော့ဆွာနာ ပုလ",
+            "displayName-count-other": "ဘော့ဆွာနာ ပုလ",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -257,17 +257,22 @@
             "displayName": "ဘီလာရုစ် ရူဘယ်အသစ် (၁၉၉၄–၁၉၉၉)",
             "symbol": "BYB"
           },
-          "BYR": {
-            "displayName": "ဘီလာရုစ် ရူဘယ်",
-            "displayName-count-other": "ဘီလာရုစ် ရူဘယ်",
-            "symbol": "BYR",
+          "BYN": {
+            "displayName": "ဘီလာရုဇ် ရူဘယ်",
+            "displayName-count-other": "ဘီလာရုဇ် ရူဘယ်",
+            "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
+          "BYR": {
+            "displayName": "ဘီလာရုဇ် ရူဘယ် (၂၀၀၀–၂၀၁၆)",
+            "displayName-count-other": "ဘီလာရုဇ် ရူဘယ် (၂၀၀၀–၂၀၁၆)",
+            "symbol": "BYR"
+          },
           "BZD": {
-            "displayName": "ဘေလီဇ် ဒေါ်လာ",
-            "displayName-count-other": "ဘေလီဇ် ဒေါ်လာ",
+            "displayName": "ဘလိဇ် ဒေါ်လာ",
+            "displayName-count-other": "ဘလိဇ် ဒေါ်လာ",
             "symbol": "BZD",
-            "symbol-alt-narrow": "ဒေါ်လာ"
+            "symbol-alt-narrow": "$"
           },
           "CAD": {
             "displayName": "ကနေဒါ ဒေါ်လာ",
@@ -324,9 +329,9 @@
             "symbol": "COU"
           },
           "CRC": {
-            "displayName": "ကော့စ်တာရီကာ ခိုလုံး",
-            "displayName-count-other": "ကော့စ်တာရီကာ ခိုလုံး",
-            "symbol": "စီအာစီ",
+            "displayName": "ကို့စတာရီကာ ကိုလွန်",
+            "displayName-count-other": "ကို့စတာရီကာ ကိုလွန်",
+            "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
           "CSD": {
@@ -338,8 +343,8 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "နိုင်ငံခြားငွေလဲလှယ်နိုင်သော ကျူးဘားပီဆိုငွေ",
-            "displayName-count-other": "နိုင်ငံခြားငွေလဲလှယ်နိုင်သော ကျူးဘားပီဆိုငွေ",
+            "displayName": "နိုင်ငံခြားငွေလဲလှယ်နိုင်သော ကျူးဘားပီဆို",
+            "displayName-count-other": "နိုင်ငံခြားငွေလဲလှယ်နိုင်သော ကျူးဘားပီဆို",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
@@ -350,8 +355,8 @@
             "symbol-alt-narrow": "$"
           },
           "CVE": {
-            "displayName": "ခေ့ပ်ဗာဒူ အက်စ်ခူဒို",
-            "displayName-count-other": "ခေ့ပ်ဗာဒူ အက်စ်ခူဒို",
+            "displayName": "ကိတ်ပ်ဗာဒီ အက်စ်ခူဒို",
+            "displayName-count-other": "ကိတ်ပ်ဗာဒီ အက်စ်ခူဒို",
             "symbol": "CVE"
           },
           "CYP": {
@@ -378,7 +383,7 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "ဒိန်းမတ်ခရိုဏာ",
+            "displayName": "ဒိန်းမတ် ခရိုဏာ",
             "displayName-count-other": "ဒိန်းမတ် ခရိုဏာ",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
@@ -390,8 +395,8 @@
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "အဲလ်ဂျီရီယန် ဒီနာ",
-            "displayName-count-other": "အဲလ်ဂျီရီယန် ဒီနာ",
+            "displayName": "အယ်လ်ဂျီးရီးယား ဒီနာ",
+            "displayName-count-other": "အယ်လ်ဂျီးရီးယား ဒီနာ",
             "symbol": "DZD"
           },
           "ECS": {
@@ -413,8 +418,8 @@
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
-            "displayName": "အီရီတရီအာနာ့ခ်ဖာ",
-            "displayName-count-other": "အီရီတရီအာနာ့ခ်ဖာ",
+            "displayName": "အီရီထရီးယား နာ့ခ်ဖာ",
+            "displayName-count-other": "အီရီထရီးယား နာ့ခ်ဖာ",
             "symbol": "ERN"
           },
           "ESA": {
@@ -452,8 +457,8 @@
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "ဖောက်ကလန် ကျွန်းစု ပေါင်",
-            "displayName-count-other": "ဖောက်ကလန် ကျွန်းစု ပေါင်",
+            "displayName": "ဖော့ကလန်ကျွန်းစု ပေါင်",
+            "displayName-count-other": "ဖော့ကလန်ကျွန်းစု ပေါင်",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -493,13 +498,13 @@
             "symbol-alt-narrow": "£"
           },
           "GMD": {
-            "displayName": "ဂန်ဘီယာ ဒါလာစီ",
-            "displayName-count-other": "ဂန်ဘီယာ ဒါလာစီ",
+            "displayName": "ဂမ်ဘီယာ ဒါလာစီ",
+            "displayName-count-other": "ဂမ်ဘီယာ ဒါလာစီ",
             "symbol": "GMD"
           },
           "GNF": {
             "displayName": "ဂီးနီ ဖရန့်",
-            "displayName-count-other": "ဂီရာနာ ဖရန့်",
+            "displayName-count-other": "ဂီးနီ ဖရန့်",
             "symbol": "GNF",
             "symbol-alt-narrow": "FG"
           },
@@ -516,8 +521,8 @@
             "symbol": "GRD"
           },
           "GTQ": {
-            "displayName": "ဂွာတီမာလာ ခက်ဇော်လ်",
-            "displayName-count-other": "ဂွာတီမာလာ ခက်ဇော်လ်",
+            "displayName": "ဂွါတီမာလာ ခက်ဇော်လ်",
+            "displayName-count-other": "ဂွါတီမာလာ ခက်ဇော်လ်",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -530,8 +535,8 @@
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "ဂူရာနာ ဒေါ်လာ",
-            "displayName-count-other": "ဂူရာနာ ဒေါ်လာ",
+            "displayName": "ဂိုင်ယာနာ ဒေါ်လာ",
+            "displayName-count-other": "ဂိုင်ယာနာ ဒေါ်လာ",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
@@ -542,8 +547,8 @@
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "ဟွန်ဒူးရပ်စ် လန်းပီးရာ",
-            "displayName-count-other": "ဟွန်ဒူးရပ်စ် လန်းပီးရာ",
+            "displayName": "ဟွန်ဒူးရပ်စ် လမ်းပီရာ",
+            "displayName-count-other": "ဟွန်ဒူးရပ်စ် လမ်းပီရာ",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
@@ -560,7 +565,7 @@
           "HTG": {
             "displayName": "ဟေတီဂူးအော်ဒ်",
             "displayName-count-other": "ဟေတီဂူးအော်ဒ်",
-            "symbol": "HTG"
+            "symbol": "G"
           },
           "HUF": {
             "displayName": "ဟန်ဂေရီယံဖော်ရင့်တ်",
@@ -595,8 +600,8 @@
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
-            "displayName": "အီရပ်ဒီနား",
-            "displayName-count-other": "အီရပ်ဒီနား",
+            "displayName": "အီရတ် ဒီနား",
+            "displayName-count-other": "အီရတ် ဒီနား",
             "symbol": "IQD"
           },
           "IRR": {
@@ -637,8 +642,8 @@
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "ခရူဂစ်စတန်ဆော်မ်",
-            "displayName-count-other": "ခရူဂစ်စတန်ဆော်မ်",
+            "displayName": "ကာဂျစ္စတန် ဆော်မ်",
+            "displayName-count-other": "ကာဂျစ္စတန် ဆော်မ်",
             "symbol": "KGS"
           },
           "KHR": {
@@ -654,8 +659,8 @@
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "မြောက်ကိုးရီးယား ဝမ်",
-            "displayName-count-other": "မြောက်ကိုးရီးယား ဝမ်",
+            "displayName": "မြောက်ကိုရီးယား ဝမ်",
+            "displayName-count-other": "မြောက်ကိုရီးယား ဝမ်",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -668,8 +673,8 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "တောင်ကိုးရီးယား ဝမ်",
-            "displayName-count-other": "တောင်ကိုးရီးယား ဝမ်",
+            "displayName": "တောင်ကိုရီးယား ဝမ်",
+            "displayName-count-other": "တောင်ကိုရီးယား ဝမ်",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
@@ -685,8 +690,8 @@
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "ခရူဂစ်စတန်ထိန်ဂျီ",
-            "displayName-count-other": "ခရူဂစ်စတန်ထိန်ဂျီ",
+            "displayName": "ကာဇက်စတန် ထိန်ဂျီ",
+            "displayName-count-other": "ကာဇက်စတန် ထိန်ဂျီ",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
@@ -709,8 +714,8 @@
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
-            "displayName": "လိုင်ဘေးရီးယား ဒေါ်လာ",
-            "displayName-count-other": "လိုင်ဘေးရီးယား ဒေါ်လာ",
+            "displayName": "လိုက်ဘေးရီးယား ဒေါ်လာ",
+            "displayName-count-other": "လိုက်ဘေးရီးယား ဒေါ်လာ",
             "symbol": "LRD",
             "symbol-alt-narrow": "$"
           },
@@ -778,8 +783,8 @@
             "symbol": "MDL"
           },
           "MGA": {
-            "displayName": "မလာဂစ်စီ အရီရရီ ငွေကြေး",
-            "displayName-count-other": "မလာဂစ်စီ အရီရရီ ငွေကြေး",
+            "displayName": "မာလာဂါစီ အရီရရီ",
+            "displayName-count-other": "မာလာဂါစီ အရီရရီ",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
@@ -788,8 +793,8 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "မာစီဒိုးနီးယားဒီနာ",
-            "displayName-count-other": "မာစီဒိုးနီးယားဒီနာ",
+            "displayName": "မက်စီဒိုးနီးယား ဒီနာ",
+            "displayName-count-other": "မက်စီဒိုးနီးယား ဒီနာ",
             "symbol": "MKD"
           },
           "MKN": {
@@ -818,8 +823,8 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "မောရီတာနီအာအူဂီးယာ",
-            "displayName-count-other": "မောရီတာနီအာအူဂီးယာ",
+            "displayName": "မော်ရီတေးနီးယား အူဂီးယာ",
+            "displayName-count-other": "မော်ရီတေးနီးယား အူဂီးယာ",
             "symbol": "MRO"
           },
           "MTL": {
@@ -831,8 +836,8 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "မော်ရေရှားစ် ရူပီ",
-            "displayName-count-other": "မော်ရေရှားစ် ရူပီ",
+            "displayName": "မောရစ်ရှ ရူပီး",
+            "displayName-count-other": "မောရစ်ရှ ရူပီး",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
@@ -875,13 +880,13 @@
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "မိုဇန်ဘစ်မက်တီခယ်လ်",
-            "displayName-count-other": "မိုဇန်ဘစ်မက်တီခယ်လ်",
+            "displayName": "မိုဇမ်ဘစ် မက်တီခယ်လ်",
+            "displayName-count-other": "မိုဇမ်ဘစ် မက်တီခယ်လ်",
             "symbol": "MZN"
           },
           "NAD": {
-            "displayName": "နမ်မီးဘီးယား ဒေါ်လာ",
-            "displayName-count-other": "နမ်မီးဘီးယား ဒေါ်လာ",
+            "displayName": "နမီးဘီးယား ဒေါ်လာ",
+            "displayName-count-other": "နမီးဘီးယား ဒေါ်လာ",
             "symbol": "NAD",
             "symbol-alt-narrow": "$"
           },
@@ -896,8 +901,8 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "နီကာရာဂွာ ခိုးဒိုဘာ",
-            "displayName-count-other": "နီကာရာဂွာ ခိုးဒိုဘာ",
+            "displayName": "နီကာရာဂွါ ခိုးဒိုဘာ",
+            "displayName-count-other": "နီကာရာဂွါ ခိုးဒိုဘာ",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -931,7 +936,7 @@
           "PAB": {
             "displayName": "ပနားမား ဘလ်ဘိုးအာ",
             "displayName-count-other": "ပနားမား ဘလ်ဘိုးအာ",
-            "symbol": "PAB"
+            "symbol": "B/."
           },
           "PEI": {
             "displayName": "PEI",
@@ -947,8 +952,8 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "ပါပူရာနယူးဂီနီခီးနာ",
-            "displayName-count-other": "ပါပူရာနယူးဂီနီခီးနာ",
+            "displayName": "ပါပူအာ နယူးဂီနီ ခီးနာ",
+            "displayName-count-other": "ပါပူအာ နယူးဂီနီ ခီးနာ",
             "symbol": "PGK"
           },
           "PHP": {
@@ -964,8 +969,8 @@
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "ပိုလန် ဇ‌လော့တီ",
-            "displayName-count-other": "ပိုလန် ဇ‌လော့တီ",
+            "displayName": "ပိုလန်ဇလော့တီ",
+            "displayName-count-other": "ပိုလန်ဇလော့တီ",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
@@ -997,9 +1002,10 @@
             "symbol": "ROL"
           },
           "RON": {
-            "displayName": "ရိုမေးနီယားလယ်အို",
-            "displayName-count-other": "ရိုမေးနီယားလယ်အို",
-            "symbol": "RON"
+            "displayName": "ရိုမေးနီးယားလယ်အို",
+            "displayName-count-other": "ရိုမေးနီးယားလယ်အို",
+            "symbol": "RON",
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "ဆားဘီးယားဒယ်နား",
@@ -1035,8 +1041,8 @@
             "symbol-alt-narrow": "$"
           },
           "SCR": {
-            "displayName": "ဆေးရှလ်ရူးပီး",
-            "displayName-count-other": "ဆေးရှလ်ရူးပီး",
+            "displayName": "ဆေးရှဲ ရူပီး",
+            "displayName-count-other": "ဆေးရှဲ ရူပီး",
             "symbol": "SCR"
           },
           "SDD": {
@@ -1065,8 +1071,8 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "စိန့်ဟဲလီနာ ပေါင်",
-            "displayName-count-other": "စိန့်ဟဲလီနာ ပေါင်",
+            "displayName": "စိန့်ဟယ်လယ်နာ ပေါင်",
+            "displayName-count-other": "စိန့်ဟယ်လယ်နာ ပေါင်",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1079,8 +1085,8 @@
             "symbol": "SKK"
           },
           "SLL": {
-            "displayName": "ဆီအဲရာ လီအိုနီယန် လီအိုနီ",
-            "displayName-count-other": "ဆီအဲရာ လီအိုနီယန် လီအိုနီ",
+            "displayName": "ဆီယာရာလီယွန်း လီအိုနီ",
+            "displayName-count-other": "ဆီယာရာလီယွန်း လီအိုနီ",
             "symbol": "SLL"
           },
           "SOS": {
@@ -1089,8 +1095,8 @@
             "symbol": "SOS"
           },
           "SRD": {
-            "displayName": "ဆူရီနိမ်း ဒေါ်လာ",
-            "displayName-count-other": "ဆူရီနိမ်း ဒေါ်လာ",
+            "displayName": "ဆူရီနမ်း ဒေါ်လာ",
+            "displayName-count-other": "ဆူရီနမ်း ဒေါ်လာ",
             "symbol": "SRD",
             "symbol-alt-narrow": "$"
           },
@@ -1105,8 +1111,8 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "စိန့်တိုမီနှင့်ပရင်စီပ့် ဒိုဘရာ",
-            "displayName-count-other": "စိန့်တိုမီနှင့်ပရင်စီပ့် ဒိုဘရာ",
+            "displayName": "ဆောင်တူမေးနှင့် ပရင်စီပီ ဒိုဘရာ",
+            "displayName-count-other": "ဆောင်တူမေးနှင့် ပရင်စီပီ ဒိုဘရာ",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
@@ -1125,8 +1131,8 @@
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "စွာဇီလန်လီလန်းဂီနီ",
-            "displayName-count-other": "စွာဇီလန်လီလန်းဂီနီ",
+            "displayName": "ဆွာဇီလန် လီလန်းဂီနီ",
+            "displayName-count-other": "ဆွာဇီလန် လီလန်းဂီနီ",
             "symbol": "SZL"
           },
           "THB": {
@@ -1140,8 +1146,8 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "တာဂျီကစ္စတန်ဆိုမိုနီ",
-            "displayName-count-other": "တာဂျီကစ္စတန်ဆိုမိုနီ",
+            "displayName": "တာဂျစ်ကစ္စတန် ဆိုမိုနီ",
+            "displayName-count-other": "တာဂျစ်ကစ္စတန် ဆိုမိုနီ",
             "symbol": "TJS"
           },
           "TMM": {
@@ -1149,13 +1155,13 @@
             "symbol": "TMM"
           },
           "TMT": {
-            "displayName": "တာခ်မီန့စ်တန်မာနတ်",
-            "displayName-count-other": "တာခ်မီန့စ်တန်မာနတ်",
+            "displayName": "တာ့ခ်မင်နစ္စတန် မာနတ်",
+            "displayName-count-other": "တာ့ခ်မင်နစ္စတန် မာနတ်",
             "symbol": "TMT"
           },
           "TND": {
-            "displayName": "တူနီရှားဒီနာ",
-            "displayName-count-other": "တူနီရှားဒီနာ",
+            "displayName": "တူနီးရှား ဒီနာ",
+            "displayName-count-other": "တူနီးရှား ဒီနာ",
             "symbol": "TND"
           },
           "TOP": {
@@ -1180,9 +1186,9 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "ထရိုင်နီဒတ်နှင့်တိုဘာဂိုဒေါ်လာ",
-            "displayName-count-other": "တရီနာဒတ်နှင့်တိုဘာဂိုဒေါ်လာ",
-            "symbol": "TTD",
+            "displayName": "ထရီနီဒတ်နှင့် တိုဘက်ဂို ဒေါ်လာ",
+            "displayName-count-other": "ထရီနီဒတ်နှင့် တိုဘက်ဂို ဒေါ်လာ",
+            "symbol": "TT$",
             "symbol-alt-narrow": "$"
           },
           "TWD": {
@@ -1197,8 +1203,8 @@
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "ယူကရိန်း",
-            "displayName-count-other": "ယ",
+            "displayName": "ယူကရိန်း ဟီရီဗင်းညား",
+            "displayName-count-other": "ယူကရိန်း ဟီရီဗင်းညား",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
@@ -1211,8 +1217,8 @@
             "symbol": "UGS"
           },
           "UGX": {
-            "displayName": "ယူဂန္ဓာသျှီလင်",
-            "displayName-count-other": "ယူဂန္ဓာသျှီလင်",
+            "displayName": "ယူဂန်းဒါး သျှီလင်",
+            "displayName-count-other": "ယူဂန်းဒါး သျှီလင်",
             "symbol": "UGX"
           },
           "USD": {
@@ -1244,8 +1250,8 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "ဥဘက်ကစ္စတန်ဆော်မ်",
-            "displayName-count-other": "ဥဘက်ကစ္စတန်ဆော်မ်",
+            "displayName": "ဥဇဘက်ကစ္စတန် ဆော်မ်",
+            "displayName-count-other": "ဥဇဘက်ကစ္စတန် ဆော်မ်",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1269,13 +1275,13 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "ဗာနုအာတူဗားထူ",
-            "displayName-count-other": "ဗာနုအာတူဗားထူ",
+            "displayName": "ဗနွားတူ ဗားထူ",
+            "displayName-count-other": "ဗနွားတူ ဗားထူ",
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "စမိုအထားလာ",
-            "displayName-count-other": "စမိုအထားလာ",
+            "displayName": "ဆမိုအား ထားလာ",
+            "displayName-count-other": "ဆမိုအား ထားလာ",
             "symbol": "WST"
           },
           "XAF": {
@@ -1308,8 +1314,8 @@
             "symbol": "XBD"
           },
           "XCD": {
-            "displayName": "အရှေ့ကာရီဘီယံဒေါ်လာ",
-            "displayName-count-other": "အရှေ့ကာရီဘီယံဒေါ်လာ",
+            "displayName": "အရှေ့ကာရစ်ဘီယံဒေါ်လာ",
+            "displayName-count-other": "အရှေ့ကာရစ်ဘီယံဒေါ်လာ",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
@@ -1330,8 +1336,8 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "အိုင်ဗရီးကိုးစ်ဖရန့်",
-            "displayName-count-other": "အိုင်ဗရီးကိုးစ်ဖရန့်",
+            "displayName": "ဖရန့်",
+            "displayName-count-other": "ဖရန့်",
             "symbol": "CFA"
           },
           "XPD": {
