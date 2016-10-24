@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "ar",
         "territory": "JO"
@@ -366,7 +366,20 @@
           "standard": "#,##0%"
         },
         "currencyFormats-numberSystem-arab": {
+          "currencySpacing": {
+            "beforeCurrency": {
+              "currencyMatch": "[:^S:]",
+              "surroundingMatch": "[:digit:]",
+              "insertBetween": " "
+            },
+            "afterCurrency": {
+              "currencyMatch": "[:^S:]",
+              "surroundingMatch": "[:digit:]",
+              "insertBetween": " "
+            }
+          },
           "standard": "#,##0.00 ¤",
+          "accounting": "#,##0.00 ¤",
           "unitPattern-count-zero": "{0} {1}",
           "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-two": "{0} {1}",

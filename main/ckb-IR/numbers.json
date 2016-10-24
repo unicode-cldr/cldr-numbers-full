@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "ckb",
         "territory": "IR"
@@ -126,7 +126,20 @@
           "standard": "#,##0%"
         },
         "currencyFormats-numberSystem-arab": {
-          "standard": "#,##0.00 ¤"
+          "currencySpacing": {
+            "beforeCurrency": {
+              "currencyMatch": "[:^S:]",
+              "surroundingMatch": "[:digit:]",
+              "insertBetween": " "
+            },
+            "afterCurrency": {
+              "currencyMatch": "[:^S:]",
+              "surroundingMatch": "[:digit:]",
+              "insertBetween": " "
+            }
+          },
+          "standard": "#,##0.00 ¤",
+          "accounting": "#,##0.00 ¤"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
