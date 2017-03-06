@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12938 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "uk"
       },
@@ -1305,15 +1305,19 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "перуанський новий сол",
-            "displayName-count-one": "перуанський новий сол",
-            "displayName-count-few": "перуанські нові соли",
-            "displayName-count-many": "перуанських нових солів",
-            "displayName-count-other": "перуанського нового сола",
+            "displayName": "перуанський сол",
+            "displayName-count-one": "перуанський сол",
+            "displayName-count-few": "перуанські соли",
+            "displayName-count-many": "перуанських солів",
+            "displayName-count-other": "перуанського сола",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "перуанський сол",
+            "displayName": "перуанський сол (1863–1965)",
+            "displayName-count-one": "перуанський сол (1863–1965)",
+            "displayName-count-few": "перуанські соли (1863–1965)",
+            "displayName-count-many": "перуанських солів (1863–1965)",
+            "displayName-count-other": "перуанського сола (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

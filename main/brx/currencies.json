@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "brx"
       },
@@ -836,11 +836,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "पेरुवाई नया सोल",
+            "displayName": "पेरुवाई सोल",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "पेरुवाई सोल",
+            "displayName": "पेरुवाई सोल (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

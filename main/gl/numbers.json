@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "gl"
       },
@@ -142,6 +142,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} día",
+          "pluralMinimalPairs": "{0} días",
+          "other": "Colle a {0}.ª curva á dereita."
         }
       }
     }

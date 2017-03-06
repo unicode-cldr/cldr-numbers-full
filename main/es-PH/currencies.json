@@ -3,8 +3,8 @@
     "es-PH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "es",
         "territory": "PH"
@@ -1162,9 +1162,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "nuevo sol peruano",
-            "displayName-count-one": "nuevo sol peruano",
-            "displayName-count-other": "nuevos soles peruanos",
+            "displayName": "sol peruano",
+            "displayName-count-one": "sol peruano",
+            "displayName-count-other": "soles peruanos",
             "symbol": "PEN"
           },
           "PES": {

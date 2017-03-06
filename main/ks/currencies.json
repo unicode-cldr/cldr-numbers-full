@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13006 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ks"
       },
@@ -836,11 +836,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "پٔریوٗوِیَن نیوٗاوز سولٕز",
+            "displayName": "پٔریوٗوِیَن سولٕز",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "پٔریوٗوِیَن سول",
+            "displayName": "پٔریوٗوِیَن سول (۱۸۶۳–۱۹۶۵)",
             "symbol": "PES"
           },
           "PGK": {

@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "pt"
       },
@@ -1235,15 +1235,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Novo sol peruano",
-            "displayName-count-one": "Novo sol peruano",
-            "displayName-count-other": "Novos sóis peruanos",
+            "displayName": "Sol peruano",
+            "displayName-count-one": "Sol peruano",
+            "displayName-count-other": "Sóis peruanos",
             "symbol": "PEN"
           },
           "PES": {
             "displayName": "Sol peruano (1863–1965)",
-            "displayName-count-one": "Sol peruano",
-            "displayName-count-other": "Soles peruanos",
+            "displayName-count-one": "Sol peruano (1863–1965)",
+            "displayName-count-other": "Sóis peruanos (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

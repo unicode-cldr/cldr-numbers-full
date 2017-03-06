@@ -3,8 +3,8 @@
     "ru-BY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13005 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ru",
         "territory": "BY"
@@ -1278,15 +1278,19 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Перуанский новый соль",
-            "displayName-count-one": "перуанский новый соль",
-            "displayName-count-few": "перуанских новых соля",
-            "displayName-count-many": "перуанских новый солей",
-            "displayName-count-other": "перуанского нового соля",
+            "displayName": "Перуанский соль",
+            "displayName-count-one": "перуанский соль",
+            "displayName-count-few": "перуанских соля",
+            "displayName-count-many": "перуанских солей",
+            "displayName-count-other": "перуанского соля",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "Перуанский соль",
+            "displayName": "Перуанский соль (1863–1965)",
+            "displayName-count-one": "перуанский соль (1863–1965)",
+            "displayName-count-few": "перуанских соля (1863–1965)",
+            "displayName-count-many": "перуанских солей (1863–1965)",
+            "displayName-count-other": "перуанского соля (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

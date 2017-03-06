@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "zh",
         "script": "Hans"
@@ -1042,8 +1042,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "秘鲁新索尔",
-            "displayName-count-other": "秘鲁新索尔",
+            "displayName": "秘鲁索尔",
+            "displayName-count-other": "秘鲁索尔",
             "symbol": "PEN"
           },
           "PES": {

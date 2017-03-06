@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12779 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ur",
         "territory": "IN"
@@ -1052,9 +1052,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "پیروین نیووسول",
-            "displayName-count-one": "پیروین نیووسول",
-            "displayName-count-other": "پیروین نیووسول",
+            "displayName": "پیرو نیووسول",
+            "displayName-count-one": "پیرو نیووسول",
+            "displayName-count-other": "پیرو نیووسول",
             "symbol": "PEN"
           },
           "PES": {

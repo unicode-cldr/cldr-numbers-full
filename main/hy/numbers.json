@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "hy"
       },
@@ -143,6 +143,12 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "այդ {0} ժամը",
+          "pluralMinimalPairs": "այդ {0} ժամերը",
+          "one": "Թեքվեք աջ {0}-ին խաչմերուկից:",
+          "other": "Թեքվեք աջ {0}-րդ խաչմերուկից:"
         }
       }
     }

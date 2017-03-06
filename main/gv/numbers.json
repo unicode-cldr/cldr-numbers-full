@@ -3,8 +3,8 @@
     "gv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13134 $",
+          "_cldrVersion": "31"
         },
         "language": "gv"
       },
@@ -105,6 +105,14 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} thunnag/vuc/ooyl",
+          "pluralMinimalPairs": "{0} hunnag/vuc/ooyl",
+          "pluralMinimalPairs": "{0} thunnag/muc/ooyl",
+          "pluralMinimalPairs": "{0} dy hunnagyn/dy vucyn/dy ooylyn",
+          "pluralMinimalPairs": "{0} thunnagyn/mucyn/ooylyn",
+          "other": "{0}?"
         }
       }
     }

@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "ro"
       },
@@ -1254,17 +1254,17 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "sol nou peruvian",
-            "displayName-count-one": "sol nou peruvian",
-            "displayName-count-few": "soli noi peruvieni",
-            "displayName-count-other": "soli noi peruvieni",
+            "displayName": "sol peruvian",
+            "displayName-count-one": "sol peruvian",
+            "displayName-count-few": "soli peruvieni",
+            "displayName-count-other": "soli peruvieni",
             "symbol": "PEN"
           },
           "PES": {
             "displayName": "sol peruvian (1863–1965)",
             "displayName-count-one": "sol peruvian (1863–1965)",
-            "displayName-count-few": "soli Peru (1863–1965)",
-            "displayName-count-other": "soli Peru (1863–1965)",
+            "displayName-count-few": "soli peruvieni (1863–1965)",
+            "displayName-count-other": "soli peruvieni (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

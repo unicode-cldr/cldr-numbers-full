@@ -3,8 +3,8 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "el",
         "territory": "CY"
@@ -1191,15 +1191,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Νέο Σολ Περού",
-            "displayName-count-one": "νέο σολ Περού",
-            "displayName-count-other": "νέα Σολ Περού",
+            "displayName": "Σολ Περού",
+            "displayName-count-one": "σολ Περού",
+            "displayName-count-other": "Σολ Περού",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "Σολ Περού",
-            "displayName-count-one": "σολ Περού",
-            "displayName-count-other": "σολ Περού",
+            "displayName": "Σολ Περού (1863–1965)",
+            "displayName-count-one": "σολ Περού (1863–1965)",
+            "displayName-count-other": "σολ Περού (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

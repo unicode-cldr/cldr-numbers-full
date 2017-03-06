@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "mn"
       },
@@ -1050,9 +1050,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "перугийн невосоль",
-            "displayName-count-one": "перугийн невосоль",
-            "displayName-count-other": "перугийн невосоль",
+            "displayName": "перугийн соль",
+            "displayName-count-one": "перугийн соль",
+            "displayName-count-other": "перугийн соль",
             "symbol": "PEN"
           },
           "PES": {

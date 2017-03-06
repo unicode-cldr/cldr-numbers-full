@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "fy"
       },
@@ -1214,15 +1214,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruaanske nieuwe sol",
-            "displayName-count-one": "Peruaanske nieuwe sol",
-            "displayName-count-other": "Peruaanske nieuwe sol",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "Peruaanske sol",
             "displayName-count-one": "Peruaanske sol",
             "displayName-count-other": "Peruaanske sol",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "Peruaanske sol (1863–1985)",
+            "displayName-count-one": "Peruaanske sol (1863–1985)",
+            "displayName-count-other": "Peruaanske sol (1863–1985)",
             "symbol": "PES"
           },
           "PGK": {

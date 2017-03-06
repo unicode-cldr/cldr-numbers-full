@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "lb"
       },
@@ -1188,14 +1188,14 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruaneschen Neie Sol",
-            "displayName-count-one": "Peruaneschen Neie Sol",
-            "displayName-count-other": "Peruanesch Nei Soles",
+            "displayName": "Peruaneschen Sol",
+            "displayName-count-one": "Peruaneschen Sol",
+            "displayName-count-other": "Peruanesch Soles",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "Peruanesche Sol (1863–1965)",
-            "displayName-count-one": "Peruanesche Sol (1863–1965)",
+            "displayName": "Peruaneschen Sol (1863–1965)",
+            "displayName-count-one": "Peruaneschen Sol (1863–1965)",
             "displayName-count-other": "Peruanesch Soles (1863–1965)",
             "symbol": "PES"
           },

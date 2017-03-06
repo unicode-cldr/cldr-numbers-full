@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "zh",
         "script": "Hans"
@@ -200,6 +200,10 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}-{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} 天",
+          "other": "在第 {0} 个路口右转。"
         }
       }
     }

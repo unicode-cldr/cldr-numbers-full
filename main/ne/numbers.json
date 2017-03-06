@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ne"
       },
@@ -271,6 +271,12 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "तपाईँसँग {0} निम्तो छ",
+          "pluralMinimalPairs": "तपाईँसँग {0} निम्ता छन््",
+          "one": "{0} ओ दायाँ घुम्ति लिनुहोस्",
+          "other": "{0} औं दायाँ घुम्ति लिनुहोस्"
         }
       }
     }

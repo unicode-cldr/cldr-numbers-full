@@ -3,8 +3,8 @@
     "bo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "bo"
       },
@@ -197,6 +197,10 @@
         "miscPatterns-numberSystem-tibt": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0}?",
+          "other": "{0}?"
         }
       }
     }

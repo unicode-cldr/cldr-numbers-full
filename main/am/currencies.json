@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "am"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "የፔሩቪያ ኑኤቮ ሶል",
-            "displayName-count-one": "የፔሩቪያ ኑኤቮ ሶል",
-            "displayName-count-other": "የፔሩቪያ ኑኤቮ ሶል",
+            "displayName": "የፔሩቪያ ሶል",
+            "displayName-count-one": "የፔሩቪያ ሶል",
+            "displayName-count-other": "የፔሩቪያ ሶል",
             "symbol": "PEN"
           },
           "PES": {

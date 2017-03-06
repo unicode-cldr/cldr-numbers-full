@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12954 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "bn",
         "territory": "IN"
@@ -272,6 +272,15 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "সসে {0}টি আপেল খেল, সেটা ভাল",
+          "pluralMinimalPairs": "সসে {0}টি আপেল খেল, সেগুলি ভাল",
+          "few": "ডান দিকে {0}র্থ বাঁকটি নিন।",
+          "many": "ডান দিকে {0}ষ্ঠ বাঁকটি নিন।",
+          "one": "ডান দিকে {0}ম বাঁকটি নিন।",
+          "other": "ডান দিকে {0}তম বাঁকটি নিন।",
+          "two": "ডান দিকে {0}য় বাঁকটি নিন।"
         }
       }
     }

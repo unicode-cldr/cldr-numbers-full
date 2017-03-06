@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "uz",
         "script": "Latn"
@@ -143,6 +143,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "Savatingizda {0}X bor. Uni sotib olasizmi?",
+          "pluralMinimalPairs": "Savatingizda {0}X bor. Ularni sotib olasizmi?",
+          "other": "{0}chi chorraxada oʼngga buriling."
         }
       }
     }

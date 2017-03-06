@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "dsb"
       },
@@ -1364,11 +1364,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "peruski nowy sol",
-            "displayName-count-one": "peruski nowy sol",
-            "displayName-count-two": "peruskej nowej sola",
-            "displayName-count-few": "peruske nowe sole",
-            "displayName-count-other": "peruskich nowych solow",
+            "displayName": "peruski sol",
+            "displayName-count-one": "peruski sol",
+            "displayName-count-two": "peruskej sola",
+            "displayName-count-few": "peruske sole",
+            "displayName-count-other": "peruskich solow",
             "symbol": "PEN"
           },
           "PES": {

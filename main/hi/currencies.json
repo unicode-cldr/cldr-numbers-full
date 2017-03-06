@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "hi"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "पेरूवियन नुएवो सोल",
-            "displayName-count-one": "पेरूवियन नुएवो सोल",
-            "displayName-count-other": "पेरूवियन नुएवो सोल",
+            "displayName": "पेरूवियन सोल",
+            "displayName-count-one": "पेरूवियन सोल",
+            "displayName-count-other": "पेरूवियन सोल",
             "symbol": "PEN"
           },
           "PES": {

@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13272 $",
+          "_cldrVersion": "31"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -1377,17 +1377,17 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Перуански нуево сол",
-            "displayName-count-one": "перуански нуево сол",
-            "displayName-count-few": "перуанска нуево сола",
-            "displayName-count-other": "перуанских нуево сола",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "Перуански сол",
             "displayName-count-one": "перуански сол",
             "displayName-count-few": "перуанска сола",
             "displayName-count-other": "перуанских сола",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "Перуански сол (1863–1965)",
+            "displayName-count-one": "перуански сол (1863–1965)",
+            "displayName-count-few": "перуанска сола (1863–1965)",
+            "displayName-count-other": "перуанских сола (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

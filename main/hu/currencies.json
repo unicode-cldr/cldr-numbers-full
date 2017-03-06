@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "hu"
       },
@@ -1091,17 +1091,17 @@
             "symbol": "PAB"
           },
           "PEI": {
-            "displayName": "Perui inti",
+            "displayName": "perui inti",
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "perui sol nuevo",
-            "displayName-count-one": "perui sol nuevo",
-            "displayName-count-other": "perui sol nuevo",
+            "displayName": "perui sol",
+            "displayName-count-one": "perui sol",
+            "displayName-count-other": "perui sol",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "Perui sol",
+            "displayName": "perui sol (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

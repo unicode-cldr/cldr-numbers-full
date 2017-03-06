@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12933 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sr",
         "script": "Latn",
@@ -1379,17 +1379,17 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruanski novi sol",
-            "displayName-count-one": "peruanski novi sol",
-            "displayName-count-few": "peruanska nova sola",
-            "displayName-count-other": "peruanskih novih sola",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "Peruanski sol",
             "displayName-count-one": "peruanski sol",
             "displayName-count-few": "peruanska sola",
             "displayName-count-other": "peruanskih sola",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "Peruanski sol (1863–1965)",
+            "displayName-count-one": "peruanski sol (1863–1965)",
+            "displayName-count-few": "peruanska sola (1863–1965)",
+            "displayName-count-other": "peruanskih sola (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

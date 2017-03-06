@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13006 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "cy"
       },
@@ -290,6 +290,20 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} cŵn, {0} cathod",
+          "pluralMinimalPairs": "{0} ci, {0} gath",
+          "pluralMinimalPairs": "{0} gi, {0} gath",
+          "pluralMinimalPairs": "{0} chi, {0} cath",
+          "pluralMinimalPairs": "{0} chi, {0} chath",
+          "pluralMinimalPairs": "{0} ci, {0} cath",
+          "few": "{0}ydd ci",
+          "many": "{0}ed ci",
+          "one": "ci {0}af",
+          "other": "ci rhif {0}",
+          "two": "{0}il gi",
+          "zero": "{0}fed ci"
         }
       }
     }

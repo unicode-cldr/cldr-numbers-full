@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "pl"
       },
@@ -216,6 +216,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} miesiąc",
+          "pluralMinimalPairs": "{0} miesiące",
+          "pluralMinimalPairs": "{0} miesięcy",
+          "pluralMinimalPairs": "{0} miesiąca",
+          "other": "Skręć w {0} w prawo."
         }
       }
     }

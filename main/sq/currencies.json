@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "sq"
       },
@@ -1050,9 +1050,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Sola nuevo-peruane",
-            "displayName-count-one": "solë nuevo-peruane",
-            "displayName-count-other": "sola nuevo-peruane",
+            "displayName": "Sola peruane",
+            "displayName-count-one": "solë peruane",
+            "displayName-count-other": "sola peruane",
             "symbol": "PEN"
           },
           "PES": {

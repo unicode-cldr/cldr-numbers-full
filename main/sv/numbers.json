@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13007 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "sv"
       },
@@ -143,6 +143,12 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}‒{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "om {0} dag",
+          "pluralMinimalPairs": "om {0} dagar",
+          "one": "Ta {0}:a svängen till höger",
+          "other": "Ta {0}:e svängen till höger"
         }
       }
     }

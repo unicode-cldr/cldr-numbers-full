@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "az"
       },
@@ -1196,15 +1196,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peru Nuevo Solu",
-            "displayName-count-one": "Peru Nuevo solu",
-            "displayName-count-other": "Peru Nuevo solu",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "Peru Solu",
             "displayName-count-one": "Peru solu",
             "displayName-count-other": "Peru solu",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "Peru Solu (1863–1965)",
+            "displayName-count-one": "Peru solu (1863–1965)",
+            "displayName-count-other": "Peru solu (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

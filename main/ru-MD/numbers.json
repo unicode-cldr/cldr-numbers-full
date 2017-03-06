@@ -3,8 +3,8 @@
     "ru-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ru",
         "territory": "MD"
@@ -217,6 +217,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "из {0} книги за {0} день",
+          "pluralMinimalPairs": "из {0} книг за {0} дня",
+          "pluralMinimalPairs": "из {0} книг за {0} дней",
+          "pluralMinimalPairs": "из {0} книги за {0} дня",
+          "other": "Сверните направо на {0}-м перекрестке."
         }
       }
     }

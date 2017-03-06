@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "lv"
       },
@@ -747,10 +747,10 @@
             "symbol": "IRR"
           },
           "ISK": {
-            "displayName": "Īslandes krona",
-            "displayName-count-zero": "Īslandes kronas",
-            "displayName-count-one": "Īslandes krona",
-            "displayName-count-other": "Īslandes kronas",
+            "displayName": "Islandes krona",
+            "displayName-count-zero": "Islandes kronas",
+            "displayName-count-one": "Islandes krona",
+            "displayName-count-other": "Islandes kronas",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
@@ -1167,10 +1167,10 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peru jaunais sols",
-            "displayName-count-zero": "Peru jaunie soli",
-            "displayName-count-one": "Peru jaunais sols",
-            "displayName-count-other": "Peru jaunie soli",
+            "displayName": "Peru sols",
+            "displayName-count-zero": "Peru soli",
+            "displayName-count-one": "Peru sols",
+            "displayName-count-other": "Peru soli",
             "symbol": "PEN"
           },
           "PES": {

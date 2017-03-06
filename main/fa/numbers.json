@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "fa"
       },
@@ -271,6 +271,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "‎{0}+‎",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "او {0} فیلم در هفته می‌بیند که کمدی است.",
+          "pluralMinimalPairs": "او {0} فیلم در هفته می‌بیند که کمدی هستند.",
+          "other": "در پیچ {0}ام سمت راست بپیچید."
         }
       }
     }

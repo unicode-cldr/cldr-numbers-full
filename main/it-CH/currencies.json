@@ -3,8 +3,8 @@
     "it-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12799 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "it",
         "territory": "CH"
@@ -1059,13 +1059,13 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "nuovo sol peruviano",
-            "displayName-count-one": "nuovo sol peruviano",
-            "displayName-count-other": "nuovi sol peruviani",
+            "displayName": "sol peruviano",
+            "displayName-count-one": "sol peruviano",
+            "displayName-count-other": "sol peruviani",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "sol peruviano",
+            "displayName": "sol peruviano (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

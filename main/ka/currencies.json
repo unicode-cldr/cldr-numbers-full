@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ka"
       },
@@ -1052,13 +1052,13 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "პერუს ახალი სოლი",
-            "displayName-count-one": "პერუს ახალი სოლი",
-            "displayName-count-other": "პერუს ახალი სოლი",
+            "displayName": "პერუს სოლი",
+            "displayName-count-one": "პერუს სოლი",
+            "displayName-count-other": "პერუს სოლი",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "პერუს სოლი",
+            "displayName": "პერუს სოლი (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

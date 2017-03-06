@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ml"
       },
@@ -1173,15 +1173,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "പെറുവിയൻ ന്യൂവോ സോൾ",
-            "displayName-count-one": "പെറുവിയൻ ന്യൂവോ സോൾ",
-            "displayName-count-other": "പെറുവിയൻ ന്യൂവോ സോൾ",
+            "displayName": "പെറുവിയൻ സോൾ",
+            "displayName-count-one": "പെറുവിയൻ സോൾ",
+            "displayName-count-other": "പെറുവിയൻ സോൾ",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "പെറൂവിയൻ സോൾ",
-            "displayName-count-one": "പെറൂവിയൻ സോൾ",
-            "displayName-count-other": "പെറൂവിയൻ സോൾസ്",
+            "displayName": "പെറൂവിയൻ സോൾ (1863–1965)",
+            "displayName-count-one": "പെറൂവിയൻ സോൾ (1863–1965)",
+            "displayName-count-other": "പെറൂവിയൻ സോൾസ് (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

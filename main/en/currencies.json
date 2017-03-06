@@ -3,8 +3,8 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "en"
       },
@@ -486,9 +486,9 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "Czech Republic Koruna",
-            "displayName-count-one": "Czech Republic koruna",
-            "displayName-count-other": "Czech Republic korunas",
+            "displayName": "Czech Koruna",
+            "displayName-count-one": "Czech koruna",
+            "displayName-count-other": "Czech korunas",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },

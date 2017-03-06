@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ast"
       },
@@ -1239,9 +1239,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "sol nuevu peruanu",
-            "displayName-count-one": "sol nuevu peruanu",
-            "displayName-count-other": "soles nuevos peruanos",
+            "displayName": "Sol peruanu",
+            "displayName-count-one": "sol peruanu",
+            "displayName-count-other": "soles peruanos",
             "symbol": "PEN"
           },
           "PES": {

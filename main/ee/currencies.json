@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ee"
       },
@@ -1220,15 +1220,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "peruga nuevo sol",
-            "displayName-count-one": "peruga nuevo sol",
-            "displayName-count-other": "peruga nuevo sol",
+            "displayName": "peruga sol",
+            "displayName-count-one": "peruga sol",
+            "displayName-count-other": "peruga sol",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "peruga nuevo sol (1863–1965)",
-            "displayName-count-one": "peruga nuevo sol (1863–1965)",
-            "displayName-count-other": "peruga nuevo sol (1863–1965)",
+            "displayName": "peruga sol (1863–1965)",
+            "displayName-count-one": "peruga sol (1863–1965)",
+            "displayName-count-other": "peruga sol (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

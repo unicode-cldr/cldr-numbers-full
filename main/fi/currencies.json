@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12988 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "fi"
       },
@@ -1244,9 +1244,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Perun uusi sol",
-            "displayName-count-one": "Perun uusi sol",
-            "displayName-count-other": "Perun uutta solia",
+            "displayName": "Perun sol",
+            "displayName-count-one": "Perun sol",
+            "displayName-count-other": "Perun solia",
             "symbol": "PEN"
           },
           "PES": {

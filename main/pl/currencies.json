@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "pl"
       },
@@ -1333,15 +1333,19 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "nowy sol peruwiański",
-            "displayName-count-one": "nowy sol peruwiański",
-            "displayName-count-few": "nowe sole peruwiańskie",
-            "displayName-count-many": "nowych soli peruwiańskich",
-            "displayName-count-other": "nowego sola peruwiańskiego",
+            "displayName": "sol peruwiański",
+            "displayName-count-one": "sol peruwiański",
+            "displayName-count-few": "sole peruwiańskie",
+            "displayName-count-many": "soli peruwiańskich",
+            "displayName-count-other": "sola peruwiańskiego",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "sol peruwiański",
+            "displayName": "sol peruwiański (1863–1965)",
+            "displayName-count-one": "sol peruwiański (1863–1965)",
+            "displayName-count-few": "sole peruwiańskie (1863–1965)",
+            "displayName-count-many": "soli peruwiańskich (1863–1965)",
+            "displayName-count-other": "sola peruwiańskiego (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

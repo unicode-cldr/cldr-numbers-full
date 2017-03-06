@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "my"
       },
@@ -943,8 +943,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "ပီရူး နူအီဗိုဆိုးလ်",
-            "displayName-count-other": "ပီရူး နူအီဗိုဆိုးလ်",
+            "displayName": "ပီရူး ဆိုးလ်",
+            "displayName-count-other": "ပီရူး ဆိုးလ်",
             "symbol": "PEN"
           },
           "PES": {

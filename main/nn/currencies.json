@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "nn"
       },
@@ -1080,15 +1080,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "peruansk nuevo sol",
-            "displayName-count-one": "peruansk nuevo sol",
-            "displayName-count-other": "peruanske nuevo sol",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "peruansk sol",
             "displayName-count-one": "peruansk sol",
             "displayName-count-other": "peruanske sol",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "peruansk sol (1863–1965)",
+            "displayName-count-one": "peruansk sol (1863–1965)",
+            "displayName-count-other": "peruanske sol (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

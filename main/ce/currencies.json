@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ce"
       },
@@ -1047,9 +1047,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Перун керла соль",
-            "displayName-count-one": "Перун керла соль",
-            "displayName-count-other": "Перун керла солаш",
+            "displayName": "Перун соль",
+            "displayName-count-one": "Перун соль",
+            "displayName-count-other": "Перун солаш",
             "symbol": "PEN"
           },
           "PES": {

@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "gu"
       },
@@ -271,6 +271,15 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}-{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} કિલોગ્રામ",
+          "pluralMinimalPairs": "{0} કિલોગ્રામ્સ",
+          "few": "જમણી બાજુએ {0}થો વળાંક લો.",
+          "many": "જમણી બાજુએ {0}ઠો વળાંક લો.",
+          "one": "જમણી બાજુએ {0}લો વળાંક લો.",
+          "other": "જમણી બાજુએ {0}મો વળાંક લો.",
+          "two": "જમણી બાજુએ {0}જો વળાંક લો."
         }
       }
     }

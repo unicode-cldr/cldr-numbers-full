@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13006 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "cy"
       },
@@ -1794,13 +1794,13 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Nuevo Sol Periw",
-            "displayName-count-zero": "nuevo sol Periw",
-            "displayName-count-one": "nuevo sol Periw",
-            "displayName-count-two": "nuevo sol Periw",
-            "displayName-count-few": "nuevo sol Periw",
-            "displayName-count-many": "nuevo sol Periw",
-            "displayName-count-other": "nuevo sol Periw",
+            "displayName": "Sol Periw",
+            "displayName-count-zero": "sol Periw",
+            "displayName-count-one": "sol Periw",
+            "displayName-count-two": "sol Periw",
+            "displayName-count-few": "sol Periw",
+            "displayName-count-many": "sol Periw",
+            "displayName-count-other": "sol Periw",
             "symbol": "PEN"
           },
           "PES": {

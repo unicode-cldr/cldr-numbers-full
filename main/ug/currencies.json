@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ug"
       },
@@ -1239,9 +1239,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "پېرۇ يېڭى سولى",
-            "displayName-count-one": "پېرۇ يېڭى سولى",
-            "displayName-count-other": "پېرۇ يېڭى سولى",
+            "displayName": "پېرۇ سولى",
+            "displayName-count-one": "پېرۇ سولى",
+            "displayName-count-other": "پېرۇ سولى",
             "symbol": "PEN"
           },
           "PES": {

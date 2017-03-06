@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "mk"
       },
@@ -1053,13 +1053,13 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Перуански нов сол",
-            "displayName-count-one": "Перуански нов сол",
-            "displayName-count-other": "Перуански нов сол",
+            "displayName": "Перуански сол",
+            "displayName-count-one": "Перуански сол",
+            "displayName-count-other": "Перуански сол",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "Перуански сол",
+            "displayName": "Перуански сол (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "cs"
       },
@@ -1617,11 +1617,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "peruánský nový sol",
-            "displayName-count-one": "peruánský nový sol",
-            "displayName-count-few": "peruánské nové soly",
-            "displayName-count-many": "peruánského nového solu",
-            "displayName-count-other": "peruánských nových solů",
+            "displayName": "peruánský sol",
+            "displayName-count-one": "peruánský sol",
+            "displayName-count-few": "peruánské soly",
+            "displayName-count-many": "peruánského solu",
+            "displayName-count-other": "peruánských solů",
             "symbol": "PEN"
           },
           "PES": {

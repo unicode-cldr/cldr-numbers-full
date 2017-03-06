@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ja"
       },
@@ -107,6 +107,10 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0} 以上",
           "range": "{0}～{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0}日",
+          "other": "{0} 番目の角を右折します。"
         }
       }
     }

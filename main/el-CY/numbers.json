@@ -3,8 +3,8 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "el",
         "territory": "CY"
@@ -144,6 +144,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} ημέρα",
+          "pluralMinimalPairs": "{0} ημέρες",
+          "other": "Στρίψτε στην {0}η γωνία δεξιά."
         }
       }
     }

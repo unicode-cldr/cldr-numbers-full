@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "id"
       },
@@ -982,8 +982,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Nuevo Sol Peru",
-            "displayName-count-other": "Nuevo Sol Peru",
+            "displayName": "Sol Peru",
+            "displayName-count-other": "Sol Peru",
             "symbol": "PEN"
           },
           "PES": {

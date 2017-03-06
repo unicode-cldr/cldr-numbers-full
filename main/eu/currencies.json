@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "eu"
       },
@@ -1053,9 +1053,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruko sol berria",
-            "displayName-count-one": "Peruko sol berri",
-            "displayName-count-other": "Peruko sol berri",
+            "displayName": "Peruko sol",
+            "displayName-count-one": "Peruko sol",
+            "displayName-count-other": "Peruko sol",
             "symbol": "PEN"
           },
           "PES": {

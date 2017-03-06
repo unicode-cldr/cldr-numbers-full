@@ -3,8 +3,8 @@
     "ta": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13204 $",
+          "_cldrVersion": "31"
         },
         "language": "ta"
       },
@@ -272,6 +272,11 @@
         "miscPatterns-numberSystem-tamldec": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} நாள்",
+          "pluralMinimalPairs": "{0} நாட்கள்",
+          "other": "{0}வது வலது திருப்பத்தை எடு."
         }
       }
     }

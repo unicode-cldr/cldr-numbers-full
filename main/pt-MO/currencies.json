@@ -3,8 +3,8 @@
     "pt-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "pt",
         "territory": "MO"
@@ -1236,15 +1236,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Novo sol peruano",
-            "displayName-count-one": "Novo sol peruano",
-            "displayName-count-other": "Novos soles peruanos",
+            "displayName": "Sol peruano",
+            "displayName-count-one": "Sol peruano",
+            "displayName-count-other": "Soles peruanos",
             "symbol": "PEN"
           },
           "PES": {
             "displayName": "Sol peruano (1863–1965)",
-            "displayName-count-one": "Sol peruano",
-            "displayName-count-other": "Soles peruanos",
+            "displayName-count-one": "Sol peruano (1863–1965)",
+            "displayName-count-other": "Soles peruanos (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

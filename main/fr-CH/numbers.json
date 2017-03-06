@@ -3,8 +3,8 @@
     "fr-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12796 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13248 $",
+          "_cldrVersion": "31"
         },
         "language": "fr",
         "territory": "CH"
@@ -16,7 +16,7 @@
         },
         "minimumGroupingDigits": "1",
         "symbols-numberSystem-latn": {
-          "decimal": ".",
+          "decimal": ",",
           "group": " ",
           "list": ";",
           "percentSign": "%",
@@ -27,6 +27,7 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
+          "currencyDecimal": ".",
           "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {
@@ -107,7 +108,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00;¤-#,##0.00",
+          "standard": "#,##0.00 ¤",
           "accounting": "#,##0.00 ¤;(#,##0.00 ¤)",
           "short": {
             "standard": {
@@ -143,6 +144,12 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} jour",
+          "pluralMinimalPairs": "{0} jours",
+          "one": "Prenez la {0}re à droite.",
+          "other": "Prenez la {0}e à droite."
         }
       }
     }

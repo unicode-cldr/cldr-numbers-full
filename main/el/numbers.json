@@ -3,8 +3,8 @@
     "el": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "el"
       },
@@ -143,6 +143,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} ημέρα",
+          "pluralMinimalPairs": "{0} ημέρες",
+          "other": "Στρίψτε στην {0}η γωνία δεξιά."
         }
       }
     }

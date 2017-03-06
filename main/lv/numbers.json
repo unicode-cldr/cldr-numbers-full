@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "lv"
       },
@@ -179,6 +179,12 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} diennakšu",
+          "pluralMinimalPairs": "{0} diennakts",
+          "pluralMinimalPairs": "{0} diennaktis",
+          "other": "Dodieties {0}. pagriezienā pa labi."
         }
       }
     }

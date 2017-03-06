@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "tk"
       },
@@ -1047,9 +1047,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Täze peru soly",
-            "displayName-count-one": "täze peru soly",
-            "displayName-count-other": "täze peru soly",
+            "displayName": "Peru soly",
+            "displayName-count-one": "Peru soly",
+            "displayName-count-other": "Peru soly",
             "symbol": "PEN"
           },
           "PES": {

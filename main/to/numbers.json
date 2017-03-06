@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12798 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13174 $",
+          "_cldrVersion": "31"
         },
         "language": "to"
       },
@@ -105,6 +105,10 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}—{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0}?",
+          "other": "{0}?"
         }
       }
     }

@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12922 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ko"
       },
@@ -105,6 +105,10 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}~{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0}일",
+          "other": "{0}번째 길목에서 우회전하세요."
         }
       }
     }

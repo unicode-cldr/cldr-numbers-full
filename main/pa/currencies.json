@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "pa"
       },
@@ -1083,9 +1083,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "ਪੇਰੂਵੀਅਨ ਨਿਊਵੋ ਸੋਲ",
-            "displayName-count-one": "ਪੇਰੂਵੀਅਨ ਨਿਊਵੋ ਸੋਲ",
-            "displayName-count-other": "ਪੇਰੂਵੀਅਨ ਨਿਊਵੋ ਸੋਲ",
+            "displayName": "ਪੇਰੂਵੀਅਨ ਸੋਲ",
+            "displayName-count-one": "ਪੇਰੂਵੀਅਨ ਸੋਲ",
+            "displayName-count-other": "ਪੇਰੂਵੀਅਨ ਸੋਲ",
             "symbol": "PEN"
           },
           "PES": {

@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "te"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "పెరువియన్ న్యూవో సోల్",
-            "displayName-count-one": "పెరువియన్ న్యూవో సోల్",
-            "displayName-count-other": "పెరువియన్ న్యూవో సోల్‌లు",
+            "displayName": "పెరువియన్ సోల్",
+            "displayName-count-one": "పెరువియన్ సోల్",
+            "displayName-count-other": "పెరువియన్ సోల్‌లు",
             "symbol": "PEN"
           },
           "PES": {

@@ -3,8 +3,8 @@
     "ar-AE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ar",
         "territory": "AE"
@@ -492,6 +492,15 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "+{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} كتاب",
+          "pluralMinimalPairs": "ولد واحد حضر",
+          "pluralMinimalPairs": "ولدان حضرا",
+          "pluralMinimalPairs": "{0} أولاد حضروا",
+          "pluralMinimalPairs": "{0} ولدًا حضروا",
+          "pluralMinimalPairs": "{0} ولد حضروا",
+          "other": "اتجه إلى المنعطف الـ {0} يمينًا."
         }
       }
     }

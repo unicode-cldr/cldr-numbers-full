@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "sq"
       },
@@ -142,6 +142,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": ">{0}",
           "range": "{0}-{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} libër",
+          "pluralMinimalPairs": "{0} libra",
+          "many": "Merrni kthesën e {0}-t në të djathtë.",
+          "one": "Merrni kthesën e {0}-rë në të djathtë.",
+          "other": "Merrni kthesën e {0}-të në të djathtë."
         }
       }
     }

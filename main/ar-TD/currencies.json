@@ -3,8 +3,8 @@
     "ar-TD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ar",
         "territory": "TD"
@@ -1480,13 +1480,13 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "سول جديد البيرو",
-            "displayName-count-zero": "سول جديد البيرو",
-            "displayName-count-one": "سول جديد البيرو",
-            "displayName-count-two": "سول جديد البيرو",
-            "displayName-count-few": "سول جديد البيرو",
-            "displayName-count-many": "سول جديد البيرو",
-            "displayName-count-other": "سول جديد البيرو",
+            "displayName": "سول البيرو",
+            "displayName-count-zero": "سول البيرو",
+            "displayName-count-one": "سول البيرو",
+            "displayName-count-two": "سول البيرو",
+            "displayName-count-few": "سول البيرو",
+            "displayName-count-many": "سول البيرو",
+            "displayName-count-other": "سول البيرو",
             "symbol": "PEN"
           },
           "PES": {

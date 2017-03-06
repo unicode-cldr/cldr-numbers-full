@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13006 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "bg"
       },
@@ -142,6 +142,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾ {0}",
           "range": "{0} – {1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} ден",
+          "pluralMinimalPairs": "{0} дена",
+          "other": "Завийте надясно по {0}-ата пресечка."
         }
       }
     }

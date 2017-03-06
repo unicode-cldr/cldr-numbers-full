@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "kk"
       },
@@ -142,6 +142,12 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "Cебетте {0} Х бар. Ол сіздікі ме?",
+          "pluralMinimalPairs": "Себетте {0} Х бар. Олар сіздікі ме?",
+          "many": "{0}-ші бұрылыстан оңға бұрылыңыз.",
+          "other": "{0}-шы бұрылыстан оңға бұрылыңыз."
         }
       }
     }

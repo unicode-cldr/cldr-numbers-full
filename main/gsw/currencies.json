@@ -3,8 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "gsw"
       },
@@ -1172,15 +1172,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Nöie Sol",
-            "displayName-count-one": "Nöie Sol",
-            "displayName-count-other": "Nöii Sol",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "Sol",
             "displayName-count-one": "Sol",
             "displayName-count-other": "Sol",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "Sol (1863–1965)",
+            "displayName-count-one": "Sol (1863–1965)",
+            "displayName-count-other": "Sol (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

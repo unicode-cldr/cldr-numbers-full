@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "mr"
       },
@@ -271,6 +271,14 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} घर",
+          "pluralMinimalPairs": "{0} घरे",
+          "few": "{0}थे उजवे वळण घ्या.",
+          "one": "{0}ले उजवे वळण घ्या.",
+          "other": "{0}वे उजवे वळण घ्या.",
+          "two": "{0}रे उजवे वळण घ्या."
         }
       }
     }

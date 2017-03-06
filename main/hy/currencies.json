@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "hy"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Պերուի նոր սոլ",
-            "displayName-count-one": "Պերուի նոր սոլ",
-            "displayName-count-other": "Պերուի նոր սոլ",
+            "displayName": "Պերուի սոլ",
+            "displayName-count-one": "Պերուի սոլ",
+            "displayName-count-other": "Պերուի սոլ",
             "symbol": "PEN"
           },
           "PES": {

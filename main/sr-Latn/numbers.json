@@ -3,8 +3,8 @@
     "sr-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12933 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13273 $",
+          "_cldrVersion": "31"
         },
         "language": "sr",
         "script": "Latn"
@@ -27,7 +27,7 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": "."
+          "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {
           "standard": "#,##0.###",
@@ -180,6 +180,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} sat",
+          "pluralMinimalPairs": "{0} sata",
+          "pluralMinimalPairs": "{0} sati",
+          "pluralMinimalPairs": "{0} sati",
+          "other": "Skrenite u {0}. desno."
         }
       }
     }

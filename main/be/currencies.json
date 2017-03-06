@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12966 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "be"
       },
@@ -1257,11 +1257,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "перуанскі новы соль",
-            "displayName-count-one": "перуанскі новы соль",
-            "displayName-count-few": "перуанскія новыя солі",
-            "displayName-count-many": "перуанскіх новых соляў",
-            "displayName-count-other": "перуанскага новага соля",
+            "displayName": "перуанскі соль",
+            "displayName-count-one": "перуанскі соль",
+            "displayName-count-few": "перуанскія солі",
+            "displayName-count-many": "перуанскіх соляў",
+            "displayName-count-other": "перуанскага соля",
             "symbol": "PEN"
           },
           "PES": {

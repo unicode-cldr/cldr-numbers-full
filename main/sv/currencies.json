@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13007 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "sv"
       },
@@ -1243,9 +1243,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "peruansk nuevo sol",
-            "displayName-count-one": "peruansk nuevo sol",
-            "displayName-count-other": "peruanska nuevo sol",
+            "displayName": "peruansk sol",
+            "displayName-count-one": "peruansk sol",
+            "displayName-count-other": "peruanska sol",
             "symbol": "PEN"
           },
           "PES": {

@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12927 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "he"
       },
@@ -1265,11 +1265,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "סול פרואני חדש",
-            "displayName-count-one": "סול פרואני חדש",
-            "displayName-count-two": "סול פרואני חדש",
-            "displayName-count-many": "סול פרואני חדש",
-            "displayName-count-other": "סול פרואני חדש",
+            "displayName": "סול פרואני",
+            "displayName-count-one": "סול פרואני",
+            "displayName-count-two": "סול פרואני",
+            "displayName-count-many": "סול פרואני",
+            "displayName-count-other": "סול פרואני",
             "symbol": "PEN"
           },
           "PES": {

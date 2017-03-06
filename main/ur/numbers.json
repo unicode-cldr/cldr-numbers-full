@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ur"
       },
@@ -271,6 +271,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} گھنٹہ",
+          "pluralMinimalPairs": "{0} گھنٹے",
+          "other": "دایاں موڑ نمبر {0} مڑیں۔"
         }
       }
     }

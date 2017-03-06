@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "mzn"
       },
@@ -939,8 +939,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "پروی ِنوئوو سول",
-            "displayName-count-other": "پروی ِنوئوو سول",
+            "displayName": "پروی ِسول",
+            "displayName-count-other": "پروی ِسول",
             "symbol": "PEN"
           },
           "PES": {

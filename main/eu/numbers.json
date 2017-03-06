@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "eu"
       },
@@ -130,6 +130,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "Nire {0} lagunarekin nago",
+          "pluralMinimalPairs": "Nire {0} lagunekin nago",
+          "other": "{0}. bira eskuinetara"
         }
       }
     }

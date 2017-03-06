@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ne"
       },
@@ -1052,9 +1052,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "पेरूभियाली न्यूभो सोल",
-            "displayName-count-one": "पेरूभियाली न्यूभो सोल",
-            "displayName-count-other": "पेरूभियाली न्यूभो सोल",
+            "displayName": "पेरूभियाली सोल",
+            "displayName-count-one": "पेरूभियाली सोल",
+            "displayName-count-other": "पेरूभियाली सोल",
             "symbol": "PEN"
           },
           "PES": {

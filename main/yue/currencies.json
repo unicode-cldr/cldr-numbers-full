@@ -3,8 +3,8 @@
     "yue": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "yue"
       },
@@ -1049,8 +1049,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "秘魯新太陽幣",
-            "displayName-count-other": "秘魯新太陽幣",
+            "displayName": "秘魯太陽幣",
+            "displayName-count-other": "秘魯太陽幣",
             "symbol": "PEN"
           },
           "PES": {

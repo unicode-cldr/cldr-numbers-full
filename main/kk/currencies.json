@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "kk"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Перу жаңа солі",
-            "displayName-count-one": "Перу жаңа солі",
-            "displayName-count-other": "Перу жаңа солі",
+            "displayName": "Перу солі",
+            "displayName-count-one": "Перу солі",
+            "displayName-count-other": "Перу солі",
             "symbol": "PEN"
           },
           "PES": {

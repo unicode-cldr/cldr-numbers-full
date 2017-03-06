@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "et"
       },
@@ -1184,9 +1184,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruu uus soll",
-            "displayName-count-one": "Peruu uus soll",
-            "displayName-count-other": "Peruu uut solli",
+            "displayName": "Peruu soll",
+            "displayName-count-one": "Peruu soll",
+            "displayName-count-other": "Peruu solli",
             "symbol": "PEN"
           },
           "PES": {

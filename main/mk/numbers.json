@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "mk"
       },
@@ -142,6 +142,14 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} ден",
+          "pluralMinimalPairs": "{0} дена",
+          "many": "Сврти на {0}-мата улица десно.",
+          "one": "Сврти на {0}-вата улица десно.",
+          "other": "Сврти на {0}-тата улица десно.",
+          "two": "Сврти на {0}-рата улица десно."
         }
       }
     }

@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "kn"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "ಪೆರುವಿಯನ್ ನುಯೆವೊ ಸೊಲ್",
-            "displayName-count-one": "ಪೆರುವಿಯನ್ ನುಯೆವೊ ಸೊಲ್",
-            "displayName-count-other": "ಪೆರುವಿಯನ್ ನುಯೆವೊ ಸೊಲ್‍ಗಳು",
+            "displayName": "ಪೆರುವಿಯನ್ ಸೊಲ್",
+            "displayName-count-one": "ಪೆರುವಿಯನ್ ಸೊಲ್",
+            "displayName-count-other": "ಪೆರುವಿಯನ್ ಸೊಲ್‍ಗಳು",
             "symbol": "PEN"
           },
           "PES": {

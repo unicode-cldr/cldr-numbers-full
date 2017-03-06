@@ -3,8 +3,8 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "nl",
         "territory": "BE"
@@ -1246,15 +1246,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruaanse nieuwe sol",
-            "displayName-count-one": "Peruaanse nieuwe sol",
-            "displayName-count-other": "Peruaanse nieuwe sol",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "Peruaanse sol",
             "displayName-count-one": "Peruaanse sol",
             "displayName-count-other": "Peruaanse sol",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "Peruaanse sol (1863–1965)",
+            "displayName-count-one": "Peruaanse sol (1863–1965)",
+            "displayName-count-other": "Peruaanse sol (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "rm"
       },
@@ -880,11 +880,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "nov sol peruan",
+            "displayName": "sol peruan",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "sol peruan",
+            "displayName": "sol peruan (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

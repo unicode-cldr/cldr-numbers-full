@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "gd"
       },
@@ -1632,11 +1632,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Sol ùr Pearùthach",
-            "displayName-count-one": "sol ùr Pearùthach",
-            "displayName-count-two": "shol ùr Pearùthach",
-            "displayName-count-few": "sol ùra Pearùthach",
-            "displayName-count-other": "sol ùr Pearùthach",
+            "displayName": "Sol Pearùthach",
+            "displayName-count-one": "sol Pearùthach",
+            "displayName-count-two": "shol Pearùthach",
+            "displayName-count-few": "sol Pearùthach",
+            "displayName-count-other": "sol Pearùthach",
             "symbol": "PEN"
           },
           "PES": {

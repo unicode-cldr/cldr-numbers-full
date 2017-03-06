@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13196 $",
+          "_cldrVersion": "31"
         },
         "language": "si"
       },
@@ -1049,9 +1049,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "පේරු නියුවෝ සොල්",
-            "displayName-count-one": "පේරු නියුවෝ සොල්",
-            "displayName-count-other": "පේරු නියුවෝ සොල්",
+            "displayName": "පේරු සොල්",
+            "displayName-count-one": "පේරු සොල්",
+            "displayName-count-other": "පේරු සොල්",
             "symbol": "PEN"
           },
           "PES": {

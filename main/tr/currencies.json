@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "tr"
       },
@@ -1212,15 +1212,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peru Nuevo Solü",
-            "displayName-count-one": "Peru nuevo solü",
-            "displayName-count-other": "Peru nuevo solü",
+            "displayName": "Peru Solü",
+            "displayName-count-one": "Peru solü",
+            "displayName-count-other": "Peru solü",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "Peru Solu",
-            "displayName-count-one": "Peru Solu",
-            "displayName-count-other": "Peru Solu",
+            "displayName": "Peru Solü (1863–1965)",
+            "displayName-count-one": "Peru Solü (1863–1965)",
+            "displayName-count-other": "Peru Solü (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13007 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "nb"
       },
@@ -1234,21 +1234,21 @@
             "symbol": "PAB"
           },
           "PEI": {
-            "displayName": "peruvianske inti",
-            "displayName-count-one": "peruviansk inti",
-            "displayName-count-other": "peruvianske inti",
+            "displayName": "peruanske inti",
+            "displayName-count-one": "peruansk inti",
+            "displayName-count-other": "peruanske inti",
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "peruanske nuevo sol",
-            "displayName-count-one": "peruansk nuevo sol",
-            "displayName-count-other": "peruanske nuevo sol",
+            "displayName": "peruanske sol",
+            "displayName-count-one": "peruansk sol",
+            "displayName-count-other": "peruanske sol",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "peruvianske sol (1863–1965)",
-            "displayName-count-one": "peruviansk sol (1863–1965)",
-            "displayName-count-other": "peruvianske sol (1863–1965)",
+            "displayName": "peruanske sol (1863–1965)",
+            "displayName-count-one": "peruansk sol (1863–1965)",
+            "displayName-count-other": "peruanske sol (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

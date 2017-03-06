@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ka"
       },
@@ -143,6 +143,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}-{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "კალათში {0} X-ია. შეიძენთ მას?",
+          "pluralMinimalPairs": "კალათში {0} X-ია. შეიძენთ მათ?",
+          "many": "მე-{0}",
+          "one": "{0}-ლი",
+          "other": "{0}-ე"
         }
       }
     }

@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "lt"
       },
@@ -216,6 +216,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} obuolys",
+          "pluralMinimalPairs": "{0} obuoliai",
+          "pluralMinimalPairs": "{0} obuolio",
+          "pluralMinimalPairs": "{0} obuolių",
+          "other": "{0}-ame posūkyje sukite į dešinę."
         }
       }
     }

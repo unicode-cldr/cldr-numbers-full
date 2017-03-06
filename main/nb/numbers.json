@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13007 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "nb"
       },
@@ -143,6 +143,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "⩾{0}",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} dag",
+          "pluralMinimalPairs": "{0} dager",
+          "other": "Ta {0}. svingen til høyre."
         }
       }
     }

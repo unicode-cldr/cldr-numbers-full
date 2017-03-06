@@ -3,8 +3,8 @@
     "ca-ES-VALENCIA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ca",
         "territory": "ES",
@@ -1239,15 +1239,15 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "nou sol peruà",
-            "displayName-count-one": "nou sol peruà",
-            "displayName-count-other": "nous sols peruans",
-            "symbol": "PEN"
-          },
-          "PES": {
             "displayName": "sol peruà",
             "displayName-count-one": "sol peruà",
             "displayName-count-other": "sols peruans",
+            "symbol": "PEN"
+          },
+          "PES": {
+            "displayName": "sol peruà (1863–1965)",
+            "displayName-count-one": "sol peruà (1863–1965)",
+            "displayName-count-other": "sols peruans (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

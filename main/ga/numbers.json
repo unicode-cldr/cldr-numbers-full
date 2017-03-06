@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ga"
       },
@@ -253,6 +253,15 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} ci, {0} gath",
+          "pluralMinimalPairs": "{0} gi, {0} gath",
+          "pluralMinimalPairs": "{0} chi, {0} cath",
+          "pluralMinimalPairs": "{0} chi, {0} chath",
+          "pluralMinimalPairs": "{0} ci, {0} cath",
+          "one": "Glac an {0}ú chasadh ar dheis.",
+          "other": "Glac an {0}ú casadh ar dheis."
         }
       }
     }

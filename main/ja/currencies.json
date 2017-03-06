@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ja"
       },
@@ -1051,8 +1051,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "ペルー 新ソル",
-            "displayName-count-other": "ペルー 新ソル",
+            "displayName": "ペルー ソル",
+            "displayName-count-other": "ペルー ソル",
             "symbol": "PEN"
           },
           "PES": {

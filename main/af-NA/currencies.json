@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "af",
         "territory": "NA"
@@ -1050,9 +1050,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruaanse nuwe sol",
-            "displayName-count-one": "Peruaanse nuwe sol",
-            "displayName-count-other": "Peruaanse nuwe sol",
+            "displayName": "Peruaanse sol",
+            "displayName-count-one": "Peruaanse sol",
+            "displayName-count-other": "Peruaanse sol",
             "symbol": "PEN"
           },
           "PES": {

@@ -3,8 +3,8 @@
     "sr-Cyrl-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12799 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -28,7 +28,7 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": "."
+          "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {
           "standard": "#,##0.###",
@@ -181,6 +181,13 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} сат",
+          "pluralMinimalPairs": "{0} сата",
+          "pluralMinimalPairs": "{0} сати",
+          "pluralMinimalPairs": "{0} сати",
+          "other": "Скрените у {0}. десно."
         }
       }
     }

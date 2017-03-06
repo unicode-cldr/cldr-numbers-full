@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ms",
         "territory": "BN"
@@ -106,6 +106,11 @@
         "miscPatterns-numberSystem-latn": {
           "atLeast": "{0}+",
           "range": "{0}–{1}"
+        },
+        "minimalPairs": {
+          "pluralMinimalPairs": "{0} hari",
+          "one": "Ambil belokan kanan yang pertama.",
+          "other": "Ambil belokan kanan yang ke-{0}."
         }
       }
     }

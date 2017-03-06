@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "gl"
       },
@@ -1095,6 +1095,8 @@
           },
           "PES": {
             "displayName": "Sol peruano (1863–1965)",
+            "displayName-count-one": "sol peruano (1863–1965)",
+            "displayName-count-other": "soles peruanos (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ga"
       },
@@ -1527,12 +1527,12 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Nuevo Sol Pheiriú",
-            "displayName-count-one": "nuevo sol Pheiriú",
-            "displayName-count-two": "nuevo sol Pheiriú",
-            "displayName-count-few": "nuevo sol Pheiriú",
-            "displayName-count-many": "nuevo sol Pheiriú",
-            "displayName-count-other": "nuevo sol Pheiriú",
+            "displayName": "Sol Pheiriú",
+            "displayName-count-one": "sol Pheiriú",
+            "displayName-count-two": "sol Pheiriú",
+            "displayName-count-few": "sol Pheiriú",
+            "displayName-count-many": "sol Pheiriú",
+            "displayName-count-other": "sol Pheiriú",
             "symbol": "PEN"
           },
           "PES": {

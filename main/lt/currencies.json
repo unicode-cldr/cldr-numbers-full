@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "lt"
       },
@@ -1628,11 +1628,11 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peru naujasis solis",
-            "displayName-count-one": "Peru naujasis solis",
-            "displayName-count-few": "Peru naujieji soliai",
-            "displayName-count-many": "Peru naujojo solio",
-            "displayName-count-other": "Peru naujųjų solių",
+            "displayName": "Peru solis",
+            "displayName-count-one": "Peru solis",
+            "displayName-count-few": "Peru soliai",
+            "displayName-count-many": "Peru solio",
+            "displayName-count-other": "Peru solių",
             "symbol": "PEN"
           },
           "PES": {

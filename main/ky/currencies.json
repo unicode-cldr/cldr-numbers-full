@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "ky"
       },
@@ -1051,9 +1051,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "перу нуэво солу",
-            "displayName-count-one": "перу нуэво солу",
-            "displayName-count-other": "перу нуэво солу",
+            "displayName": "перу солу",
+            "displayName-count-one": "перу солу",
+            "displayName-count-other": "перу солу",
             "symbol": "PEN"
           },
           "PES": {

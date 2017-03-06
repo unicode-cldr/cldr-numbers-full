@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12922 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ko"
       },
@@ -944,12 +944,12 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "페루 누에보 솔",
-            "displayName-count-other": "페루 누에보 솔",
+            "displayName": "페루 솔",
+            "displayName-count-other": "페루 솔",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "페루 솔",
+            "displayName": "페루 솔 (1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

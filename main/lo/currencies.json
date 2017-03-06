@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "lo"
       },
@@ -944,8 +944,8 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "ເປ​ຣູ​ວຽນ ນູ​ໂວ ໂຊ​ລ໌",
-            "displayName-count-other": "ເປ​ຣູ​ວຽນ ນູ​ໂວ ໂຊ​ລ໌",
+            "displayName": "ເປ​ຣູ​ວຽນ ໂຊ​ລ໌",
+            "displayName-count-other": "ເປ​ຣູ​ວຽນ ໂຊ​ລ໌",
             "symbol": "PEN"
           },
           "PES": {

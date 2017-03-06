@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "br"
       },
@@ -1710,12 +1710,12 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "nuevo sol Perou",
-            "displayName-count-one": "nuevo sol Perou",
-            "displayName-count-two": "nuevo sol Perou",
-            "displayName-count-few": "nuevo sol Perou",
-            "displayName-count-many": "nuevo sol Perou",
-            "displayName-count-other": "nuevo sol Perou",
+            "displayName": "sol Perou",
+            "displayName-count-one": "sol Perou",
+            "displayName-count-two": "sol Perou",
+            "displayName-count-few": "sol Perou",
+            "displayName-count-many": "sol Perou",
+            "displayName-count-other": "sol Perou",
             "symbol": "PEN"
           },
           "PES": {

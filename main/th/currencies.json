@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "th"
       },
@@ -944,12 +944,13 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "นูโวซอลเปรู",
-            "displayName-count-other": "นูโวซอลเปรู",
+            "displayName": "ซอลเปรู",
+            "displayName-count-other": "ซอลเปรู",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "ซอลเปรู",
+            "displayName": "ซอลเปรู (1863–1965)",
+            "displayName-count-other": "ซอลเปรู(1863–1965)",
             "symbol": "PES"
           },
           "PGK": {

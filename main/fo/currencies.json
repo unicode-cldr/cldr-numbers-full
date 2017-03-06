@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "fo"
       },
@@ -1046,9 +1046,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peru nuevo sol",
-            "displayName-count-one": "Peru nuevo sol",
-            "displayName-count-other": "Peru nuevo sol",
+            "displayName": "Peru sol",
+            "displayName-count-one": "Peru sol",
+            "displayName-count-other": "Peru sol",
             "symbol": "PEN"
           },
           "PES": {

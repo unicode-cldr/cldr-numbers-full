@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "bs"
       },
@@ -1397,10 +1397,10 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "Peruanski novi sol",
-            "displayName-count-one": "peruanski novi sol",
-            "displayName-count-few": "peruanska nova sola",
-            "displayName-count-other": "peruanskih novih sola",
+            "displayName": "Peruanski sol",
+            "displayName-count-one": "peruanski sol",
+            "displayName-count-few": "peruanska sola",
+            "displayName-count-other": "peruanskih sola",
             "symbol": "PEN"
           },
           "PES": {
