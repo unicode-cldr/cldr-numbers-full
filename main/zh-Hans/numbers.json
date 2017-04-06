@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31"
+          "_cldrVersion": "31.0.1"
         },
         "language": "zh",
         "script": "Hans"
@@ -49,7 +49,7 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-other": "0千",
+              "1000-count-other": "0",
               "10000-count-other": "0万",
               "100000-count-other": "00万",
               "1000000-count-other": "000万",
@@ -65,7 +65,7 @@
           },
           "short": {
             "decimalFormat": {
-              "1000-count-other": "0千",
+              "1000-count-other": "0",
               "10000-count-other": "0万",
               "100000-count-other": "00万",
               "1000000-count-other": "000万",
@@ -84,7 +84,7 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-other": "0千",
+              "1000-count-other": "0",
               "10000-count-other": "0万",
               "100000-count-other": "00万",
               "1000000-count-other": "000万",
@@ -100,7 +100,7 @@
           },
           "short": {
             "decimalFormat": {
-              "1000-count-other": "0千",
+              "1000-count-other": "0",
               "10000-count-other": "0万",
               "100000-count-other": "00万",
               "1000000-count-other": "000万",
@@ -144,7 +144,7 @@
           "accounting": "¤#,##0.00;(¤#,##0.00)",
           "short": {
             "standard": {
-              "1000-count-other": "¤0千",
+              "1000-count-other": "0",
               "10000-count-other": "¤0万",
               "100000-count-other": "¤00万",
               "1000000-count-other": "¤000万",
@@ -177,7 +177,7 @@
           "accounting": "¤#,##0.00;(¤#,##0.00)",
           "short": {
             "standard": {
-              "1000-count-other": "¤0千",
+              "1000-count-other": "0",
               "10000-count-other": "¤0万",
               "100000-count-other": "¤00万",
               "1000000-count-other": "¤000万",

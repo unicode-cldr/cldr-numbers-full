@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31"
+          "_number": "$Revision: 13375 $",
+          "_cldrVersion": "31.0.1"
         },
         "language": "bg"
       },
@@ -106,8 +106,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "#0.00 ¤",
-          "accounting": "#0.00 ¤;(#0.00 ¤)",
+          "standard": "0.00 ¤",
+          "accounting": "0.00 ¤;(0.00 ¤)",
           "short": {
             "standard": {
               "1000-count-one": "0 хил'.' ¤",

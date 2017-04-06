@@ -3,8 +3,8 @@
     "so": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31"
+          "_number": "$Revision: 13376 $",
+          "_cldrVersion": "31.0.1"
         },
         "language": "so"
       },
@@ -32,7 +32,7 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-one": "Kun",
+              "1000-count-one": "0K",
               "1000-count-other": "0K",
               "10000-count-one": "00K",
               "10000-count-other": "00K",
