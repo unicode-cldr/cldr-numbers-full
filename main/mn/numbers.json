@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "mn"
       },
@@ -64,8 +64,8 @@
               "1000-count-other": "0мянга",
               "10000-count-one": "00мянга",
               "10000-count-other": "00мянга",
-              "100000-count-one": "000М",
-              "100000-count-other": "000М",
+              "100000-count-one": "000мянга",
+              "100000-count-other": "000мянга",
               "1000000-count-one": "0сая",
               "1000000-count-other": "0сая",
               "10000000-count-one": "00сая",
@@ -74,8 +74,8 @@
               "100000000-count-other": "000сая",
               "1000000000-count-one": "0тэрбум",
               "1000000000-count-other": "0тэрбум",
-              "10000000000-count-one": "00Т",
-              "10000000000-count-other": "00Т",
+              "10000000000-count-one": "00тэрбум",
+              "10000000000-count-other": "00тэрбум",
               "100000000000-count-one": "000Т",
               "100000000000-count-other": "000Т",
               "1000000000000-count-one": "0ИН",
@@ -110,42 +110,42 @@
           "accounting": "¤ #,##0.00",
           "short": {
             "standard": {
-              "1000-count-one": "¤ 0Мянга",
-              "1000-count-other": "¤ 0Мянга",
-              "10000-count-one": "¤ 00Мянга",
-              "10000-count-other": "¤ 00Мянга",
-              "100000-count-one": "¤ 0Мянга",
-              "100000-count-other": "¤ 0Мянга",
-              "1000000-count-one": "¤ 0Сая",
-              "1000000-count-other": "¤ 0Сая",
-              "10000000-count-one": "¤ 00Сая",
-              "10000000-count-other": "¤ 00Сая",
-              "100000000-count-one": "¤ 000Сая",
-              "100000000-count-other": "¤ 000Сая",
-              "1000000000-count-one": "¤ 0Тэрбум",
-              "1000000000-count-other": "¤ 0Тэрбум",
-              "10000000000-count-one": "¤ 00Тэрбум",
-              "10000000000-count-other": "¤ 00Тэрбум",
-              "100000000000-count-one": "¤ 000Тэрбум",
-              "100000000000-count-other": "¤ 000Тэрбум",
-              "1000000000000-count-one": "¤ 0ИН",
-              "1000000000000-count-other": "¤ 0ИН",
-              "10000000000000-count-one": "¤ 00ИН",
-              "10000000000000-count-other": "¤ 00ИН",
-              "100000000000000-count-one": "¤ 000ИН",
-              "100000000000000-count-other": "¤ 000ИН"
+              "1000-count-one": "¤ 0 мянга",
+              "1000-count-other": "¤ 0 мянга",
+              "10000-count-one": "¤ 00 мянга",
+              "10000-count-other": "¤ 00 мянга",
+              "100000-count-one": "¤000 мянга",
+              "100000-count-other": "¤000 мянга",
+              "1000000-count-one": "¤0 сая",
+              "1000000-count-other": "¤0 сая",
+              "10000000-count-one": "¤00 сая",
+              "10000000-count-other": "¤00 сая",
+              "100000000-count-one": "¤000 сая",
+              "100000000-count-other": "¤000 сая",
+              "1000000000-count-one": "¤0 тэрбум",
+              "1000000000-count-other": "¤0 тэрбум",
+              "10000000000-count-one": "¤ 00 тэрбум",
+              "10000000000-count-other": "¤ 00 тэрбум",
+              "100000000000-count-one": "¤ 000 тэрбум",
+              "100000000000-count-other": "¤ 000 тэрбум",
+              "1000000000000-count-one": "¤ 0 их наяд",
+              "1000000000000-count-other": "¤ 0 их наяд",
+              "10000000000000-count-one": "¤ 00 их наяд",
+              "10000000000000-count-other": "¤ 00 их наяд",
+              "100000000000000-count-one": "¤ 000 их наяд",
+              "100000000000000-count-other": "¤ 000 их наяд"
             }
           },
           "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
+          "atLeast": "⩾{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "Картанд {0} Х байна. Үүнийг авах уу?",
-          "pluralMinimalPairs": "Картанд {0} Х байна. Тэднийг авах уу?",
+          "pluralMinimalPairs-count-one": "Картанд {0} Х байна. Үүнийг авах уу?",
+          "pluralMinimalPairs-count-other": "Картанд {0} Х байна. Тэднийг авах уу?",
           "other": "{0}-р баруун эргэлтээр орно уу"
         }
       }

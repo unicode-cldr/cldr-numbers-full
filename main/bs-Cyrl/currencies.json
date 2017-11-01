@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13272 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -38,6 +38,10 @@
             "displayName-count-few": "авганистанска авгана",
             "displayName-count-other": "авганистански авгани",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Албански лек",
@@ -450,6 +454,14 @@
             "displayName-count-other": "чилеански пезоси",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "Кинески јуан ренминби",
@@ -864,7 +876,8 @@
             "displayName": "стари израелски шекели",
             "displayName-count-one": "стари израелски шекели",
             "displayName-count-few": "стари израелски шекели",
-            "displayName-count-other": "стари израелски шекели"
+            "displayName-count-other": "стари израелски шекели",
+            "symbol": "ILR"
           },
           "ILS": {
             "displayName": "Израелски нови шекел",
@@ -900,7 +913,8 @@
             "displayName": "стара исландска круна",
             "displayName-count-one": "стара исландска круна",
             "displayName-count-few": "стара исландска круна",
-            "displayName-count-other": "стара исландска круна"
+            "displayName-count-other": "стара исландска круна",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "Исландска круна",
@@ -1227,6 +1241,10 @@
             "displayName-count-other": "мауританијске рупије",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "Малдивијска руфија",
@@ -1625,6 +1643,10 @@
             "displayName-count-other": "сао томе и принципе добри",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Совјетска рубља",

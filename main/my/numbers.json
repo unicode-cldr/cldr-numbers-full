@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "my"
       },
@@ -199,7 +199,7 @@
           "range": "{0} - {1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}ရက်",
+          "pluralMinimalPairs-count-other": "{0}ရက်",
           "other": "{0} အုပ်မြောက်"
         }
       }

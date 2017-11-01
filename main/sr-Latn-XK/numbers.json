@@ -3,8 +3,8 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13708 $",
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Latn",
@@ -179,15 +179,12 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
+          "atLeast": "⩾{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} sat",
-          "pluralMinimalPairs": "{0} sata",
-          "pluralMinimalPairs": "{0} sati",
-          "pluralMinimalPairs": "{0} sati",
-          "other": "Skrenite u {0}. desno."
+          "pluralMinimalPairs-count-other": "{0}?",
+          "other": "{0}?"
         }
       }
     }

@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "az"
       },
@@ -37,7 +37,8 @@
           "ALK": {
             "displayName": "Albaniya Leki (1946–1965)",
             "displayName-count-one": "Albaniya leki (1946–1965)",
-            "displayName-count-other": "Albaniya leki (1946–1965)"
+            "displayName-count-other": "Albaniya leki (1946–1965)",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Albaniya Leki",
@@ -397,6 +398,16 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "displayName-count-one": "CNH",
+            "displayName-count-other": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "Çin Yuanı",
             "displayName-count-one": "Çin yuanı",
@@ -751,7 +762,8 @@
           "ILR": {
             "displayName": "İsrail Şekeli (1980–1985)",
             "displayName-count-one": "İsrail şekeli (1980–1985)",
-            "displayName-count-other": "İsrail şekeli (1980–1985)"
+            "displayName-count-other": "İsrail şekeli (1980–1985)",
+            "symbol": "ILR"
           },
           "ILS": {
             "displayName": "İsrail Yeni Şekeli",
@@ -782,7 +794,8 @@
           "ISJ": {
             "displayName": "İslandiya Kronu (1918–1981)",
             "displayName-count-one": "İslandiya kronu (1918–1981)",
-            "displayName-count-other": "İslandiya kronu (1918–1981)"
+            "displayName-count-other": "İslandiya kronu (1918–1981)",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "İslandiya Kronu",
@@ -1068,6 +1081,10 @@
             "displayName-count-other": "Mavriki rupisi",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "Maldiv Rufiyası",
@@ -1407,6 +1424,10 @@
             "displayName-count-other": "San Tom və Prinsip dobrası",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Sovet Rublu",

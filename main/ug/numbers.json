@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ug"
       },
@@ -249,8 +249,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}  كىتاب",
-          "pluralMinimalPairs": "{0} بېلىق كۆردۈم ۋە ئۇنى يەۋەتتىم.",
+          "pluralMinimalPairs-count-one": "{0}  كىتاب",
+          "pluralMinimalPairs-count-other": "{0} بېلىق كۆردۈم ۋە ئۇنى يەۋەتتىم.",
           "other": "{0}?"
         }
       }

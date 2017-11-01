@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "cs"
       },
@@ -218,10 +218,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} den",
-          "pluralMinimalPairs": "{0} dny",
-          "pluralMinimalPairs": "{0} dne",
-          "pluralMinimalPairs": "{0} dní",
+          "pluralMinimalPairs-count-one": "{0} den",
+          "pluralMinimalPairs-count-few": "{0} dny",
+          "pluralMinimalPairs-count-many": "{0} dne",
+          "pluralMinimalPairs-count-other": "{0} dní",
           "other": "Na {0}. křižovatce odbočte vpravo."
         }
       }

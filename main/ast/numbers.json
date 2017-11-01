@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ast"
       },
@@ -144,9 +144,9 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} día",
-          "pluralMinimalPairs": "{0} díes",
-          "other": "{0}?"
+          "pluralMinimalPairs-count-one": "{0} día",
+          "pluralMinimalPairs-count-other": "{0} díes",
+          "other": "Tomar la {0}a a la derecha"
         }
       }
     }

@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "am"
       },
@@ -15,9 +15,9 @@
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "የተባበሩት የአረብ ኤምረትስ ዲርሀም",
-            "displayName-count-one": "የተባበሩት የአረብ ኤምረትስ ዲርሀም",
-            "displayName-count-other": "የተባበሩት የአረብ ኤምረትስ ዲርሀም",
+            "displayName": "የተባበሩት የአረብ ኤምሬትስ ድርሀም",
+            "displayName-count-one": "የተባበሩት የአረብ ኤምሬትስ ድርሀም",
+            "displayName-count-other": "የተባበሩት የአረብ ኤምሬትስ ድርሀም",
             "symbol": "AED"
           },
           "AFA": {
@@ -29,6 +29,10 @@
             "displayName-count-one": "የአፍጋን አፍጋኒ",
             "displayName-count-other": "የአፍጋን አፍጋኒ",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "የአልባንያ ሌክ",
@@ -342,6 +346,16 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "የቻይና ዩዋን (የውጭ ምንዛሪ)",
+            "displayName-count-one": "የቻይና ዩዋን (የውጭ ምንዛሪ)",
+            "displayName-count-other": "የቻይና ዩዋን (የውጭ ምንዛሪ)",
+            "symbol": "የቻይና ዩዋን"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "የቻይና የን",
             "displayName-count-one": "የቻይና የን",
@@ -615,7 +629,7 @@
             "symbol": "HRD"
           },
           "HRK": {
-            "displayName": "የክሮሽያ ኩና",
+            "displayName": "HRK",
             "displayName-count-one": "የክሮሽያ ኩና",
             "displayName-count-other": "የክሮሽያ ኩና",
             "symbol": "HRK",
@@ -628,8 +642,8 @@
             "symbol": "HTG"
           },
           "HUF": {
-            "displayName": "የሁንጋሪ ፎሪንት",
-            "displayName-count-one": "የሁንጋሪ ፎሪንት",
+            "displayName": "የሃንጋሪያን ፎሪንት",
+            "displayName-count-one": "የሃንጋሪያን ፎሪንት",
             "displayName-count-other": "የሃንጋሪያን ፎሪንት",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
@@ -648,6 +662,10 @@
           "ILP": {
             "displayName": "ILP",
             "symbol": "ILP"
+          },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
           },
           "ILS": {
             "displayName": "የእስራኤል አዲስ ሽቅል",
@@ -674,6 +692,10 @@
             "displayName-count-one": "የኢራን ሪአል",
             "displayName-count-other": "የኢራን ሪአል",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "የአይስላንድ ክሮና",
@@ -935,6 +957,10 @@
             "displayName-count-other": "የሞሪሸስ ሩፒ",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "የማልዲቫ ሩፊያ",
@@ -1241,11 +1267,15 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "የሳኦ ቶመ እና ፕሪንሲፐ ዶብራ",
-            "displayName-count-one": "የሳኦ ቶመ እና ፕሪንሲፐ ዶብራ",
-            "displayName-count-other": "የሳኦ ቶመ እና ፕሪንሲፐ ዶብራ",
+            "displayName": "የሳኦ ቶሜ እና ፕሪንሲፔ ዶብራ",
+            "displayName-count-one": "የሳኦ ቶሜ እና ፕሪንሲፔ ዶብራ",
+            "displayName-count-other": "የሳኦ ቶሜ እና ፕሪንሲፔ ዶብራ",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",

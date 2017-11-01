@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "uz",
         "script": "Latn"
@@ -26,7 +26,7 @@
           "superscriptingExponent": "×",
           "perMille": "‰",
           "infinity": "∞",
-          "nan": "haqiqiy son emas",
+          "nan": "son emas",
           "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {
@@ -141,12 +141,12 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
+          "atLeast": "⩾{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "Savatingizda {0}X bor. Uni sotib olasizmi?",
-          "pluralMinimalPairs": "Savatingizda {0}X bor. Ularni sotib olasizmi?",
+          "pluralMinimalPairs-count-one": "Savatingizda {0}X bor. Uni sotib olasizmi?",
+          "pluralMinimalPairs-count-other": "Savatingizda {0}X bor. Ularni sotib olasizmi?",
           "other": "{0}chi chorraxada oʼngga buriling."
         }
       }

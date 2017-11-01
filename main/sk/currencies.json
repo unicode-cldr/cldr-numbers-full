@@ -3,15 +3,19 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sk"
       },
       "numbers": {
         "currencies": {
           "ADP": {
-            "displayName": "andorská peseta",
+            "displayName": "andorrská peseta",
+            "displayName-count-one": "andorrská peseta",
+            "displayName-count-few": "andorrské pesety",
+            "displayName-count-many": "andorrskej pesety",
+            "displayName-count-other": "andorrských pesiet",
             "symbol": "ADP"
           },
           "AED": {
@@ -23,7 +27,11 @@
             "symbol": "AED"
           },
           "AFA": {
-            "displayName": "AFA",
+            "displayName": "afganský afgání (1927 – 2002)",
+            "displayName-count-one": "afganský afgání (1927 – 2002)",
+            "displayName-count-few": "afganské afgání (1927 – 2002)",
+            "displayName-count-many": "afganského afgání (1927 – 2002)",
+            "displayName-count-other": "afganských afgání (1927 – 2002)",
             "symbol": "AFA"
           },
           "AFN": {
@@ -33,6 +41,14 @@
             "displayName-count-many": "afganského afgání",
             "displayName-count-other": "afganských afgání",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "albánsky lek (1946 – 1965)",
+            "displayName-count-one": "albánsky lek (1946 – 1965)",
+            "displayName-count-few": "albánske leky (1946 – 1965)",
+            "displayName-count-many": "albánskeho leku (1946 – 1965)",
+            "displayName-count-other": "albánskych lekov (1946 – 1965)",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "albánsky lek",
@@ -68,31 +84,59 @@
             "symbol-alt-narrow": "Kz"
           },
           "AOK": {
-            "displayName": "angolská kwanza (1977–1990)",
+            "displayName": "angolská kwanza (1977 – 1990)",
+            "displayName-count-one": "angolská kwanza (1977 – 1990)",
+            "displayName-count-few": "angolské kwanzy (1977 – 1990)",
+            "displayName-count-many": "angolskej kwanzy (1977 – 1990)",
+            "displayName-count-other": "angolských kwánz (1977 – 1990)",
             "symbol": "AOK"
           },
           "AON": {
-            "displayName": "Angolská nová kwanza (1990–2000)",
+            "displayName": "angolská nová kwanza (1990 – 2000)",
+            "displayName-count-one": "angolská nová kwanza (1990 – 2000)",
+            "displayName-count-few": "angolské nové kwanzy (1990 – 2000)",
+            "displayName-count-many": "angolskej novej kwanzy (1990 – 2000)",
+            "displayName-count-other": "angolských nových kwánz (1990 – 2000)",
             "symbol": "AON"
           },
           "AOR": {
-            "displayName": "angolská kwanza reajustado (1995–1999)",
+            "displayName": "angolská upravená kwanza (1995 – 1999)",
+            "displayName-count-one": "angolská upravená kwanza (1995 – 1999)",
+            "displayName-count-few": "angolské upravené kwanzy (1995 – 1999)",
+            "displayName-count-many": "angolskej upravenej kwanzy (1995 – 1999)",
+            "displayName-count-other": "angolských upravených kwánz (1995 – 1999)",
             "symbol": "AOR"
           },
           "ARA": {
             "displayName": "argentínsky austral",
+            "displayName-count-one": "argentínsky austral",
+            "displayName-count-few": "argentínske australy",
+            "displayName-count-many": "argentínskeho australu",
+            "displayName-count-other": "argentínskych australov",
             "symbol": "ARA"
           },
           "ARL": {
-            "displayName": "ARL",
+            "displayName": "argentínske peso ley (1970 – 1983)",
+            "displayName-count-one": "argentínske peso ley (1970 – 1983)",
+            "displayName-count-few": "argentínske pesos ley (1970 – 1983)",
+            "displayName-count-many": "argentínskeho pesa ley (1970 – 1983)",
+            "displayName-count-other": "argentínskych pesos ley (1970 – 1983)",
             "symbol": "ARL"
           },
           "ARM": {
-            "displayName": "ARM",
+            "displayName": "argentínske peso (1881 – 1970)",
+            "displayName-count-one": "argentínske peso (1881 – 1970)",
+            "displayName-count-few": "argentínske pesos (1881 – 1970)",
+            "displayName-count-many": "argentínskeho pesa (1881 – 1970)",
+            "displayName-count-other": "argentínskych pesos (1881 – 1970)",
             "symbol": "ARM"
           },
           "ARP": {
             "displayName": "argentínske peso (1983 – 1985)",
+            "displayName-count-one": "argentínske peso (1983 – 1985)",
+            "displayName-count-few": "argentínske pesos (1983 – 1985)",
+            "displayName-count-many": "argentínskeho pesa (1983 – 1985)",
+            "displayName-count-other": "argentínskych pesos (1983 – 1985)",
             "symbol": "ARP"
           },
           "ARS": {
@@ -106,6 +150,10 @@
           },
           "ATS": {
             "displayName": "rakúsky šiling",
+            "displayName-count-one": "rakúsky šiling",
+            "displayName-count-few": "rakúske šilingy",
+            "displayName-count-many": "rakúskeho šilingu",
+            "displayName-count-other": "rakúskych šilingov",
             "symbol": "ATS"
           },
           "AUD": {
@@ -142,20 +190,28 @@
             "symbol": "AZN"
           },
           "BAD": {
-            "displayName": "bosniansko-hercegovinský dinár (1992–1994)",
+            "displayName": "bosniansko-hercegovinský dinár (1992 – 1994)",
+            "displayName-count-one": "bosniansko-hercegovinský dinár (1992 – 1994)",
+            "displayName-count-few": "bosniansko-hercegovinské dináre (1992 – 1994)",
+            "displayName-count-many": "bosniansko-hercegovinského dinára (1992 – 1994)",
+            "displayName-count-other": "bosniansko-hercegovinských dinárov (1992 – 1994)",
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "konvertibilná marka",
-            "displayName-count-one": "konvertibilná marka",
-            "displayName-count-few": "konvertibilné marky",
-            "displayName-count-many": "konvertibilnej marky",
-            "displayName-count-other": "konvertibilných mariek",
+            "displayName": "bosniansko-hercegovinská konvertibilná marka",
+            "displayName-count-one": "bosniansko-hercegovinská konvertibilná marka",
+            "displayName-count-few": "bosniansko-hercegovinské konvertibilné marky",
+            "displayName-count-many": "bosniansko-hercegovinskej konvertibilnej marky",
+            "displayName-count-other": "bosniansko-hercegovinských konvertibilných mariek",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
           "BAN": {
-            "displayName": "BAN",
+            "displayName": "bosniansko-hercegovinský nový dinár (1994 – 1997)",
+            "displayName-count-one": "bosniansko-hercegovinský nový dinár (1994 – 1997)",
+            "displayName-count-few": "bosniansko-hercegovinské nové dináre (1994 – 1997)",
+            "displayName-count-many": "bosniansko-hercegovinského nového dinára (1994 – 1997)",
+            "displayName-count-other": "bosniansko-hercegovinské nové dináre (1994 – 1997)",
             "symbol": "BAN"
           },
           "BBD": {
@@ -178,22 +234,42 @@
           },
           "BEC": {
             "displayName": "belgický frank (konvertibilný)",
+            "displayName-count-one": "belgický frank (konvertibilný)",
+            "displayName-count-few": "belgické franky (konvertibilné)",
+            "displayName-count-many": "belgického franku (konvertibilného)",
+            "displayName-count-other": "belgických frankov (konvertibilných)",
             "symbol": "BEC"
           },
           "BEF": {
             "displayName": "belgický frank",
+            "displayName-count-one": "belgický frank",
+            "displayName-count-few": "belgické franky",
+            "displayName-count-many": "belgického franku",
+            "displayName-count-other": "belgických frankov",
             "symbol": "BEF"
           },
           "BEL": {
             "displayName": "belgický frank (finančný)",
+            "displayName-count-one": "belgický frank (finančný)",
+            "displayName-count-few": "belgické franky (finančné)",
+            "displayName-count-many": "belgického franku (finančného)",
+            "displayName-count-other": "belgických frankov (finančných)",
             "symbol": "BEL"
           },
           "BGL": {
             "displayName": "bulharský tvrdý lev",
+            "displayName-count-one": "bulharský tvrdý lev",
+            "displayName-count-few": "bulharské tvrdé leva",
+            "displayName-count-many": "bulharského tvrdého leva",
+            "displayName-count-other": "bulharských tvrdých leva",
             "symbol": "BGL"
           },
           "BGM": {
-            "displayName": "BGM",
+            "displayName": "bulharský socialistický lev",
+            "displayName-count-one": "bulharský socialistický lev",
+            "displayName-count-few": "bulharské socialistické leva",
+            "displayName-count-many": "bulharského socialistického leva",
+            "displayName-count-other": "bulharských socialistických leva",
             "symbol": "BGM"
           },
           "BGN": {
@@ -205,7 +281,11 @@
             "symbol": "BGN"
           },
           "BGO": {
-            "displayName": "BGO",
+            "displayName": "bulharský lev (1879 – 1952)",
+            "displayName-count-one": "bulharský lev (1879 – 1952)",
+            "displayName-count-few": "bulharské leva (1879 – 1952)",
+            "displayName-count-many": "bulharského leva (1879 – 1952)",
+            "displayName-count-other": "bulharských leva (1879 – 1952)",
             "symbol": "BGO"
           },
           "BHD": {
@@ -252,27 +332,51 @@
             "symbol-alt-narrow": "Bs"
           },
           "BOL": {
-            "displayName": "BOL",
+            "displayName": "bolívijské boliviano (1863 – 1963)",
+            "displayName-count-one": "bolívijské boliviano (1863 – 1963)",
+            "displayName-count-few": "bolívijské boliviana (1863 – 1963)",
+            "displayName-count-many": "bolívijského boliviana (1863 – 1963)",
+            "displayName-count-other": "bolívijských bolivian (1863 – 1963)",
             "symbol": "BOL"
           },
           "BOP": {
             "displayName": "bolívijské peso",
+            "displayName-count-one": "bolívijské peso",
+            "displayName-count-few": "bolívijské pesos",
+            "displayName-count-many": "bolívijského pesa",
+            "displayName-count-other": "bolívijských pesos",
             "symbol": "BOP"
           },
           "BOV": {
             "displayName": "bolívijské MVDOL",
+            "displayName-count-one": "bolívijský mvdol",
+            "displayName-count-few": "bolívijské mvdoly",
+            "displayName-count-many": "bolívijského mvdolu",
+            "displayName-count-other": "bolívijských mvdolov",
             "symbol": "BOV"
           },
           "BRB": {
-            "displayName": "brazílske cruzeiro novo (1967–1986)",
+            "displayName": "brazílske nové cruzeiro (1967 – 1986)",
+            "displayName-count-one": "brazílske nové cruzeiro (1967 – 1986)",
+            "displayName-count-few": "brazílske nové cruzeirá (1967 – 1986)",
+            "displayName-count-many": "brazílskeho nového cruzeira (1967 – 1986)",
+            "displayName-count-other": "brazílskych nových cruzeir (1967 – 1986)",
             "symbol": "BRB"
           },
           "BRC": {
             "displayName": "brazílske cruzado (1986 – 1989)",
+            "displayName-count-one": "brazílske cruzado (1986 – 1989)",
+            "displayName-count-few": "brazílske cruzadá (1986 – 1989)",
+            "displayName-count-many": "brazílskeho cruzada (1986 – 1989)",
+            "displayName-count-other": "brazílskych cruzad (1986 – 1989)",
             "symbol": "BRC"
           },
           "BRE": {
             "displayName": "brazílske cruzeiro (1990 – 1993)",
+            "displayName-count-one": "brazílske cruzeiro (1990 – 1993)",
+            "displayName-count-few": "brazílske cruzeirá (1990 – 1993)",
+            "displayName-count-many": "brazílskeho cruzeira (1990 – 1993)",
+            "displayName-count-other": "brazílskych cruzeir (1990 – 1993)",
             "symbol": "BRE"
           },
           "BRL": {
@@ -285,15 +389,27 @@
             "symbol-alt-narrow": "R$"
           },
           "BRN": {
-            "displayName": "Brazílske Cruzado Novo",
+            "displayName": "brazílske nové cruzado (1989 – 1990)",
+            "displayName-count-one": "brazílske nové cruzado (1989 – 1990)",
+            "displayName-count-few": "brazílske nové cruzadá (1989 – 1990)",
+            "displayName-count-many": "brazílskeho nového cruzada (1989 – 1990)",
+            "displayName-count-other": "brazílskych nových cruzad (1989 – 1990)",
             "symbol": "BRN"
           },
           "BRR": {
             "displayName": "Brazílske cruzeiro",
+            "displayName-count-one": "brazílske cruzeiro (1993 – 1994)",
+            "displayName-count-few": "brazílske cruzeirá (1993 – 1994)",
+            "displayName-count-many": "brazílskeho cruzeira (1993 – 1994)",
+            "displayName-count-other": "brazílskych cruzeir (1993 – 1994)",
             "symbol": "BRR"
           },
           "BRZ": {
-            "displayName": "BRZ",
+            "displayName": "brazílske cruzeiro (1942 – 1967)",
+            "displayName-count-one": "brazílske cruzeiro (1942 – 1967)",
+            "displayName-count-few": "brazílske cruzeirá (1942 – 1967)",
+            "displayName-count-many": "brazílskeho cruzeira (1942 – 1967)",
+            "displayName-count-other": "brazílskych cruzeir (1942 – 1967)",
             "symbol": "BRZ"
           },
           "BSD": {
@@ -314,7 +430,11 @@
             "symbol": "BTN"
           },
           "BUK": {
-            "displayName": "Burmese Kyat",
+            "displayName": "barmský kyat",
+            "displayName-count-one": "barmský kyat",
+            "displayName-count-few": "barmské kyaty",
+            "displayName-count-many": "barmského kyatu",
+            "displayName-count-other": "barmských kyatov",
             "symbol": "BUK"
           },
           "BWP": {
@@ -327,11 +447,11 @@
             "symbol-alt-narrow": "P"
           },
           "BYB": {
-            "displayName": "Bieloruský nový rubeľ (1994–1999)",
-            "displayName-count-one": "bieloruský nový rubeľ (1994–1999)",
-            "displayName-count-few": "bieloruské nové ruble (1994–1999)",
-            "displayName-count-many": "bieloruského nového rubľa (1994–1999)",
-            "displayName-count-other": "bieloruských nových rubľov (1994–1999)",
+            "displayName": "bieloruský rubeľ (1994 – 1999)",
+            "displayName-count-one": "bieloruský rubeľ (1994 – 1999)",
+            "displayName-count-few": "bieloruské ruble (1994 – 1999)",
+            "displayName-count-many": "bieloruského rubľa (1994 – 1999)",
+            "displayName-count-other": "bieloruských rubľov (1994 – 1999)",
             "symbol": "BYB"
           },
           "BYN": {
@@ -378,7 +498,11 @@
             "symbol": "CDF"
           },
           "CHE": {
-            "displayName": "CHE",
+            "displayName": "švajčiarske WIR euro",
+            "displayName-count-one": "švajčiarske WIR euro",
+            "displayName-count-few": "švajčiarske WIR eurá",
+            "displayName-count-many": "švajčiarskeho WIR eura",
+            "displayName-count-other": "švajčiarskych WIR eur",
             "symbol": "CHE"
           },
           "CHF": {
@@ -390,15 +514,27 @@
             "symbol": "CHF"
           },
           "CHW": {
-            "displayName": "CHW",
+            "displayName": "švajčiarsky WIR frank",
+            "displayName-count-one": "švajčiarsky WIR frank",
+            "displayName-count-few": "švajčiarske WIR franky",
+            "displayName-count-many": "švajčiarskeho WIR franku",
+            "displayName-count-other": "švajčiarskych WIR frankov",
             "symbol": "CHW"
           },
           "CLE": {
-            "displayName": "CLE",
+            "displayName": "čilské escudo",
+            "displayName-count-one": "čilské escudo",
+            "displayName-count-few": "čilské escudá",
+            "displayName-count-many": "čilského escuda",
+            "displayName-count-other": "čilských escúd",
             "symbol": "CLE"
           },
           "CLF": {
-            "displayName": "Čílske Unidades de Fomento",
+            "displayName": "čilská účtovná jednotka (UF)",
+            "displayName-count-one": "čilská účtovná jednotka (UF)",
+            "displayName-count-few": "čilské účtovné jednotky (UF)",
+            "displayName-count-many": "čilskej účtovnej jednotky (UF)",
+            "displayName-count-other": "čilských účtovných jednotiek (UF)",
             "symbol": "CLF"
           },
           "CLP": {
@@ -409,6 +545,22 @@
             "displayName-count-other": "čilských pesos",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "čínsky jüan (pobrežný)",
+            "displayName-count-one": "čínsky jüan (pobrežný)",
+            "displayName-count-few": "čínske jüany (pobrežné)",
+            "displayName-count-many": "čínskeho jüana (pobrežného)",
+            "displayName-count-other": "čínskych jüanov (pobrežných)",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "čínsky dolár ČĽB",
+            "displayName-count-one": "čínsky dolár ČĽB",
+            "displayName-count-few": "čínske doláre ČĽB",
+            "displayName-count-many": "čínskeho dolára ČĽB",
+            "displayName-count-other": "čínskych dolárov ČĽB",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "čínsky jüan",
@@ -429,7 +581,11 @@
             "symbol-alt-narrow": "$"
           },
           "COU": {
-            "displayName": "COU",
+            "displayName": "kolumbijská jednotka reálnej hodnoty",
+            "displayName-count-one": "kolumbijská jednotka reálnej hodnoty",
+            "displayName-count-few": "kolumbijské jednotky reálnej hodnoty",
+            "displayName-count-many": "kolumbijskej jednotky reálnej hodnoty",
+            "displayName-count-other": "kolumbijských jednotiek reálnej hodnoty",
             "symbol": "COU"
           },
           "CRC": {
@@ -442,11 +598,19 @@
             "symbol-alt-narrow": "₡"
           },
           "CSD": {
-            "displayName": "CSD",
+            "displayName": "srbský dinár (2002 – 2006)",
+            "displayName-count-one": "srbský dinár (2002 – 2006)",
+            "displayName-count-few": "srbské dináre (2002 – 2006)",
+            "displayName-count-many": "srbského dinára (2002 – 2006)",
+            "displayName-count-other": "srbských dinárov (2002 – 2006)",
             "symbol": "CSD"
           },
           "CSK": {
-            "displayName": "Československá koruna",
+            "displayName": "československá koruna",
+            "displayName-count-one": "československá koruna",
+            "displayName-count-few": "československé koruny",
+            "displayName-count-many": "československej koruny",
+            "displayName-count-other": "československých korún",
             "symbol": "CSK"
           },
           "CUC": {
@@ -476,7 +640,11 @@
             "symbol": "CVE"
           },
           "CYP": {
-            "displayName": "Cypruská libra",
+            "displayName": "cyperská libra",
+            "displayName-count-one": "cyperská libra",
+            "displayName-count-few": "cyperské libry",
+            "displayName-count-many": "cyperskej libry",
+            "displayName-count-other": "cyperských libier",
             "symbol": "CYP"
           },
           "CZK": {
@@ -489,11 +657,19 @@
             "symbol-alt-narrow": "Kč"
           },
           "DDM": {
-            "displayName": "Východonemecká marka",
+            "displayName": "východonemecká marka",
+            "displayName-count-one": "východonemecká marka",
+            "displayName-count-few": "východonemecké marky",
+            "displayName-count-many": "východonemeckej marky",
+            "displayName-count-other": "východonemeckých mariek",
             "symbol": "DDM"
           },
           "DEM": {
-            "displayName": "Nemecká marka",
+            "displayName": "nemecká marka",
+            "displayName-count-one": "nemecká marka",
+            "displayName-count-few": "nemecké marky",
+            "displayName-count-many": "nemeckej marky",
+            "displayName-count-other": "nemeckých mariek",
             "symbol": "DEM"
           },
           "DJF": {
@@ -531,19 +707,27 @@
             "symbol": "DZD"
           },
           "ECS": {
-            "displayName": "Ekuadorský sucre",
+            "displayName": "ekvádorský sucre",
+            "displayName-count-one": "ekvádorský sucre",
+            "displayName-count-few": "ekvádorské sucre",
+            "displayName-count-many": "ekvádorského sucre",
+            "displayName-count-other": "ekvádorských sucre",
             "symbol": "ECS"
           },
           "ECV": {
-            "displayName": "Ekuadorský Unidad de Valor Constante (UVC)",
+            "displayName": "ekvádorská jednotka konštantnej hodnoty",
+            "displayName-count-one": "ekvádorská jednotka konštantnej hodnoty",
+            "displayName-count-few": "ekvádorské jednotky konštantnej hodnoty",
+            "displayName-count-many": "ekvádorskej jednotky konštantnej hodnoty",
+            "displayName-count-other": "ekvádorských jednotiek konštantnej hodnoty",
             "symbol": "ECV"
           },
           "EEK": {
-            "displayName": "Estónska kroon",
-            "displayName-count-one": "estónska kroon",
-            "displayName-count-few": "estónske kroony",
-            "displayName-count-many": "estónskej kroony",
-            "displayName-count-other": "estónskych kroon",
+            "displayName": "estónska koruna",
+            "displayName-count-one": "estónska koruna",
+            "displayName-count-few": "estónske koruny",
+            "displayName-count-many": "estónskej koruny",
+            "displayName-count-other": "estónskych korún",
             "symbol": "EEK"
           },
           "EGP": {
@@ -564,15 +748,27 @@
             "symbol": "ERN"
           },
           "ESA": {
-            "displayName": "ESA",
+            "displayName": "španielska peseta (účet A)",
+            "displayName-count-one": "španielska peseta (účet A)",
+            "displayName-count-few": "španielske pesety (účet A)",
+            "displayName-count-many": "španielskej pesety (účet A)",
+            "displayName-count-other": "španielskych pesiet (účet A)",
             "symbol": "ESA"
           },
           "ESB": {
-            "displayName": "ESB",
+            "displayName": "španielska peseta (konvertibilný účet)",
+            "displayName-count-one": "španielska peseta (konvertibilný účet)",
+            "displayName-count-few": "španielske pesety (konvertibilný účet)",
+            "displayName-count-many": "španielskej pesety (konvertibilný účet)",
+            "displayName-count-other": "španielskych pesiet (konvertibilný účet)",
             "symbol": "ESB"
           },
           "ESP": {
-            "displayName": "Španielská peseta",
+            "displayName": "španielska peseta",
+            "displayName-count-one": "španielska peseta",
+            "displayName-count-few": "španielske pesety",
+            "displayName-count-many": "španielskej pesety",
+            "displayName-count-other": "španielskych pesiet",
             "symbol": "ESP",
             "symbol-alt-narrow": "₧"
           },
@@ -594,7 +790,11 @@
             "symbol-alt-narrow": "€"
           },
           "FIM": {
-            "displayName": "Finská marka",
+            "displayName": "fínska marka",
+            "displayName-count-one": "fínska marka",
+            "displayName-count-few": "fínske marky",
+            "displayName-count-many": "fínskej marky",
+            "displayName-count-other": "fínskych mariek",
             "symbol": "FIM"
           },
           "FJD": {
@@ -616,7 +816,11 @@
             "symbol-alt-narrow": "£"
           },
           "FRF": {
-            "displayName": "Francúzsky frank",
+            "displayName": "francúzsky frank",
+            "displayName-count-one": "francúzsky frank",
+            "displayName-count-few": "francúzske franky",
+            "displayName-count-many": "francúzskeho franku",
+            "displayName-count-other": "francúzskych frankov",
             "symbol": "FRF"
           },
           "GBP": {
@@ -629,7 +833,11 @@
             "symbol-alt-narrow": "£"
           },
           "GEK": {
-            "displayName": "Gruzínsky Kupon Larit",
+            "displayName": "gruzínske kupónové lari",
+            "displayName-count-one": "gruzínske kupónové lari",
+            "displayName-count-few": "gruzínske kupónové lari",
+            "displayName-count-many": "gruzínskeho kupónového lari",
+            "displayName-count-other": "gruzínskych kupónových lari",
             "symbol": "GEK"
           },
           "GEL": {
@@ -643,11 +851,11 @@
             "symbol-alt-variant": "₾"
           },
           "GHC": {
-            "displayName": "Ghanský cedi (1979–2007)",
-            "displayName-count-one": "ghanský cedi (1979–2007)",
-            "displayName-count-few": "ghanské cedi (1979–2007)",
-            "displayName-count-many": "ghanského cedi (1979–2007)",
-            "displayName-count-other": "ghanských cedi (1979–2007)",
+            "displayName": "ghanské cedi (1979 – 2007)",
+            "displayName-count-one": "ghanské cedi (1979 – 2007)",
+            "displayName-count-few": "ghanské cedi (1979 – 2007)",
+            "displayName-count-many": "ghanského cedi (1979 – 2007)",
+            "displayName-count-other": "ghanských cedi (1979 – 2007)",
             "symbol": "GHC"
           },
           "GHS": {
@@ -685,15 +893,27 @@
             "symbol-alt-narrow": "FG"
           },
           "GNS": {
-            "displayName": "Guinejský syli",
+            "displayName": "guinejské syli",
+            "displayName-count-one": "guinejské syli",
+            "displayName-count-few": "guinejské syli",
+            "displayName-count-many": "guinejského syli",
+            "displayName-count-other": "guinejských syli",
             "symbol": "GNS"
           },
           "GQE": {
-            "displayName": "Rovníková Guinea Ekwele Guineana",
+            "displayName": "rovníkovoguinejský ekwele",
+            "displayName-count-one": "rovníkovoguinejský ekwele",
+            "displayName-count-few": "rovníkovoguinejské ekwele",
+            "displayName-count-many": "rovníkovoguinejského ekwele",
+            "displayName-count-other": "rovníkovoguinejských ekwele",
             "symbol": "GQE"
           },
           "GRD": {
-            "displayName": "Grécka drachma",
+            "displayName": "grécka drachma",
+            "displayName-count-one": "grécka drachma",
+            "displayName-count-few": "grécke drachmy",
+            "displayName-count-many": "gréckej drachmy",
+            "displayName-count-other": "gréckych drachiem",
             "symbol": "GRD"
           },
           "GTQ": {
@@ -706,15 +926,19 @@
             "symbol-alt-narrow": "Q"
           },
           "GWE": {
-            "displayName": "Portugalská Guinea eskudo",
+            "displayName": "portugalsko-guinejské escudo",
+            "displayName-count-one": "portugalsko-guinejské escudo",
+            "displayName-count-few": "portugalsko-guinejské escudá",
+            "displayName-count-many": "portugalsko-guinejského escuda",
+            "displayName-count-other": "portugalsko-guinejských escúd",
             "symbol": "GWE"
           },
           "GWP": {
-            "displayName": "Guinejsko-bissauské peso",
-            "displayName-count-one": "Guinea-Bissau peso",
-            "displayName-count-few": "Guinea-Bissau pesos",
-            "displayName-count-many": "Guinea-Bissau pesa",
-            "displayName-count-other": "Guinea-Bissau pesos",
+            "displayName": "guinejsko-bissauské peso",
+            "displayName-count-one": "guinejsko-bissauské peso",
+            "displayName-count-few": "guinejsko-bissauské pesos",
+            "displayName-count-many": "guinejsko-bissauského pesa",
+            "displayName-count-other": "guinejsko-bissauských pesos",
             "symbol": "GWP"
           },
           "GYD": {
@@ -745,7 +969,11 @@
             "symbol-alt-narrow": "L"
           },
           "HRD": {
-            "displayName": "Chorvátsky dinár",
+            "displayName": "chorvátsky dinár",
+            "displayName-count-one": "chorvátsky dinár",
+            "displayName-count-few": "chorvátske dináre",
+            "displayName-count-many": "chorvátskeho dinára",
+            "displayName-count-other": "chorvátskych dinárov",
             "symbol": "HRD"
           },
           "HRK": {
@@ -784,12 +1012,28 @@
             "symbol-alt-narrow": "Rp"
           },
           "IEP": {
-            "displayName": "Írska libra",
+            "displayName": "írska libra",
+            "displayName-count-one": "írska libra",
+            "displayName-count-few": "írske libry",
+            "displayName-count-many": "írskej libry",
+            "displayName-count-other": "írskych libier",
             "symbol": "IEP"
           },
           "ILP": {
-            "displayName": "Izraelská libra",
+            "displayName": "izraelská libra",
+            "displayName-count-one": "izraelská libra",
+            "displayName-count-few": "izraelské libry",
+            "displayName-count-many": "izraelskej libry",
+            "displayName-count-other": "izraelských libier",
             "symbol": "ILP"
+          },
+          "ILR": {
+            "displayName": "izraelský šekel (1980 – 1985)",
+            "displayName-count-one": "izraelský šekel (1980 – 1985)",
+            "displayName-count-few": "izraelské šekely (1980 – 1985)",
+            "displayName-count-many": "izraelského šekela (1980 – 1985)",
+            "displayName-count-other": "izraelských šekelov (1980 – 1985)",
+            "symbol": "ILR"
           },
           "ILS": {
             "displayName": "izraelský šekel",
@@ -825,6 +1069,14 @@
             "displayName-count-other": "iránskych rialov",
             "symbol": "IRR"
           },
+          "ISJ": {
+            "displayName": "islandská koruna (1918 – 1981)",
+            "displayName-count-one": "islandská koruna (1918 – 1981)",
+            "displayName-count-few": "islandské koruny (1918 – 1981)",
+            "displayName-count-many": "islandskej koruny (1918 – 1981)",
+            "displayName-count-other": "islandských korún (1918 – 1981)",
+            "symbol": "ISJ"
+          },
           "ISK": {
             "displayName": "islandská koruna",
             "displayName-count-one": "islandská koruna",
@@ -835,7 +1087,11 @@
             "symbol-alt-narrow": "kr"
           },
           "ITL": {
-            "displayName": "Talianská lira",
+            "displayName": "talianska líra",
+            "displayName-count-one": "talianska líra",
+            "displayName-count-few": "talianske líry",
+            "displayName-count-many": "talianskej líry",
+            "displayName-count-other": "talianskych lír",
             "symbol": "ITL"
           },
           "JMD": {
@@ -908,11 +1164,19 @@
             "symbol-alt-narrow": "₩"
           },
           "KRH": {
-            "displayName": "KRH",
+            "displayName": "juhokórejský hwan (1953 – 1962)",
+            "displayName-count-one": "juhokórejský hwan (1953 – 1962)",
+            "displayName-count-few": "juhokórejské hwany (1953 – 1962)",
+            "displayName-count-many": "juhokórejského hwanu (1953 – 1962)",
+            "displayName-count-other": "juhokórejských hwanov (1953 – 1962)",
             "symbol": "KRH"
           },
           "KRO": {
-            "displayName": "KRO",
+            "displayName": "juhokórejský won (1945 – 1953)",
+            "displayName-count-one": "juhokórejský won (1945 – 1953)",
+            "displayName-count-few": "juhokórejské wony (1945 – 1953)",
+            "displayName-count-many": "juhokórejského wonu (1945 – 1953)",
+            "displayName-count-other": "juhokórejských wonov (1945 – 1953)",
             "symbol": "KRO"
           },
           "KRW": {
@@ -987,7 +1251,11 @@
             "symbol-alt-narrow": "$"
           },
           "LSL": {
-            "displayName": "Lesothský loti",
+            "displayName": "lesothský loti",
+            "displayName-count-one": "lesothský loti",
+            "displayName-count-few": "lesothské loti",
+            "displayName-count-many": "lesothského loti",
+            "displayName-count-other": "lesothských loti",
             "symbol": "LSL"
           },
           "LTL": {
@@ -1000,23 +1268,39 @@
             "symbol-alt-narrow": "Lt"
           },
           "LTT": {
-            "displayName": "Litevský talonas",
+            "displayName": "litovský talonas",
+            "displayName-count-one": "litovský talonas",
+            "displayName-count-few": "litovské talony",
+            "displayName-count-many": "litovského talonu",
+            "displayName-count-other": "litovských talonov",
             "symbol": "LTT"
           },
           "LUC": {
-            "displayName": "LUC",
+            "displayName": "luxemburský frank (konvertibilný)",
+            "displayName-count-one": "luxemburský frank (konvertibilný)",
+            "displayName-count-few": "luxemburské franky (konvertibilné)",
+            "displayName-count-many": "luxemburského franku (konvertibilného)",
+            "displayName-count-other": "luxemburských frankov (konvertibilných)",
             "symbol": "LUC"
           },
           "LUF": {
-            "displayName": "Luxemburský frank",
+            "displayName": "luxemburský frank",
+            "displayName-count-one": "luxemburský frank",
+            "displayName-count-few": "luxemburské franky",
+            "displayName-count-many": "luxemburského franku",
+            "displayName-count-other": "luxemburských frankov",
             "symbol": "LUF"
           },
           "LUL": {
-            "displayName": "LUL",
+            "displayName": "luxemburský frank (finančný)",
+            "displayName-count-one": "luxemburský frank (finančný)",
+            "displayName-count-few": "luxemburské franky (finančné)",
+            "displayName-count-many": "luxemburského franku (finančného)",
+            "displayName-count-other": "luxemburských frankov (finančných)",
             "symbol": "LUL"
           },
           "LVL": {
-            "displayName": "Lotyšský lat",
+            "displayName": "lotyšský lat",
             "displayName-count-one": "lotyšský lat",
             "displayName-count-few": "lotyšské laty",
             "displayName-count-many": "lotyšského latu",
@@ -1025,7 +1309,11 @@
             "symbol-alt-narrow": "Ls"
           },
           "LVR": {
-            "displayName": "Lotyšský rubeľ",
+            "displayName": "lotyšský rubeľ",
+            "displayName-count-one": "lotyšský rubeľ",
+            "displayName-count-few": "lotyšské ruble",
+            "displayName-count-many": "lotyšského rubľa",
+            "displayName-count-other": "lotyšských rubľov",
             "symbol": "LVR"
           },
           "LYD": {
@@ -1045,15 +1333,27 @@
             "symbol": "MAD"
           },
           "MAF": {
-            "displayName": "Marocký frank",
+            "displayName": "marocký frank",
+            "displayName-count-one": "marocký frank",
+            "displayName-count-few": "marocké franky",
+            "displayName-count-many": "marockého franku",
+            "displayName-count-other": "marockých frankov",
             "symbol": "MAF"
           },
           "MCF": {
-            "displayName": "MCF",
+            "displayName": "monacký frank",
+            "displayName-count-one": "monacký frank",
+            "displayName-count-few": "monacké franky",
+            "displayName-count-many": "monackého franku",
+            "displayName-count-other": "monackých frankov",
             "symbol": "MCF"
           },
           "MDC": {
-            "displayName": "MDC",
+            "displayName": "moldavský kupón",
+            "displayName-count-one": "moldavský kupón",
+            "displayName-count-few": "moldavské kupóny",
+            "displayName-count-many": "moldavského kupónu",
+            "displayName-count-other": "moldavských kupónov",
             "symbol": "MDC"
           },
           "MDL": {
@@ -1074,7 +1374,11 @@
             "symbol-alt-narrow": "Ar"
           },
           "MGF": {
-            "displayName": "Madagaskarský frank",
+            "displayName": "madagaskarský frank",
+            "displayName-count-one": "madagaskarský frank",
+            "displayName-count-few": "madagaskarské franky",
+            "displayName-count-many": "madagaskarského franku",
+            "displayName-count-other": "madagaskarských frankov",
             "symbol": "MGF"
           },
           "MKD": {
@@ -1086,11 +1390,19 @@
             "symbol": "MKD"
           },
           "MKN": {
-            "displayName": "MKN",
+            "displayName": "macedónsky denár (1992 – 1993)",
+            "displayName-count-one": "macedónsky denár (1992 – 1993)",
+            "displayName-count-few": "macedónske denáre (1992 – 1993)",
+            "displayName-count-many": "macedónskeho denára (1992 – 1993)",
+            "displayName-count-other": "macedónskych denárov (1992 – 1993)",
             "symbol": "MKN"
           },
           "MLF": {
-            "displayName": "Malský frank",
+            "displayName": "malijský frank",
+            "displayName-count-one": "malijský frank",
+            "displayName-count-few": "malijské franky",
+            "displayName-count-many": "malijského franku",
+            "displayName-count-other": "malijské franky",
             "symbol": "MLF"
           },
           "MMK": {
@@ -1128,11 +1440,19 @@
             "symbol": "MRO"
           },
           "MTL": {
-            "displayName": "Maltská lira",
+            "displayName": "maltská líra",
+            "displayName-count-one": "maltská líra",
+            "displayName-count-few": "maltské líry",
+            "displayName-count-many": "maltskej líry",
+            "displayName-count-other": "maltských lír",
             "symbol": "MTL"
           },
           "MTP": {
-            "displayName": "Maltská libra",
+            "displayName": "maltská libra",
+            "displayName-count-one": "maltská libra",
+            "displayName-count-few": "maltské libry",
+            "displayName-count-many": "maltskej libry",
+            "displayName-count-other": "maltských libier",
             "symbol": "MTP"
           },
           "MUR": {
@@ -1143,6 +1463,14 @@
             "displayName-count-other": "maurícijských rupií",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "maldivská rupia (1947 – 1981)",
+            "displayName-count-one": "maldivská rupia (1947 – 1981)",
+            "displayName-count-few": "maldivské rupie (1947 – 1981)",
+            "displayName-count-many": "maldivskej rupie (1947 – 1981)",
+            "displayName-count-other": "maldivských rupií (1947 – 1981)",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "maldivská rupia",
@@ -1170,11 +1498,19 @@
             "symbol-alt-narrow": "$"
           },
           "MXP": {
-            "displayName": "Mexické striborné peso (1861–1992)",
+            "displayName": "mexické strieborné peso (1861 – 1992)",
+            "displayName-count-one": "mexické strieborné peso (1861 – 1992)",
+            "displayName-count-few": "mexické strieborné pesos (1861 – 1992)",
+            "displayName-count-many": "mexického strieborného pesa (1861 – 1992)",
+            "displayName-count-other": "mexických strieborných pesos (1861 – 1992)",
             "symbol": "MXP"
           },
           "MXV": {
-            "displayName": "Mexické Unidad de Inversion (UDI)",
+            "displayName": "mexická investičná jednotka",
+            "displayName-count-one": "mexická investičná jednotka",
+            "displayName-count-few": "mexické investičné jednotky",
+            "displayName-count-many": "mexickej investičnej jednotky",
+            "displayName-count-other": "mexických investičných jednotiek",
             "symbol": "MXV"
           },
           "MYR": {
@@ -1187,15 +1523,15 @@
             "symbol-alt-narrow": "RM"
           },
           "MZE": {
-            "displayName": "Mozambické escudo",
-            "displayName-count-one": "mozabické escudo",
-            "displayName-count-few": "mozabické escudá",
-            "displayName-count-many": "mozabického escuda",
-            "displayName-count-other": "mozabických escúd",
+            "displayName": "mozambické escudo",
+            "displayName-count-one": "mozambické escudo",
+            "displayName-count-few": "mozambické escudá",
+            "displayName-count-many": "mozambického escuda",
+            "displayName-count-other": "mozambických escúd",
             "symbol": "MZE"
           },
           "MZM": {
-            "displayName": "Mozambický metical (1980–2006)",
+            "displayName": "mozambický metical (1980 – 2006)",
             "displayName-count-one": "mozambický metical (1980–2006)",
             "displayName-count-few": "mozambické meticaly (1980–2006)",
             "displayName-count-many": "mozambického meticalu (1980–2006)",
@@ -1229,7 +1565,7 @@
             "symbol-alt-narrow": "₦"
           },
           "NIC": {
-            "displayName": "Nikaragujská Cordoba (1988–1991)",
+            "displayName": "nikaragujská córdoba (1988 – 1991)",
             "displayName-count-one": "nikaragujská córdoba (1988–1991)",
             "displayName-count-few": "nikaragujské córdoby (1988–1991)",
             "displayName-count-many": "nikaragujskej córdoby (1988–1991)",
@@ -1246,7 +1582,11 @@
             "symbol-alt-narrow": "C$"
           },
           "NLG": {
-            "displayName": "Nizozemský guilder",
+            "displayName": "holandský gulden",
+            "displayName-count-one": "holandský gulden",
+            "displayName-count-few": "holandské guldeny",
+            "displayName-count-many": "holandského guldena",
+            "displayName-count-other": "holandských guldenov",
             "symbol": "NLG"
           },
           "NOK": {
@@ -1293,7 +1633,11 @@
             "symbol": "PAB"
           },
           "PEI": {
-            "displayName": "Peruvský inti",
+            "displayName": "peruánsky inti",
+            "displayName-count-one": "peruánsky inti",
+            "displayName-count-few": "peruánske inti",
+            "displayName-count-many": "peruánskeho inti",
+            "displayName-count-other": "peruánskych inti",
             "symbol": "PEI"
           },
           "PEN": {
@@ -1305,7 +1649,7 @@
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "peruánsky sol (1863–1965)",
+            "displayName": "peruánsky sol (1863 – 1965)",
             "displayName-count-one": "peruánsky sol (1863–1965)",
             "displayName-count-few": "peruánske soly (1863–1965)",
             "displayName-count-many": "peruánskeho sola (1863–1965)",
@@ -1348,15 +1692,19 @@
             "symbol-alt-narrow": "zł"
           },
           "PLZ": {
-            "displayName": "Polský zloty (1950–1995)",
-            "displayName-count-one": "poľský zlotý (1950–1995)",
-            "displayName-count-few": "poľské zloté (1950–1995)",
-            "displayName-count-many": "poľského zlotého (1950–1995)",
-            "displayName-count-other": "poľských zlotých (1950–1995)",
+            "displayName": "poľský zlotý (1950 – 1995)",
+            "displayName-count-one": "poľský zlotý (1950 – 1995)",
+            "displayName-count-few": "poľské zloté (1950 – 1995)",
+            "displayName-count-many": "poľského zlotého (1950 – 1995)",
+            "displayName-count-other": "poľských zlotých (1950 – 1995)",
             "symbol": "PLZ"
           },
           "PTE": {
-            "displayName": "Portugalské eskudo",
+            "displayName": "portugalské escudo",
+            "displayName-count-one": "portugalské escudo",
+            "displayName-count-few": "portugalské escudá",
+            "displayName-count-many": "portugalského escuda",
+            "displayName-count-other": "portugalských escúd",
             "symbol": "PTE"
           },
           "PYG": {
@@ -1377,15 +1725,19 @@
             "symbol": "QAR"
           },
           "RHD": {
-            "displayName": "RHD",
+            "displayName": "rodézsky dolár",
+            "displayName-count-one": "rodézsky dolár",
+            "displayName-count-few": "rodézske doláre",
+            "displayName-count-many": "rodézskeho dolára",
+            "displayName-count-other": "rodézskych dolárov",
             "symbol": "RHD"
           },
           "ROL": {
-            "displayName": "Rumunský leu (1952–2006)",
-            "displayName-count-one": "rumunský leu (1952–2006)",
-            "displayName-count-few": "rumunské leu (1952–2006)",
-            "displayName-count-many": "rumunského leu (1952–2006)",
-            "displayName-count-other": "rumunských leu (1952–2006)",
+            "displayName": "rumunský lei (1952 – 2006)",
+            "displayName-count-one": "rumunský lei (1952 – 2006)",
+            "displayName-count-few": "rumunské lei (1952 – 2006)",
+            "displayName-count-many": "rumunského lei (1952 – 2006)",
+            "displayName-count-other": "rumunských lei (1952 – 2006)",
             "symbol": "ROL"
           },
           "RON": {
@@ -1416,7 +1768,11 @@
             "symbol-alt-variant": "₽"
           },
           "RUR": {
-            "displayName": "Ruský rubeľ (1991–1998)",
+            "displayName": "ruský rubeľ (1991 – 1998)",
+            "displayName-count-one": "ruský rubeľ (1991 – 1998)",
+            "displayName-count-few": "ruské ruble (1991 – 1998)",
+            "displayName-count-many": "ruského rubľa (1991 – 1998)",
+            "displayName-count-other": "ruských rubľov (1991 – 1998)",
             "symbol": "RUR",
             "symbol-alt-narrow": "р."
           },
@@ -1455,7 +1811,11 @@
             "symbol": "SCR"
           },
           "SDD": {
-            "displayName": "Sudánsky dinár",
+            "displayName": "sudánsky dinár (1992 – 2007)",
+            "displayName-count-one": "sudánsky dinár (1992 – 2007)",
+            "displayName-count-few": "sudánske dináre (1992 – 2007)",
+            "displayName-count-many": "sudánskeho dinára (1992 – 2007)",
+            "displayName-count-other": "sudánskych dinárov (1992 – 2007)",
             "symbol": "SDD"
           },
           "SDG": {
@@ -1467,11 +1827,11 @@
             "symbol": "SDG"
           },
           "SDP": {
-            "displayName": "Sudánska libra (1957–1998)",
-            "displayName-count-one": "sudánska libra (1957–1998)",
-            "displayName-count-few": "sudánske libry (1957–1998)",
-            "displayName-count-many": "sudánskej libry (1957–1998)",
-            "displayName-count-other": "sudánskych libier (1957–1998)",
+            "displayName": "sudánska libra (1957 – 1998)",
+            "displayName-count-one": "sudánska libra (1957 – 1998)",
+            "displayName-count-few": "sudánske libry (1957 – 1998)",
+            "displayName-count-many": "sudánskej libry (1957 – 1998)",
+            "displayName-count-other": "sudánskych libier (1957 – 1998)",
             "symbol": "SDP"
           },
           "SEK": {
@@ -1502,11 +1862,19 @@
             "symbol-alt-narrow": "£"
           },
           "SIT": {
-            "displayName": "Slovinský Tolar",
+            "displayName": "slovinský toliar",
+            "displayName-count-one": "slovinský toliar",
+            "displayName-count-few": "slovinské toliare",
+            "displayName-count-many": "slovinského toliara",
+            "displayName-count-other": "slovinských toliarov",
             "symbol": "SIT"
           },
           "SKK": {
-            "displayName": "Slovenská koruna",
+            "displayName": "slovenská koruna",
+            "displayName-count-one": "slovenská koruna",
+            "displayName-count-few": "slovenské koruny",
+            "displayName-count-many": "slovenskej koruny",
+            "displayName-count-other": "slovenských korún",
             "symbol": "SKK"
           },
           "SLL": {
@@ -1535,7 +1903,11 @@
             "symbol-alt-narrow": "$"
           },
           "SRG": {
-            "displayName": "Surinamský guilder",
+            "displayName": "surinamský zlatý",
+            "displayName-count-one": "surinamský zlatý",
+            "displayName-count-few": "surinamské zlaté",
+            "displayName-count-many": "surinamského zlatého",
+            "displayName-count-other": "surinamských zlatých",
             "symbol": "SRG"
           },
           "SSP": {
@@ -1556,12 +1928,20 @@
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
+          },
           "SUR": {
-            "displayName": "Sovietsky rubeľ",
+            "displayName": "sovietsky rubeľ",
+            "displayName-count-one": "sovietsky rubeľ",
+            "displayName-count-few": "sovietske ruble",
+            "displayName-count-many": "sovietskeho rubľa",
+            "displayName-count-other": "sovietskych rubľov",
             "symbol": "SUR"
           },
           "SVC": {
-            "displayName": "Salvádorský colón",
+            "displayName": "salvádorský colón",
             "displayName-count-one": "salvádorský colón",
             "displayName-count-few": "salvádorské colóny",
             "displayName-count-many": "salvádorského colóna",
@@ -1595,7 +1975,11 @@
             "symbol-alt-narrow": "฿"
           },
           "TJR": {
-            "displayName": "Tadžický rubeľ",
+            "displayName": "tadžický rubeľ",
+            "displayName-count-one": "tadžický rubeľ",
+            "displayName-count-few": "tadžické ruble",
+            "displayName-count-many": "tadžického rubľa",
+            "displayName-count-other": "tadžických rubľov",
             "symbol": "TJR"
           },
           "TJS": {
@@ -1607,11 +1991,11 @@
             "symbol": "TJS"
           },
           "TMM": {
-            "displayName": "Turkménsky manat (1993–2009)",
-            "displayName-count-one": "turkménsky manat (1993–2009)",
-            "displayName-count-few": "turkménske manaty (1993–2009)",
-            "displayName-count-many": "turkménskeho manatu (1993–2009)",
-            "displayName-count-other": "turkménskych manatov (1993–2009)",
+            "displayName": "turkménsky manat (1993 – 2009)",
+            "displayName-count-one": "turkménsky manat (1993 – 2009)",
+            "displayName-count-few": "turkménske manaty (1993 – 2009)",
+            "displayName-count-many": "turkménskeho manatu (1993 – 2009)",
+            "displayName-count-other": "turkménskych manatov (1993 – 2009)",
             "symbol": "TMM"
           },
           "TMT": {
@@ -1640,15 +2024,19 @@
             "symbol-alt-narrow": "T$"
           },
           "TPE": {
-            "displayName": "Timorské eskudo",
+            "displayName": "timorské escudo",
+            "displayName-count-one": "timorské escudo",
+            "displayName-count-few": "timorské escudá",
+            "displayName-count-many": "timorského escuda",
+            "displayName-count-other": "timorských escúd",
             "symbol": "TPE"
           },
           "TRL": {
-            "displayName": "Turecká lira (1922–2005)",
-            "displayName-count-one": "turecká líra (1922–2005)",
-            "displayName-count-few": "turecké líry (1922–2005)",
-            "displayName-count-many": "tureckej líry (1922–2005)",
-            "displayName-count-other": "tureckých lír (1922–2005)",
+            "displayName": "turecká líra (1922 – 2005)",
+            "displayName-count-one": "turecká líra (1922 – 2005)",
+            "displayName-count-few": "turecké líry (1922 – 2005)",
+            "displayName-count-many": "tureckej líry (1922 – 2005)",
+            "displayName-count-other": "tureckých lír (1922 – 2005)",
             "symbol": "TRL"
           },
           "TRY": {
@@ -1697,11 +2085,19 @@
             "symbol-alt-narrow": "₴"
           },
           "UAK": {
-            "displayName": "Ukrainský karbovanetz",
+            "displayName": "ukrajinský karbovanec",
+            "displayName-count-one": "ukrajinský karbovanec",
+            "displayName-count-few": "ukrajinské karbovance",
+            "displayName-count-many": "ukrajinského karbovanca",
+            "displayName-count-other": "ukrajinských karbovancov",
             "symbol": "UAK"
           },
           "UGS": {
-            "displayName": "Ugandan šiling (1966–1987)",
+            "displayName": "ugandský šiling (1966 – 1987)",
+            "displayName-count-one": "ugandský šiling (1966 – 1987)",
+            "displayName-count-few": "ugandské šilingy (1966 – 1987)",
+            "displayName-count-many": "ugandského šilingu (1966 – 1987)",
+            "displayName-count-other": "ugandských šilingov (1966 – 1987)",
             "symbol": "UGS"
           },
           "UGX": {
@@ -1722,19 +2118,35 @@
             "symbol-alt-narrow": "$"
           },
           "USN": {
-            "displayName": "US dolár (Next day)",
+            "displayName": "americký dolár (ďalší deň)",
+            "displayName-count-one": "americký dolár (ďalší deň)",
+            "displayName-count-few": "americké doláre (ďalší deň)",
+            "displayName-count-many": "amerického dolára (ďalší deň)",
+            "displayName-count-other": "amerických dolárov (ďalší deň)",
             "symbol": "USN"
           },
           "USS": {
-            "displayName": "US dolár (Same day)",
+            "displayName": "americký dolár (rovnaký deň)",
+            "displayName-count-one": "americký dolár (rovnaký deň)",
+            "displayName-count-few": "americké doláre (rovnaký deň)",
+            "displayName-count-many": "amerického dolára (rovnaký deň)",
+            "displayName-count-other": "amerických dolárov (rovnaký deň)",
             "symbol": "USS"
           },
           "UYI": {
-            "displayName": "UYI",
+            "displayName": "uruguajské peso (v indexovaných jednotkách)",
+            "displayName-count-one": "uruguajské peso (v indexovaných jednotkách)",
+            "displayName-count-few": "uruguajské pesos (v indexovaných jednotkách)",
+            "displayName-count-many": "uruguajského pesa (v indexovaných jednotkách)",
+            "displayName-count-other": "uruguajských pesos (v indexovaných jednotkách)",
             "symbol": "UYI"
           },
           "UYP": {
-            "displayName": "Uruguajské peso (1975–1993)",
+            "displayName": "uruguajské peso (1975 – 1993)",
+            "displayName-count-one": "uruguajské peso (1975 – 1993)",
+            "displayName-count-few": "uruguajské pesos (1975 – 1993)",
+            "displayName-count-many": "uruguajského pesa (1975 – 1993)",
+            "displayName-count-other": "uruguajských pesos (1975 – 1993)",
             "symbol": "UYP"
           },
           "UYU": {
@@ -1755,7 +2167,11 @@
             "symbol": "UZS"
           },
           "VEB": {
-            "displayName": "Venezuelský bolívar (1871–2008)",
+            "displayName": "venezuelský bolívar (1871 – 2008)",
+            "displayName-count-one": "venezuelský bolívar (1871 – 2008)",
+            "displayName-count-few": "venezuelské bolívary (1871 – 2008)",
+            "displayName-count-many": "venezuelského bolívaru (1871 – 2008)",
+            "displayName-count-other": "venezuelských bolívarov (1871 – 2008)",
             "symbol": "VEB"
           },
           "VEF": {
@@ -1777,7 +2193,11 @@
             "symbol-alt-narrow": "₫"
           },
           "VNN": {
-            "displayName": "VNN",
+            "displayName": "vietnamský dong (1978 – 1985)",
+            "displayName-count-one": "vietnamský dong (1978 – 1985)",
+            "displayName-count-few": "vietnamské dongy (1978 – 1985)",
+            "displayName-count-many": "vietnamského dongu (1978 – 1985)",
+            "displayName-count-other": "vietnamských dongov (1978 – 1985)",
             "symbol": "VNN"
           },
           "VUV": {
@@ -1805,27 +2225,51 @@
             "symbol": "FCFA"
           },
           "XAG": {
-            "displayName": "XAG",
+            "displayName": "striebro",
+            "displayName-count-one": "trójska unca striebra",
+            "displayName-count-few": "trójske unce striebra",
+            "displayName-count-many": "trójskej unce striebra",
+            "displayName-count-other": "trójskych uncí striebra",
             "symbol": "XAG"
           },
           "XAU": {
-            "displayName": "Zlato",
+            "displayName": "zlato",
+            "displayName-count-one": "trójska unca zlata",
+            "displayName-count-few": "trójske unce zlata",
+            "displayName-count-many": "trójskej unce zlata",
+            "displayName-count-other": "trójskych uncí zlata",
             "symbol": "XAU"
           },
           "XBA": {
-            "displayName": "XBA",
+            "displayName": "európska zmiešaná jednotka",
+            "displayName-count-one": "európska zmiešaná jednotka",
+            "displayName-count-few": "európske zmiešané jednotky",
+            "displayName-count-many": "európskej zmiešanej jednotky",
+            "displayName-count-other": "európskych zmiešaných jednotiek",
             "symbol": "XBA"
           },
           "XBB": {
-            "displayName": "XBB",
+            "displayName": "európska peňažná jednotka",
+            "displayName-count-one": "európska peňažná jednotka",
+            "displayName-count-few": "európske peňažné jednotky",
+            "displayName-count-many": "európskej peňažnek jednotky",
+            "displayName-count-other": "európskych peňažných jednotiek",
             "symbol": "XBB"
           },
           "XBC": {
-            "displayName": "XBC",
+            "displayName": "európska jednotka účtu 9 (XBC)",
+            "displayName-count-one": "európska jednotka účtu 9 (XBC)",
+            "displayName-count-few": "európske jednotky účtu 9 (XBC)",
+            "displayName-count-many": "európskej jednotky účtu 9 (XBC)",
+            "displayName-count-other": "európskych jednotiek účtu 9 (XBC)",
             "symbol": "XBC"
           },
           "XBD": {
-            "displayName": "XBD",
+            "displayName": "európska jednotka účtu 17 (XBC)",
+            "displayName-count-one": "európska jednotka účtu 17 (XBC)",
+            "displayName-count-few": "európske jednotky účtu 17 (XBC)",
+            "displayName-count-many": "európskej jednotky účtu 17 (XBC)",
+            "displayName-count-other": "európskych jednotiek účtu 17 (XBC)",
             "symbol": "XBD"
           },
           "XCD": {
@@ -1838,19 +2282,35 @@
             "symbol-alt-narrow": "$"
           },
           "XDR": {
-            "displayName": "Špeciálne práva čerpania",
+            "displayName": "SDR",
+            "displayName-count-one": "SDR",
+            "displayName-count-few": "SDR",
+            "displayName-count-many": "SDR",
+            "displayName-count-other": "SDR",
             "symbol": "XDR"
           },
           "XEU": {
-            "displayName": "XEU",
+            "displayName": "európska menová jednotka",
+            "displayName-count-one": "európska menová jednotka",
+            "displayName-count-few": "európske menové jednotky",
+            "displayName-count-many": "európskej menovej jednotky",
+            "displayName-count-other": "európskych menových jednotiek",
             "symbol": "XEU"
           },
           "XFO": {
-            "displayName": "Francúzsky zlatý frank",
+            "displayName": "francúzsky zlatý frank",
+            "displayName-count-one": "francúzsky zlatý frank",
+            "displayName-count-few": "francúzske zlaté franky",
+            "displayName-count-many": "francúzskeho zlatého franku",
+            "displayName-count-other": "francúzskych zlatých frankov",
             "symbol": "XFO"
           },
           "XFU": {
-            "displayName": "Francúzsky UIC-frank",
+            "displayName": "francúzsky UIC frank",
+            "displayName-count-one": "francúzsky UIC frank",
+            "displayName-count-few": "francúzske UIC franky",
+            "displayName-count-many": "francúzskeho UIC franku",
+            "displayName-count-other": "francúzskych UIC frankov",
             "symbol": "XFU"
           },
           "XOF": {
@@ -1862,7 +2322,11 @@
             "symbol": "CFA"
           },
           "XPD": {
-            "displayName": "XPD",
+            "displayName": "paládium",
+            "displayName-count-one": "trójska unca paládia",
+            "displayName-count-few": "trójske unce paládia",
+            "displayName-count-many": "trójskej unce paládia",
+            "displayName-count-other": "trójskych uncí paládia",
             "symbol": "XPD"
           },
           "XPF": {
@@ -1874,23 +2338,43 @@
             "symbol": "CFPF"
           },
           "XPT": {
-            "displayName": "XPT",
+            "displayName": "platina",
+            "displayName-count-one": "trójska unca platiny",
+            "displayName-count-few": "trójske unce platiny",
+            "displayName-count-many": "trójskej unce platiny",
+            "displayName-count-other": "trójskej unce platiny",
             "symbol": "XPT"
           },
           "XRE": {
-            "displayName": "XRE",
+            "displayName": "fondy RINET",
+            "displayName-count-one": "jednotka fondov RINET",
+            "displayName-count-few": "jednotky fondov RINET",
+            "displayName-count-many": "jednotky fondov RINET",
+            "displayName-count-other": "jednotiek fondov RINET",
             "symbol": "XRE"
           },
           "XSU": {
-            "displayName": "XSU",
+            "displayName": "sucre",
+            "displayName-count-one": "sucre",
+            "displayName-count-few": "sucre",
+            "displayName-count-many": "sucre",
+            "displayName-count-other": "sucre",
             "symbol": "XSU"
           },
           "XTS": {
-            "displayName": "XTS",
+            "displayName": "kód testovacej meny",
+            "displayName-count-one": "jednotka testovacej meny",
+            "displayName-count-few": "jednotky testovacej meny",
+            "displayName-count-many": "jednotky testovacej meny",
+            "displayName-count-other": "jednotiek testovacej meny",
             "symbol": "XTS"
           },
           "XUA": {
-            "displayName": "XUA",
+            "displayName": "jednotka účtu ADB",
+            "displayName-count-one": "jednotka účtu ADB",
+            "displayName-count-few": "jednotky účtu ADB",
+            "displayName-count-many": "jednotky účtu ADB",
+            "displayName-count-other": "jednotiek účtu ADB",
             "symbol": "XUA"
           },
           "XXX": {
@@ -1902,7 +2386,11 @@
             "symbol": "XXX"
           },
           "YDD": {
-            "displayName": "Jemenský dinár",
+            "displayName": "jemenský dinár",
+            "displayName-count-one": "jemenský dinár",
+            "displayName-count-few": "jemenské dináre",
+            "displayName-count-many": "jemenského dinára",
+            "displayName-count-other": "jemenských dinárov",
             "symbol": "YDD"
           },
           "YER": {
@@ -1915,22 +2403,42 @@
           },
           "YUD": {
             "displayName": "Juhoslávsky dinár [YUD]",
+            "displayName-count-one": "juhoslovanský dinár (1966 – 1990)",
+            "displayName-count-few": "juhoslovanské dináre (1966 – 1990)",
+            "displayName-count-many": "juhoslovanského dinára (1966 – 1990)",
+            "displayName-count-other": "juhoslovanských dinárov (1966 – 1990)",
             "symbol": "YUD"
           },
           "YUM": {
-            "displayName": "Juhoslávsky Noviy dinár",
+            "displayName": "juhoslovanský nový dinár (1994 – 2002)",
+            "displayName-count-one": "juhoslovanský nový dinár (1994 – 2002)",
+            "displayName-count-few": "juhoslovanské nové dináre (1994 – 2002)",
+            "displayName-count-many": "juhoslovanského nového dinára (1994 – 2002)",
+            "displayName-count-other": "juhoslovanských nových dinárov (1994 – 2002)",
             "symbol": "YUM"
           },
           "YUN": {
-            "displayName": "Juhoslávsky dinár",
+            "displayName": "juhoslovanský konvertibilný dinár (1990 – 1992)",
+            "displayName-count-one": "juhoslovanský konvertibilný dinár (1990 – 1992)",
+            "displayName-count-few": "juhoslovanské konvertibilné dináre (1990 – 1992)",
+            "displayName-count-many": "juhoslovanského konvertibilného dinára (1990 – 1992)",
+            "displayName-count-other": "juhoslovanských konvertibilných dinárov (1990 – 1992)",
             "symbol": "YUN"
           },
           "YUR": {
-            "displayName": "YUR",
+            "displayName": "juhoslovanský reformovaný dinár (1992 – 1993)",
+            "displayName-count-one": "juhoslovanský reformovaný dinár (1992 – 1993)",
+            "displayName-count-few": "juhoslovanské reformované dináre (1992 – 1993)",
+            "displayName-count-many": "juhoslovanského reformovaného dinára (1992 – 1993)",
+            "displayName-count-other": "juhoslovanských reformovaných dinárov (1992 – 1993)",
             "symbol": "YUR"
           },
           "ZAL": {
-            "displayName": "Juhoafrický rand (financial)",
+            "displayName": "juhoafrický rand (finančný)",
+            "displayName-count-one": "juhoafrický rand (finančný)",
+            "displayName-count-few": "juhoafrické randy (finančné)",
+            "displayName-count-many": "juhoafrického randu (finančného)",
+            "displayName-count-other": "juhoafrických randov (finančných)",
             "symbol": "ZAL"
           },
           "ZAR": {
@@ -1943,11 +2451,11 @@
             "symbol-alt-narrow": "R"
           },
           "ZMK": {
-            "displayName": "Zambijská kwacha (1968–2012)",
-            "displayName-count-one": "zambijská kwacha (1968–2012)",
-            "displayName-count-few": "zambijské kwachy (1968–2012)",
-            "displayName-count-many": "zambijskej kwachy (1968–2012)",
-            "displayName-count-other": "zambijských kwách (1968–2012)",
+            "displayName": "zambijská kwacha (1968 – 2012)",
+            "displayName-count-one": "zambijská kwacha (1968 – 2012)",
+            "displayName-count-few": "zambijské kwachy (1968 – 2012)",
+            "displayName-count-many": "zambijskej kwachy (1968 – 2012)",
+            "displayName-count-other": "zambijských kwách (1968 – 2012)",
             "symbol": "ZMK"
           },
           "ZMW": {
@@ -1960,23 +2468,31 @@
             "symbol-alt-narrow": "ZK"
           },
           "ZRN": {
-            "displayName": "Zairský nový zaire",
+            "displayName": "zairský nový zaire (1993 – 1998)",
+            "displayName-count-one": "zairský nový zaire (1993 – 1998)",
+            "displayName-count-few": "zairské nové zairy (1993 – 1998)",
+            "displayName-count-many": "zairského nového zairu (1993 – 1998)",
+            "displayName-count-other": "zairských nových zairov (1993 – 1998)",
             "symbol": "ZRN"
           },
           "ZRZ": {
-            "displayName": "Zairský Zaire",
+            "displayName": "zairský zaire (1971 – 1993)",
+            "displayName-count-one": "zairský zaire (1971 – 1993)",
+            "displayName-count-few": "zairské zairy (1971 – 1993)",
+            "displayName-count-many": "zairského zairu (1971 – 1993)",
+            "displayName-count-other": "zairských zairov (1971 – 1993)",
             "symbol": "ZRZ"
           },
           "ZWD": {
-            "displayName": "Zimbabwiansky dolár (1980–2008)",
-            "displayName-count-one": "zimbabwiansky dolár (1980–2008)",
-            "displayName-count-few": "zimbabwianske doláre (1980–2008)",
-            "displayName-count-many": "zimbabwianskeho dolára (1980–2008)",
-            "displayName-count-other": "zimbabwianskych dolárov (1980–2008)",
+            "displayName": "zimbabwiansky dolár (1980 – 2008)",
+            "displayName-count-one": "zimbabwiansky dolár (1980 – 2008)",
+            "displayName-count-few": "zimbabwianske doláre (1980 – 2008)",
+            "displayName-count-many": "zimbabwianskeho dolára (1980 – 2008)",
+            "displayName-count-other": "zimbabwianskych dolárov (1980 – 2008)",
             "symbol": "ZWD"
           },
           "ZWL": {
-            "displayName": "Zimbabwiansky dolár (2009)",
+            "displayName": "zimbabwiansky dolár (2009)",
             "displayName-count-one": "zimbabwiansky dolár (2009)",
             "displayName-count-few": "zimbabwianske doláre (2009)",
             "displayName-count-many": "zimbabwianskeho dolára (2009)",
@@ -1984,7 +2500,7 @@
             "symbol": "ZWL"
           },
           "ZWR": {
-            "displayName": "Zimbabwiansky dolár (2008)",
+            "displayName": "zimbabwiansky dolár (2008)",
             "displayName-count-one": "zimbabwiansky dolár (2008)",
             "displayName-count-few": "zimbabwianske doláre (2008)",
             "displayName-count-many": "zimbabwianskeho dolára (2008)",

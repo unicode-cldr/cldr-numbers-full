@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fo",
         "territory": "DK"
@@ -30,6 +30,10 @@
             "displayName-count-one": "Afganistan afghani",
             "displayName-count-other": "Afganistan afghani",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Albania lek",
@@ -343,6 +347,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "kinesiskur yuan",
             "displayName-count-one": "kinesiskur yuan",
@@ -649,6 +661,10 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "Ísrael new sheqel",
             "displayName-count-one": "Ísrael new sheqel",
@@ -674,6 +690,10 @@
             "displayName-count-one": "iranskur rial",
             "displayName-count-other": "iranskir rials",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "íslendsk króna",
@@ -932,6 +952,10 @@
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
+          },
           "MVR": {
             "displayName": "Maldivoyggjar rufiyaa",
             "displayName-count-one": "Maldivoyggjar rufiyaa",
@@ -1115,7 +1139,7 @@
           "RON": {
             "displayName": "Rumenia leu",
             "displayName-count-one": "Rumenia leu",
-            "displayName-count-other": "Rumenia leu",
+            "displayName-count-other": "Rumenia lei",
             "symbol": "RON",
             "symbol-alt-narrow": "lei"
           },
@@ -1242,6 +1266,10 @@
             "displayName-count-other": "Sao Tome & Prinsipi dobra",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",

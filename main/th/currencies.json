@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13756 $",
+          "_cldrVersion": "32"
         },
         "language": "th"
       },
@@ -27,6 +27,10 @@
             "displayName": "อัฟกานิอัฟกานิสถาน",
             "displayName-count-other": "อัฟกานิอัฟกานิสถาน",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "เลกแอลเบเนีย",
@@ -312,6 +316,15 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "หยวน",
+            "displayName-count-other": "หยวน",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "หยวนจีน",
             "displayName-count-other": "หยวนจีน",
@@ -588,6 +601,10 @@
             "displayName": "ปอนด์อิสราเอล",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "นิวเชเกลอิสราเอล",
             "displayName-count-other": "นิวเชเกลอิสราเอล",
@@ -609,6 +626,10 @@
             "displayName": "เรียลอิหร่าน",
             "displayName-count-other": "เรียลอิหร่าน",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "โครนาไอซ์แลนด์",
@@ -841,6 +862,10 @@
             "displayName-count-other": "รูปีมอริเชียส",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "รูฟิยามัลดีฟส์",
@@ -1119,6 +1144,10 @@
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
+          },
           "SUR": {
             "displayName": "รูเบิลโซเวียต",
             "symbol": "SUR"
@@ -1139,7 +1168,7 @@
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "บาทไทย",
+            "displayName": "บาท",
             "displayName-count-other": "บาทไทย",
             "symbol": "THB",
             "symbol-alt-narrow": "฿"

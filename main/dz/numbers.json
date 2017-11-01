@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13134 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "dz"
       },
@@ -199,7 +199,7 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "ཉིནམ་ {0} ",
+          "pluralMinimalPairs-count-other": "ཉིནམ་ {0} ",
           "other": "{0}?"
         }
       }

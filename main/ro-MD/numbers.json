@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ro",
         "territory": "MD"
@@ -182,9 +182,9 @@
           "range": "{0} - {1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} zi",
-          "pluralMinimalPairs": "{0} zile",
-          "pluralMinimalPairs": "{0} de zile",
+          "pluralMinimalPairs-count-one": "{0} zi",
+          "pluralMinimalPairs-count-few": "{0} zile",
+          "pluralMinimalPairs-count-other": "{0} de zile",
           "one": "Faceți virajul nr. {0} la dreapta.",
           "other": "Faceți virajul al {0}-lea la dreapta."
         }

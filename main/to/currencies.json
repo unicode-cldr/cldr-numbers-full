@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "to"
       },
@@ -25,6 +25,10 @@
           "AFN": {
             "displayName": "AFN",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "ALL",
@@ -81,7 +85,8 @@
             "symbol": "ATS"
           },
           "AUD": {
-            "displayName": "AUD",
+            "displayName": "Australian Dollar",
+            "displayName-count-other": "Australian Dollar",
             "symbol": "AUD$",
             "symbol-alt-narrow": "$"
           },
@@ -281,6 +286,14 @@
             "displayName": "CLP",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "CNY",
@@ -527,6 +540,10 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "ILS",
             "symbol": "₪",
@@ -544,6 +561,10 @@
           "IRR": {
             "displayName": "IRR",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "ISK",
@@ -747,6 +768,10 @@
             "displayName": "MUR",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "MVR",
@@ -986,6 +1011,10 @@
             "displayName": "STD",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",

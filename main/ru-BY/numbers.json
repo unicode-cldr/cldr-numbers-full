@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ru",
         "territory": "BY"
@@ -219,10 +219,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "из {0} книги за {0} день",
-          "pluralMinimalPairs": "из {0} книг за {0} дня",
-          "pluralMinimalPairs": "из {0} книг за {0} дней",
-          "pluralMinimalPairs": "из {0} книги за {0} дня",
+          "pluralMinimalPairs-count-one": "из {0} книги за {0} день",
+          "pluralMinimalPairs-count-few": "из {0} книг за {0} дня",
+          "pluralMinimalPairs-count-many": "из {0} книг за {0} дней",
+          "pluralMinimalPairs-count-other": "из {0} книги за {0} дня",
           "other": "Сверните направо на {0}-м перекрестке."
         }
       }

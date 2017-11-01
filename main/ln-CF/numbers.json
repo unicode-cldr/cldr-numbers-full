@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ln",
         "territory": "CF"
@@ -108,7 +108,7 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}?",
+          "pluralMinimalPairs-count-other": "{0}?",
           "other": "{0}?"
         }
       }

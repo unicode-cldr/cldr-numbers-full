@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "numbers": {
         "currencies": {
@@ -351,7 +352,13 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "人民幣 (離岸)",
+            "displayName-count-other": "人民幣 (離岸)",
+            "symbol": "CNH"
+          },
           "CNX": {
+            "displayName": "CNX",
             "symbol": "CNX"
           },
           "CNY": {
@@ -1232,6 +1239,10 @@
             "displayName-count-other": "聖多美島和普林西比島多布拉",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "蘇聯盧布",

@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gl"
       },
@@ -31,6 +31,10 @@
             "displayName-count-one": "afgani afgano",
             "displayName-count-other": "afganis afganos",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Lek albanés",
@@ -102,7 +106,7 @@
             "displayName": "Dólar australiano",
             "displayName-count-one": "dólar australiano",
             "displayName-count-other": "dólares australianos",
-            "symbol": "$A",
+            "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
@@ -255,8 +259,8 @@
             "displayName": "Real brasileiro",
             "displayName-count-one": "real brasileiro",
             "displayName-count-other": "reais brasileiros",
-            "symbol": "$R",
-            "symbol-alt-narrow": "$R"
+            "symbol": "R$",
+            "symbol-alt-narrow": "R$"
           },
           "BRN": {
             "displayName": "Cruzado novo brasileiro",
@@ -326,7 +330,7 @@
             "displayName": "Dólar canadense",
             "displayName-count-one": "dólar canadense",
             "displayName-count-other": "dólares canadenses",
-            "symbol": "$CA",
+            "symbol": "CA$",
             "symbol-alt-narrow": "$"
           },
           "CDF": {
@@ -365,6 +369,16 @@
             "displayName-count-other": "pesos chilenos",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "Iuán chinés (extracontinental)",
+            "displayName-count-one": "iuán chinés (extracontinental)",
+            "displayName-count-other": "iuáns chineses (extracontinentais)",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "Iuán chinés",
@@ -686,6 +700,10 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "Novo shequel israelí",
             "displayName-count-one": "novo shequel israelí",
@@ -711,6 +729,10 @@
             "displayName-count-one": "rial iraniano",
             "displayName-count-other": "riais iranianos",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "Coroa islandesa",
@@ -972,6 +994,10 @@
             "displayName-count-other": "rupias mauricianas",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "Rupia maldivana",
@@ -1287,6 +1313,10 @@
             "displayName-count-other": "dobras de São Tomé e Príncipe",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Rublo soviético",

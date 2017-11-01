@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ms"
       },
@@ -16,7 +16,7 @@
           },
           "AED": {
             "displayName": "Dirham Emiriah Arab Bersatu",
-            "displayName-count-other": "Dirham Emiriah Arab Bersatu",
+            "displayName-count-other": "Dirham UAE",
             "symbol": "AED"
           },
           "AFA": {
@@ -27,6 +27,10 @@
             "displayName": "Afghani Afghanistan",
             "displayName-count-other": "Afghani Afghanistan",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Lek Albania",
@@ -39,8 +43,8 @@
             "symbol": "AMD"
           },
           "ANG": {
-            "displayName": "Guilder Antillean Netherland",
-            "displayName-count-other": "Guilder Antillean Netherland",
+            "displayName": "Guilder Antillen Belanda",
+            "displayName-count-other": "Guilder Antillen Belanda",
             "symbol": "ANG"
           },
           "AOA": {
@@ -168,8 +172,8 @@
             "symbol": "BHD"
           },
           "BIF": {
-            "displayName": "Franc Burundia",
-            "displayName-count-other": "Franc Burundia",
+            "displayName": "Franc Burundi",
+            "displayName-count-other": "Franc Burundi",
             "symbol": "BIF"
           },
           "BMD": {
@@ -258,14 +262,14 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "Rubel Belarus",
-            "displayName-count-other": "Rubel Belarus",
+            "displayName": "Rubel Belarus baharu",
+            "displayName-count-other": "rubel lama Belarus",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
           "BYR": {
             "displayName": "Rubel Belarus (2000–2016)",
-            "displayName-count-other": "Rubel Belarus (2000–2016)",
+            "displayName-count-other": "Rubel Belarus",
             "symbol": "BYR"
           },
           "BZD": {
@@ -311,6 +315,15 @@
             "displayName-count-other": "Peso Chile",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "Yuan China (luar pesisir)",
+            "displayName-count-other": "Yuan China (luar pesisir)",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "Yuan Cina",
@@ -587,9 +600,13 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
-            "displayName": "Sheqel Baru Israel",
-            "displayName-count-other": "Sheqel Baru Israel",
+            "displayName": "Syekel Baharu Israel",
+            "displayName-count-other": "Syekel baharu Israel",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -608,6 +625,10 @@
             "displayName": "Rial Iran",
             "displayName-count-other": "Rial Iran",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "Krona Iceland",
@@ -836,10 +857,14 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "Rupee Mauritia",
-            "displayName-count-other": "Rupee Mauritia",
+            "displayName": "Rupee Mauritius",
+            "displayName-count-other": "Rupee Mauritius",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "Rufiyaa Maldives",
@@ -1116,6 +1141,10 @@
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
+          },
           "SUR": {
             "displayName": "SUR",
             "symbol": "SUR"
@@ -1165,8 +1194,8 @@
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "Tongan Paʻanga",
-            "displayName-count-other": "Tongan Paʻanga",
+            "displayName": "Pa’anga Tonga",
+            "displayName-count-other": "Pa’anga Tonga",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1244,7 +1273,7 @@
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "UYU",
+            "displayName": "Peso Uruguay",
             "displayName-count-other": "Peso Uruguay",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"

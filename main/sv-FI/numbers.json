@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sv",
         "territory": "FI"
@@ -146,8 +146,8 @@
           "range": "{0}‒{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "om {0} dag",
-          "pluralMinimalPairs": "om {0} dagar",
+          "pluralMinimalPairs-count-one": "om {0} dag",
+          "pluralMinimalPairs-count-other": "om {0} dagar",
           "one": "Ta {0}:a svängen till höger",
           "other": "Ta {0}:e svängen till höger"
         }

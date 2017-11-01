@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fy"
       },
@@ -33,6 +33,10 @@
             "displayName-count-one": "Afghaanske afghani",
             "displayName-count-other": "Afghaanske afghani",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Albanese lek",
@@ -410,6 +414,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "Sineeske yuan renminbi",
             "displayName-count-one": "Sineeske renminbi",
@@ -764,6 +776,10 @@
             "displayName-count-other": "Israëlysk pûn",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "Israëlyske nieuwe shekel",
             "displayName-count-one": "Israëlyske nieuwe shekel",
@@ -789,6 +805,10 @@
             "displayName-count-one": "Iraanske rial",
             "displayName-count-other": "Iraanske rial",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "Yslânske kroon",
@@ -1084,6 +1104,10 @@
             "displayName-count-other": "Mauritiaanske roepie",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "Maldivyske rufiyaa",
@@ -1431,6 +1455,10 @@
             "displayName-count-other": "Santomese dobra",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Sovjet-roebel",

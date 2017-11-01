@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gd"
       },
@@ -218,8 +218,11 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}?",
-          "other": "{0}?"
+          "pluralMinimalPairs-count-one": "{0} chaora bhàin",
+          "pluralMinimalPairs-count-two": "{0} caora bàn",
+          "pluralMinimalPairs-count-few": "{0} chaora bhàn",
+          "pluralMinimalPairs-count-other": "{0} caoraich bhàna",
+          "other": "Gabh an {0}mh air an taobh dheas."
         }
       }
     }

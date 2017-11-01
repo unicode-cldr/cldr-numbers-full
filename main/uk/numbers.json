@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13712 $",
+          "_cldrVersion": "32"
         },
         "language": "uk"
       },
@@ -218,10 +218,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} день",
-          "pluralMinimalPairs": "{0} дні",
-          "pluralMinimalPairs": "{0} днів",
-          "pluralMinimalPairs": "{0} дня",
+          "pluralMinimalPairs-count-one": "{0} день",
+          "pluralMinimalPairs-count-few": "{0} дні",
+          "pluralMinimalPairs-count-many": "{0} днів",
+          "pluralMinimalPairs-count-other": "{0} дня",
           "few": "{0}-я дивізія, {0}-є коло",
           "other": "{0}-а дивізія, {0}-е коло"
         }

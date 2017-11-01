@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ky"
       },
@@ -144,8 +144,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "Себетте {0} Х бар. Аны аласызбы?",
-          "pluralMinimalPairs": "Себетте {0} Х бар. Аларды аласызбы?",
+          "pluralMinimalPairs-count-one": "Себетте {0} Х бар. Аны аласызбы?",
+          "pluralMinimalPairs-count-other": "Себетте {0} Х бар. Аларды аласызбы?",
           "other": "{0}-бурулуштан оңго бурулуңуз."
         }
       }

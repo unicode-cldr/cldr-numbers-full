@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "tk"
       },
@@ -29,6 +29,10 @@
             "displayName-count-one": "owgan afganisi",
             "displayName-count-other": "owgan afganisi",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Alban leki",
@@ -112,9 +116,9 @@
             "symbol": "AZM"
           },
           "AZN": {
-            "displayName": "Azerbaýjan manaty",
-            "displayName-count-one": "azerbaýjan manaty",
-            "displayName-count-other": "azerbaýjan manaty",
+            "displayName": "Azerbaýjan manady",
+            "displayName-count-one": "azerbaýjan manady",
+            "displayName-count-other": "azerbaýjan manady",
             "symbol": "AZN"
           },
           "BAD": {
@@ -122,7 +126,7 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Konwertirlenýän bosniýa we gersogowina markasy",
+            "displayName": "Konwertirlenýän Bosniýa we Gersogowina markasy",
             "displayName-count-one": "konwertirlenýän bosniýa we gersogowina markasy",
             "displayName-count-other": "konwertirlenýän bosniýa we gersogowina markasy",
             "symbol": "BAM",
@@ -167,9 +171,9 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "Bolgar lewy",
-            "displayName-count-one": "bolgar lewy",
-            "displayName-count-other": "bolgar lewy",
+            "displayName": "Bolgar lewi",
+            "displayName-count-one": "bolgar lewi",
+            "displayName-count-other": "bolgar lewi",
             "symbol": "BGN"
           },
           "BGO": {
@@ -183,9 +187,9 @@
             "symbol": "BHD"
           },
           "BIF": {
-            "displayName": "Burundiý franky",
-            "displayName-count-one": "burundiý franky",
-            "displayName-count-other": "burundiý franky",
+            "displayName": "Burundi franky",
+            "displayName-count-one": "burundi franky",
+            "displayName-count-other": "burundi franky",
             "symbol": "BIF"
           },
           "BMD": {
@@ -281,9 +285,9 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "Belorus rubly",
-            "displayName-count-one": "belorus rubly",
-            "displayName-count-other": "belorus rubly",
+            "displayName": "Belarus rubly",
+            "displayName-count-one": "belarus rubly",
+            "displayName-count-other": "belarus rubly",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -308,9 +312,9 @@
             "symbol-alt-narrow": "$"
           },
           "CDF": {
-            "displayName": "Kongolez franky",
-            "displayName-count-one": "kongolez franky",
-            "displayName-count-other": "kongolez franky",
+            "displayName": "Kongo franky",
+            "displayName-count-one": "kongo franky",
+            "displayName-count-other": "kongo franky",
             "symbol": "CDF"
           },
           "CHE": {
@@ -341,6 +345,16 @@
             "displayName-count-other": "çili pesosy",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "CNH",
+            "displayName-count-one": "CNH",
+            "displayName-count-other": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "Hytaý ýuany",
@@ -435,9 +449,9 @@
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "Aljir dinary",
-            "displayName-count-one": "aljir dinary",
-            "displayName-count-other": "aljir dinary",
+            "displayName": "Alžir dinary",
+            "displayName-count-one": "alžir dinary",
+            "displayName-count-other": "alžir dinary",
             "symbol": "DZD"
           },
           "ECS": {
@@ -514,9 +528,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "Iňlis funt sterlingi",
-            "displayName-count-one": "iňlis funt sterlingi",
-            "displayName-count-other": "iňlis funt sterlingi",
+            "displayName": "Britan funt sterlingi",
+            "displayName-count-one": "britan funt sterlingi",
+            "displayName-count-other": "britan funt sterlingi",
             "symbol": "GBP",
             "symbol-alt-narrow": "£"
           },
@@ -525,9 +539,9 @@
             "symbol": "GEK"
           },
           "GEL": {
-            "displayName": "Gruzin lari",
-            "displayName-count-one": "gruzin lari",
-            "displayName-count-other": "gruzin lari",
+            "displayName": "Gruzin larisi",
+            "displayName-count-one": "gruzin larisi",
+            "displayName-count-other": "gruzin larisi",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾",
             "symbol-alt-variant": "₾"
@@ -550,9 +564,9 @@
             "symbol-alt-narrow": "£"
           },
           "GMD": {
-            "displayName": "Gambiýa dalasy",
-            "displayName-count-one": "gambiýa dalasy",
-            "displayName-count-other": "gambiýa dalasy",
+            "displayName": "Gambiýa dalasisi",
+            "displayName-count-one": "gambiýa dalasisi",
+            "displayName-count-other": "gambiýa dalasisi",
             "symbol": "GMD"
           },
           "GNF": {
@@ -590,9 +604,9 @@
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "Gaýan dollary",
-            "displayName-count-one": "gaýan dollary",
-            "displayName-count-other": "gaýan dollary",
+            "displayName": "Gaýana dollary",
+            "displayName-count-one": "gaýana dollary",
+            "displayName-count-other": "gaýana dollary",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
@@ -622,15 +636,15 @@
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "Gaitýan gurdy",
-            "displayName-count-one": "gaitýan gurdy",
-            "displayName-count-other": "gaitýan gurdy",
+            "displayName": "Gaiti gurdy",
+            "displayName-count-one": "gaiti gurdy",
+            "displayName-count-other": "gaiti gurdy",
             "symbol": "HTG"
           },
           "HUF": {
-            "displayName": "Wenger forinty",
-            "displayName-count-one": "wenger forinty",
-            "displayName-count-other": "wenger forinty",
+            "displayName": "Wenger forinti",
+            "displayName-count-one": "wenger forinti",
+            "displayName-count-other": "wenger forinti",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
           },
@@ -649,10 +663,14 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "Täze Ysraýyl şekeli",
-            "displayName-count-one": "Täze Ysraýyl şekeli",
-            "displayName-count-other": "Täze Ysraýyl şekeli",
+            "displayName-count-one": "täze ysraýyl şekeli",
+            "displayName-count-other": "täze ysraýyl şekeli",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -675,6 +693,10 @@
             "displayName-count-other": "eýran rialy",
             "symbol": "IRR"
           },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
+          },
           "ISK": {
             "displayName": "Islandiýa kronasy",
             "displayName-count-one": "islandiýa kronasy",
@@ -694,9 +716,9 @@
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "Iordaniýa dinary",
-            "displayName-count-one": "iordaniýa dinary",
-            "displayName-count-other": "iordaniýa dinary",
+            "displayName": "Iordan dinary",
+            "displayName-count-one": "iordan dinary",
+            "displayName-count-other": "iordan dinary",
             "symbol": "JOD"
           },
           "JPY": {
@@ -726,16 +748,16 @@
             "symbol-alt-narrow": "៛"
           },
           "KMF": {
-            "displayName": "Komor adalar franky",
-            "displayName-count-one": "komor adalar franky",
-            "displayName-count-other": "komor adalar franky",
+            "displayName": "Komor adalarynyň franky",
+            "displayName-count-one": "komor adalarynyň franky",
+            "displayName-count-other": "komor adalarynyň franky",
             "symbol": "KMF",
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "Demirgazyk Koreýa wony",
-            "displayName-count-one": "demirgazyk koreýa wony",
-            "displayName-count-other": "demirgazyk koreýa wony",
+            "displayName": "Demirgazyk Koreý wony",
+            "displayName-count-one": "demirgazyk koreý wony",
+            "displayName-count-other": "demirgazyk koreý wony",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -748,9 +770,9 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "Günorta Koreýa wony",
-            "displayName-count-one": "günorta koreýa wony",
-            "displayName-count-other": "günorta koreýa wony",
+            "displayName": "Günorta Koreý wony",
+            "displayName-count-one": "günorta koreý wony",
+            "displayName-count-other": "günorta koreý wony",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
@@ -843,9 +865,9 @@
             "symbol": "LYD"
           },
           "MAD": {
-            "displayName": "Marokka dirhamy",
-            "displayName-count-one": "marokka dirhamy",
-            "displayName-count-other": "marokka dirhamy",
+            "displayName": "Marokko dirhamy",
+            "displayName-count-one": "marokko dirhamy",
+            "displayName-count-other": "marokko dirhamy",
             "symbol": "MAD"
           },
           "MAF": {
@@ -932,6 +954,10 @@
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
+          },
           "MVR": {
             "displayName": "Maldiw rufiýasy",
             "displayName-count-one": "maldiw rufiýasy",
@@ -975,9 +1001,9 @@
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "Mozambik metikal",
-            "displayName-count-one": "mozambik metikal",
-            "displayName-count-other": "mozambik metikal",
+            "displayName": "Mozambik metikaly",
+            "displayName-count-one": "mozambik metikaly",
+            "displayName-count-other": "mozambik metikaly",
             "symbol": "MZN"
           },
           "NAD": {
@@ -1048,8 +1074,8 @@
           },
           "PEN": {
             "displayName": "Peru soly",
-            "displayName-count-one": "Peru soly",
-            "displayName-count-other": "Peru soly",
+            "displayName-count-one": "peru soly",
+            "displayName-count-other": "peru soly",
             "symbol": "PEN"
           },
           "PES": {
@@ -1057,9 +1083,9 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "Papua — Täze Gwineýa kinasy",
-            "displayName-count-one": "papua — täze gwineýa kinasy",
-            "displayName-count-other": "papua — täze gwineýa kinasy",
+            "displayName": "Papua - Täze Gwineýa kinasy",
+            "displayName-count-one": "papua - täze gwineýa kinasy",
+            "displayName-count-other": "papua - täze gwineýa kinasy",
             "symbol": "PGK"
           },
           "PHP": {
@@ -1077,9 +1103,9 @@
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "Polýak zloty",
-            "displayName-count-one": "polýak zloty",
-            "displayName-count-other": "polýak zloty",
+            "displayName": "Polýak zlotysy",
+            "displayName-count-one": "polýak zlotysy",
+            "displayName-count-other": "polýak zlotysy",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
@@ -1092,9 +1118,9 @@
             "symbol": "PTE"
           },
           "PYG": {
-            "displayName": "Paragwaý guarani",
-            "displayName-count-one": "paragwaý guarani",
-            "displayName-count-other": "paragwaý guarani",
+            "displayName": "Paragwaý guaranisi",
+            "displayName-count-one": "paragwaý guaranisi",
+            "displayName-count-other": "paragwaý guaranisi",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
           },
@@ -1138,9 +1164,9 @@
             "symbol-alt-narrow": "р."
           },
           "RWF": {
-            "displayName": "Rwanda franky",
-            "displayName-count-one": "rwanda franky",
-            "displayName-count-other": "rwanda franky",
+            "displayName": "Ruanda franky",
+            "displayName-count-one": "ruanda franky",
+            "displayName-count-other": "ruanda franky",
             "symbol": "RWF",
             "symbol-alt-narrow": "RF"
           },
@@ -1207,15 +1233,15 @@
             "symbol": "SKK"
           },
           "SLL": {
-            "displayName": "Leon",
-            "displayName-count-one": "leon",
-            "displayName-count-other": "leon",
+            "displayName": "Sýerra-Leone leony",
+            "displayName-count-one": "sýerra-leone leony",
+            "displayName-count-other": "sýerra-leone leony",
             "symbol": "SLL"
           },
           "SOS": {
-            "displayName": "Somali şilingi",
-            "displayName-count-one": "somali şilingi",
-            "displayName-count-other": "somali şilingi",
+            "displayName": "Somali şillingi",
+            "displayName-count-one": "somali şillingi",
+            "displayName-count-other": "somali şillingi",
             "symbol": "SOS"
           },
           "SRD": {
@@ -1230,7 +1256,7 @@
             "symbol": "SRG"
           },
           "SSP": {
-            "displayName": "Günorta sudan funty",
+            "displayName": "Günorta Sudan funty",
             "displayName-count-one": "günorta sudan funty",
             "displayName-count-other": "günorta sudan funty",
             "symbol": "SSP",
@@ -1242,6 +1268,10 @@
             "displayName-count-other": "san-tome we prinsipi dobrasy",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",
@@ -1286,9 +1316,9 @@
             "symbol": "TMM"
           },
           "TMT": {
-            "displayName": "Türkmen manaty",
-            "displayName-count-one": "türkmen manaty",
-            "displayName-count-other": "türkmen manaty",
+            "displayName": "Türkmen manady",
+            "displayName-count-one": "türkmen manady",
+            "displayName-count-other": "türkmen manady",
             "symbol": "TMT"
           },
           "TND": {
@@ -1335,9 +1365,9 @@
             "symbol-alt-narrow": "$"
           },
           "TZS": {
-            "displayName": "Tanzaniýa şilingi",
-            "displayName-count-one": "tanzaniýa şilingi",
-            "displayName-count-other": "tanzaniýa şilingi",
+            "displayName": "Tanzaniýa şillingi",
+            "displayName-count-one": "tanzaniýa şillingi",
+            "displayName-count-other": "tanzaniýa şillingi",
             "symbol": "TZS"
           },
           "UAH": {
@@ -1356,9 +1386,9 @@
             "symbol": "UGS"
           },
           "UGX": {
-            "displayName": "Uganda şilingi",
-            "displayName-count-one": "uganda şilingi",
-            "displayName-count-other": "uganda şilingi",
+            "displayName": "Uganda şillingi",
+            "displayName-count-one": "uganda şillingi",
+            "displayName-count-other": "uganda şillingi",
             "symbol": "UGX"
           },
           "USD": {
@@ -1402,9 +1432,9 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "Wenezuela boliwary",
-            "displayName-count-one": "wenezuela boliwary",
-            "displayName-count-other": "wenezuela boliwary",
+            "displayName": "Wenesuela boliwary",
+            "displayName-count-one": "wenesuela boliwary",
+            "displayName-count-other": "wenesuela boliwary",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
           },
@@ -1521,9 +1551,9 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "Näbelli ýa-da ýöremeýän pul birligi",
-            "displayName-count-one": "näbelli ýa-da ýöremeýän pul birligi",
-            "displayName-count-other": "näbelli ýa-da ýöremeýän pul birligi",
+            "displayName": "Näbelli pul birligi",
+            "displayName-count-one": "näbelli pul birligi",
+            "displayName-count-other": "näbelli pul birligi",
             "symbol": "XXX"
           },
           "YDD": {

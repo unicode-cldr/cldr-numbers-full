@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hy"
       },
@@ -107,8 +107,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00",
-          "accounting": "¤ #,##0.00",
+          "standard": "#,##0.00 ¤",
+          "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {
               "1000-count-one": "0 հզր ¤",
@@ -145,8 +145,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "այդ {0} ժամը",
-          "pluralMinimalPairs": "այդ {0} ժամերը",
+          "pluralMinimalPairs-count-one": "այդ {0} ժամը",
+          "pluralMinimalPairs-count-other": "այդ {0} ժամերը",
           "one": "Թեքվեք աջ {0}-ին խաչմերուկից:",
           "other": "Թեքվեք աջ {0}-րդ խաչմերուկից:"
         }

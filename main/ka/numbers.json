@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ka"
       },
@@ -92,7 +92,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##0 %"
+          "standard": "#,##0%"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
@@ -145,8 +145,8 @@
           "range": "{0}-{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "კალათში {0} X-ია. შეიძენთ მას?",
-          "pluralMinimalPairs": "კალათში {0} X-ია. შეიძენთ მათ?",
+          "pluralMinimalPairs-count-one": "კალათში {0} X-ია. შეიძენთ მას?",
+          "pluralMinimalPairs-count-other": "კალათში {0} X-ია. შეიძენთ მათ?",
           "many": "მე-{0}",
           "one": "{0}-ლი",
           "other": "{0}-ე"

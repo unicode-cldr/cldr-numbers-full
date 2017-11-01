@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ko",
         "territory": "KP"
@@ -108,7 +108,7 @@
           "range": "{0}~{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}일",
+          "pluralMinimalPairs-count-other": "{0}일",
           "other": "{0}번째 길목에서 우회전하세요."
         }
       }

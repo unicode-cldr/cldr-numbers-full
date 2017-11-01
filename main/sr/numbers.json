@@ -3,8 +3,8 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13273 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sr"
       },
@@ -177,15 +177,12 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
+          "atLeast": "⩾{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} сат",
-          "pluralMinimalPairs": "{0} сата",
-          "pluralMinimalPairs": "{0} сати",
-          "pluralMinimalPairs": "{0} сати",
-          "other": "Скрените у {0}. десно."
+          "pluralMinimalPairs-count-other": "{0}?",
+          "other": "{0}?"
         }
       }
     }

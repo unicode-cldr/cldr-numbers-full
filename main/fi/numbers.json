@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13767 $",
+          "_cldrVersion": "32"
         },
         "language": "fi"
       },
@@ -141,11 +141,11 @@
         },
         "miscPatterns-numberSystem-latn": {
           "atLeast": "vähintään {0}",
-          "range": "{0}‒{1}"
+          "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} päivä",
-          "pluralMinimalPairs": "{0} päivää",
+          "pluralMinimalPairs-count-one": "{0} päivä",
+          "pluralMinimalPairs-count-other": "{0} päivää",
           "other": "Käänny {0}. risteyksestä oikealle."
         }
       }

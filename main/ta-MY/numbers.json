@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ta",
         "territory": "MY"
@@ -104,7 +104,7 @@
           }
         },
         "decimalFormats-numberSystem-tamldec": {
-          "standard": "#,##0.###",
+          "standard": "#,##,##0.###",
           "long": {
             "decimalFormat": {
               "1000-count-one": "0 ஆயிரம்",
@@ -275,8 +275,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} நாள்",
-          "pluralMinimalPairs": "{0} நாட்கள்",
+          "pluralMinimalPairs-count-one": "{0} நாள்",
+          "pluralMinimalPairs-count-other": "{0} நாட்கள்",
           "other": "{0}வது வலது திருப்பத்தை எடு."
         }
       }

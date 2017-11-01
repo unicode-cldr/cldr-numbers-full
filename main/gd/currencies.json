@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gd"
       },
@@ -545,6 +545,10 @@
             "displayName-count-other": "peso Sileach",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
           },
           "CNX": {
             "displayName": "Dolar an t-sluagh-bhanca Shìnich",
@@ -1738,7 +1742,7 @@
             "displayName-count-few": "leu Romàineach",
             "displayName-count-other": "leu Romàineach",
             "symbol": "RON",
-            "symbol-alt-narrow": "lei"
+            "symbol-alt-narrow": "leu"
           },
           "RSD": {
             "displayName": "Dinar Sèirbeach",
@@ -1917,6 +1921,10 @@
             "displayName-count-other": "dobra São Tomé agus Príncipe",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Rùbal Sovietach",

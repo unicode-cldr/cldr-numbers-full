@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "rm"
       },
@@ -27,7 +27,8 @@
             "symbol": "AFN"
           },
           "ALK": {
-            "displayName": "lek albanais (1947–1961)"
+            "displayName": "lek albanais (1947–1961)",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "lek",
@@ -291,6 +292,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "yuan renminbi chinais",
             "symbol": "CN¥",
@@ -550,7 +559,8 @@
             "symbol": "ILP"
           },
           "ILR": {
-            "displayName": "vegl sheqel israelian"
+            "displayName": "vegl sheqel israelian",
+            "symbol": "ILR"
           },
           "ILS": {
             "displayName": "sheqel",
@@ -573,7 +583,8 @@
           "ISJ": {
             "displayName": "veglia cruna islandaisa",
             "displayName-count-one": "veglia cruna islandaisa",
-            "displayName-count-other": "veglia cruna islandaisa"
+            "displayName-count-other": "veglia cruna islandaisa",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "cruna islandaisa",
@@ -785,7 +796,8 @@
             "symbol-alt-narrow": "Rs"
           },
           "MVP": {
-            "displayName": "rupia da las Maledivas"
+            "displayName": "rupia da las Maledivas",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "rufiyaa da las Maledivas",
@@ -1041,6 +1053,10 @@
             "displayName": "dobra da São Tomé e Principe",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "rubel sovietic",

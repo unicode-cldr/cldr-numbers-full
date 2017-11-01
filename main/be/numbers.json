@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "be"
       },
@@ -218,10 +218,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "з {0} кнігі за {0} дзень",
-          "pluralMinimalPairs": "з {0} кніг за {0} дні",
-          "pluralMinimalPairs": "з {0} кніг за {0} дзён",
-          "pluralMinimalPairs": "з {0} кніги за {0} дні",
+          "pluralMinimalPairs-count-one": "з {0} кнігі за {0} дзень",
+          "pluralMinimalPairs-count-few": "з {0} кніг за {0} дні",
+          "pluralMinimalPairs-count-many": "з {0} кніг за {0} дзён",
+          "pluralMinimalPairs-count-other": "з {0} кнігі за {0} дня",
           "few": "{0}-і дом злева",
           "other": "{0}-ы дом злева"
         }

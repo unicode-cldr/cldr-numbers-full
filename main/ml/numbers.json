@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ml"
       },
@@ -273,8 +273,8 @@
           "range": "{0}-{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} വ്യക്തി",
-          "pluralMinimalPairs": "{0} വ്യക്തികൾ",
+          "pluralMinimalPairs-count-one": "{0} വ്യക്തി",
+          "pluralMinimalPairs-count-other": "{0} വ്യക്തികൾ",
           "other": "{0}-ാമത്തെ വലത്തേക്ക് തിരിയുക."
         }
       }

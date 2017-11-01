@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "am"
       },
@@ -145,8 +145,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} ቀን",
-          "pluralMinimalPairs": "{0} ቀናት",
+          "pluralMinimalPairs-count-one": "{0} ቀን",
+          "pluralMinimalPairs-count-other": "{0} ቀናት",
           "other": "በቀኝ በኩል ባለው በ{0}ኛው መታጠፊያ ግባ።"
         }
       }

@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "ca"
       },
@@ -144,8 +144,8 @@
           "range": "{0}-{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} dia",
-          "pluralMinimalPairs": "{0} dies",
+          "pluralMinimalPairs-count-one": "{0} dia",
+          "pluralMinimalPairs-count-other": "{0} dies",
           "few": "Agafa el {0}t a la dreta.",
           "one": "Agafa el {0}r a la dreta.",
           "other": "Agafa el {0}è a la dreta.",

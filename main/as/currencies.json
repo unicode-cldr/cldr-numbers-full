@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "as"
       },
@@ -25,6 +25,10 @@
           "AFN": {
             "displayName": "AFN",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "ALL",
@@ -81,7 +85,9 @@
             "symbol": "ATS"
           },
           "AUD": {
-            "displayName": "AUD",
+            "displayName": "অস্ট্রেলিয়ান ডলার",
+            "displayName-count-one": "অস্ট্রেলিয়ান ডলার",
+            "displayName-count-other": "অস্ট্রেলিয়ান ডলার",
             "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
@@ -282,6 +288,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "CNY",
             "symbol": "CN¥",
@@ -397,7 +411,9 @@
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "EUR",
+            "displayName": "ইউরোর",
+            "displayName-count-one": "ইউরোর",
+            "displayName-count-other": "ইউরোর",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -406,7 +422,9 @@
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "FJD",
+            "displayName": "ফিজিয়ান ডলার",
+            "displayName-count-one": "ফিজিয়ান ডলার",
+            "displayName-count-other": "ফিজিয়ান ডলার",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
@@ -526,6 +544,10 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "ILS",
             "symbol": "₪",
@@ -543,6 +565,10 @@
           "IRR": {
             "displayName": "IRR",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "ISK",
@@ -747,6 +773,10 @@
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
+          },
           "MVR": {
             "displayName": "MVR",
             "symbol": "MVR"
@@ -819,7 +849,9 @@
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
-            "displayName": "NZD",
+            "displayName": "নিউজিল্যান্ড ডলার",
+            "displayName-count-one": "নিউজিল্যান্ড ডলার",
+            "displayName-count-other": "নিউজিল্যান্ড ডলার",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
@@ -844,11 +876,15 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "PGK",
+            "displayName": "পাপুয়া নিউ গিনিন কেনিয়া",
+            "displayName-count-one": "পাপুয়া নিউ গিনিন কেনিয়া",
+            "displayName-count-other": "পাপুয়া নিউ গিনিন কেনিয়া",
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "PHP",
+            "displayName": "ফিলিপাইন পেসো",
+            "displayName-count-one": "ফিলিপাইন পেসো",
+            "displayName-count-other": "ফিলিপাইন পেসো",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
@@ -916,7 +952,9 @@
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "SBD",
+            "displayName": "সলোমন দ্বীপপুঞ্জ ডলার",
+            "displayName-count-one": "সলোমন দ্বীপপুঞ্জ ডলার",
+            "displayName-count-other": "সলোমন দ্বীপপুঞ্জ ডলার",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },
@@ -942,7 +980,9 @@
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "SGD",
+            "displayName": "সিঙ্গাপুর ডলার",
+            "displayName-count-one": "সিঙ্গাপুর ডলার",
+            "displayName-count-other": "সিঙ্গাপুর ডলার",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
@@ -986,6 +1026,10 @@
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
+          },
           "SUR": {
             "displayName": "SUR",
             "symbol": "SUR"
@@ -1004,7 +1048,9 @@
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "THB",
+            "displayName": "থাই বাত",
+            "displayName-count-one": "থাই বাত",
+            "displayName-count-other": "থাই বাত",
             "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
@@ -1029,7 +1075,9 @@
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "TOP",
+            "displayName": "টোঙ্গান পাংগা",
+            "displayName-count-one": "টোঙ্গান পাংগা",
+            "displayName-count-other": "টোঙ্গান পাংগা",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1118,7 +1166,9 @@
             "symbol-alt-narrow": "Bs"
           },
           "VND": {
-            "displayName": "VND",
+            "displayName": "ভিয়েতনামী ডং",
+            "displayName-count-one": "ভিয়েতনামী ডং",
+            "displayName-count-other": "ভিয়েতনামী ডং",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1127,11 +1177,15 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "VUV",
+            "displayName": "ভানুয়াতু ভাতু",
+            "displayName-count-one": "ভানুয়াতু ভাতু",
+            "displayName-count-other": "ভানুয়াতু ভাতু",
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "WST",
+            "displayName": "সামোয়ান তাল",
+            "displayName-count-one": "সামোয়ান তাল",
+            "displayName-count-other": "সামোয়ান তাল",
             "symbol": "WST"
           },
           "XAF": {
@@ -1192,7 +1246,9 @@
             "symbol": "XPD"
           },
           "XPF": {
-            "displayName": "XPF",
+            "displayName": "CFP ফ্রাঙ্ক",
+            "displayName-count-one": "CFP ফ্রাঙ্ক",
+            "displayName-count-other": "CFP ফ্রাঙ্ক",
             "symbol": "CFPF"
           },
           "XPT": {

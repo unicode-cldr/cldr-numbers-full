@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "bn",
         "territory": "IN"
@@ -30,6 +30,10 @@
             "displayName-count-one": "আফগান আফগানি",
             "displayName-count-other": "আফগান আফগানি",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "আলবেনিয়ান লেক",
@@ -123,9 +127,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "বসনিয়া এবং হার্জেগোভিনা মার্ক",
-            "displayName-count-one": "বসনিয়া এবং হার্জেগোভিনা মার্ক",
-            "displayName-count-other": "বসনিয়া এবং হার্জেগোভিনা মার্ক",
+            "displayName": "বসনিয়া এবং হার্জেগোভিনা বিনিমেয় মার্ক",
+            "displayName-count-one": "বসনিয়া এবং হার্জেগোভিনা বিনিমেয় মার্ক",
+            "displayName-count-other": "বসনিয়া এবং হার্জেগোভিনা বিনিমেয় মার্ক",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -168,9 +172,9 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "বুলগেরীয় নিউ লেভ",
-            "displayName-count-one": "বুলগেরীয় নিউ লেভ",
-            "displayName-count-other": "বুলগেরীয় নিউ লেভ",
+            "displayName": "বুলগেরীয় লেভ",
+            "displayName-count-one": "বুলগেরীয় লেভ",
+            "displayName-count-other": "বুলগেরীয় লেভা",
             "symbol": "BGN"
           },
           "BGO": {
@@ -343,6 +347,16 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "চাইনিজ ইউয়ান (অফশোর)",
+            "displayName-count-one": "চাইনিজ ইউয়ান (অফশোর)",
+            "displayName-count-other": "চাইনিজ ইউয়ান (অফশোর)",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "চীনা য়ুয়ান",
             "displayName-count-one": "চীনা য়ুয়ান",
@@ -422,8 +436,8 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "ড্যানিশ ক্রৌন",
-            "displayName-count-one": "ড্যানিশ ক্রৌন",
+            "displayName": "ড্যানিশ ক্রোন",
+            "displayName-count-one": "ড্যানিশ ক্রোন",
             "displayName-count-other": "ড্যানিশ ক্রৌন",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
@@ -650,6 +664,10 @@
             "displayName": "ইস্রাইলি পাউন্ড",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "ইস্রাইলি নতুন শেকেল",
             "displayName-count-one": "ইস্রাইলি নতুন শেকেল",
@@ -676,9 +694,13 @@
             "displayName-count-other": "ইরানিয়ান রিয়াল",
             "symbol": "IRR"
           },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
+          },
           "ISK": {
-            "displayName": "আইসল্যান্ড ক্রৌন",
-            "displayName-count-one": "আইসল্যান্ড ক্রৌন",
+            "displayName": "আইসল্যান্ডীয় ক্রোনা",
+            "displayName-count-one": "আইসল্যান্ডীয় ক্রোনা",
             "displayName-count-other": "আইসল্যান্ড ক্রৌন",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
@@ -728,8 +750,8 @@
           },
           "KMF": {
             "displayName": "কম্বোরো ফ্রাঙ্ক",
-            "displayName-count-one": "কম্বোরো ফ্রাঙ্ক",
-            "displayName-count-other": "কম্বোরো ফ্রাঙ্ক",
+            "displayName-count-one": "কমোরিয়ান ফ্রাঙ্ক",
+            "displayName-count-other": "কমোরিয়ান ফ্রাঙ্ক",
             "symbol": "KMF",
             "symbol-alt-narrow": "CF"
           },
@@ -842,9 +864,9 @@
             "symbol": "LVR"
           },
           "LYD": {
-            "displayName": "লিবিয়ান ডলার",
-            "displayName-count-one": "লিবিয়ান ডলার",
-            "displayName-count-other": "লিবিয়ান ডলার",
+            "displayName": "লিবিয়ান দিনার",
+            "displayName-count-one": "লিবিয়ান দিনার",
+            "displayName-count-other": "লিবিয়ান দিনার",
             "symbol": "LYD"
           },
           "MAD": {
@@ -937,6 +959,10 @@
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
+          },
           "MVR": {
             "displayName": "মালদিভিয়ান রুফিয়া",
             "displayName-count-one": "মালদিভিয়ান রুফিয়া",
@@ -1015,9 +1041,9 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "নরওয়ে ক্রৌন",
-            "displayName-count-one": "নরওয়ে ক্রৌন",
-            "displayName-count-other": "নরওয়ে ক্রৌন",
+            "displayName": "নরওয়েজিয়ান ক্রোন",
+            "displayName-count-one": "নরওয়েজিয়ান ক্রোন",
+            "displayName-count-other": "নরওয়েজিয়ান ক্রোনার",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
@@ -1106,9 +1132,9 @@
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "কাতার রিয়্যাল",
-            "displayName-count-one": "কাতার রিয়্যাল",
-            "displayName-count-other": "কাতার রিয়্যাল",
+            "displayName": "কাতার রিয়াল",
+            "displayName-count-one": "কাতার রিয়াল",
+            "displayName-count-other": "কাতার রিয়াল",
             "symbol": "QAR"
           },
           "RHD": {
@@ -1152,9 +1178,9 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "সৌদি রিয়্যাল",
-            "displayName-count-one": "সৌদি রিয়্যাল",
-            "displayName-count-other": "সৌদি রিয়্যাল",
+            "displayName": "সৌদি রিয়াল",
+            "displayName-count-one": "সৌদি রিয়াল",
+            "displayName-count-other": "সৌদি রিয়াল",
             "symbol": "SAR"
           },
           "SBD": {
@@ -1249,6 +1275,10 @@
             "displayName-count-other": "সাও টোমে এবং প্রিন্সিপে ডোবরা",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "সোভিয়েত রুবল",
@@ -1529,8 +1559,8 @@
           },
           "XXX": {
             "displayName": "অজানা মুদ্রা",
-            "displayName-count-one": "অজানা বা ভুল মুদ্রা",
-            "displayName-count-other": "অজানা মুদ্রা",
+            "displayName-count-one": "(মুদ্রার অজানা একক)",
+            "displayName-count-other": "(অজানা মুদ্রা)",
             "symbol": "XXX"
           },
           "YDD": {

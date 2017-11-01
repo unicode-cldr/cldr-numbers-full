@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "zh",
         "script": "Hant",
@@ -203,7 +203,7 @@
           "range": "{0}-{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} 日",
+          "pluralMinimalPairs-count-other": "{0} 日",
           "other": "在第 {0} 個路口右轉。"
         }
       }

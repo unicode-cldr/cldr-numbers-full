@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ur",
         "territory": "IN"
@@ -16,8 +16,8 @@
         },
         "minimumGroupingDigits": "1",
         "symbols-numberSystem-arabext": {
-          "decimal": ".",
-          "group": ",",
+          "decimal": "٫",
+          "group": "٬",
           "list": ";",
           "percentSign": "%",
           "plusSign": "‎+‎",
@@ -171,7 +171,7 @@
           "standard": "#,##0%"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##,##0%"
+          "standard": "#,##0%"
         },
         "currencyFormats-numberSystem-arabext": {
           "currencySpacing": {
@@ -187,7 +187,7 @@
             }
           },
           "standard": "¤ #,##,##0.00",
-          "accounting": "¤ #,##,##0.00",
+          "accounting": "¤#,##0.00;(¤#,##0.00)",
           "short": {
             "standard": {
               "1000-count-one": "¤ 0 ہزار",
@@ -232,8 +232,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##,##0.00",
-          "accounting": "¤ #,##,##0.00",
+          "standard": "¤ #,##0.00",
+          "accounting": "¤#,##0.00;(¤#,##0.00)",
           "short": {
             "standard": {
               "1000-count-one": "¤ 0 ہزار",
@@ -274,8 +274,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} گھنٹہ",
-          "pluralMinimalPairs": "{0} گھنٹے",
+          "pluralMinimalPairs-count-one": "{0} گھنٹہ",
+          "pluralMinimalPairs-count-other": "{0} گھنٹے",
           "other": "دایاں موڑ نمبر {0} مڑیں۔"
         }
       }

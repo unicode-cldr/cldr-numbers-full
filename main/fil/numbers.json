@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fil"
       },
@@ -144,8 +144,8 @@
           "range": "{0}-{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} mansanas",
-          "pluralMinimalPairs": "{0} na mansanas",
+          "pluralMinimalPairs-count-one": "{0} mansanas",
+          "pluralMinimalPairs-count-other": "{0} na mansanas",
           "one": "Lumiko sa unang kanan.",
           "other": "Lumiko sa ika-{0} kanan."
         }

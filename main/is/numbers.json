@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "is"
       },
@@ -128,9 +128,12 @@
               "10000000000-count-other": "00 ma'.' ¤",
               "100000000000-count-one": "000 ma'.' ¤",
               "100000000000-count-other": "000 ma'.' ¤",
-              "1000000000000-count-other": "¤ 0T",
-              "10000000000000-count-other": "¤ 00T",
-              "100000000000000-count-other": "¤ 000T"
+              "1000000000000-count-one": "0 bn ¤",
+              "1000000000000-count-other": "0 bn ¤",
+              "10000000000000-count-one": "00 bn ¤",
+              "10000000000000-count-other": "00 bn ¤",
+              "100000000000000-count-one": "000 bn ¤",
+              "100000000000000-count-other": "000 bn ¤"
             }
           },
           "unitPattern-count-one": "{0} {1}",
@@ -141,8 +144,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} dagur",
-          "pluralMinimalPairs": "{0} dagar",
+          "pluralMinimalPairs-count-one": "{0} dagur",
+          "pluralMinimalPairs-count-other": "{0} dagar",
           "other": "Taktu {0}. beygju til hægri."
         }
       }

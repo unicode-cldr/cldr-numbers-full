@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ks"
       },
@@ -25,6 +25,10 @@
           "AFN": {
             "displayName": "افغان افغٲنی",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "اٮ۪لبینِیَن لِک",
@@ -282,6 +286,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "چینیٖز یَن رِنمِنبی",
             "symbol": "CN¥",
@@ -526,6 +538,10 @@
             "displayName": "اِزرٲیِلی پاونٛڑ",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "اِزرٲیِلی نٔوۍ شٮ۪قٕل",
             "symbol": "₪",
@@ -543,6 +559,10 @@
           "IRR": {
             "displayName": "ایٖرانُک رِیال",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "اَیسلینٛڑُک کرٛونا",
@@ -746,6 +766,10 @@
             "displayName": "مورٮ۪شِیاہٕچ رۄپَے",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "مالدِیٖوِیَن رُفِیا",
@@ -985,6 +1009,10 @@
             "displayName": "STD",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "سوویت روبٕل",

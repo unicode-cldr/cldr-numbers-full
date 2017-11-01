@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "fa"
       },
@@ -18,7 +18,7 @@
           "decimal": "٫",
           "group": "٬",
           "list": "؛",
-          "percentSign": "‎٪",
+          "percentSign": "٪",
           "plusSign": "‎+",
           "minusSign": "‎−",
           "exponential": "×۱۰^",
@@ -167,7 +167,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-arabext": {
-          "standard": "% #,##0;% -#,##0"
+          "standard": "#,##0%"
         },
         "percentFormats-numberSystem-latn": {
           "standard": "#,##0%"
@@ -185,7 +185,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "#,##0.00 ؜¤;؜-#,##0.00 ؜¤",
+          "standard": "‎¤#,##0.00",
           "accounting": "‎¤ #,##0.00;‎(¤ #,##0.00)",
           "short": {
             "standard": {
@@ -273,8 +273,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "او {0} فیلم در هفته می‌بیند که کمدی است.",
-          "pluralMinimalPairs": "او {0} فیلم در هفته می‌بیند که کمدی هستند.",
+          "pluralMinimalPairs-count-one": "او {0} فیلم در هفته می‌بیند که کمدی است.",
+          "pluralMinimalPairs-count-other": "او {0} فیلم در هفته می‌بیند که کمدی هستند.",
           "other": "در پیچ {0}ام سمت راست بپیچید."
         }
       }

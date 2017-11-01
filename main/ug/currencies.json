@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ug"
       },
@@ -37,7 +37,8 @@
           "ALK": {
             "displayName": "ئالبانىيە لېكى (1946–1965)",
             "displayName-count-one": "ئالبانىيە لېكى (1946–1965)",
-            "displayName-count-other": "ئالبانىيە لېكى (1946–1965)"
+            "displayName-count-other": "ئالبانىيە لېكى (1946–1965)",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "ئالبانىيە لېكى",
@@ -415,10 +416,15 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
           "CNX": {
             "displayName": "جۇڭگو خەلق بانكىسى دوللىرى",
             "displayName-count-one": "جۇڭگو خەلق بانكىسى دوللىرى",
-            "displayName-count-other": "جۇڭگو خەلق بانكىسى دوللىرى"
+            "displayName-count-other": "جۇڭگو خەلق بانكىسى دوللىرى",
+            "symbol": "CNX"
           },
           "CNY": {
             "displayName": "جۇڭگو يۈەنى",
@@ -777,7 +783,8 @@
           "ILR": {
             "displayName": "ئىسرائىل شېكېلى (1980–1985)",
             "displayName-count-one": "ئىسرائىل شېكېلى (1980–1985)",
-            "displayName-count-other": "ئىسرائىل شېكېلى (1980–1985)"
+            "displayName-count-other": "ئىسرائىل شېكېلى (1980–1985)",
+            "symbol": "ILR"
           },
           "ILS": {
             "displayName": "ئىسرائىل يېڭى شېكېلى",
@@ -808,7 +815,8 @@
           "ISJ": {
             "displayName": "ئىسلاندىيە كروناسى (1918–1981)",
             "displayName-count-one": "ئىسلاندىيە كروناسى (1918–1981)",
-            "displayName-count-other": "ئىسلاندىيە كروناسى (1918–1981)"
+            "displayName-count-other": "ئىسلاندىيە كروناسى (1918–1981)",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "ئىسلاندىيە كروناسى",
@@ -1108,7 +1116,8 @@
           "MVP": {
             "displayName": "مالدىۋى رۇپىسى",
             "displayName-count-one": "مالدىۋى رۇپىسى",
-            "displayName-count-other": "مالدىۋى رۇپىسى"
+            "displayName-count-other": "مالدىۋى رۇپىسى",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "مالدىۋى رۇفىياسى",
@@ -1456,6 +1465,10 @@
             "displayName-count-other": "سان-تومې ۋە پىرىنسىپى دوبراسى",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "سوۋىت رۇبلىسى",

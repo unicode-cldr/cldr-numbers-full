@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "br"
       },
@@ -555,6 +555,10 @@
             "displayName-count-other": "peso Chile",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
+          },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
           },
           "CNX": {
             "displayName": "dollar Bank poblel Sina",
@@ -1529,7 +1533,8 @@
             "displayName-count-two": "roupi Maldivez",
             "displayName-count-few": "roupi Maldivez",
             "displayName-count-many": "a roupioù Maldivez",
-            "displayName-count-other": "roupi Maldivez"
+            "displayName-count-other": "roupi Maldivez",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "rufiyaa Maldivez",
@@ -2029,6 +2034,10 @@
             "displayName-count-other": "dobra São Tomé ha Príncipe",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "roubl soviedel",

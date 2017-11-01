@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "et"
       },
@@ -40,21 +40,21 @@
               "100000-count-other": "000 tuhat",
               "1000000-count-one": "0 miljon",
               "1000000-count-other": "0 miljonit",
-              "10000000-count-one": "00 miljon",
+              "10000000-count-one": "00 miljonit",
               "10000000-count-other": "00 miljonit",
-              "100000000-count-one": "000 miljon",
+              "100000000-count-one": "000 miljonit",
               "100000000-count-other": "000 miljonit",
               "1000000000-count-one": "0 miljard",
               "1000000000-count-other": "0 miljardit",
-              "10000000000-count-one": "00 miljard",
+              "10000000000-count-one": "00 miljardit",
               "10000000000-count-other": "00 miljardit",
-              "100000000000-count-one": "000 miljard",
+              "100000000000-count-one": "000 miljardit",
               "100000000000-count-other": "000 miljardit",
               "1000000000000-count-one": "0 triljon",
               "1000000000000-count-other": "0 triljonit",
-              "10000000000000-count-one": "00 triljon",
+              "10000000000000-count-one": "00 triljonit",
               "10000000000000-count-other": "00 triljonit",
-              "100000000000000-count-one": "000 triljon",
+              "100000000000000-count-one": "000 triljonit",
               "100000000000000-count-other": "000 triljonit"
             }
           },
@@ -144,8 +144,8 @@
           "range": "{0}‒{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} ööpäev",
-          "pluralMinimalPairs": "{0} ööpäeva",
+          "pluralMinimalPairs-count-one": "{0} ööpäev",
+          "pluralMinimalPairs-count-other": "{0} ööpäeva",
           "other": "Tehke {0}. parempööre."
         }
       }

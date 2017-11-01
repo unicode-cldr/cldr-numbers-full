@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ja"
       },
@@ -129,8 +129,8 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "ボスニア マルク (BAM)",
-            "displayName-count-other": "ボスニア マルク (BAM)",
+            "displayName": "ボスニア・ヘルツェゴビナ 兌換マルク (BAM)",
+            "displayName-count-other": "ボスニア・ヘルツェゴビナ 兌換マルク (BAM)",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -351,6 +351,11 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "中国人民元(オフショア)",
+            "displayName-count-other": "中国人民元(オフショア)",
+            "symbol": "CNH"
+          },
           "CNX": {
             "displayName": "中国人民銀行ドル",
             "displayName-count-other": "中国人民銀行ドル",
@@ -508,8 +513,8 @@
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "フィジー諸島 ドル",
-            "displayName-count-other": "フィジー諸島 ドル",
+            "displayName": "フィジー ドル",
+            "displayName-count-other": "フィジー ドル",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
@@ -722,8 +727,8 @@
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "キルギスタン ソム",
-            "displayName-count-other": "キルギスタン ソム",
+            "displayName": "キルギス ソム",
+            "displayName-count-other": "キルギス ソム",
             "symbol": "KGS"
           },
           "KHR": {
@@ -943,8 +948,8 @@
             "symbol": "MVP"
           },
           "MVR": {
-            "displayName": "モルディブ諸島 ルフィア",
-            "displayName-count-other": "モルディブ諸島 ルフィア",
+            "displayName": "モルディブ ルフィア",
+            "displayName-count-other": "モルディブ ルフィア",
             "symbol": "MVR"
           },
           "MWK": {
@@ -1118,7 +1123,7 @@
             "displayName": "ルーマニア レイ",
             "displayName-count-other": "ルーマニア レイ",
             "symbol": "RON",
-            "symbol-alt-narrow": "lei"
+            "symbol-alt-narrow": "レイ"
           },
           "RSD": {
             "displayName": "ディナール (セルビア)",
@@ -1187,8 +1192,8 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "セントヘレナ島 ポンド",
-            "displayName-count-other": "セントヘレナ島 ポンド",
+            "displayName": "セントヘレナ ポンド",
+            "displayName-count-other": "セントヘレナ ポンド",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1234,6 +1239,10 @@
             "displayName-count-other": "サントメ・プリンシペ ドブラ",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "ソ連 ルーブル",
@@ -1311,8 +1320,8 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "トリニダードトバゴ ドル",
-            "displayName-count-other": "トリニダードトバゴ ドル",
+            "displayName": "トリニダード・トバゴ ドル",
+            "displayName-count-other": "トリニダード・トバゴ ドル",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },

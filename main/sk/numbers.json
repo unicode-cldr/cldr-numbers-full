@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sk"
       },
@@ -218,10 +218,10 @@
           "range": "{0} – {1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} deň",
-          "pluralMinimalPairs": "{0} dni",
-          "pluralMinimalPairs": "{0} dňa",
-          "pluralMinimalPairs": "{0} dní",
+          "pluralMinimalPairs-count-one": "{0} deň",
+          "pluralMinimalPairs-count-few": "{0} dni",
+          "pluralMinimalPairs-count-many": "{0} dňa",
+          "pluralMinimalPairs-count-other": "{0} dní",
           "other": "Na {0}. križovatke odbočte doprava."
         }
       }

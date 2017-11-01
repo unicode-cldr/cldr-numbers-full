@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ce"
       },
@@ -29,6 +29,10 @@
             "displayName-count-one": "ОвхӀан-пачхьалкхан афгани",
             "displayName-count-other": "ОвхӀан-пачхьалкхан афганиш",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "Албанин лек",
@@ -342,6 +346,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "Китайн юань",
             "displayName-count-one": "Китайн юань",
@@ -649,6 +661,10 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "Израилан керла шекель",
             "displayName-count-one": "Израилан керла шекель",
@@ -674,6 +690,10 @@
             "displayName-count-one": "ГӀажарийчоьнан риал",
             "displayName-count-other": "ГӀажарийчоьнан риалш",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "Исландин крона",
@@ -768,9 +788,9 @@
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "Казахстанан тенге",
-            "displayName-count-one": "Казахстанан тенге",
-            "displayName-count-other": "Казахстанан тенгеш",
+            "displayName": "Кхазакхстанан тенге",
+            "displayName-count-one": "Кхазакхстанан тенге",
+            "displayName-count-other": "Кхазакхстанан тенгеш",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
@@ -931,6 +951,10 @@
             "displayName-count-other": "Маврикин рупиш",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "Мальдивийн руфи",
@@ -1117,7 +1141,7 @@
             "displayName-count-one": "Румынин лей",
             "displayName-count-other": "Румынин лейш",
             "symbol": "RON",
-            "symbol-alt-narrow": "lei"
+            "symbol-alt-narrow": "лей"
           },
           "RSD": {
             "displayName": "Сербин динар",
@@ -1145,9 +1169,9 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "СаӀудийн Аравин риал",
-            "displayName-count-one": "СаӀудийн Аравин риал",
-            "displayName-count-other": "СаӀудийн Аравин риалш",
+            "displayName": "СаӀудийн Ӏаьрбийчоьнан риал",
+            "displayName-count-one": "СаӀудийн Ӏаьрбийчоьнан риал",
+            "displayName-count-other": "СаӀудийн Ӏаьрбийчоьнан риалш",
             "symbol": "SAR"
           },
           "SBD": {
@@ -1242,6 +1266,10 @@
             "displayName-count-other": "Сан-Томен а, Принсипин а добраш",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",
@@ -1392,9 +1420,9 @@
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "Узбекистанан сум",
-            "displayName-count-one": "Узбекистанан сум",
-            "displayName-count-other": "Узбекистанан сумаш",
+            "displayName": "Узбекистанан сом",
+            "displayName-count-one": "Узбекистанан сом",
+            "displayName-count-other": "Узбекистанан сомаш",
             "symbol": "UZS"
           },
           "VEB": {

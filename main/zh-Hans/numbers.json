@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "zh",
         "script": "Hans"
@@ -202,7 +202,7 @@
           "range": "{0}-{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} 天",
+          "pluralMinimalPairs-count-other": "{0} 天",
           "other": "在第 {0} 个路口右转。"
         }
       }

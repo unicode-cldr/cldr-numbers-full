@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "pa"
       },
@@ -273,8 +273,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} ਘੰਟਾ",
-          "pluralMinimalPairs": "{0} ਘੰਟੇ",
+          "pluralMinimalPairs-count-one": "{0} ਘੰਟਾ",
+          "pluralMinimalPairs-count-other": "{0} ਘੰਟੇ",
           "other": "ਸਜੇ ਪਾਸੇ {0} ਮੋੜ ਲਵੋ"
         }
       }

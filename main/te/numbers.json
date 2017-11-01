@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "te"
       },
@@ -273,8 +273,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} రోజు",
-          "pluralMinimalPairs": "{0} రోజులు",
+          "pluralMinimalPairs-count-one": "{0} రోజు",
+          "pluralMinimalPairs-count-other": "{0} రోజులు",
           "other": "{0}వ కుడి మలుపు తీసుకోండి."
         }
       }

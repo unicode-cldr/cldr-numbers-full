@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "nl"
       },
@@ -297,7 +297,7 @@
             "symbol-alt-narrow": "R$"
           },
           "BRN": {
-            "displayName": "Braziliaanse cruzado novo",
+            "displayName": "Braziliaanse nieuwe cruzado (1989–1990)",
             "displayName-count-one": "Braziliaanse cruzado novo",
             "displayName-count-other": "Braziliaanse cruzado novo",
             "symbol": "BRN"
@@ -416,6 +416,12 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "Chinese renminbi (offshore)",
+            "displayName-count-one": "Chinese yuan (offshore)",
+            "displayName-count-other": "Chinese yuan (offshore)",
+            "symbol": "CNH"
+          },
           "CNX": {
             "displayName": "dollar van de Chinese Volksbank",
             "displayName-count-one": "dollar van de Chinese Volksbank",
@@ -423,7 +429,7 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "Chinese renminbi",
+            "displayName": "Chinese Yuan",
             "displayName-count-one": "Chinese yuan",
             "displayName-count-other": "Chinese yuan",
             "symbol": "CN¥",
@@ -1462,6 +1468,10 @@
             "displayName-count-other": "Santomese dobra",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Sovjet-roebel",

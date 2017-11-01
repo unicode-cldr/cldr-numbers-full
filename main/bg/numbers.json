@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -22,7 +22,7 @@
           "plusSign": "+",
           "minusSign": "-",
           "exponential": "E",
-          "superscriptingExponent": "·",
+          "superscriptingExponent": "×",
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
@@ -70,8 +70,8 @@
               "1000000-count-other": "0 млн'.'",
               "10000000-count-one": "00 млн'.'",
               "10000000-count-other": "00 млн'.'",
-              "100000000-count-one": "000 млн",
-              "100000000-count-other": "000 млн",
+              "100000000-count-one": "000 млн'.'",
+              "100000000-count-other": "000 млн'.'",
               "1000000000-count-one": "0 млрд'.'",
               "1000000000-count-other": "0 млрд'.'",
               "10000000000-count-one": "00 млрд'.'",
@@ -144,8 +144,8 @@
           "range": "{0} – {1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} ден",
-          "pluralMinimalPairs": "{0} дена",
+          "pluralMinimalPairs-count-one": "{0} ден",
+          "pluralMinimalPairs-count-other": "{0} дена",
           "other": "Завийте надясно по {0}-ата пресечка."
         }
       }

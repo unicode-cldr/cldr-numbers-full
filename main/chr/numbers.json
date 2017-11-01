@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "chr"
       },
@@ -144,8 +144,9 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}?",
-          "other": "{0}?"
+          "pluralMinimalPairs-count-one": "{0} ᎢᎦ",
+          "pluralMinimalPairs-count-other": "{0} ᏏᎢᎦ",
+          "other": "ᏥᎩᎠ {0}th ᎠᎦᏘᏏ."
         }
       }
     }

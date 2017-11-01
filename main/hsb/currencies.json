@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hsb"
       },
@@ -37,6 +37,10 @@
             "displayName-count-few": "afghaniske afghanije",
             "displayName-count-other": "afghaniskich afghanijow",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "albanski lek",
@@ -490,6 +494,14 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "chinski yuan",
             "displayName-count-one": "chinski yuan",
@@ -862,6 +874,10 @@
             "displayName": "ILP",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "israelski nowy šekel",
             "displayName-count-one": "israelski nowy šekel",
@@ -895,6 +911,10 @@
             "displayName-count-few": "iranske riale",
             "displayName-count-other": "iranskich rialow",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "islandska króna",
@@ -1214,6 +1234,10 @@
             "displayName-count-other": "mauritiuskich rupijow",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "malediwiska rupija",
@@ -1605,6 +1629,10 @@
             "displayName-count-other": "são tomeskich dobrow",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",

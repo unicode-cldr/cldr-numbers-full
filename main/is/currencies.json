@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "is"
       },
@@ -29,6 +29,10 @@
             "displayName-count-one": "afgani",
             "displayName-count-other": "afganar",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "albanskt lek",
@@ -342,6 +346,16 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "kínverskt júan (utan heimalands)",
+            "displayName-count-one": "kínverskt júan (utan heimalands)",
+            "displayName-count-other": "kínverskt júan (utan heimalands)",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "kínverskt júan",
             "displayName-count-one": "kínverskt júan",
@@ -450,6 +464,8 @@
           },
           "EEK": {
             "displayName": "Eistnesk króna",
+            "displayName-count-one": "eistnesk króna",
+            "displayName-count-other": "eistneskar krónur",
             "symbol": "EEK"
           },
           "EGP": {
@@ -544,7 +560,7 @@
           },
           "GIP": {
             "displayName": "Gíbraltarspund",
-            "displayName-count-one": "Gíbraltarpund",
+            "displayName-count-one": "Gíbraltarspund",
             "displayName-count-other": "Gíbraltarspund",
             "symbol": "GIP",
             "symbol-alt-narrow": "£"
@@ -649,6 +665,10 @@
             "displayName": "Ísraelskt pund",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "nýr ísraelskur sikill",
             "displayName-count-one": "nýr ísraelskur sikill",
@@ -674,6 +694,10 @@
             "displayName-count-one": "íranskt ríal",
             "displayName-count-other": "írönsk ríöl",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "íslensk króna",
@@ -935,6 +959,10 @@
             "displayName-count-other": "máritískar rúpíur",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
+          },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
           },
           "MVR": {
             "displayName": "maldíveysk rúpía",
@@ -1248,6 +1276,10 @@
             "displayName-count-other": "Saó Tóme og Prinsípe-dóbrur",
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
+          },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Soviet Rouble",

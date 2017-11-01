@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "sl"
       },
@@ -218,10 +218,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} ura",
-          "pluralMinimalPairs": "{0} uri",
-          "pluralMinimalPairs": "{0} ure",
-          "pluralMinimalPairs": "{0} ur",
+          "pluralMinimalPairs-count-one": "{0} ura",
+          "pluralMinimalPairs-count-two": "{0} uri",
+          "pluralMinimalPairs-count-few": "{0} ure",
+          "pluralMinimalPairs-count-other": "{0} ur",
           "other": "V {0}. križišču zavijte desno."
         }
       }

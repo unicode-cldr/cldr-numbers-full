@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fr",
         "territory": "MG"
@@ -49,13 +49,13 @@
               "1000000000-count-other": "0 milliards",
               "10000000000-count-one": "00 milliard",
               "10000000000-count-other": "00 milliards",
-              "100000000000-count-one": "000 milliards",
+              "100000000000-count-one": "000 milliard",
               "100000000000-count-other": "000 milliards",
               "1000000000000-count-one": "0 billion",
               "1000000000000-count-other": "0 billions",
-              "10000000000000-count-one": "00 billions",
+              "10000000000000-count-one": "00 billion",
               "10000000000000-count-other": "00 billions",
-              "100000000000000-count-one": "000 billions",
+              "100000000000000-count-one": "000 billion",
               "100000000000000-count-other": "000 billions"
             }
           },
@@ -145,8 +145,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} jour",
-          "pluralMinimalPairs": "{0} jours",
+          "pluralMinimalPairs-count-one": "{0} jour",
+          "pluralMinimalPairs-count-other": "{0} jours",
           "one": "Prenez la {0}re à droite.",
           "other": "Prenez la {0}e à droite."
         }

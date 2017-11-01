@@ -3,8 +3,8 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "it"
       },
@@ -29,6 +29,10 @@
             "displayName-count-one": "afghani",
             "displayName-count-other": "afghani",
             "symbol": "AFN"
+          },
+          "ALK": {
+            "displayName": "ALK",
+            "symbol": "ALK"
           },
           "ALL": {
             "displayName": "lek albanese",
@@ -344,6 +348,16 @@
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
+          "CNH": {
+            "displayName": "CNH",
+            "displayName-count-one": "CNH",
+            "displayName-count-other": "CNH",
+            "symbol": "CNH"
+          },
+          "CNX": {
+            "displayName": "CNX",
+            "symbol": "CNX"
+          },
           "CNY": {
             "displayName": "renminbi cinese",
             "displayName-count-one": "renmimbi cinese",
@@ -651,6 +665,10 @@
             "displayName": "sterlina israeliana",
             "symbol": "ILP"
           },
+          "ILR": {
+            "displayName": "ILR",
+            "symbol": "ILR"
+          },
           "ILS": {
             "displayName": "nuovo siclo israeliano",
             "displayName-count-one": "nuovo siclo israeliano",
@@ -676,6 +694,10 @@
             "displayName-count-one": "rial iraniano",
             "displayName-count-other": "rial iraniani",
             "symbol": "IRR"
+          },
+          "ISJ": {
+            "displayName": "ISJ",
+            "symbol": "ISJ"
           },
           "ISK": {
             "displayName": "corona islandese",
@@ -941,6 +963,10 @@
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
+          "MVP": {
+            "displayName": "MVP",
+            "symbol": "MVP"
+          },
           "MVR": {
             "displayName": "rufiyaa delle Maldive",
             "displayName-count-one": "rufiyaa delle Maldive",
@@ -1130,7 +1156,7 @@
             "displayName-count-one": "leu rumeno",
             "displayName-count-other": "lei rumeni",
             "symbol": "RON",
-            "symbol-alt-narrow": "L"
+            "symbol-alt-narrow": "lei"
           },
           "RSD": {
             "displayName": "dinaro serbo",
@@ -1256,6 +1282,10 @@
             "symbol": "STD",
             "symbol-alt-narrow": "Db"
           },
+          "STN": {
+            "displayName": "STN",
+            "symbol": "STN"
+          },
           "SUR": {
             "displayName": "rublo sovietico",
             "symbol": "SUR"
@@ -1380,7 +1410,7 @@
             "displayName": "dollaro statunitense",
             "displayName-count-one": "dollaro statunitense",
             "displayName-count-other": "dollari statunitensi",
-            "symbol": "US$",
+            "symbol": "USD",
             "symbol-alt-narrow": "$"
           },
           "USN": {

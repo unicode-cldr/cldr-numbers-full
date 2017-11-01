@@ -3,8 +3,8 @@
     "ckb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ckb"
       },
@@ -19,8 +19,8 @@
           "group": "٬",
           "list": "؛",
           "percentSign": "٪",
-          "plusSign": "؜+",
-          "minusSign": "؜-",
+          "plusSign": "‏+",
+          "minusSign": "‏-",
           "exponential": "اس",
           "superscriptingExponent": "×",
           "perMille": "؉",
@@ -183,7 +183,7 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0}?",
+          "pluralMinimalPairs-count-other": "{0}?",
           "other": "{0}?"
         }
       }

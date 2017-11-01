@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "bs",
         "script": "Latn"
@@ -182,11 +182,8 @@
           "range": "{0} – {1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "za {0} mjesec",
-          "pluralMinimalPairs": "za {0} mjeseca",
-          "pluralMinimalPairs": "za {0} mjeseci",
-          "pluralMinimalPairs": "za {0} mjeseci",
-          "other": "Skrenite na {0}. križanju desno."
+          "pluralMinimalPairs-count-other": "{0}?",
+          "other": "{0}?"
         }
       }
     }

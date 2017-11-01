@@ -3,8 +3,8 @@
     "gv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13134 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13491 $",
+          "_cldrVersion": "32"
         },
         "language": "gv"
       },
@@ -107,11 +107,11 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} thunnag/vuc/ooyl",
-          "pluralMinimalPairs": "{0} hunnag/vuc/ooyl",
-          "pluralMinimalPairs": "{0} thunnag/muc/ooyl",
-          "pluralMinimalPairs": "{0} dy hunnagyn/dy vucyn/dy ooylyn",
-          "pluralMinimalPairs": "{0} thunnagyn/mucyn/ooylyn",
+          "pluralMinimalPairs-count-one": "{0} thunnag/vuc/ooyl",
+          "pluralMinimalPairs-count-two": "{0} hunnag/vuc/ooyl",
+          "pluralMinimalPairs-count-few": "{0} thunnag/muc/ooyl",
+          "pluralMinimalPairs-count-many": "{0} dy hunnagyn/dy vucyn/dy ooylyn",
+          "pluralMinimalPairs-count-other": "{0} thunnagyn/mucyn/ooylyn",
           "other": "{0}?"
         }
       }

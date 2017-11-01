@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "hu"
       },
@@ -13,7 +13,7 @@
         "otherNumberingSystems": {
           "native": "latn"
         },
-        "minimumGroupingDigits": "1",
+        "minimumGroupingDigits": "4",
         "symbols-numberSystem-latn": {
           "decimal": ",",
           "group": " ",
@@ -144,8 +144,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "A kosár tartalma: {0} X. Megveszi?",
-          "pluralMinimalPairs": "A kosár tartalma: {0} X. Megveszi őket?",
+          "pluralMinimalPairs-count-one": "A kosár tartalma: {0} X. Megveszi?",
+          "pluralMinimalPairs-count-other": "A kosár tartalma: {0} X. Megveszi őket?",
           "one": "Az {0}. lehetőségnél forduljon jobbra.",
           "other": "A {0}. lehetőségnél forduljon jobbra."
         }

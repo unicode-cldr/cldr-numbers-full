@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "si"
       },
@@ -144,8 +144,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} පොතක් ඇත. එය කියවීමි.",
-          "pluralMinimalPairs": "පොත් {0}ක් ඇත. ඒවා කියවීමි.",
+          "pluralMinimalPairs-count-one": "{0} පොතක් ඇත. එය කියවීමි.",
+          "pluralMinimalPairs-count-other": "පොත් {0}ක් ඇත. ඒවා කියවීමි.",
           "other": "{0} වන හැරවුම දකුණට"
         }
       }

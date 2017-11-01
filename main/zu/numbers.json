@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "zu"
       },
@@ -107,7 +107,7 @@
             }
           },
           "standard": "¤#,##0.00",
-          "accounting": "¤#,##0.00;(¤#,##0.00)",
+          "accounting": "¤#,##0.00",
           "short": {
             "standard": {
               "1000-count-one": "¤0K",
@@ -144,8 +144,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs": "{0} usuku",
-          "pluralMinimalPairs": "{0} izinsuku",
+          "pluralMinimalPairs-count-one": "{0} usuku",
+          "pluralMinimalPairs-count-other": "{0} izinsuku",
           "other": "Thatha indlela ejikela kwesokudla engu-{0}"
         }
       }
