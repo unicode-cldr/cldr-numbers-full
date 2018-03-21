@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ks"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "مورِٹینِیَن عوگیوٗیا",
+            "displayName": "مورِٹینِیَن عوگیوٗیا (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "مورِٹینِیَن عوگیوٗیا",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "مالٹیٖزُک لیٖرا",
@@ -1007,12 +1011,12 @@
           },
           "STD": {
             "displayName": "STD",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "symbol": "STD"
           },
           "STN": {
             "displayName": "STN",
-            "symbol": "STN"
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "سوویت روبٕل",

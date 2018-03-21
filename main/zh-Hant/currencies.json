@@ -3,8 +3,8 @@
     "zh-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "zh",
         "script": "Hant"
@@ -921,9 +921,14 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "茅利塔尼亞烏吉亞 (1973–2017)",
+            "displayName-count-other": "茅利塔尼亞烏吉亞 (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "茅利塔尼亞烏吉亞",
             "displayName-count-other": "茅利塔尼亞烏吉亞",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "馬爾他里拉",
@@ -1234,14 +1239,15 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "聖多美島和普林西比島多布拉",
-            "displayName-count-other": "聖多美島和普林西比島多布拉",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "聖多美島和普林西比島多布拉 (1977–2017)",
+            "displayName-count-other": "聖多美島和普林西比島多布拉 (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "聖多美島和普林西比島多布拉",
+            "displayName-count-other": "聖多美島和普林西比島多布拉",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "蘇聯盧布",

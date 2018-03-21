@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13686 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "hi"
       },
@@ -938,10 +938,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "मॉरीटेनियन ओगुइया (1973–2017)",
+            "displayName-count-one": "मॉरीटेनियन ओगुइया (1973–2017)",
+            "displayName-count-other": "मॉरीटेनियन ओगुइया (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "मॉरीटेनियन ओगुइया",
             "displayName-count-one": "मॉरीटेनियन ओगुइया",
             "displayName-count-other": "मॉरीटेनियन ओगुइया",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1267,15 +1273,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "साओ तोम और प्रिंसिपे डोबरा (1977–2017)",
+            "displayName-count-one": "साओ तोम और प्रिंसिपे डोबरा (1977–2017)",
+            "displayName-count-other": "साओ तोम और प्रिंसिपे डोबरा (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "साओ तोम और प्रिंसिपे डोबरा",
             "displayName-count-one": "साओ तोम और प्रिंसिपे डोबरा",
             "displayName-count-other": "साओ तोम और प्रिंसिपे डोबरा",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "सोवियत रूबल",

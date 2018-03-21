@@ -3,8 +3,8 @@
     "it-VA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13251 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "it",
         "territory": "VA"
@@ -944,10 +944,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "ouguiya della Mauritania (1973–2017)",
+            "displayName-count-one": "ouguiya della Mauritania (1973–2017)",
+            "displayName-count-other": "ouguiya della Mauritania (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "ouguiya della Mauritania",
             "displayName-count-one": "ouguiya della Mauritania",
             "displayName-count-other": "ouguiya della Mauritania",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "lira maltese",
@@ -1277,15 +1283,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "dobra di Sao Tomé e Principe (1977–2017)",
+            "displayName-count-one": "dobra di Sao Tomé e Principe (1977–2017)",
+            "displayName-count-other": "dobra di Sao Tomé e Principe (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "dobra di Sao Tomé e Principe",
             "displayName-count-one": "dobra di Sao Tomé e Principe",
             "displayName-count-other": "dobra di Sao Tomé e Principe",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "rublo sovietico",

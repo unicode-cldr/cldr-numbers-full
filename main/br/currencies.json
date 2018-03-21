@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "br"
       },
@@ -1491,13 +1491,22 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "ouguiya Maouritania (1973–2017)",
+            "displayName-count-one": "ouguiya Maouritania (1973–2017)",
+            "displayName-count-two": "ouguiya Maouritania (1973–2017)",
+            "displayName-count-few": "ouguiya Maouritania (1973–2017)",
+            "displayName-count-many": "a ouguiyaoù Maouritania (1973–2017)",
+            "displayName-count-other": "ouguiya Maouritania (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "ouguiya Maouritania",
             "displayName-count-one": "ouguiya Maouritania",
             "displayName-count-two": "ouguiya Maouritania",
             "displayName-count-few": "ouguiya Maouritania",
             "displayName-count-many": "a ouguiyaoù Maouritania",
             "displayName-count-other": "ouguiya Maouritania",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "lira Malta",
@@ -2026,18 +2035,23 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "dobra São Tomé ha Príncipe (1977–2017)",
+            "displayName-count-one": "dobra São Tomé ha Príncipe (1977–2017)",
+            "displayName-count-two": "zobra São Tomé ha Príncipe (1977–2017)",
+            "displayName-count-few": "dobra São Tomé ha Príncipe (1977–2017)",
+            "displayName-count-many": "a zobraoù São Tomé ha Príncipe (1977–2017)",
+            "displayName-count-other": "dobra São Tomé ha Príncipe (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "dobra São Tomé ha Príncipe",
             "displayName-count-one": "dobra São Tomé ha Príncipe",
             "displayName-count-two": "zobra São Tomé ha Príncipe",
             "displayName-count-few": "dobra São Tomé ha Príncipe",
             "displayName-count-many": "a zobraoù São Tomé ha Príncipe",
             "displayName-count-other": "dobra São Tomé ha Príncipe",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "roubl soviedel",

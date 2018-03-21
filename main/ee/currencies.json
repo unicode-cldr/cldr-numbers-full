@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ee"
       },
@@ -1089,10 +1089,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "mɔritaniaga ouguiya (1973–2017)",
+            "displayName-count-one": "mɔritaniaga ouguiya (1973–2017)",
+            "displayName-count-other": "mɔritaniaga ouguiya (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "mɔritaniaga ouguiya",
             "displayName-count-one": "mɔritaniaga ouguiya",
             "displayName-count-other": "mɔritaniaga ouguiya",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "maltaga lira",
@@ -1442,15 +1448,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "são tomé kple príncipega dobra (1977–2017)",
+            "displayName-count-one": "são tomé kple príncipega dobra (1977–2017)",
+            "displayName-count-other": "são tomé kple príncipega dobra (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "são tomé kple príncipega dobra",
             "displayName-count-one": "são tomé kple príncipega dobra",
             "displayName-count-other": "são tomé kple príncipega dobra",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "sovietga rouble",

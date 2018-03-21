@@ -3,8 +3,8 @@
     "agq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "agq"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "Ùgueya è Mùlètenyìa",
+            "displayName": "Ùgueya è Mùlètenyìa (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "Ùgueya è Mùlètenyìa",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

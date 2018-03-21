@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -159,7 +159,7 @@
         },
         "minimalPairs": {
           "pluralMinimalPairs-count-other": "{0}?",
-          "other": "{0}?"
+          "other": "Скрените на {0}. крижању десно."
         }
       }
     }

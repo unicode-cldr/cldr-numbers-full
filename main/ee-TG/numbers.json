@@ -3,8 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "ee",
         "territory": "TG"
@@ -146,7 +146,7 @@
         },
         "minimalPairs": {
           "pluralMinimalPairs-count-other": "{0}?",
-          "other": "{0}?"
+          "other": "{0}lia"
         }
       }
     }

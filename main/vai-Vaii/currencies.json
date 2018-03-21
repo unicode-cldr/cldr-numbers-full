@@ -3,8 +3,8 @@
     "vai-Vaii": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "vai",
         "script": "Vaii"
@@ -752,8 +752,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "ꗞꔸꕚꕇꕰ ꖳꕅꕩ",
+            "displayName": "ꗞꔸꕚꕇꕰ ꖳꕅꕩ (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "ꗞꔸꕚꕇꕰ ꖳꕅꕩ",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1008,13 +1012,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "ꕢꕴ ꕿꔈ ꗪ ꕉ ꕗꕴ ꖁꖜꕟ",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "ꕢꕴ ꕿꔈ ꗪ ꕉ ꕗꕴ ꖁꖜꕟ (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "ꕢꕴ ꕿꔈ ꗪ ꕉ ꕗꕴ ꖁꖜꕟ",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

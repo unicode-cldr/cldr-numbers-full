@@ -3,8 +3,8 @@
     "sg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "sg"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "ugîya tî Moritanïi",
+            "displayName": "ugîya tî Moritanïi (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "ugîya tî Moritanïi",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "dôbra tî Sâô Tomë na Prinsîpe",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "dôbra tî Sâô Tomë na Prinsîpe (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "dôbra tî Sâô Tomë na Prinsîpe",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13686 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ps"
       },
@@ -938,6 +938,12 @@
             "displayName-count-other": "MRO",
             "symbol": "MRO"
           },
+          "MRU": {
+            "displayName": "MRU",
+            "displayName-count-one": "MRU",
+            "displayName-count-other": "MRU",
+            "symbol": "MRU"
+          },
           "MTL": {
             "displayName": "MTL",
             "symbol": "MTL"
@@ -1265,12 +1271,14 @@
             "displayName": "STD",
             "displayName-count-one": "STD",
             "displayName-count-other": "STD",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "symbol": "STD"
           },
           "STN": {
             "displayName": "STN",
-            "symbol": "STN"
+            "displayName-count-one": "STN",
+            "displayName-count-other": "STN",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "mt"
       },
@@ -1094,6 +1094,14 @@
             "displayName-count-other": "MRO",
             "symbol": "MRO"
           },
+          "MRU": {
+            "displayName": "MRU",
+            "displayName-count-one": "MRU",
+            "displayName-count-few": "MRU",
+            "displayName-count-many": "MRU",
+            "displayName-count-other": "MRU",
+            "symbol": "MRU"
+          },
           "MTL": {
             "displayName": "Lira Maltija",
             "symbol": "MTL"
@@ -1487,12 +1495,16 @@
             "displayName-count-few": "STD",
             "displayName-count-many": "STD",
             "displayName-count-other": "STD",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "symbol": "STD"
           },
           "STN": {
             "displayName": "STN",
-            "symbol": "STN"
+            "displayName-count-one": "STN",
+            "displayName-count-few": "STN",
+            "displayName-count-many": "STN",
+            "displayName-count-other": "STN",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

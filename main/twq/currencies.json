@@ -3,8 +3,8 @@
     "twq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "twq"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "Mooritaani Ugiya",
+            "displayName": "Mooritaani Ugiya (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "Mooritaani Ugiya",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Sao Tome nda Prinsipe Dobra",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "Sao Tome nda Prinsipe Dobra (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "Sao Tome nda Prinsipe Dobra",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

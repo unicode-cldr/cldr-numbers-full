@@ -3,8 +3,8 @@
     "gsw-FR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "gsw",
         "territory": "FR"
@@ -1040,10 +1040,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "Ouguiya (1973–2017)",
+            "displayName-count-one": "Ouguiya (1973–2017)",
+            "displayName-count-other": "Ouguiya (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "Ouguiya",
             "displayName-count-one": "Ouguiya",
             "displayName-count-other": "Ouguiya",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "Malteesischi Lira",
@@ -1409,15 +1415,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "Dobra (1977–2017)",
+            "displayName-count-one": "Dobra (1977–2017)",
+            "displayName-count-other": "Dobra (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "Dobra",
             "displayName-count-one": "Dobra",
             "displayName-count-other": "Dobra",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Sowjetische Rubel",

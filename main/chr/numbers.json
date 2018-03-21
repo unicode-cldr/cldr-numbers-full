@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "chr"
       },
@@ -125,7 +125,7 @@
               "1000000000-count-one": "¤0B",
               "1000000000-count-other": "¤0B",
               "10000000000-count-one": "¤00B",
-              "10000000000-count-other": "¤ 00G",
+              "10000000000-count-other": "¤00B",
               "100000000000-count-one": "¤000B",
               "100000000000-count-other": "¤000B",
               "1000000000000-count-one": "¤0T",

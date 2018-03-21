@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "mzn"
       },
@@ -840,9 +840,14 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "موریتانی ِاوگوئیا (1973–2017)",
+            "displayName-count-other": "موریتانی ِاوگوئیا (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "موریتانی ِاوگوئیا",
             "displayName-count-other": "موریتانی ِاوگوئیا",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1129,14 +1134,15 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "سائوتومه و پرینسیپ ِدوبرا",
-            "displayName-count-other": "سائوتومه و پرینسیپ ِدوبرا",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "سائوتومه و پرینسیپ ِدوبرا (1977–2017)",
+            "displayName-count-other": "سائوتومه و پرینسیپ ِدوبرا (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "سائوتومه و پرینسیپ ِدوبرا",
+            "displayName-count-other": "سائوتومه و پرینسیپ ِدوبرا",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

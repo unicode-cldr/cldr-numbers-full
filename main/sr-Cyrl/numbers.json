@@ -3,8 +3,8 @@
     "sr-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -182,8 +182,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
-          "other": "{0}?"
+          "pluralMinimalPairs-count-one": "{0} сат",
+          "pluralMinimalPairs-count-few": "{0} сата",
+          "pluralMinimalPairs-count-other": "{0} сати",
+          "other": "Скрените у {0}. десно."
         }
       }
     }

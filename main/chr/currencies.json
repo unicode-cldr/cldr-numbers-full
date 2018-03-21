@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "chr"
       },
@@ -347,7 +347,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "ᏣᏂᏏ ᎠᏕᎳ (ᏓᎹᏳᏟᏗ)",
+            "displayName-count-one": "ᏣᏂᏏ ᎠᏕᎳ (ᏓᎹᏳᏟᏗ)",
+            "displayName-count-other": "ᏣᏂᏏ ᎠᏕᎳ (ᏓᎹᏳᏟᏗ)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -412,9 +414,9 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "ᏤᎩ ᏍᎦᏚᎩ ᎠᏕᎳ",
-            "displayName-count-one": "ᏤᎩ ᏍᎦᏚᎩ ᎠᏕᎳ",
-            "displayName-count-other": "ᏤᎩ ᏍᎦᏚᎩ ᎠᏕᎳ",
+            "displayName": "ᏤᎩ ᎠᏕᎳ",
+            "displayName-count-one": "ᏤᎩ ᎠᏕᎳ",
+            "displayName-count-other": "ᏤᎩ ᎠᏕᎳ",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -931,10 +933,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ (1973–2017)",
+            "displayName-count-one": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ (1973–2017)",
+            "displayName-count-other": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ",
             "displayName-count-one": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ",
             "displayName-count-other": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1260,15 +1268,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ (1977–2017)",
+            "displayName-count-one": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ (1977–2017)",
+            "displayName-count-other": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ",
             "displayName-count-one": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ",
             "displayName-count-other": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",

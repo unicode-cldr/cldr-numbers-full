@@ -3,14 +3,15 @@
     "ar-TN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ar",
         "territory": "TN"
       },
       "numbers": {
         "defaultNumberingSystem": "latn",
+        "defaultNumberingSystem-alt-latn": "latn",
         "otherNumberingSystems": {
           "native": "arab"
         },
@@ -360,7 +361,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-arab": {
-          "standard": "#,##0 %"
+          "standard": "#,##0%"
         },
         "percentFormats-numberSystem-latn": {
           "standard": "#,##0%"

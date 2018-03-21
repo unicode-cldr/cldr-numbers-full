@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "gl"
       },
@@ -70,8 +70,8 @@
               "1000000-count-other": "0 mill'.'",
               "10000000-count-one": "00 mill'.'",
               "10000000-count-other": "00 mill'.'",
-              "100000000-count-one": "000 mill'.'",
-              "100000000-count-other": "000 mill'.'",
+              "100000000-count-one": "000 mill",
+              "100000000-count-other": "000 mill",
               "1000000000-count-one": "0",
               "1000000000-count-other": "0",
               "10000000000-count-one": "0",

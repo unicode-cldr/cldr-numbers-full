@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -1214,11 +1214,18 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "Мауританијска угвија (1973–2017)",
+            "displayName-count-one": "мауританијска угвиља (1973–2017)",
+            "displayName-count-few": "мауританијске угвиље (1973–2017)",
+            "displayName-count-other": "мауританијске угвиље (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "Мауританијска угвија",
             "displayName-count-one": "мауританијска угвиља",
             "displayName-count-few": "мауританијске угвиље",
             "displayName-count-other": "мауританијске угвиље",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "Малтешка лира",
@@ -1637,16 +1644,19 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "Сао Томе и Принципе добра (1977–2017)",
+            "displayName-count-one": "сао томе и принципе добар (1977–2017)",
+            "displayName-count-few": "сао томе и принципе добра (1977–2017)",
+            "displayName-count-other": "сао томе и принципе добри (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "Сао Томе и Принципе добра",
             "displayName-count-one": "сао томе и принципе добар",
             "displayName-count-few": "сао томе и принципе добра",
             "displayName-count-other": "сао томе и принципе добри",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Совјетска рубља",

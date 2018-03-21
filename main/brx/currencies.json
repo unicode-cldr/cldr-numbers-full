@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "brx"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "मौरिटानी ऊगुया",
+            "displayName": "मौरिटानी ऊगुया (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "मौरिटानी ऊगुया",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "माल्टी लीरा",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "साँव तोमे एवं प्रीन्सीपे का डोब्रा",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "साँव तोमे एवं प्रीन्सीपे का डोब्रा (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "साँव तोमे एवं प्रीन्सीपे का डोब्रा",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "सोवियत रूबल",

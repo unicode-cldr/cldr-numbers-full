@@ -3,8 +3,8 @@
     "yi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "yi"
       },
@@ -766,6 +766,10 @@
             "displayName": "MRO",
             "symbol": "MRO"
           },
+          "MRU": {
+            "displayName": "MRU",
+            "symbol": "MRU"
+          },
           "MTL": {
             "displayName": "MTL",
             "symbol": "MTL"
@@ -1021,12 +1025,12 @@
           },
           "STD": {
             "displayName": "STD",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "symbol": "STD"
           },
           "STN": {
             "displayName": "STN",
-            "symbol": "STN"
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

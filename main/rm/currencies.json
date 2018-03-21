@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "rm"
       },
@@ -779,8 +779,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "ouguiya da la Mauretania",
+            "displayName": "ouguiya da la Mauretania (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "ouguiya da la Mauretania",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "lira maltaisa",
@@ -1050,13 +1054,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "dobra da São Tomé e Principe",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "dobra da São Tomé e Principe (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "dobra da São Tomé e Principe",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "rubel sovietic",

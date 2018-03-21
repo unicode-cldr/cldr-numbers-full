@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13767 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "fi"
       },
@@ -570,9 +570,9 @@
             "symbol": "ERN"
           },
           "ESA": {
-            "displayName": "Espanjan peseta (A–tili)",
-            "displayName-count-one": "Espanjan peseta (A–tili)",
-            "displayName-count-other": "Espanjan pesetaa (A–tili)",
+            "displayName": "Espanjan peseta (A-tili)",
+            "displayName-count-one": "Espanjan peseta (A-tili)",
+            "displayName-count-other": "Espanjan pesetaa (A-tili)",
             "symbol": "ESA"
           },
           "ESB": {
@@ -1091,10 +1091,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "Mauritanian ouguiya (1973–2017)",
+            "displayName-count-one": "Mauritanian ouguiya (1973–2017)",
+            "displayName-count-other": "Mauritanian ouguiyaa (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "Mauritanian ouguiya",
             "displayName-count-one": "Mauritanian ouguiya",
             "displayName-count-other": "Mauritanian ouguiyaa",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "Maltan liira",
@@ -1462,15 +1468,17 @@
             "symbol-alt-narrow": "SSP"
           },
           "STD": {
+            "displayName": "São Tomén ja Príncipen dobra (1977–2017)",
+            "displayName-count-one": "São Tomén ja Príncipen dobra (1977–2017)",
+            "displayName-count-other": "São Tomén ja Príncipen dobraa (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "São Tomén ja Príncipen dobra",
             "displayName-count-one": "São Tomén ja Príncipen dobra",
             "displayName-count-other": "São Tomén ja Príncipen dobraa",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "STD"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Neuvostoliiton rupla",

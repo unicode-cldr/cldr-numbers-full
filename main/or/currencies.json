@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13757 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "or"
       },
@@ -25,9 +25,9 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "ଆଫଘାନୀୟ ଆଫଘାନି",
-            "displayName-count-one": "ଆଫଘାନୀୟ ଆଫଘାନି",
-            "displayName-count-other": "ଆଫଘାନୀୟ ଆଫଘାନି",
+            "displayName": "ଆଫଗାନ ଆଫଗାନି",
+            "displayName-count-one": "ଆଫଗାନ ଆଫଗାନି",
+            "displayName-count-other": "ଆଫଗାନ ଆଫଗାନି",
             "symbol": "AFN"
           },
           "ALK": {
@@ -41,21 +41,21 @@
             "symbol": "ALL"
           },
           "AMD": {
-            "displayName": "ଅର୍ମେନିୟ ଡ୍ରାମ୍",
-            "displayName-count-one": "ଅର୍ମେନିୟ ଡ୍ରାମ୍",
-            "displayName-count-other": "ଅର୍ମେନିୟ ଡ୍ରାମ୍",
+            "displayName": "ଅର୍ମେନୀୟ ଡ୍ରାମ୍",
+            "displayName-count-one": "ଅର୍ମେନୀୟ ଡ୍ରାମ୍",
+            "displayName-count-other": "ଅର୍ମେନୀୟ ଡ୍ରାମ୍",
             "symbol": "AMD"
           },
           "ANG": {
-            "displayName": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗୁଇଲଡେର୍",
-            "displayName-count-one": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗୁଇଲଡେର୍",
-            "displayName-count-other": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗୁଇଲଡେର୍",
+            "displayName": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗିଲଡର୍",
+            "displayName-count-one": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗିଲଡର୍",
+            "displayName-count-other": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗିଲଡର୍",
             "symbol": "ANG"
           },
           "AOA": {
-            "displayName": "ଅଙ୍ଗୋଲିୟ କୱାନଜା",
-            "displayName-count-one": "ଅଙ୍ଗୋଲିୟ କୱାନଜା",
-            "displayName-count-other": "ଅଙ୍ଗୋଲିୟ କୱାନଜା",
+            "displayName": "ଅଙ୍ଗୋଲୀୟ କୱାନଜା",
+            "displayName-count-one": "ଅଙ୍ଗୋଲୀୟ କୱାନଜା",
+            "displayName-count-other": "ଅଙ୍ଗୋଲୀୟ କୱାନଜା",
             "symbol": "AOA",
             "symbol-alt-narrow": "Kz"
           },
@@ -88,9 +88,9 @@
             "symbol": "ARP"
           },
           "ARS": {
-            "displayName": "ଆର୍ଜେଣ୍ଟିନିୟ ପେସୋ",
-            "displayName-count-one": "ଆର୍ଜେଣ୍ଟିନିୟ ପେସୋ",
-            "displayName-count-other": "ଆର୍ଜେଣ୍ଟିନିୟ ପେସୋ",
+            "displayName": "ଆର୍ଜେଣ୍ଟାଇନ୍‍ ପେସୋ",
+            "displayName-count-one": "ଆର୍ଜେଣ୍ଟାଇନ୍‍ ପେସୋ",
+            "displayName-count-other": "ଆର୍ଜେଣ୍ଟାଇନ୍‍ ପେସୋ",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -106,9 +106,9 @@
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "ଆରୁବିୟ ଫ୍ଲୋରିୟ",
-            "displayName-count-one": "ଆରୁବିୟ ଫ୍ଲୋରିୟ",
-            "displayName-count-other": "ଆରୁବିୟ ଫ୍ଲୋରିୟ",
+            "displayName": "ଆରୁବୀୟ ଫ୍ଲୋରିନ୍",
+            "displayName-count-one": "ଆରୁବୀୟ ଫ୍ଲୋରିନ୍",
+            "displayName-count-other": "ଆରୁବୀୟ ଫ୍ଲୋରିନ୍",
             "symbol": "AWG"
           },
           "AZM": {
@@ -126,9 +126,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "ବୋସନିଆ-ହେରଜେବୋଭିନା କନଭେରିଟେବଲ୍ ମାର୍କ",
-            "displayName-count-one": "ବୋସନିଆ-ହେରଜେବୋଭିନା କନଭେରିଟେବଲ୍ ମାର୍କ",
-            "displayName-count-other": "ବୋସନିଆ-ହେରଜେବୋଭିନା କନଭେରିଟେବଲ୍ ମାର୍କ",
+            "displayName": "ବୋସନିଆ-ହର୍ଜଗୋଭିନା କନଭର୍ଟିବଲ୍ ମାର୍କ୍",
+            "displayName-count-one": "ବୋସନିଆ-ହର୍ଜଗୋଭିନା କନଭର୍ଟିବଲ୍ ମାର୍କ୍",
+            "displayName-count-other": "ବୋସନିଆ-ହର୍ଜଗୋଭିନା କନଭର୍ଟିବଲ୍ ମାର୍କ୍",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -137,9 +137,9 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "ବାର୍ବଡିୟ ଡଲାର୍",
-            "displayName-count-one": "ବାର୍ବଡିୟ ଡଲାର୍",
-            "displayName-count-other": "ବାର୍ବଡିୟ ଡଲାର୍",
+            "displayName": "ବାର୍ବାଡୀୟ ଡଲାର୍",
+            "displayName-count-one": "ବାର୍ବାଡୀୟ ଡଲାର୍",
+            "displayName-count-other": "ବାର୍ବାଡୀୟ ଡଲାର୍",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
@@ -171,9 +171,9 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "ବଲଗେରୀୟ ଲେଭ୍",
-            "displayName-count-one": "ବଲଗେରୀୟ ଲେଭ୍",
-            "displayName-count-other": "ବଲଗେରୀୟ ଲେଭା",
+            "displayName": "ବୁଲଗେରୀୟ ଲେଭ୍",
+            "displayName-count-one": "ବୁଲଗେରୀୟ ଲେଭ୍",
+            "displayName-count-other": "ବୁଲଗେରୀୟ ଲେଭ୍",
             "symbol": "BGN"
           },
           "BGO": {
@@ -181,21 +181,21 @@
             "symbol": "BGO"
           },
           "BHD": {
-            "displayName": "ବାହରାଇନି ଦିନାର",
-            "displayName-count-one": "ବାହରାଇନି ଦିନାର",
-            "displayName-count-other": "ବାହରାଇନି ଦିନାର",
+            "displayName": "ବାଃରେନି ଦିନାର୍",
+            "displayName-count-one": "ବାଃରେନି ଦିନାର୍",
+            "displayName-count-other": "ବାଃରେନି ଦିନାର୍",
             "symbol": "BHD"
           },
           "BIF": {
-            "displayName": "ବୁରୁନଡିୟ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-one": "ବୁରୁନଡିୟ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-other": "ବୁରୁନଡିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName": "ବୁରୁଣ୍ଡିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-one": "ବୁରୁଣ୍ଡିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-other": "ବୁରୁଣ୍ଡିୟ ଫ୍ରାଙ୍କ୍",
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "ବେରମୁଣ୍ଡିୟ ଡଲାର୍",
-            "displayName-count-one": "ବେରମୁଣ୍ଡିୟ ଡଲାର୍",
-            "displayName-count-other": "ବେରମୁଣ୍ଡିୟ ଡଲାର୍",
+            "displayName": "ବର୍ମ୍ୟୁଡା ଡଲାର୍",
+            "displayName-count-one": "ବର୍ମ୍ୟୁଡା ଡଲାର୍",
+            "displayName-count-other": "ବର୍ମ୍ୟୁଡା ଡଲାର୍",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
@@ -207,9 +207,9 @@
             "symbol-alt-narrow": "$"
           },
           "BOB": {
-            "displayName": "ବୋଲିଭିୟ ବୋଲିଭିଆନୋ",
-            "displayName-count-one": "ବୋଲିଭିୟ ବୋଲିଭିଆନୋ",
-            "displayName-count-other": "ବୋଲିଭିୟ ବୋଲିଭିଆନୋ",
+            "displayName": "ବୋଲିଭୀୟ ବୋଲିଭିଆନୋ",
+            "displayName-count-one": "ବୋଲିଭୀୟ ବୋଲିଭିଆନୋ",
+            "displayName-count-other": "ବୋଲିଭୀୟ ବୋଲିଭିଆନୋ",
             "symbol": "BOB",
             "symbol-alt-narrow": "Bs"
           },
@@ -238,9 +238,9 @@
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "ବ୍ରାଜିଲିୟ ପ୍ରକୃତ",
-            "displayName-count-one": "ବ୍ରାଜିଲିୟ ପ୍ରକୃତ",
-            "displayName-count-other": "ବ୍ରାଜିଲିୟ ପ୍ରକୃତ",
+            "displayName": "ବ୍ରାଜିଲୀୟ ରିଏଲ୍",
+            "displayName-count-one": "ବ୍ରାଜିଲୀୟ ରିଏଲ୍",
+            "displayName-count-other": "ବ୍ରାଜିଲୀୟ ରିଏଲ୍",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -257,16 +257,16 @@
             "symbol": "BRZ"
           },
           "BSD": {
-            "displayName": "ବାହାମିୟ ଡଲାର୍",
-            "displayName-count-one": "ବାହାମିୟ ଡଲାର୍",
-            "displayName-count-other": "ବାହାମିୟ ଡଲାର୍",
+            "displayName": "ବାହାମୀୟ ଡଲାର୍",
+            "displayName-count-one": "ବାହାମୀୟ ଡଲାର୍",
+            "displayName-count-other": "ବାହାମୀୟ ଡଲାର୍",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
-            "displayName": "ଭୁଟାନୀୟ ନଗୁଲଟ୍ରୁମ୍",
-            "displayName-count-one": "ଭୁଟାନୀୟ ନଗୁଲଟ୍ରୁମ୍",
-            "displayName-count-other": "ଭୁଟାନୀୟ ନଗୁଲଟ୍ରୁମ୍",
+            "displayName": "ଭୁଟାନୀ ଗଲଟ୍ରୁମ୍",
+            "displayName-count-one": "ଭୁଟାନୀ ଗଲଟ୍ରୁମ୍",
+            "displayName-count-other": "ଭୁଟାନୀ ଗଲଟ୍ରୁମ୍",
             "symbol": "BTN"
           },
           "BUK": {
@@ -274,9 +274,9 @@
             "symbol": "BUK"
           },
           "BWP": {
-            "displayName": "ବୋଟସୱାନିୟ ପୁଲା",
-            "displayName-count-one": "ବୋଟସୱାନିୟ ପୁଲା",
-            "displayName-count-other": "ବୋଟସୱାନିୟ ପୁଲା",
+            "displayName": "ବୋତ୍ସୱାନା ପୁଲା",
+            "displayName-count-one": "ବୋତ୍ସୱାନା ପୁଲା",
+            "displayName-count-other": "ବୋତ୍ସୱାନା ପୁଲା",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -285,9 +285,9 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "ବେଲାରୁସିୟ ରୁବଲେ",
-            "displayName-count-one": "ବେଲାରୁସିୟ ରୁବଲେ",
-            "displayName-count-other": "ବେଲାରୁସିୟ ରୁବଲେ",
+            "displayName": "ବେଲାରୁସି ରୁବଲ୍",
+            "displayName-count-one": "ବେଲାରୁସି ରୁବଲ୍",
+            "displayName-count-other": "ବେଲାରୁସି ରୁବଲ୍",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -296,9 +296,9 @@
             "symbol": "BYR"
           },
           "BZD": {
-            "displayName": "ବେଲିଜେ ଡଲାର୍",
-            "displayName-count-one": "ବେଲିଜେ ଡଲାର୍",
-            "displayName-count-other": "ବେଲିଜେ ଡଲାର୍",
+            "displayName": "ବେଲିଜ୍ ଡଲାର୍",
+            "displayName-count-one": "ବେଲିଜ୍ ଡଲାର୍",
+            "displayName-count-other": "ବେଲିଜ୍ ଡଲାର୍",
             "symbol": "BZD",
             "symbol-alt-narrow": "$"
           },
@@ -310,9 +310,9 @@
             "symbol-alt-narrow": "$"
           },
           "CDF": {
-            "displayName": "କୋନଗୋଲେସେ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-one": "କୋନଗୋଲେସେ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-other": "କୋନଗୋଲେସେ ଫ୍ରାଙ୍କ୍",
+            "displayName": "କଙ୍ଗୋଲିଜ୍ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-one": "କଙ୍ଗୋଲିଜ୍ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-other": "କଙ୍ଗୋଲିଜ୍ ଫ୍ରାଙ୍କ୍",
             "symbol": "CDF"
           },
           "CHE": {
@@ -338,16 +338,16 @@
             "symbol": "CLF"
           },
           "CLP": {
-            "displayName": "ଚିଲିୟ ପେସୋ",
-            "displayName-count-one": "ଚିଲିୟ ପେସୋ",
-            "displayName-count-other": "ଚିଲିୟ ପେସୋ",
+            "displayName": "ଚିଲି ପେସୋ",
+            "displayName-count-one": "ଚିଲି ପେସୋ",
+            "displayName-count-other": "ଚିଲି ପେସୋ",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "ଚୀନିୟ ୟୁଆନ୍ (ଅଫସୋର୍)",
-            "displayName-count-one": "ଚୀନିୟ ୟୁଆନ୍ (ଉପକୂଳବର୍ତ୍ତୀ)",
-            "displayName-count-other": "ଚୀନିୟ ୟୁଆନ୍ (ଅଫସୋର୍)",
+            "displayName": "ଚିନୀ ୟୁଆନ୍ (ଅଫସୋର୍)",
+            "displayName-count-one": "ଚିନୀ ୟୁଆନ୍ (ଉପକୂଳବର୍ତ୍ତୀ)",
+            "displayName-count-other": "ଚିନୀ ୟୁଆନ୍ (ଅଫସୋର୍)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -355,16 +355,16 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "ଚିନୀୟ ୟୁଆନ୍",
-            "displayName-count-one": "ଚିନୀୟ ୟୁଆନ୍",
-            "displayName-count-other": "ଚିନୀୟ ୟୁଆନ୍",
+            "displayName": "ଚିନୀ ୟୁଆନ୍",
+            "displayName-count-one": "ଚିନୀ ୟୁଆନ୍",
+            "displayName-count-other": "ଚିନୀ ୟୁଆନ୍",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
           "COP": {
-            "displayName": "କଲୋମ୍ଵିୟ ପେସୋ",
-            "displayName-count-one": "କଲୋମ୍ଵିୟ ପେସୋ",
-            "displayName-count-other": "କଲୋମ୍ଵିୟ ପେସୋ",
+            "displayName": "କଲୋମ୍ବୀୟ ପେସୋ",
+            "displayName-count-one": "କଲୋମ୍ବୀୟ ପେସୋ",
+            "displayName-count-other": "କଲୋମ୍ବୀୟ ପେସୋ",
             "symbol": "COP",
             "symbol-alt-narrow": "$"
           },
@@ -373,9 +373,9 @@
             "symbol": "COU"
           },
           "CRC": {
-            "displayName": "କୋଷ୍ଟା ରିକିୟ କୋଲୋନ୍",
-            "displayName-count-one": "କୋଷ୍ଟା ରିକିୟ କୋଲୋନ୍",
-            "displayName-count-other": "କୋଷ୍ଟା ରିକିୟ କୋଲୋନ୍",
+            "displayName": "କୋଷ୍ଟା ରିକୀୟ କୋଲୋନ୍",
+            "displayName-count-one": "କୋଷ୍ଟା ରିକୀୟ କୋଲୋନ୍",
+            "displayName-count-other": "କୋଷ୍ଟା ରିକୀୟ କୋଲୋନ୍",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -388,23 +388,23 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "କୁବାନ୍ କୋନଭେର୍ଟିବ୍ଲେ ପେସୋ",
-            "displayName-count-one": "କୁବାନ୍ କୋନଭେର୍ଟିବ୍ଲେ ପେସୋ",
-            "displayName-count-other": "କୁବାନ୍ କୋନଭେର୍ଟିବ୍ଲେ ପେସୋ",
+            "displayName": "କ୍ୟୁବାନ୍ କନଭର୍ଟିବଲ୍ ପେସୋ",
+            "displayName-count-one": "କ୍ୟୁବାନ୍ କନଭର୍ଟିବଲ୍ ପେସୋ",
+            "displayName-count-other": "କ୍ୟୁବାନ୍ କନଭର୍ଟିବଲ୍ ପେସୋ",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "କୁବାନ୍ ପେସୋ",
-            "displayName-count-one": "କୁବାନ୍ ପେସୋ",
-            "displayName-count-other": "କୁବାନ୍ ପେସୋ",
+            "displayName": "କ୍ୟୁବାନ୍ ପେସୋ",
+            "displayName-count-one": "କ୍ୟୁବାନ୍ ପେସୋ",
+            "displayName-count-other": "କ୍ୟୁବାନ୍ ପେସୋ",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
           "CVE": {
-            "displayName": "କେପ୍ ଭେର୍ଦେୟ ଏସକୁଡୋ",
-            "displayName-count-one": "କେପ୍ ଭେର୍ଦେୟ ଏସକୁଡୋ",
-            "displayName-count-other": "କେପ୍ ଭେର୍ଦେୟ ଏସକୁଡୋ",
+            "displayName": "କେପ୍ ଭେର୍ଦେୟ ଏସ୍କୁଡୋ",
+            "displayName-count-one": "କେପ୍ ଭେର୍ଦେୟ ଏସ୍କୁଡୋ",
+            "displayName-count-other": "କେପ୍ ଭେର୍ଦେୟ ଏସ୍କୁଡୋ",
             "symbol": "CVE"
           },
           "CYP": {
@@ -427,29 +427,29 @@
             "symbol": "DEM"
           },
           "DJF": {
-            "displayName": "ଡଜିବୌଟିୟ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-one": "ଡଜିବୌଟିୟ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-other": "ଡଜିବୌଟିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName": "ଜିବୌଟିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-one": "ଜିବୌଟିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-other": "ଜିବୌଟିୟ ଫ୍ରାଙ୍କ୍",
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "ଦାନିସ୍ କ୍ରୋନେ",
-            "displayName-count-one": "ଦାନିସ୍ କ୍ରୋନେ",
-            "displayName-count-other": "ଦାନିସ୍ କ୍ରୋନେ",
+            "displayName": "ଡାନିସ୍ କ୍ରୋନ୍",
+            "displayName-count-one": "ଡାନିସ୍ କ୍ରୋନ୍",
+            "displayName-count-other": "ଡାନିସ୍ କ୍ରୋନ୍",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "ଡୋମିନିକିୟ ପେସୋ",
-            "displayName-count-one": "ଡୋମିନିକିୟ ପେସୋ",
-            "displayName-count-other": "ଡୋମିନିକିୟ ପେସୋ",
+            "displayName": "ଡୋମିନିକୀୟ ପେସୋ",
+            "displayName-count-one": "ଡୋମିନିକୀୟ ପେସୋ",
+            "displayName-count-other": "ଡୋମିନିକୀୟ ପେସୋ",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "ଆଲଗେରିୟ ଦିନାର୍",
-            "displayName-count-one": "ଆଲଗେରିୟ ଦିନାର୍",
-            "displayName-count-other": "ଆଲଗେରିୟ ଦିନାର୍",
+            "displayName": "ଆଲଜେରୀୟ ଦିନାର୍",
+            "displayName-count-one": "ଆଲଜେରୀୟ ଦିନାର୍",
+            "displayName-count-other": "ଆଲଜେରୀୟ ଦିନାର୍",
             "symbol": "DZD"
           },
           "ECS": {
@@ -491,9 +491,9 @@
             "symbol-alt-narrow": "₧"
           },
           "ETB": {
-            "displayName": "ଏଥିଓପିୟୋ ବିର୍",
-            "displayName-count-one": "ଏଥିଓପିୟୋ ବିର୍",
-            "displayName-count-other": "ଏଥିଓପିୟୋ ବିର୍",
+            "displayName": "ଇଥିଓପିୟ ବିର୍",
+            "displayName-count-one": "ଇଥିଓପିୟ ବିର୍",
+            "displayName-count-other": "ଇଥିଓପିୟ ବିର୍",
             "symbol": "ETB"
           },
           "EUR": {
@@ -508,16 +508,16 @@
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "ଫିଜିୟ ଡଲାର୍",
-            "displayName-count-one": "ଫିଜିୟ ଡଲାର୍",
-            "displayName-count-other": "ଫିଜିୟ ଡଲାର୍",
+            "displayName": "ଫିଜି ଡଲାର୍",
+            "displayName-count-one": "ଫିଜି ଡଲାର୍",
+            "displayName-count-other": "ଫିଜି ଡଲାର୍",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "ଫାଲ୍କଲ୍ୟାଣ୍ଡ୍ ଦ୍ଵୀପପୁଞ୍ଜ ପାଉଣ୍ଡ୍",
-            "displayName-count-one": "ଫାଲ୍କଲ୍ୟାଣ୍ଡ୍ ଦ୍ଵୀପପୁଞ୍ଜ ପାଉଣ୍ଡ୍",
-            "displayName-count-other": "ଫାଲ୍କଲ୍ୟାଣ୍ଡ୍ ଦ୍ଵୀପପୁଞ୍ଜ ପାଉଣ୍ଡ୍",
+            "displayName": "ଫକଲ୍ୟାଣ୍ଡ୍ ଦ୍ଵୀପପୁଞ୍ଜ ପାଉଣ୍ଡ୍",
+            "displayName-count-one": "ଫକଲ୍ୟାଣ୍ଡ୍ ଦ୍ଵୀପପୁଞ୍ଜ ପାଉଣ୍ଡ୍",
+            "displayName-count-other": "ଫକଲ୍ୟାଣ୍ଡ୍ ଦ୍ଵୀପପୁଞ୍ଜ ପାଉଣ୍ଡ୍",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -526,9 +526,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "ବ୍ରିଟିସ୍ ପାଉଣ୍ଡ୍",
-            "displayName-count-one": "ବ୍ରିଟିସ୍ ପାଉଣ୍ଡ୍",
-            "displayName-count-other": "ବ୍ରିଟିସ୍ ପାଉଣ୍ଡ୍",
+            "displayName": "ବ୍ରିଟିଶ୍ ପାଉଣ୍ଡ୍",
+            "displayName-count-one": "ବ୍ରିଟିଶ୍ ପାଉଣ୍ଡ୍",
+            "displayName-count-other": "ବ୍ରିଟିଶ୍ ପାଉଣ୍ଡ୍",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -554,16 +554,16 @@
             "symbol": "GHS"
           },
           "GIP": {
-            "displayName": "ଗିବ୍ରାଲଟାର୍ ପାଉଣ୍ଡ୍",
-            "displayName-count-one": "ଗିବ୍ରାଲଟାର୍ ପାଉଣ୍ଡ୍",
-            "displayName-count-other": "ଗିବ୍ରାଲଟାର୍ ପାଉଣ୍ଡ୍",
+            "displayName": "ଗିବ୍ରାଲଟର୍ ପାଉଣ୍ଡ୍",
+            "displayName-count-one": "ଗିବ୍ରାଲଟର୍ ପାଉଣ୍ଡ୍",
+            "displayName-count-other": "ଗିବ୍ରାଲଟର୍ ପାଉଣ୍ଡ୍",
             "symbol": "GIP",
             "symbol-alt-narrow": "£"
           },
           "GMD": {
-            "displayName": "ଗାମବିୟ ଡାଲାସି",
-            "displayName-count-one": "ଗାମବିୟ ଡାଲାସି",
-            "displayName-count-other": "ଗାମବିୟ ଡାଲାସି",
+            "displayName": "ଗାମ୍ବିୟ ଡାଲାସି",
+            "displayName-count-one": "ଗାମ୍ବିୟ ଡାଲାସି",
+            "displayName-count-other": "ଗାମ୍ବିୟ ଡାଲାସି",
             "symbol": "GMD"
           },
           "GNF": {
@@ -586,9 +586,9 @@
             "symbol": "GRD"
           },
           "GTQ": {
-            "displayName": "ଗୁଏତେମାଲିୟ କ୍ଵେତଜାଲ୍",
-            "displayName-count-one": "ଗୁଏତେମାଲିୟ କ୍ଵେତଜାଲ୍",
-            "displayName-count-other": "ଗୁଏତେମାଲିୟ କ୍ଵେତଜାଲ୍",
+            "displayName": "ଗୁଏଟମାଲୀୟ କ୍ଵେତଜାଲ୍",
+            "displayName-count-one": "ଗୁଏଟମାଲୀୟ କ୍ଵେତଜାଲ୍",
+            "displayName-count-other": "ଗୁଏଟମାଲୀୟ କ୍ଵେତଜାଲ୍",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -601,9 +601,9 @@
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "ଗୁୟାନାଏସେ ଡଲାର୍",
-            "displayName-count-one": "ଗୁୟାନାଏସେ ଡଲାର୍",
-            "displayName-count-other": "ଗୁୟାନାଏସେ ଡଲାର୍",
+            "displayName": "ଗାୟାନିସ୍ ଡଲାର୍",
+            "displayName-count-one": "ଗାୟାନିସ୍ ଡଲାର୍",
+            "displayName-count-other": "ଗାୟାନିସ୍ ଡଲାର୍",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
@@ -615,9 +615,9 @@
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "ହୋଣ୍ଡୁରିୟ ଲେମପିରା",
-            "displayName-count-one": "ହୋଣ୍ଡୁରିୟ ଲେମପିରା",
-            "displayName-count-other": "ହୋଣ୍ଡୁରିୟ ଲେମପିରା",
+            "displayName": "ହୋଣ୍ଡୁରୀୟ ଲେମପିରା",
+            "displayName-count-one": "ହୋଣ୍ଡୁରୀୟ ଲେମପିରା",
+            "displayName-count-other": "ହୋଣ୍ଡୁରୀୟ ଲେମପିରା",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
@@ -626,29 +626,29 @@
             "symbol": "HRD"
           },
           "HRK": {
-            "displayName": "କ୍ରୋଆଟିୟ କୁନା",
-            "displayName-count-one": "କ୍ରୋଆଟିୟ କୁନା",
-            "displayName-count-other": "କ୍ରୋଆଟିୟ କୁନା",
+            "displayName": "କ୍ରୋଏସୀୟ କୁନା",
+            "displayName-count-one": "କ୍ରୋଏସୀୟ କୁନା",
+            "displayName-count-other": "କ୍ରୋଏସୀୟ କୁନା",
             "symbol": "HRK",
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "ହାଇତିୟ ଗୌରଡେ",
-            "displayName-count-one": "ହାଇତିୟ ଗୌରଡେ",
-            "displayName-count-other": "ହାଇତିୟ ଗୌରଡେ",
+            "displayName": "ହାଇତୀୟ ଗୋରଡ୍",
+            "displayName-count-one": "ହାଇତୀୟ ଗୋରଡ୍",
+            "displayName-count-other": "ହାଇତୀୟ ଗୋରଡ୍",
             "symbol": "HTG"
           },
           "HUF": {
-            "displayName": "ହଙ୍ଗେରିୟ ଫୋରିଣ୍ଟ",
-            "displayName-count-one": "ହଙ୍ଗେରିୟ ଫୋରିଣ୍ଟ",
-            "displayName-count-other": "ହଙ୍ଗେରିୟ ଫୋରିଣ୍ଟ",
+            "displayName": "ହଙ୍ଗେରିୟ ଫୋରିଣ୍ଟ୍",
+            "displayName-count-one": "ହଙ୍ଗେରିୟ ଫୋରିଣ୍ଟ୍",
+            "displayName-count-other": "ହଙ୍ଗେରିୟ ଫୋରିଣ୍ଟ୍",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "ଇଣ୍ଡୋନେସିୟ ରୁପିଆହ",
-            "displayName-count-one": "ଇଣ୍ଡୋନେସିୟ ରୁପିଆହ",
-            "displayName-count-other": "ଇଣ୍ଡୋନେସିୟ ରୁପିଆହ",
+            "displayName": "ଇଣ୍ଡୋନେସିୟ ରୁପିଆ",
+            "displayName-count-one": "ଇଣ୍ଡୋନେସିୟ ରୁପିଆ",
+            "displayName-count-other": "ଇଣ୍ଡୋନେସିୟ ରୁପିଆ",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
@@ -665,16 +665,16 @@
             "symbol": "ILR"
           },
           "ILS": {
-            "displayName": "ଇସ୍ରାଇଲି ନ୍ୟୁ ସେକେଲ୍",
-            "displayName-count-one": "ଇସ୍ରାଇଲି ନ୍ୟୁ ସେକେଲ୍",
-            "displayName-count-other": "ଇସ୍ରାଇଲି ନ୍ୟୁ ସେକେଲ୍",
+            "displayName": "ଇସ୍ରାଇଲି ନ୍ୟୁ ଶେକେଲ୍",
+            "displayName-count-one": "ଇସ୍ରାଇଲି ନ୍ୟୁ ଶେକେଲ୍",
+            "displayName-count-other": "ଇସ୍ରାଇଲି ନ୍ୟୁ ଶେକେଲ୍",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "ଟଙ୍କା",
-            "displayName-count-one": "ଟଙ୍କା",
-            "displayName-count-other": "ଟଙ୍କା",
+            "displayName": "ଭାରତୀୟ ଟଙ୍କା",
+            "displayName-count-one": "ଭାରତୀୟ ଟଙ୍କା",
+            "displayName-count-other": "ଭାରତୀୟ ଟଙ୍କା",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -685,9 +685,9 @@
             "symbol": "IQD"
           },
           "IRR": {
-            "displayName": "ଇରିୟ ରିଆଲ୍",
-            "displayName-count-one": "ଇରିୟ ରିଆଲ୍",
-            "displayName-count-other": "ଇରିୟ ରିଆଲ୍",
+            "displayName": "ଇରାନୀ ରିଆଲ୍",
+            "displayName-count-one": "ଇରାନୀ ରିଆଲ୍",
+            "displayName-count-other": "ଇରାନୀ ରିଆଲ୍",
             "symbol": "IRR"
           },
           "ISJ": {
@@ -695,9 +695,9 @@
             "symbol": "ISJ"
           },
           "ISK": {
-            "displayName": "ଆଇସଲ୍ୟାଣ୍ଡିୟ କ୍ରୋନା",
-            "displayName-count-one": "ଆଇସଲ୍ୟାଣ୍ଡିୟ କ୍ରୋନା",
-            "displayName-count-other": "ଆଇସଲ୍ୟାଣ୍ଡିୟ କ୍ରୋନା",
+            "displayName": "ଆଇସଲ୍ୟାଣ୍ଡିକ୍‍ କ୍ରୋନା",
+            "displayName-count-one": "ଆଇସଲ୍ୟାଣ୍ଡିକ୍‍ କ୍ରୋନା",
+            "displayName-count-other": "ଆଇସଲ୍ୟାଣ୍ଡିକ୍‍ କ୍ରୋନା",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
@@ -706,35 +706,35 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "ଜାମାଇକିୟ ଡଲାର୍",
-            "displayName-count-one": "ଜାମାଇକିୟ ଡଲାର୍",
-            "displayName-count-other": "ଜାମାଇକିୟ ଡଲାର୍",
+            "displayName": "ଜାମାଇକୀୟ ଡଲାର୍",
+            "displayName-count-one": "ଜାମାଇକୀୟ ଡଲାର୍",
+            "displayName-count-other": "ଜାମାଇକୀୟ ଡଲାର୍",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "ଜର୍ଡିୟାନ୍ ଦିନାର୍",
-            "displayName-count-one": "ଜର୍ଡିୟାନ୍ ଦିନାର୍",
-            "displayName-count-other": "ଜର୍ଡିୟାନ୍ ଦିନାର୍",
+            "displayName": "ଜର୍ଡାନିୟ ଦିନାର୍",
+            "displayName-count-one": "ଜର୍ଡାନିୟ ଦିନାର୍",
+            "displayName-count-other": "ଜର୍ଡାନିୟ ଦିନାର୍",
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "ଜାପାନୀୟ ୟେନ୍",
-            "displayName-count-one": "ଜାପାନୀୟ ୟେନ୍",
-            "displayName-count-other": "ଜାପାନୀୟ ୟେନ୍",
+            "displayName": "ଜାପାନୀ ୟେନ୍",
+            "displayName-count-one": "ଜାପାନୀ ୟେନ୍",
+            "displayName-count-other": "ଜାପାନୀ ୟେନ୍",
             "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
-            "displayName": "କେନୟାନ୍ ସିଲିଂ",
-            "displayName-count-one": "କେନୟାନ୍ ସିଲିଂ",
-            "displayName-count-other": "କେନୟାନ୍ ସିଲିଂ",
+            "displayName": "କେନିୟ ଶିଲିଂ",
+            "displayName-count-one": "କେନିୟ ଶିଲିଂ",
+            "displayName-count-other": "କେନିୟ ଶିଲିଂ",
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "କ୍ୟାରଗ୍ୟସ୍ତାନିୟ ସୋମ୍",
-            "displayName-count-one": "କ୍ୟାରଗ୍ୟସ୍ତାନିୟ ସୋମ୍",
-            "displayName-count-other": "କ୍ୟାରଗ୍ୟସ୍ତାନିୟ ସୋମ୍",
+            "displayName": "କିର୍ଗିସ୍ତାନୀ ସୋମ୍",
+            "displayName-count-one": "କିର୍ଗିସ୍ତାନୀ ସୋମ୍",
+            "displayName-count-other": "କିର୍ଗିସ୍ତାନୀ ସୋମ୍",
             "symbol": "KGS"
           },
           "KHR": {
@@ -745,16 +745,16 @@
             "symbol-alt-narrow": "៛"
           },
           "KMF": {
-            "displayName": "କୋମୋରିୟ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-one": "କୋମୋରିୟ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-other": "କୋମୋରିୟ ଫ୍ରାଙ୍କ୍",
+            "displayName": "କୋମୋରୀୟ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-one": "କୋମୋରୀୟ ଫ୍ରାଙ୍କ୍",
+            "displayName-count-other": "କୋମୋରୀୟ ଫ୍ରାଙ୍କ୍",
             "symbol": "KMF",
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "ପଶ୍ଚିମ କୋରିୟ ୱୋନ୍",
-            "displayName-count-one": "ପଶ୍ଚିମ କୋରିୟ ୱୋନ୍",
-            "displayName-count-other": "ପଶ୍ଚିମ କୋରିୟ ୱୋନ୍",
+            "displayName": "ଉତ୍ତର କୋରିଆଇ ୱୋନ୍",
+            "displayName-count-one": "ଉତ୍ତର କୋରିଆଇ ୱୋନ୍",
+            "displayName-count-other": "ଉତ୍ତର କୋରିଆଇ ୱୋନ୍",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -767,29 +767,29 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "ଦକ୍ଷିଣ କୋରିୟ ୱୋନ୍",
-            "displayName-count-one": "ଦକ୍ଷିଣ କୋରିୟ ୱୋନ୍",
-            "displayName-count-other": "ଦକ୍ଷିଣ କୋରିୟ ୱୋନ୍",
+            "displayName": "ଦକ୍ଷିଣ କୋରିଆଇ ୱୋନ୍",
+            "displayName-count-one": "ଦକ୍ଷିଣ କୋରିଆଇ ୱୋନ୍",
+            "displayName-count-other": "ଦକ୍ଷିଣ କୋରିଆଇ ୱୋନ୍",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "କୁୱେତି ଦିନାର",
-            "displayName-count-one": "କୁୱେତି ଦିନାର",
-            "displayName-count-other": "କୁୱେତି ଦିନାର",
+            "displayName": "କୁୱେତି ଦିନାର୍",
+            "displayName-count-one": "କୁୱେତି ଦିନାର୍",
+            "displayName-count-other": "କୁୱେତି ଦିନାର୍",
             "symbol": "KWD"
           },
           "KYD": {
-            "displayName": "କାୟମାନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
-            "displayName-count-one": "କାୟମାନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
-            "displayName-count-other": "କାୟମାନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
+            "displayName": "କେମେନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
+            "displayName-count-one": "କେମେନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
+            "displayName-count-other": "କେମେନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "କାଜାଖସ୍ତାନିୟ ତେନଗେ",
-            "displayName-count-one": "କାଜାଖସ୍ତାନିୟ ତେନଗେ",
-            "displayName-count-other": "କାଜାଖସ୍ତାନିୟ ତେନଗେ",
+            "displayName": "କାଜାକସ୍ତାନୀ ତେଙ୍ଗେ",
+            "displayName-count-one": "କାଜାକସ୍ତାନୀ ତେଙ୍ଗେ",
+            "displayName-count-other": "କାଜାକସ୍ତାନୀ ତେଙ୍ଗେ",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
@@ -801,9 +801,9 @@
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "ଲେବାନେସେ ପାଉଣ୍ଡ୍",
-            "displayName-count-one": "ଲେବାନେସେ ପାଉଣ୍ଡ୍",
-            "displayName-count-other": "ଲେବାନେସେ ପାଉଣ୍ଡ୍",
+            "displayName": "ଲେବାନିଜ୍ ପାଉଣ୍ଡ୍",
+            "displayName-count-one": "ଲେବାନିଜ୍ ପାଉଣ୍ଡ୍",
+            "displayName-count-other": "ଲେବାନିଜ୍ ପାଉଣ୍ଡ୍",
             "symbol": "LBP",
             "symbol-alt-narrow": "L£"
           },
@@ -815,9 +815,9 @@
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
-            "displayName": "ଲିବେରିୟ ଡଲାର୍",
-            "displayName-count-one": "ଲିବେରିୟ ଡଲାର୍",
-            "displayName-count-other": "ଲିବେରିୟ ଡଲାର୍",
+            "displayName": "ଲିବେରୀୟ ଡଲାର୍",
+            "displayName-count-one": "ଲିବେରୀୟ ଡଲାର୍",
+            "displayName-count-other": "ଲିବେରୀୟ ଡଲାର୍",
             "symbol": "LRD",
             "symbol-alt-narrow": "$"
           },
@@ -862,9 +862,9 @@
             "symbol": "LYD"
           },
           "MAD": {
-            "displayName": "ମୋରୋକିୟ ଡିରହାମ୍",
-            "displayName-count-one": "ମୋରୋକିୟ ଡିରହାମ୍",
-            "displayName-count-other": "ମୋରୋକିୟ ଡିରହାମ୍",
+            "displayName": "ମୋରୋକୀୟ ଦିର୍ହାମ୍",
+            "displayName-count-one": "ମୋରୋକୀୟ ଦିର୍ହାମ୍",
+            "displayName-count-other": "ମୋରୋକୀୟ ଦିର୍ହାମ୍",
             "symbol": "MAD"
           },
           "MAF": {
@@ -886,9 +886,9 @@
             "symbol": "MDL"
           },
           "MGA": {
-            "displayName": "ମାଲାଗାସେ ଆରିଆରେ",
-            "displayName-count-one": "ମାଲାଗାସେ ଆରିଆରେ",
-            "displayName-count-other": "ମାଲାଗାସେ ଆରିଆରେ",
+            "displayName": "ମାଲାଗାସି ଏରିଆରୀ",
+            "displayName-count-one": "ମାଲାଗାସି ଏରିଆରୀ",
+            "displayName-count-other": "ମାଲାଗାସି ଏରିଆରୀ",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
@@ -897,9 +897,9 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "ମାସେଡୋନିୟ ଡିନାର୍",
-            "displayName-count-one": "ମାସେଡୋନିୟ ଡିନାର୍",
-            "displayName-count-other": "ମାସେଡୋନିୟ ଡିନାର୍",
+            "displayName": "ମାସେଡୋନୀୟ ଡିନର୍",
+            "displayName-count-one": "ମାସେଡୋନୀୟ ଡିନର୍",
+            "displayName-count-other": "ମାସେଡୋନୀୟ ଡିନର୍",
             "symbol": "MKD"
           },
           "MKN": {
@@ -911,30 +911,36 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "ମ୍ୟାନମାର୍ କ୍ୟାଟ୍",
-            "displayName-count-one": "ମ୍ୟାନମାର୍ କ୍ୟାଟ୍",
-            "displayName-count-other": "ମ୍ୟାନମାର୍ କ୍ୟାଟ୍",
+            "displayName": "ମ୍ୟାନମାର୍ କ୍ୟାତ୍‌",
+            "displayName-count-one": "ମ୍ୟାନମାର୍ କ୍ୟାତ୍‌",
+            "displayName-count-other": "ମ୍ୟାନମାର୍ କ୍ୟାତ୍‌",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
           "MNT": {
-            "displayName": "ମଙ୍ଗୋଳିୟ ତୁଗ୍ରିକ୍",
-            "displayName-count-one": "ମଙ୍ଗୋଳିୟ ତୁଗ୍ରିକ୍",
-            "displayName-count-other": "ମଙ୍ଗୋଳିୟ ତୁଗ୍ରିକ୍",
+            "displayName": "ମଙ୍ଗୋଲିୟ ତୁଗ୍ରିକ୍",
+            "displayName-count-one": "ମଙ୍ଗୋଲିୟ ତୁଗ୍ରିକ୍",
+            "displayName-count-other": "ମଙ୍ଗୋଲିୟ ତୁଗ୍ରିକ୍",
             "symbol": "MNT",
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "ମାକାନେସିୟ ପାଟାକା",
-            "displayName-count-one": "ମାକାନେସିୟ ପାଟାକା",
-            "displayName-count-other": "ମାକାନେସିୟ ପାଟାକା",
+            "displayName": "ମାକାନେଜ୍ ପାଟାକା",
+            "displayName-count-one": "ମାକାନେଜ୍ ପାଟାକା",
+            "displayName-count-other": "ମାକାନେଜ୍ ପାଟାକା",
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "ମାଉରିଟାନିୟ ଓୟୁଗୁଇୟା",
-            "displayName-count-one": "ମାଉରିଟାନିୟ ଓୟୁଗୁଇୟା",
-            "displayName-count-other": "ମାଉରିଟାନିୟ ଓୟୁଗୁଇୟା",
+            "displayName": "ମର୍ଟିନିୟ ଆଗୁଇଅ (1973–2017)",
+            "displayName-count-one": "ମର୍ଟିନିୟ ଆଗୁଇଅ (1973–2017)",
+            "displayName-count-other": "ମର୍ଟିନିୟ ଆଗୁଇଅ (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "ମର୍ଟିନିୟ ଆଗୁଇଅ",
+            "displayName-count-one": "ମର୍ଟିନିୟ ଆଗୁଇଅ",
+            "displayName-count-other": "ମର୍ଟିନିୟ ଆଗୁଇଅ",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -945,9 +951,9 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "ମୌରିସିୟ ରୁପି",
-            "displayName-count-one": "ମୌରିସିୟ ରୁପି",
-            "displayName-count-other": "ମୌରିସିୟ ରୁପି",
+            "displayName": "ମୌରିସୀୟ ରୁପି",
+            "displayName-count-one": "ମୌରିସୀୟ ରୁପି",
+            "displayName-count-other": "ମୌରିସୀୟ ରୁପି",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
@@ -962,15 +968,15 @@
             "symbol": "MVR"
           },
           "MWK": {
-            "displayName": "ମଲୱିୟ କୱାଚା",
-            "displayName-count-one": "ମଲୱିୟ କୱାଚା",
-            "displayName-count-other": "ମଲୱିୟ କୱାଚା",
+            "displayName": "ମଲାୱି କ୍ୱାଚା",
+            "displayName-count-one": "ମଲାୱି କ୍ୱାଚା",
+            "displayName-count-other": "ମଲାୱି କ୍ୱାଚା",
             "symbol": "MWK"
           },
           "MXN": {
-            "displayName": "ମେକ୍ସିକିୟ ପେସୋ",
-            "displayName-count-one": "ମେକ୍ସିକିୟ ପେସୋ",
-            "displayName-count-other": "ମେକ୍ସିକିୟ ପେସୋ",
+            "displayName": "ମେକ୍ସିକୀୟ ପେସୋ",
+            "displayName-count-one": "ମେକ୍ସିକୀୟ ପେସୋ",
+            "displayName-count-other": "ମେକ୍ସିକୀୟ ପେସୋ",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -983,9 +989,9 @@
             "symbol": "MXV"
           },
           "MYR": {
-            "displayName": "ମାଲେସିୟ ରିଂଇଟ୍",
-            "displayName-count-one": "ମାଲେସିୟ ରିଂଇଟ୍",
-            "displayName-count-other": "ମାଲେସିୟ ରିଂଇଟ୍",
+            "displayName": "ମାଲେସିୟ ରିଙ୍ଗିଟ୍",
+            "displayName-count-one": "ମାଲେସିୟ ରିଙ୍ଗିଟ୍",
+            "displayName-count-other": "ମାଲେସିୟ ରିଙ୍ଗିଟ୍",
             "symbol": "MYR",
             "symbol-alt-narrow": "RM"
           },
@@ -998,9 +1004,9 @@
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "ମୋଜାମବିକାନ୍ ମେଟିକାଲ୍",
-            "displayName-count-one": "ମୋଜାମବିକାନ୍ ମେଟିକାଲ୍",
-            "displayName-count-other": "ମୋଜାମବିକାନ୍ ମେଟିକାଲ୍",
+            "displayName": "ମୋଜାମ୍ବିକୀୟ ମେଟିକାଲ୍",
+            "displayName-count-one": "ମୋଜାମ୍ବିକୀୟ ମେଟିକାଲ୍",
+            "displayName-count-other": "ମୋଜାମ୍ବିକୀୟ ମେଟିକାଲ୍",
             "symbol": "MZN"
           },
           "NAD": {
@@ -1011,9 +1017,9 @@
             "symbol-alt-narrow": "$"
           },
           "NGN": {
-            "displayName": "ନାଇଜେରିୟ ନାଇରା",
-            "displayName-count-one": "ନାଇଜେରିୟ ନାଇରା",
-            "displayName-count-other": "ନାଇଜେରିୟ ନାଇରା",
+            "displayName": "ନାଇଜେରିଆଇ ନାଇରା",
+            "displayName-count-one": "ନାଇଜେରିଆଇ ନାଇରା",
+            "displayName-count-other": "ନାଇଜେରିଆଇ ନାଇରା",
             "symbol": "NGN",
             "symbol-alt-narrow": "₦"
           },
@@ -1022,9 +1028,9 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "ନିକାରାଗୁଆନ୍ କୋର୍ଡୋବା",
-            "displayName-count-one": "ନିକାରାଗୁଆନ୍ କୋର୍ଡୋବା",
-            "displayName-count-other": "ନିକାରାଗୁଆନ୍ କୋର୍ଡୋବା",
+            "displayName": "ନିକାରାଗୁଆ କୋର୍ଡୋବା",
+            "displayName-count-one": "ନିକାରାଗୁଆ କୋର୍ଡୋବା",
+            "displayName-count-other": "ନିକାରାଗୁଆ କୋର୍ଡୋବା",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -1033,23 +1039,23 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "ନରୱେଜିୟ କ୍ରୋନେ",
-            "displayName-count-one": "ନରୱେଜିୟ କ୍ରୋନେ",
-            "displayName-count-other": "ନରୱେଜିୟ କ୍ରୋନେ",
+            "displayName": "ନରୱେୟୀୟ କ୍ରୋନ୍",
+            "displayName-count-one": "ନରୱେୟୀୟ କ୍ରୋନ୍",
+            "displayName-count-other": "ନରୱେୟୀୟ କ୍ରୋନ୍",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
           "NPR": {
-            "displayName": "ନେପାଳିୟ ରୁପି",
-            "displayName-count-one": "ନେପାଳିୟ ରୁପି",
-            "displayName-count-other": "ନେପାଳିୟ ରୁପି",
+            "displayName": "ନେପାଳି ରୁପି",
+            "displayName-count-one": "ନେପାଳି ରୁପି",
+            "displayName-count-other": "ନେପାଳି ରୁପି",
             "symbol": "NPR",
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
-            "displayName": "ନ୍ୟୁଜଲ୍ୟାଣ୍ଡ୍ ଡଲାର୍",
-            "displayName-count-one": "ନ୍ୟୁଜଲ୍ୟାଣ୍ଡ୍ ଡଲାର୍",
-            "displayName-count-other": "ନ୍ୟୁଜଲ୍ୟାଣ୍ଡ୍ ଡଲାର୍",
+            "displayName": "ନ୍ୟୁଜିଲ୍ୟାଣ୍ଡ୍ ଡଲାର୍",
+            "displayName-count-one": "ନ୍ୟୁଜିଲ୍ୟାଣ୍ଡ୍ ଡଲାର୍",
+            "displayName-count-other": "ନ୍ୟୁଜିଲ୍ୟାଣ୍ଡ୍ ଡଲାର୍",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
@@ -1070,9 +1076,9 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "ପେରୁଭିୟ ସୋଲ୍",
-            "displayName-count-one": "ପେରୁଭିୟ ସୋଲ୍",
-            "displayName-count-other": "ପେରୁଭିୟ ସୋଲ୍",
+            "displayName": "ପେରୁଭୀୟ ସୋଲ୍",
+            "displayName-count-one": "ପେରୁଭୀୟ ସୋଲ୍",
+            "displayName-count-other": "ପେରୁଭୀୟ ସୋଲ୍",
             "symbol": "PEN"
           },
           "PES": {
@@ -1093,16 +1099,16 @@
             "symbol-alt-narrow": "₱"
           },
           "PKR": {
-            "displayName": "ପାକିସ୍ତାନି ରୁପି",
-            "displayName-count-one": "ପାକିସ୍ତାନି ରୁପି",
-            "displayName-count-other": "ପାକିସ୍ତାନି ରୁପି",
+            "displayName": "ପାକିସ୍ତାନୀ ରୁପି",
+            "displayName-count-one": "ପାକିସ୍ତାନୀ ରୁପି",
+            "displayName-count-other": "ପାକିସ୍ତାନୀ ରୁପି",
             "symbol": "PKR",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "ପୋଲିସ୍ ଜଲୋଟି",
-            "displayName-count-one": "ପୋଲିସ୍ ଜଲୋଟି",
-            "displayName-count-other": "ପୋଲିସ୍ ଜଲୋଟି",
+            "displayName": "ପୋଲିଶ୍ ଜ୍ଲଟୀ",
+            "displayName-count-one": "ପୋଲିଶ୍ ଜ୍ଲଟୀ",
+            "displayName-count-other": "ପୋଲିଶ୍ ଜ୍ଲଟୀ",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
@@ -1143,15 +1149,15 @@
             "symbol-alt-narrow": "lei"
           },
           "RSD": {
-            "displayName": "ସର୍ବିୟ ଦିନାର୍",
-            "displayName-count-one": "ସର୍ବିୟ ଦିନାର୍",
-            "displayName-count-other": "ସର୍ବିୟ ଦିନାର୍",
+            "displayName": "ସର୍ବିଆଇ ଦିନାର",
+            "displayName-count-one": "ସର୍ବିଆଇ ଦିନାର",
+            "displayName-count-other": "ସର୍ବିଆଇ ଦିନାର",
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "ଋଷିୟ ରୁବଲେ",
-            "displayName-count-one": "ଋଷିୟ ରୁବଲେ",
-            "displayName-count-other": "ଋଷିୟ ରୁବଲେ",
+            "displayName": "ରୁଷି ରୁବଲ୍",
+            "displayName-count-one": "ରୁଷି ରୁବଲ୍",
+            "displayName-count-other": "ରୁଷି ରୁବଲ୍",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
@@ -1161,9 +1167,9 @@
             "symbol-alt-narrow": "р."
           },
           "RWF": {
-            "displayName": "ରୱାନାଦାନ୍ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-one": "ରୱାନାଦାନ୍ ଫ୍ରାଙ୍କ୍",
-            "displayName-count-other": "ରୱାନାଦାନ୍ ଫ୍ରାଙ୍କ୍",
+            "displayName": "ରୁୱାଣ୍ଡା ଫ୍ରାଙ୍କ୍",
+            "displayName-count-one": "ରୁୱାଣ୍ଡା ଫ୍ରାଙ୍କ୍",
+            "displayName-count-other": "ରୁୱାଣ୍ଡା ଫ୍ରାଙ୍କ୍",
             "symbol": "RWF",
             "symbol-alt-narrow": "RF"
           },
@@ -1174,8 +1180,8 @@
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "ସୋଲୋମୋନ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
-            "displayName-count-one": "ସୋଲୋମୋନ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
+            "displayName": "ସୋଲୋମୋନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
+            "displayName-count-one": "ସୋଲୋମୋନ୍ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
             "displayName-count-other": "ସୋଲୋମୋନ ଦ୍ଵୀପପୁଞ୍ଜ ଡଲାର୍",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
@@ -1191,8 +1197,8 @@
             "symbol": "SDD"
           },
           "SDG": {
-            "displayName": "ସୁଦାନୀୟ ପାଉଣ୍ଡ୍",
-            "displayName-count-one": "ସୁଦାନୀୟ ପାଉଣ୍ଡ୍",
+            "displayName": "ସୁଦାନୀଜ ପାଉଣ୍ଡ୍",
+            "displayName-count-one": "ସୁଦାନୀଜ ପାଉଣ୍ଡ୍",
             "displayName-count-other": "ସୁଦାନୀୟ ପାଉଣ୍ଡ୍",
             "symbol": "SDG"
           },
@@ -1201,16 +1207,16 @@
             "symbol": "SDP"
           },
           "SEK": {
-            "displayName": "ସ୍ୱେଡିୟ କ୍ରୋନା",
-            "displayName-count-one": "ସ୍ୱେଡିୟ କ୍ରୋନା",
-            "displayName-count-other": "ସ୍ୱେଡିୟ କ୍ରୋନା",
+            "displayName": "ସ୍ୱେଡିଶ୍ କ୍ରୋନା",
+            "displayName-count-one": "ସ୍ୱେଡିଶ୍ କ୍ରୋନା",
+            "displayName-count-other": "ସ୍ୱେଡିଶ୍ କ୍ରୋନା",
             "symbol": "SEK",
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "ସିଂଗାପୁର୍ ଡଲାର୍",
-            "displayName-count-one": "ସିଂଗାପୁର୍ ଡଲାର୍",
-            "displayName-count-other": "ସିଂଗାପୁର୍ ଡଲାର୍",
+            "displayName": "ସିଙ୍ଗାପୁର୍ ଡଲାର୍",
+            "displayName-count-one": "ସିଙ୍ଗାପୁର୍ ଡଲାର୍",
+            "displayName-count-other": "ସିଙ୍ଗାପୁର୍ ଡଲାର୍",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
@@ -1230,9 +1236,9 @@
             "symbol": "SKK"
           },
           "SLL": {
-            "displayName": "ସିଏରା ଲେଓନେଆନ୍ ଲେଓନି",
-            "displayName-count-one": "ସିଏରା ଲେଓନେଆନ୍ ଲେଓନି",
-            "displayName-count-other": "ସିଏରା ଲେଓନେଆନ୍ ଲେଓନି",
+            "displayName": "ସିଏରା ଲିଓନୀୟ ଲେଓନ୍",
+            "displayName-count-one": "ସିଏରା ଲିଓନୀୟ ଲେଓନ୍",
+            "displayName-count-other": "ସିଏରା ଲିଓନୀୟ ଲେଓନ୍",
             "symbol": "SLL"
           },
           "SOS": {
@@ -1242,9 +1248,9 @@
             "symbol": "SOS"
           },
           "SRD": {
-            "displayName": "ସୁରିନାମେସେ ଡଲାର୍",
-            "displayName-count-one": "ସୁରିନାମେସେ ଡଲାର୍",
-            "displayName-count-other": "ସୁରିନାମେସେ ଡଲାର୍",
+            "displayName": "ସୁରିନାମିଜ୍ ଡଲାର୍",
+            "displayName-count-one": "ସୁରିନାମିଜ୍ ଡଲାର୍",
+            "displayName-count-other": "ସୁରିନାମିଜ୍ ଡଲାର୍",
             "symbol": "SRD",
             "symbol-alt-narrow": "$"
           },
@@ -1253,22 +1259,24 @@
             "symbol": "SRG"
           },
           "SSP": {
-            "displayName": "ଦକ୍ଷିଣ ସୁଦାନେସେ ପାଉଣ୍ଡ୍",
-            "displayName-count-one": "ଦକ୍ଷିଣ ସୁଦାନେସେ ପାଉଣ୍ଡ୍",
-            "displayName-count-other": "ଦକ୍ଷିଣ ସୁଦାନେସେ ପାଉଣ୍ଡ୍",
+            "displayName": "ଦକ୍ଷିଣ ସୁଡାନିଜ୍‍ ପାଉଣ୍ଡ୍",
+            "displayName-count-one": "ଦକ୍ଷିଣ ସୁଡାନିଜ୍‍ ପାଉଣ୍ଡ୍",
+            "displayName-count-other": "ଦକ୍ଷିଣ ସୁଡାନିଜ୍‍ ପାଉଣ୍ଡ୍",
             "symbol": "SSP",
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "ସାଓ ଟୋମେ ଏବଂ ପ୍ରିସିପେ ଡୋବ୍ରା",
-            "displayName-count-one": "ସାଓ ଟୋମେ ଏବଂ ପ୍ରିସିପେ ଡୋବ୍ରା",
-            "displayName-count-other": "ସାଓ ଟୋମେ ଏବଂ ପ୍ରିସିପେ ଡୋବ୍ରା",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "ସାଓ ତୋମେ & ପ୍ରିସିପ୍ ଡୋବ୍ରା (1977–2017)",
+            "displayName-count-one": "ସାଓ ତୋମେ & ପ୍ରିସିପ୍ ଡୋବ୍ରା (1977–2017)",
+            "displayName-count-other": "ସାଓ ତୋମେ & ପ୍ରିସିପ୍ ଡୋବ୍ରା (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "ସାଓ ତୋମେ & ପ୍ରିସିପ୍ ଡୋବ୍ରା",
+            "displayName-count-one": "ସାଓ ତୋମେ & ପ୍ରିସିପ୍ ଡୋବ୍ରା",
+            "displayName-count-other": "ସାଓ ତୋମେ & ପ୍ରିସିପ୍ ଡୋବ୍ରା",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",
@@ -1286,15 +1294,15 @@
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "ସ୍ଵାଜି ଲିଲାନଜେନି",
-            "displayName-count-one": "ସ୍ଵାଜି ଲିଲାନଜେନି",
-            "displayName-count-other": "ସ୍ଵାଜି ଏମାଲାନଜେନି",
+            "displayName": "ସ୍ଵାଜି ଲିଲାଞ୍ଜେନି",
+            "displayName-count-one": "ସ୍ଵାଜି ଲିଲାଞ୍ଜେନି",
+            "displayName-count-other": "ସ୍ଵାଜି ଇମାଲଞ୍ଜେନି",
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "ଥାଇ ବାହତ୍",
-            "displayName-count-one": "ଥାଇ ବାହତ୍",
-            "displayName-count-other": "ଥାଇ ବାହତ୍",
+            "displayName": "ଥାଇ ଭାଟ୍",
+            "displayName-count-one": "ଥାଇ ଭାଟ୍",
+            "displayName-count-other": "ଥାଇ ଭାଟ୍",
             "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
@@ -1303,9 +1311,9 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "ତାଜିକିସ୍ତାନିୟ ସୋମୋନି",
-            "displayName-count-one": "ତାଜିକିସ୍ତାନିୟ ସୋମୋନି",
-            "displayName-count-other": "ତାଜିକିସ୍ତାନିୟ ସୋମୋନି",
+            "displayName": "ତାଜିକିସ୍ତାନୀ ସୋମୋନି",
+            "displayName-count-one": "ତାଜିକିସ୍ତାନୀ ସୋମୋନି",
+            "displayName-count-other": "ତାଜିକିସ୍ତାନୀ ସୋମୋନି",
             "symbol": "TJS"
           },
           "TMM": {
@@ -1313,21 +1321,21 @@
             "symbol": "TMM"
           },
           "TMT": {
-            "displayName": "ତୁର୍କମେନିସ୍ତାନିୟ ମନତ",
-            "displayName-count-one": "ତୁର୍କମେନିସ୍ତାନିୟ ମନତ",
-            "displayName-count-other": "ତୁର୍କମେନିସ୍ତାନିୟ ମନତ",
+            "displayName": "ତୁର୍କମେନିସ୍ତାନୀ ମନତ୍‌",
+            "displayName-count-one": "ତୁର୍କମେନିସ୍ତାନୀ ମନତ୍‌",
+            "displayName-count-other": "ତୁର୍କମେନିସ୍ତାନୀ ମନତ୍‌",
             "symbol": "TMT"
           },
           "TND": {
-            "displayName": "ତୁନିସିୟ ଦିନାର୍",
-            "displayName-count-one": "ତୁନିସିୟ ଦିନାର୍",
-            "displayName-count-other": "ତୁନିସିୟ ଦିନାର୍",
+            "displayName": "ଟୁନେସିଆଇ ଦିନାର୍",
+            "displayName-count-one": "ଟୁନେସିଆଇ ଦିନାର୍",
+            "displayName-count-other": "ଟୁନେସିଆଇ ଦିନାର୍",
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "ତୋନଗିୟ ପାଙ୍ଗ୍",
-            "displayName-count-one": "ତୋନଗିୟ ପାଙ୍ଗ୍",
-            "displayName-count-other": "ତୋନଗିୟ ପାଙ୍ଗ୍",
+            "displayName": "ତୋଙ୍ଗିୟ ପାଙ୍ଗା",
+            "displayName-count-one": "ତୋଙ୍ଗିୟ ପାଙ୍ଗା",
+            "displayName-count-other": "ତୋଙ୍ଗିୟ ପାଙ୍ଗା",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1348,9 +1356,9 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "ଟ୍ରିନିଡାଡ୍ ଏବଂ ଟୋବାଗୋ ଡଲାର୍",
-            "displayName-count-one": "ଟ୍ରିନିଡାଡ୍ ଏବଂ ଟୋବାଗୋ ଡଲାର୍",
-            "displayName-count-other": "ଟ୍ରିନିଡାଡ୍ ଏବଂ ଟୋବାଗୋ ଡଲାର୍",
+            "displayName": "ତ୍ରିନିଦାଦ୍ ଏବଂ ଟୋବାଗୋ ଡଲାର୍",
+            "displayName-count-one": "ତ୍ରିନିଦାଦ୍ ଏବଂ ଟୋବାଗୋ ଡଲାର୍",
+            "displayName-count-other": "ତ୍ରିନିଦାଦ୍ ଏବଂ ଟୋବାଗୋ ଡଲାର୍",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
@@ -1362,15 +1370,15 @@
             "symbol-alt-narrow": "$"
           },
           "TZS": {
-            "displayName": "ତାନଜାନିୟ ସିଲିଂ",
-            "displayName-count-one": "ତାନଜାନିୟ ସିଲିଂ",
-            "displayName-count-other": "ତାନଜାନିୟ ସିଲିଂ",
+            "displayName": "ତାନଜାନୀୟ ଶିଲିଂ",
+            "displayName-count-one": "ତାନଜାନୀୟ ଶିଲିଂ",
+            "displayName-count-other": "ତାନଜାନୀୟ ଶିଲିଂ",
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "ୟୁକ୍ରେନିୟ ହରୟଭନିଆ",
-            "displayName-count-one": "ୟୁକ୍ରେନିୟ ହରୟଭନିଆ",
-            "displayName-count-other": "ୟୁକ୍ରେନିୟ ହରୟଭନିଆ",
+            "displayName": "ୟୁକ୍ରେନୀୟ ହ୍ରାଇଭନିଆ",
+            "displayName-count-one": "ୟୁକ୍ରେନୀୟ ହ୍ରାଇଭନିଆ",
+            "displayName-count-other": "ୟୁକ୍ରେନୀୟ ହ୍ରାଇଭନିଆ",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
@@ -1383,9 +1391,9 @@
             "symbol": "UGS"
           },
           "UGX": {
-            "displayName": "ୟୁଗାନଡିୟ ସିଲିଂ",
-            "displayName-count-one": "ୟୁଗାନଡିୟ ସିଲିଂ",
-            "displayName-count-other": "ୟୁଗାନଡିୟ ସିଲିଂ",
+            "displayName": "ଉଗାଣ୍ଡିୟ ଶିଲିଂ",
+            "displayName-count-one": "ଉଗାଣ୍ଡିୟ ଶିଲିଂ",
+            "displayName-count-other": "ଉଗାଣ୍ଡିୟ ଶିଲିଂ",
             "symbol": "UGX"
           },
           "USD": {
@@ -1412,16 +1420,16 @@
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "ୟୁରୁଗୁଆୟାନ୍ ପେସୋ",
-            "displayName-count-one": "ୟୁରୁଗୁଆୟାନ୍ ପେସୋ",
-            "displayName-count-other": "ୟୁରୁଗୁଆୟାନ୍ ପେସୋ",
+            "displayName": "ଉରୁଗୁଇୟାନ୍ ପେସୋ",
+            "displayName-count-one": "ଉରୁଗୁଇୟାନ୍ ପେସୋ",
+            "displayName-count-other": "ଉରୁଗୁଇୟାନ୍ ପେସୋ",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
           "UZS": {
-            "displayName": "ଉଜବେକିସ୍ତାନିୟ ସୋମ୍",
-            "displayName-count-one": "ଉଜବେକିସ୍ତାନିୟ ସୋମ୍",
-            "displayName-count-other": "ଉଜବେକିସ୍ତାନିୟ ସୋମ୍",
+            "displayName": "ଉଜବେକିସ୍ତାନୀ ସୋମ୍",
+            "displayName-count-one": "ଉଜବେକିସ୍ତାନୀ ସୋମ୍",
+            "displayName-count-other": "ଉଜବେକିସ୍ତାନୀ ସୋମ୍",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1436,9 +1444,9 @@
             "symbol-alt-narrow": "Bs"
           },
           "VND": {
-            "displayName": "ଭୀଏତନାମୀୟ ଡଂ",
-            "displayName-count-one": "ଭୀଏତନାମୀୟ ଡଂ",
-            "displayName-count-other": "ଭୀଏତନାମୀୟ ଡଂ",
+            "displayName": "ଭୀଏତନାମୀୟ ଡଙ୍ଗ",
+            "displayName-count-one": "ଭୀଏତନାମୀୟ ଡଙ୍ଗ",
+            "displayName-count-other": "ଭୀଏତନାମୀୟ ଡଙ୍ଗ",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1453,15 +1461,15 @@
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "ସମୋୟ ତାଲା",
-            "displayName-count-one": "ସମୋୟ ତାଲା",
-            "displayName-count-other": "ସମୋୟ ତାଲା",
+            "displayName": "ସାମୋୟିୟ ତାଲା",
+            "displayName-count-one": "ସାମୋୟିୟ ତାଲା",
+            "displayName-count-other": "ସାମୋୟିୟ ତାଲା",
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "କେନ୍ଦ୍ରୀୟ ଆଫ୍ରିକିୟ CFA ଫ୍ରାଙ୍କ୍",
-            "displayName-count-one": "କେନ୍ଦ୍ରୀୟ ଆଫ୍ରିକିୟ CFA ଫ୍ରାଙ୍କ୍",
-            "displayName-count-other": "କେନ୍ଦ୍ରୀୟ ଆଫ୍ରିକିୟ CFA ଫ୍ରାଙ୍କ୍",
+            "displayName": "ମଧ୍ୟ ଆଫ୍ରିକୀ CFA ଫ୍ରାଙ୍କ୍",
+            "displayName-count-one": "ମଧ୍ୟ ଆଫ୍ରିକୀ CFA ଫ୍ରାଙ୍କ୍",
+            "displayName-count-other": "ମଧ୍ୟ ଆଫ୍ରିକୀ CFA ଫ୍ରାଙ୍କ୍",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1489,9 +1497,9 @@
             "symbol": "XBD"
           },
           "XCD": {
-            "displayName": "ପୂର୍ବ କାରିବିୟ ଡଲାର୍",
-            "displayName-count-one": "ପୂର୍ବ କାରିବିୟ ଡଲାର୍",
-            "displayName-count-other": "ପୂର୍ବ କାରିବିୟ ଡଲାର୍",
+            "displayName": "ପୂର୍ବ କାରିବୀୟ ଡଲାର୍",
+            "displayName-count-one": "ପୂର୍ବ କାରିବୀୟ ଡଲାର୍",
+            "displayName-count-other": "ପୂର୍ବ କାରିବୀୟ ଡଲାର୍",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
@@ -1549,7 +1557,7 @@
           },
           "XXX": {
             "displayName": "ଅଜଣା ମୁଦ୍ରା",
-            "displayName-count-one": "(ଅଜଣା ମୁଦ୍ରା ଏକକ)",
+            "displayName-count-one": "(ମୁଦ୍ରାର ଅଜଣା ଏକକ)",
             "displayName-count-other": "(ଅଜଣା ମୁଦ୍ରା)",
             "symbol": "XXX"
           },
@@ -1595,9 +1603,9 @@
             "symbol": "ZMK"
           },
           "ZMW": {
-            "displayName": "ଜମ୍ଵିୟ କୱାଚା",
-            "displayName-count-one": "ଜମ୍ଵିୟ କୱାଚା",
-            "displayName-count-other": "ଜମ୍ଵିୟ କୱାଚା",
+            "displayName": "ଜାମ୍ବୀୟ କ୍ୱାଚା",
+            "displayName-count-one": "ଜାମ୍ବୀୟ କ୍ୱାଚା",
+            "displayName-count-other": "ଜାମ୍ବୀୟ କ୍ୱାଚା",
             "symbol": "ZMW",
             "symbol-alt-narrow": "ZK"
           },

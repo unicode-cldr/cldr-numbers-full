@@ -3,8 +3,8 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "shi",
         "script": "Latn"
@@ -752,8 +752,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "uqiyya n muṛiṭanya",
+            "displayName": "uqiyya n muṛiṭanya (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "uqiyya n muṛiṭanya",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1007,13 +1011,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "adubra n sanṭumi",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "adubra n sanṭumi (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "adubra n sanṭumi",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

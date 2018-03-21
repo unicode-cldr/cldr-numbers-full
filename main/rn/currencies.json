@@ -3,8 +3,8 @@
     "rn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "rn"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "Ugwiya ryo muri Moritaniya",
+            "displayName": "Ugwiya ryo muri Moritaniya (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "Ugwiya ryo muri Moritaniya",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Idobura ryo muri Sawotome na Perensipe",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "Idobura ryo muri Sawotome na Perensipe (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "Idobura ryo muri Sawotome na Perensipe",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

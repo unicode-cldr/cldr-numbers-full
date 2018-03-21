@@ -3,8 +3,8 @@
     "bm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "bm"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "mɔritani Uguwiya",
+            "displayName": "mɔritani Uguwiya (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "mɔritani Uguwiya",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "sawotome Dobra",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "sawotome Dobra (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "sawotome Dobra",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

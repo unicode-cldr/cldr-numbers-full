@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13757 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "or"
       },
@@ -273,8 +273,9 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
-          "other": "{0}?"
+          "pluralMinimalPairs-count-one": "{0} ଦିନ",
+          "pluralMinimalPairs-count-other": "{0} ଦିନଗୁଡ଼ିକ",
+          "other": "ଡାହାଣରେ ଥିବା {0} ନିଅନ୍ତୁ"
         }
       }
     }

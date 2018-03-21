@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "tk"
       },
@@ -934,10 +934,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "Mawritan ugiýasy (1973–2017)",
+            "displayName-count-one": "mawritan ugiýasy (1973–2017)",
+            "displayName-count-other": "mawritan ugiýasy (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "Mawritan ugiýasy",
             "displayName-count-one": "mawritan ugiýasy",
             "displayName-count-other": "mawritan ugiýasy",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1263,15 +1269,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "San-Tome we Prinsipi dobrasy (1977–2017)",
+            "displayName-count-one": "san-tome we prinsipi dobrasy (1977–2017)",
+            "displayName-count-other": "san-tome we prinsipi dobrasy (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "San-Tome we Prinsipi dobrasy",
             "displayName-count-one": "san-tome we prinsipi dobrasy",
             "displayName-count-other": "san-tome we prinsipi dobrasy",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "SUR",

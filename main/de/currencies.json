@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13796 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13941 $",
+          "_cldrVersion": "33"
         },
         "language": "de"
       },
@@ -1092,10 +1092,16 @@
             "symbol": "MOP"
           },
           "MRO": {
+            "displayName": "Mauretanischer Ouguiya (1973–2017)",
+            "displayName-count-one": "Mauretanischer Ouguiya (1973–2017)",
+            "displayName-count-other": "Mauretanische Ouguiya (1973–2017)",
+            "symbol": "MRO"
+          },
+          "MRU": {
             "displayName": "Mauretanischer Ouguiya",
             "displayName-count-one": "Mauretanischer Ouguiya",
             "displayName-count-other": "Mauretanische Ouguiya",
-            "symbol": "MRO"
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "Maltesische Lira",
@@ -1463,15 +1469,17 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
+            "displayName": "São-toméischer Dobra (1977–2017)",
+            "displayName-count-one": "São-toméischer Dobra (1977–2017)",
+            "displayName-count-other": "São-toméische Dobra (1977–2017)",
+            "symbol": "STD"
+          },
+          "STN": {
             "displayName": "São-toméischer Dobra",
             "displayName-count-one": "São-toméischer Dobra",
             "displayName-count-other": "São-toméische Dobra",
-            "symbol": "STD",
+            "symbol": "STN",
             "symbol-alt-narrow": "Db"
-          },
-          "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
           },
           "SUR": {
             "displayName": "Sowjetischer Rubel",

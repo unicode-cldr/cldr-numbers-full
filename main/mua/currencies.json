@@ -3,8 +3,8 @@
     "mua": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "mua"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "Solai Mauritaniya",
+            "displayName": "Solai Mauritaniya (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "Solai Mauritaniya",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Solai Sao Tome",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "Solai Sao Tome (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "Solai Sao Tome",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",

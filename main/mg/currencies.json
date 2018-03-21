@@ -3,8 +3,8 @@
     "mg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "mg"
       },
@@ -751,8 +751,12 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "Ouguiya moritanianina",
+            "displayName": "Ouguiya moritanianina (1973–2017)",
             "symbol": "MRO"
+          },
+          "MRU": {
+            "displayName": "Ouguiya moritanianina",
+            "symbol": "MRU"
           },
           "MTL": {
             "displayName": "MTL",
@@ -1006,13 +1010,13 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Dobra",
-            "symbol": "STD",
-            "symbol-alt-narrow": "Db"
+            "displayName": "Dobra (1977–2017)",
+            "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN"
+            "displayName": "Dobra",
+            "symbol": "STN",
+            "symbol-alt-narrow": "Db"
           },
           "SUR": {
             "displayName": "SUR",
