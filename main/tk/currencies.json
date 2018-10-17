@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "tk"
       },
@@ -53,9 +53,9 @@
             "symbol": "ANG"
           },
           "AOA": {
-            "displayName": "Angol kwanzasy",
-            "displayName-count-one": "angol kwanzasy",
-            "displayName-count-other": "angol kwanzasy",
+            "displayName": "Angola kwanzasy",
+            "displayName-count-one": "angola kwanzasy",
+            "displayName-count-other": "angola kwanzasy",
             "symbol": "AOA",
             "symbol-alt-narrow": "Kz"
           },
@@ -126,9 +126,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Konwertirlenýän Bosniýa we Gersogowina markasy",
-            "displayName-count-one": "konwertirlenýän bosniýa we gersogowina markasy",
-            "displayName-count-other": "konwertirlenýän bosniýa we gersogowina markasy",
+            "displayName": "Konwertirlenýän Bosniýa we Gersegowina markasy",
+            "displayName-count-one": "konwertirlenýän bosniýa we gersegowina markasy",
+            "displayName-count-other": "konwertirlenýän bosniýa we gersegowina markasy",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -347,9 +347,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "Hytaý ýuany (ofşor)",
+            "displayName-count-one": "hytaý ýuany (ofşor)",
+            "displayName-count-other": "hytaý ýuany (ofşor)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -1314,9 +1314,9 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "Täjik somonisy",
-            "displayName-count-one": "täjik somonisy",
-            "displayName-count-other": "täjik somonisy",
+            "displayName": "Täjik somonisi",
+            "displayName-count-one": "täjik somonisi",
+            "displayName-count-other": "täjik somonisi",
             "symbol": "TJS"
           },
           "TMM": {
@@ -1429,6 +1429,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Özbek somy",
             "displayName-count-one": "özbek somy",
@@ -1440,11 +1444,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Wenesuela boliwary (2008–2018)",
+            "displayName-count-one": "wenesuela boliwary (2008–2018)",
+            "displayName-count-other": "wenesuela boliwary (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Wenesuela boliwary",
             "displayName-count-one": "wenesuela boliwary",
             "displayName-count-other": "wenesuela boliwary",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Wýetnam dongy",
@@ -1562,7 +1572,7 @@
             "displayName": "Näbelli pul birligi",
             "displayName-count-one": "näbelli pul birligi",
             "displayName-count-other": "näbelli pul birligi",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

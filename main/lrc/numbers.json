@@ -3,8 +3,8 @@
     "lrc": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "lrc"
       },
@@ -191,11 +191,15 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-arabext": {
-          "atLeast": "⩾{0}",
+          "approximately": "~{0}",
+          "atLeast": "≥{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "⩾{0}",
+          "approximately": "~{0}",
+          "atLeast": "≥{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

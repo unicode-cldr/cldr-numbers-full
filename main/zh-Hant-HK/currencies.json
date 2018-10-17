@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "zh",
         "script": "Hant",
@@ -355,6 +355,7 @@
           },
           "CNH": {
             "displayName": "人民幣（離岸）",
+            "displayName-count-other": "人民幣（離岸）",
             "symbol": "CNH"
           },
           "CNX": {
@@ -1395,6 +1396,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "烏茲別克索姆",
             "displayName-count-other": "烏茲別克索姆",
@@ -1406,10 +1411,15 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "委內瑞拉玻利瓦",
-            "displayName-count-other": "委內瑞拉玻利瓦",
+            "displayName": "委內瑞拉玻利瓦 (2008–2018)",
+            "displayName-count-other": "委內瑞拉玻利瓦 (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "displayName-count-other": "委內瑞拉玻利瓦",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "越南盾",

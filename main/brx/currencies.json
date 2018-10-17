@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "brx"
       },
@@ -1136,6 +1136,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ऊज़बेक सुम",
             "symbol": "UZS"
@@ -1145,9 +1149,13 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "वेनेज़ुएलाई बोलिवार",
+            "displayName": "वेनेज़ुएलाई बोलिवार (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "वेनेज़ुएलाई बोलिवार",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "वीयतनामी डॉंग",
@@ -1249,7 +1257,7 @@
           },
           "XXX": {
             "displayName": "अज्ञात या अवैध मुद्रा",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "यमनी दीनार",

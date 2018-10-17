@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "mn"
       },
@@ -1433,6 +1433,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "узбекийн сом",
             "displayName-count-one": "узбекийн сом",
@@ -1444,11 +1448,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "венесуэлийн боливар (2008–2018)",
+            "displayName-count-one": "венесуэлийн боливар (2008–2018)",
+            "displayName-count-other": "венесуэлийн боливар (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "венесуэлийн боливар",
             "displayName-count-one": "венесуэлийн боливар",
             "displayName-count-other": "венесуэлийн боливар",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "вьетнамын донг",
@@ -1566,7 +1576,7 @@
             "displayName": "тодорхойгүй мөнгөн тэмдэгт",
             "displayName-count-one": "(тодорхойгүй мөнгөн тэмдэгтийн нэгж)",
             "displayName-count-other": "(тодорхойгүй мөнгөн тэмдэгт)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

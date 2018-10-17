@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "dsb"
       },
@@ -1828,6 +1828,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "usbekiski sum",
             "displayName-count-one": "usbekiski sum",
@@ -1841,13 +1845,21 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "venezuelski bolívar (2008–2018)",
+            "displayName-count-one": "venezuelski bolívar (2008–2018)",
+            "displayName-count-two": "venezuelskej bolívara (2008–2018)",
+            "displayName-count-few": "venezuelske bolívary (2008–2018)",
+            "displayName-count-other": "venezuelskich bolívarow (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "venezuelski bolívar",
             "displayName-count-one": "venezuelski bolívar",
             "displayName-count-two": "venezuelskej bolívara",
             "displayName-count-few": "venezuelske bolívary",
             "displayName-count-other": "venezuelskich bolívarow",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "vietnamski dong",
@@ -1981,7 +1993,7 @@
             "displayName-count-two": "njeznate pjenjeze",
             "displayName-count-few": "njeznate pjenjeze",
             "displayName-count-other": "njeznatych pjenjez",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

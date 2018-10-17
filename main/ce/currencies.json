@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ce"
       },
@@ -1427,6 +1427,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Узбекистанан сом",
             "displayName-count-one": "Узбекистанан сом",
@@ -1438,11 +1442,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Венесуэлан боливар (2008–2018)",
+            "displayName-count-one": "Венесуэлан боливар (2008–2018)",
+            "displayName-count-other": "Венесуэлан боливарш (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Венесуэлан боливар",
             "displayName-count-one": "Венесуэлан боливар",
             "displayName-count-other": "Венесуэлан боливарш",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Вьетнаман донг",
@@ -1560,7 +1570,7 @@
             "displayName": "девзаш доцу я лелаш доцу ахча",
             "displayName-count-one": "девзаш доцу я лелаш доцу ахча",
             "displayName-count-other": "девзаш доцу я лелаш доцу ахча",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

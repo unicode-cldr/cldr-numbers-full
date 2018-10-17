@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lv"
       },
@@ -155,21 +155,21 @@
               "1000000000-count-zero": "0 mljrd'.' ¤",
               "1000000000-count-one": "0 mljrd'.' ¤",
               "1000000000-count-other": "0 mljrd'.' ¤",
-              "10000000000-count-zero": "¤00 mljrd'.'",
-              "10000000000-count-one": "¤00 mljrd'.'",
-              "10000000000-count-other": "¤00 mljrd'.'",
-              "100000000000-count-zero": "¤000 mljrd'.'",
-              "100000000000-count-one": "¤000 mljrd'.'",
-              "100000000000-count-other": "¤000 mljrd'.'",
-              "1000000000000-count-zero": "¤0 trilj'.'",
-              "1000000000000-count-one": "¤0 trilj'.'",
-              "1000000000000-count-other": "¤0 trilj'.'",
-              "10000000000000-count-zero": "¤00 trilj'.'",
-              "10000000000000-count-one": "¤00 trilj'.'",
-              "10000000000000-count-other": "¤00 trilj'.'",
-              "100000000000000-count-zero": "¤000 trilj'.'",
-              "100000000000000-count-one": "¤000 trilj'.'",
-              "100000000000000-count-other": "¤000 trilj'.'"
+              "10000000000-count-zero": "00 mljrd'.' ¤",
+              "10000000000-count-one": "00 mljrd'.' ¤",
+              "10000000000-count-other": "00 mljrd'.' ¤",
+              "100000000000-count-zero": "000 mljrd'.' ¤",
+              "100000000000-count-one": "000 mljrd'.' ¤",
+              "100000000000-count-other": "000 mljrd'.' ¤",
+              "1000000000000-count-zero": "0 trilj'.' ¤",
+              "1000000000000-count-one": "0 trilj'.' ¤",
+              "1000000000000-count-other": "0 trilj'.' ¤",
+              "10000000000000-count-zero": "00 trilj'.' ¤",
+              "10000000000000-count-one": "00 trilj'.' ¤",
+              "10000000000000-count-other": "00 trilj'.' ¤",
+              "100000000000000-count-zero": "000 trilj'.' ¤",
+              "100000000000000-count-one": "000 trilj'.' ¤",
+              "100000000000000-count-other": "000 trilj'.' ¤"
             }
           },
           "unitPattern-count-zero": "{0} {1}",
@@ -177,7 +177,9 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "⩾{0}",
+          "approximately": "~{0}",
+          "atLeast": "≥{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

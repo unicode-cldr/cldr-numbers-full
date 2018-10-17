@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "mt"
       },
@@ -1684,6 +1684,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "displayName-count-one": "UZS",
@@ -1704,6 +1708,14 @@
             "displayName-count-other": "VEF",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "displayName-count-one": "VES",
+            "displayName-count-few": "VES",
+            "displayName-count-many": "VES",
+            "displayName-count-other": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1837,7 +1849,7 @@
             "displayName-count-few": "Munita Mhix Magħrufa jew Mhix Valida",
             "displayName-count-many": "Munita Mhix Magħrufa jew Mhix Valida",
             "displayName-count-other": "Munita Mhix Magħrufa jew Mhix Valida",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

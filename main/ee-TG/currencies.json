@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ee",
         "territory": "TG"
@@ -1633,6 +1633,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "uzbekistanga som",
             "displayName-count-one": "uzbekistanga som",
@@ -1646,11 +1650,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "venezuelaga bolívar (2008–2018)",
+            "displayName-count-one": "venezuelaga bolívar (2008–2018)",
+            "displayName-count-other": "venezuelaga bolívar (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "venezuelaga bolívar",
             "displayName-count-one": "venezuelaga bolívar",
             "displayName-count-other": "venezuelaga bolívar",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "vietnamga dong",
@@ -1798,7 +1808,7 @@
             "displayName": "gaɖuɖu manya",
             "displayName-count-one": "gaɖuɖu manya",
             "displayName-count-other": "gaɖuɖu manya",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "yemeniga dinar",

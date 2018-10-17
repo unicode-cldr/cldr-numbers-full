@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "or"
       },
@@ -1426,6 +1426,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ଉଜବେକିସ୍ତାନୀ ସୋମ୍",
             "displayName-count-one": "ଉଜବେକିସ୍ତାନୀ ସୋମ୍",
@@ -1437,11 +1441,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "ଭେନେଜୁଏଲାନ୍ ବୋଲିଭାର୍ (2008–2018)",
+            "displayName-count-one": "ଭେନେଜୁଏଲାନ୍ ବୋଲିଭାର୍ (2008–2018)",
+            "displayName-count-other": "ଭେନେଜୁଏଲାନ୍ ବୋଲିଭାର୍ (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "ଭେନେଜୁଏଲାନ୍ ବୋଲିଭାର୍",
             "displayName-count-one": "ଭେନେଜୁଏଲାନ୍ ବୋଲିଭାର୍",
             "displayName-count-other": "ଭେନେଜୁଏଲାନ୍ ବୋଲିଭାର୍",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ଭୀଏତନାମୀୟ ଡଙ୍ଗ",
@@ -1559,7 +1569,7 @@
             "displayName": "ଅଜଣା ମୁଦ୍ରା",
             "displayName-count-one": "(ମୁଦ୍ରାର ଅଜଣା ଏକକ)",
             "displayName-count-other": "(ଅଜଣା ମୁଦ୍ରା)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

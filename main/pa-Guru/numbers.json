@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pa",
         "script": "Guru"
@@ -266,11 +266,15 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-guru": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

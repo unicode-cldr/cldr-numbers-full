@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ms"
       },
@@ -1284,6 +1284,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Som Uzbekistan",
             "displayName-count-other": "Som Uzbekistan",
@@ -1294,10 +1298,15 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "Bolivar Venezuela",
-            "displayName-count-other": "Bolivar Venezuela",
+            "displayName": "Bolivar Venezuela (2008–2018)",
+            "displayName-count-other": "Bolivar Venezuela (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "Bolivar Venezuela",
+            "displayName-count-other": "Bolivar Venezuela",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Dong Vietnam",
@@ -1407,7 +1416,7 @@
           "XXX": {
             "displayName": "Mata Wang Tidak Diketahui",
             "displayName-count-other": "(mata wang tidak diketahui)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

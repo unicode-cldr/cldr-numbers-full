@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ks"
       },
@@ -1136,6 +1136,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "اُبیکِستان سوم",
             "symbol": "UZS"
@@ -1145,9 +1149,13 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "وینٕزوٗلیُک بولِوَر",
+            "displayName": "وینٕزوٗلیُک بولِوَر (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "وینٕزوٗلیُک بولِوَر",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "وِیَنَمُک ڈانٛگ",
@@ -1249,7 +1257,7 @@
           },
           "XXX": {
             "displayName": "اَنزٲنۍ یا نالَگہٕ ہار سِکہٕ",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "یَمنُک دیٖنار",

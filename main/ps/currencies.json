@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "ps"
       },
@@ -934,8 +934,8 @@
           },
           "MRO": {
             "displayName": "MRO",
-            "displayName-count-one": "MRO",
-            "displayName-count-other": "MRO",
+            "displayName-count-one": "MRO (1973–2017)",
+            "displayName-count-other": "MRO (1973–2017)",
             "symbol": "MRO"
           },
           "MRU": {
@@ -1428,6 +1428,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "displayName-count-one": "UZS",
@@ -1439,11 +1443,17 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "VEF",
-            "displayName-count-one": "VEF",
-            "displayName-count-other": "VEF",
+            "displayName": "VEF (2008–2018)",
+            "displayName-count-one": "VEF (2008–2018)",
+            "displayName-count-other": "VEF (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "displayName-count-one": "VES",
+            "displayName-count-other": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1558,10 +1568,10 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "نامعلوم د اسعارو له",
-            "displayName-count-one": "د اسعارو د نامعلومو واحد",
-            "displayName-count-other": "نامعلوم د اسعارو له",
-            "symbol": "XXX"
+            "displayName": "نامعلومه مروجه پېسې",
+            "displayName-count-one": "(د نامعلومه مروجه پېسو واحد)",
+            "displayName-count-other": "(نامعلومه مروجه پېسې)",
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

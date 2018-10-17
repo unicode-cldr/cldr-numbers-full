@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ja"
       },
@@ -105,7 +105,9 @@
           "unitPattern-count-other": "{0}{1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "約 {0}",
           "atLeast": "{0} 以上",
+          "atMost": "{0} 以下",
           "range": "{0}～{1}"
         },
         "minimalPairs": {

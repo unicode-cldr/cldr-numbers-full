@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "fy"
       },
@@ -1640,6 +1640,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Oezbekistaanske sum",
             "displayName-count-one": "Oezbekistaanske sum",
@@ -1653,11 +1657,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Fenezolaanske bolivar (2008–2018)",
+            "displayName-count-one": "Fenezolaanske bolivar (2008–2018)",
+            "displayName-count-other": "Fenezolaanske bolivar (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Fenezolaanske bolivar",
             "displayName-count-one": "Fenezolaanske bolivar",
             "displayName-count-other": "Fenezolaanske bolivar",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Fietnameeske dong",
@@ -1809,7 +1819,7 @@
             "displayName": "Unbekende muntienheid",
             "displayName-count-one": "Unbekende muntienheid",
             "displayName-count-other": "Unbekende muntienheid",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "Jemenityske dinar",

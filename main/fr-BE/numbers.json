@@ -3,8 +3,8 @@
     "fr-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fr",
         "territory": "BE"
@@ -17,7 +17,7 @@
         "minimumGroupingDigits": "1",
         "symbols-numberSystem-latn": {
           "decimal": ",",
-          "group": " ",
+          "group": " ",
           "list": ";",
           "percentSign": "%",
           "plusSign": "+",
@@ -141,7 +141,9 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "⩾{0}",
+          "approximately": "≈{0}",
+          "atLeast": "≥{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

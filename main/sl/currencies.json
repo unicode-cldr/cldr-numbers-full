@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "sl"
       },
@@ -1733,6 +1733,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "uzbeški sum",
             "displayName-count-one": "uzbeški sum",
@@ -1746,13 +1750,21 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "venezuelski bolivar (2008–2018)",
+            "displayName-count-one": "venezuelski bolivar (2008–2018)",
+            "displayName-count-two": "venezuelska bolivarja (2008–2018)",
+            "displayName-count-few": "venezuelski bolivarji (2008–2018)",
+            "displayName-count-other": "venezuelskih bolivarjev (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "venezuelski bolivar",
             "displayName-count-one": "venezuelski bolivar",
             "displayName-count-two": "venezuelska bolivarja",
             "displayName-count-few": "venezuelski bolivarji",
             "displayName-count-other": "venezuelskih bolivarjev",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "vientnamski dong",
@@ -1886,7 +1898,7 @@
             "displayName-count-two": "(neznana valuta)",
             "displayName-count-few": "(neznana valuta)",
             "displayName-count-other": "(neznana valuta)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "jemenski dinar",

@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "gd"
       },
@@ -547,7 +547,11 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "Yuan Sìneach (far-thìreach)",
+            "displayName-count-one": "yuan Sìneach (far-thìreach)",
+            "displayName-count-two": "yuan Sìneach (far-thìreach)",
+            "displayName-count-few": "yuan Sìneach (far-thìreach)",
+            "displayName-count-other": "yuan Sìneach (far-thìreach)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -2164,6 +2168,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Som Usbagach",
             "displayName-count-one": "som Usbagach",
@@ -2181,13 +2189,21 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Bolívar Bheinisealach (2008–2018)",
+            "displayName-count-one": "bholívar Bheinisealach (2008–2018)",
+            "displayName-count-two": "bholívar Bheinisealach (2008–2018)",
+            "displayName-count-few": "bolívar Bheinisealach (2008–2018)",
+            "displayName-count-other": "bolívar Bheinisealach (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Bolívar Bheinisealach",
             "displayName-count-one": "bholívar Bheinisealach",
             "displayName-count-two": "bholívar Bheinisealach",
             "displayName-count-few": "bolívar Bheinisealach",
             "displayName-count-other": "bolívar Bheinisealach",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Dong Bhiet-Namach",

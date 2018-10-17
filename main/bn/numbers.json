@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "bn"
       },
@@ -265,11 +265,15 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-beng": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lv"
       },
@@ -1313,7 +1313,7 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "Saūda riāls",
+            "displayName": "Saūda Arābijas riāls",
             "displayName-count-zero": "Saūda riāli",
             "displayName-count-one": "Saūda riāls",
             "displayName-count-other": "Saūda riāli",
@@ -1599,6 +1599,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Uzbekistānas sums",
             "displayName-count-zero": "Uzbekistānas sumi",
@@ -1614,12 +1618,19 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Venecuēlas bolivārs (2008–2018)",
+            "displayName-count-zero": "Venecuēlas bolivāri (2008–2018)",
+            "displayName-count-one": "Venecuēlas bolivārs (2008–2018)",
+            "displayName-count-other": "Venecuēlas bolivāri (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Venecuēlas bolivārs",
             "displayName-count-zero": "Venecuēlas bolivāri",
             "displayName-count-one": "Venecuēlas bolivārs",
             "displayName-count-other": "Venecuēlas bolivāri",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Vjetnamas dongi",
@@ -1757,7 +1768,7 @@
             "displayName-count-zero": "(nezināma valūta)",
             "displayName-count-one": "(nezināma valūta)",
             "displayName-count-other": "(nezināma valūta)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "ky"
       },
@@ -32,12 +32,12 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-one": "0 миӊ",
-              "1000-count-other": "0 миӊ",
-              "10000-count-one": "00 миӊ",
-              "10000-count-other": "00 миӊ",
-              "100000-count-one": "000 миӊ",
-              "100000-count-other": "000 миӊ",
+              "1000-count-one": "0 миң",
+              "1000-count-other": "0 миң",
+              "10000-count-one": "00 миң",
+              "10000-count-other": "00 миң",
+              "100000-count-one": "000 миң",
+              "100000-count-other": "000 миң",
               "1000000-count-one": "0 миллион",
               "1000000-count-other": "0 миллион",
               "10000000-count-one": "00 миллион",
@@ -60,12 +60,12 @@
           },
           "short": {
             "decimalFormat": {
-              "1000-count-one": "0 миӊ",
-              "1000-count-other": "0 миӊ",
-              "10000-count-one": "00 миӊ",
-              "10000-count-other": "00 миӊ",
-              "100000-count-one": "000 миӊ",
-              "100000-count-other": "000 миӊ",
+              "1000-count-one": "0 миң",
+              "1000-count-other": "0 миң",
+              "10000-count-one": "00 миң",
+              "10000-count-other": "00 миң",
+              "100000-count-one": "000 миң",
+              "100000-count-other": "000 миң",
               "1000000-count-one": "0 млн",
               "1000000-count-other": "0 млн",
               "10000000-count-one": "00 млн",
@@ -110,12 +110,12 @@
           "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {
-              "1000-count-one": "0 миӊ ¤",
-              "1000-count-other": "0 миӊ ¤",
-              "10000-count-one": "00 миӊ ¤",
-              "10000-count-other": "00 миӊ ¤",
-              "100000-count-one": "000 миӊ ¤",
-              "100000-count-other": "000 миӊ ¤",
+              "1000-count-one": "0 миң ¤",
+              "1000-count-other": "0 миң ¤",
+              "10000-count-one": "00 миң ¤",
+              "10000-count-other": "00 миң ¤",
+              "100000-count-one": "000 миң ¤",
+              "100000-count-other": "000 миң ¤",
               "1000000-count-one": "0 млн ¤",
               "1000000-count-other": "0 млн ¤",
               "10000000-count-one": "00 млн ¤",
@@ -140,7 +140,9 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

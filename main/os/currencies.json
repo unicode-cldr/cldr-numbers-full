@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "os"
       },
@@ -1148,6 +1148,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "symbol": "UZS"
@@ -1160,6 +1164,10 @@
             "displayName": "VEF",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1263,7 +1271,7 @@
             "displayName": "Нӕзонгӕ валютӕ",
             "displayName-count-one": "нӕзонгӕ валютӕ",
             "displayName-count-other": "нӕзонгӕ валютӕйы",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

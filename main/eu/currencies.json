@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "eu"
       },
@@ -1281,9 +1281,9 @@
             "symbol": "STD"
           },
           "STN": {
-            "displayName": "Sao Tomeko eta Principeko dobra",
-            "displayName-count-one": "Sao Tomeko eta Principeko dobra",
-            "displayName-count-other": "Sao Tomeko eta Principeko dobra",
+            "displayName": "Sao Tome eta Principeko dobra",
+            "displayName-count-one": "Sao Tome eta Principeko dobra",
+            "displayName-count-other": "Sao Tome eta Principeko dobra",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"
           },
@@ -1435,6 +1435,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Uzbekistango soma",
             "displayName-count-one": "Uzbekistango som",
@@ -1446,11 +1450,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Venezuelako bolivarra (2008–2018)",
+            "displayName-count-one": "Venezuelako bolivar (2008–2018)",
+            "displayName-count-other": "Venezuelako bolivar (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Venezuelako bolivarra",
             "displayName-count-one": "Venezuelako bolivar",
             "displayName-count-other": "Venezuelako bolivar",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Vietnameko donga",
@@ -1568,7 +1578,7 @@
             "displayName": "Moneta ezezaguna",
             "displayName-count-one": "(moneta ezezaguna)",
             "displayName-count-other": "(moneta ezezaguna)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

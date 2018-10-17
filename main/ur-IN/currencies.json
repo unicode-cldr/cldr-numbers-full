@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "ur",
         "territory": "IN"
@@ -299,9 +299,9 @@
             "symbol": "BYR"
           },
           "BZD": {
-            "displayName": "بیلائز ڈالر",
-            "displayName-count-one": "بیلائز ڈالر",
-            "displayName-count-other": "بیلائز ڈالر",
+            "displayName": "بیلیز ڈالر",
+            "displayName-count-one": "بیلیز ڈالر",
+            "displayName-count-other": "بیلیز ڈالرز",
             "symbol": "BZD",
             "symbol-alt-narrow": "$"
           },
@@ -919,9 +919,9 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "میانما کیاٹ",
-            "displayName-count-one": "میانما کیاٹ",
-            "displayName-count-other": "میانما کیاٹ",
+            "displayName": "میانمار کیاٹ",
+            "displayName-count-one": "میانمار کیاٹ",
+            "displayName-count-other": "میانمار کیاٹ",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
@@ -1434,6 +1434,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ازبکستان سوم",
             "displayName-count-one": "ازبکستان سوم",
@@ -1445,11 +1449,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "وینزویلا بولیور (2008–2018)",
+            "displayName-count-one": "وینزویلا بولیور (2008–2018)",
+            "displayName-count-other": "وینزویلا بولیور (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "وینزویلا بولیور",
             "displayName-count-one": "وینزویلا بولیور",
             "displayName-count-other": "وینزویلا بولیور",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ویتنامی ڈانگ",
@@ -1567,7 +1577,7 @@
             "displayName": "نامعلوم کرنسی",
             "displayName-count-one": "(کرنسی کی نامعلوم یونٹ)",
             "displayName-count-other": "نامعلوم کرنسی",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

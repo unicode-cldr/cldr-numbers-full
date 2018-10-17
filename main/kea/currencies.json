@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "kea"
       },
@@ -467,7 +467,7 @@
             "symbol-alt-narrow": "₾"
           },
           "GHC": {
-            "displayName": "Sedi di Gana",
+            "displayName": "Sedi di Gana (1979–2007)",
             "symbol": "GHC"
           },
           "GHS": {
@@ -1008,7 +1008,7 @@
             "symbol": "SDG"
           },
           "SDP": {
-            "displayName": "Libra sudanes antigu",
+            "displayName": "Libra sudanes antigu (1957–1998)",
             "symbol": "SDP"
           },
           "SEK": {
@@ -1197,6 +1197,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "symbol": "UZS"
@@ -1209,6 +1213,10 @@
             "displayName": "VEF",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1313,7 +1321,7 @@
           "XXX": {
             "displayName": "Mueda diskonxedu",
             "displayName-count-other": "(mueda diskonxedu)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",
@@ -1368,7 +1376,7 @@
             "symbol": "ZRZ"
           },
           "ZWD": {
-            "displayName": "Dola di Zimbabue",
+            "displayName": "Dola di Zimbabue (1980–2008)",
             "symbol": "ZWD"
           },
           "ZWL": {

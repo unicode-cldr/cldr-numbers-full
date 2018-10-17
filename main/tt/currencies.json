@@ -3,8 +3,8 @@
     "tt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13872 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "tt"
       },
@@ -296,7 +296,7 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "кытай юане",
+            "displayName": "Кытай юане",
             "displayName-count-other": "юань",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
@@ -588,7 +588,7 @@
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "япон иенасы",
+            "displayName": "Япония иенасы",
             "displayName-count-other": "иена",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
@@ -1144,6 +1144,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "symbol": "UZS"
@@ -1156,6 +1160,10 @@
             "displayName": "VEF",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1258,7 +1266,7 @@
           "XXX": {
             "displayName": "билгесез валюта",
             "displayName-count-other": "(билгесез валюта)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

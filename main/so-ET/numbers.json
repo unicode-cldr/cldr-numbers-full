@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "so",
         "territory": "ET"
@@ -104,10 +104,13 @@
               "100000000000000-count-other": "¤ 000T"
             }
           },
+          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "⩾{0}",
+          "approximately": "~{0}",
+          "atLeast": "≥{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

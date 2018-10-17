@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hi"
       },
@@ -265,21 +265,25 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-deva": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} घंटा",
           "pluralMinimalPairs-count-other": "{0} घंटे",
-          "few": "{0}था दाहिना मोड़ लें॰",
-          "many": "{0}ठा दाहिना मोड़ लें॰",
-          "one": "{0}ला दाहिना मोड़ लें॰",
-          "other": "{0}वां दाहिना मोड़ लें॰",
-          "two": "{0}रा दाहिना मोड़ लें॰"
+          "few": "{0}था दाहिना मोड़ लें.",
+          "many": "{0}ठा दाहिना मोड़ लें.",
+          "one": "{0}ला दाहिना मोड़ लें.",
+          "other": "{0}वां दाहिना मोड़ लें.",
+          "two": "{0}रा दाहिना मोड़ लें."
         }
       }
     }

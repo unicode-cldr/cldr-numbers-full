@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "fr",
         "territory": "KM"
@@ -305,7 +305,7 @@
             "displayName": "dollar bahaméen",
             "displayName-count-one": "dollar bahaméen",
             "displayName-count-other": "dollars bahaméens",
-            "symbol": "$BS",
+            "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
@@ -1620,6 +1620,10 @@
             "symbol": "$UY",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "sum ouzbek",
             "displayName-count-one": "sum ouzbek",
@@ -1633,11 +1637,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "bolivar vénézuélien (2008–2018)",
+            "displayName-count-one": "bolivar vénézuélien (2008–2018)",
+            "displayName-count-other": "bolivars vénézuéliens (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "bolivar vénézuélien",
             "displayName-count-one": "bolivar vénézuélien",
             "displayName-count-other": "bolivars vénézuéliens",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "dông vietnamien",
@@ -1781,7 +1791,7 @@
             "displayName": "devise inconnue ou non valide",
             "displayName-count-one": "devise inconnue",
             "displayName-count-other": "devises inconnues",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "dinar du Yémen",

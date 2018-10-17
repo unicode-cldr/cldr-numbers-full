@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "as"
       },
@@ -1426,6 +1426,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "উজবেকিস্তানী ছোম",
             "displayName-count-one": "উজবেকিস্তানী ছোম",
@@ -1433,15 +1437,23 @@
             "symbol": "UZS"
           },
           "VEB": {
-            "displayName": "VEB",
+            "displayName": "ভেনিজুৱেলান বলিভাৰ (1871–2008)",
+            "displayName-count-one": "ভেনিজুৱেলান বলিভাৰ (1871–2008)",
+            "displayName-count-other": "ভেনিজুৱেলান বলিভাৰ (1871–2008)",
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "ভেনিজুৱেলান বলিভাৰ",
-            "displayName-count-one": "ভেনিজুৱেলান বলিভাৰ",
-            "displayName-count-other": "ভেনিজুৱেলান বলিভাৰ",
+            "displayName": "ভেনিজুৱেলান বলিভাৰ (2008–2018)",
+            "displayName-count-one": "ভেনিজুৱেলান বলিভাৰ (2008–2018)",
+            "displayName-count-other": "ভেনিজুৱেলান বলিভাৰ (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "ভেনিজুৱেলান বলিভাৰ",
+            "displayName-count-one": "ভেনিজুৱেলান ব’লিভাৰ",
+            "displayName-count-other": "ভেনিজুৱেলান ব’লিভাৰছ্",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ভিয়েটনামীজ ডং",
@@ -1559,7 +1571,7 @@
             "displayName": "অজ্ঞাত মুদ্ৰা",
             "displayName-count-one": "(মুদ্ৰাৰ একক অজ্ঞাত)",
             "displayName-count-other": "(অজ্ঞাত মুদ্ৰা)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

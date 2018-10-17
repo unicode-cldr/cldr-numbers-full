@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ksh"
       },
@@ -1247,6 +1247,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ußbeekesche Som",
             "symbol": "UZS"
@@ -1256,9 +1260,13 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "venezuelaanesche Bolívar",
+            "displayName": "venezuelaanesche Bolívar (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "venezuelaanesche Bolívar",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "vijätnammeesesche Dong",
@@ -1363,7 +1371,7 @@
           },
           "XXX": {
             "displayName": "onbikannte Währong",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hy"
       },
@@ -636,9 +636,9 @@
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "հաիթյան գուրդ",
-            "displayName-count-one": "հաիթյան գուրդ",
-            "displayName-count-other": "հաիթյան գուրդ",
+            "displayName": "հայիթյան գուրդ",
+            "displayName-count-one": "հայիթյան գուրդ",
+            "displayName-count-other": "հայիթյան գուրդ",
             "symbol": "HTG"
           },
           "HUF": {
@@ -1433,6 +1433,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ուզբեկական սոմ",
             "displayName-count-one": "ուզբեկական սոմ",
@@ -1444,11 +1448,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "վենեսուելական բոլիվար (2008–2018)",
+            "displayName-count-one": "վենեսուելական բոլիվար (2008–2018)",
+            "displayName-count-other": "վենեսուելական բոլիվար (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "վենեսուելական բոլիվար",
             "displayName-count-one": "վենեսուելական բոլիվար",
             "displayName-count-other": "վենեսուելական բոլիվար",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "վիետնամական դոնգ",
@@ -1566,7 +1576,7 @@
             "displayName": "անհայտ արժույթ",
             "displayName-count-one": "(անհայտ արժույթ)",
             "displayName-count-other": "(անհայտ արժույթ)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

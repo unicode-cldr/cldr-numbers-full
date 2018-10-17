@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ja"
       },
@@ -1395,6 +1395,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ウズベキスタン スム",
             "displayName-count-other": "ウズベキスタン スム",
@@ -1406,10 +1410,15 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "ベネズエラ ボリバル",
-            "displayName-count-other": "ベネズエラ ボリバル",
+            "displayName": "ベネズエラ ボリバル (2008–2018)",
+            "displayName-count-other": "ベネズエラ ボリバル (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "ベネズエラ ボリバル",
+            "displayName-count-other": "ベネズエラ ボリバル",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ベトナム ドン",

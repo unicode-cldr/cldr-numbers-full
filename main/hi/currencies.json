@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hi"
       },
@@ -1279,9 +1279,9 @@
             "symbol": "STD"
           },
           "STN": {
-            "displayName": "साओ तोम और प्रिंसिपे डोबरा",
-            "displayName-count-one": "साओ तोम और प्रिंसिपे डोबरा",
-            "displayName-count-other": "साओ तोम और प्रिंसिपे डोबरा",
+            "displayName": "साओ टोम और प्रिंसिपे डोबरा",
+            "displayName-count-one": "साओ टोम और प्रिंसिपे डोबरा",
+            "displayName-count-other": "साओ टोम और प्रिंसिपे डोबरा",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"
           },
@@ -1433,6 +1433,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "उज़्बेकिस्तान सोम",
             "displayName-count-one": "उज़्बेकिस्तान सोम",
@@ -1444,11 +1448,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "वेनेज़ुएला बोलिवर (2008–2018)",
+            "displayName-count-one": "वेनेज़ुएला बोलिवर (2008–2018)",
+            "displayName-count-other": "वेनेज़ुएला बोलिवर (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "वेनेज़ुएला बोलिवर",
             "displayName-count-one": "वेनेज़ुएला बोलिवर",
             "displayName-count-other": "वेनेज़ुएला बोलिवर",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "वियतनामी डोंग",
@@ -1566,7 +1576,7 @@
             "displayName": "अज्ञात मुद्रा",
             "displayName-count-one": "(मुद्रा की अज्ञात इकाई)",
             "displayName-count-other": "(अज्ञात मुद्रा)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

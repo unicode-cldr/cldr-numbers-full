@@ -3,8 +3,8 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "af"
       },
@@ -499,7 +499,7 @@
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "Euro",
+            "displayName": "euro",
             "displayName-count-one": "euro",
             "displayName-count-other": "euro",
             "symbol": "€",
@@ -1432,6 +1432,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Oezbekiese som",
             "displayName-count-one": "Oezbekiese som",
@@ -1444,10 +1448,16 @@
           },
           "VEF": {
             "displayName": "Venezolaanse bolivar",
-            "displayName-count-one": "Venezolaanse bolivar",
-            "displayName-count-other": "Venezolaanse bolivar",
+            "displayName-count-one": "Venezolaanse bolívar (2008–2018)",
+            "displayName-count-other": "Venezolaanse bolívare (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "Venezolaanse Bolívar",
+            "displayName-count-one": "Venezolaanse bolívar",
+            "displayName-count-other": "Venezolaanse bolívare",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Viëtnamese dong",
@@ -1562,10 +1572,10 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "Onbekende geldeenheid",
+            "displayName": "onbekende geldeenheid",
             "displayName-count-one": "(onbekende geldeenheid)",
             "displayName-count-other": "(onbekende geldeenheid)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "ug"
       },
@@ -1650,6 +1650,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ئۆزبېكىستان سومى",
             "displayName-count-one": "ئۆزبېكىستان سومى",
@@ -1663,11 +1667,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "ۋېنېزۇئېلا بولىۋارى (2008–2018)",
+            "displayName-count-one": "ۋېنېزۇئېلا بولىۋارى (2008–2018)",
+            "displayName-count-other": "ۋېنېزۇئېلا بولىۋارى (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "ۋېنېزۇئېلا بولىۋارى",
             "displayName-count-one": "ۋېنېزۇئېلا بولىۋارى",
             "displayName-count-other": "ۋېنېزۇئېلا بولىۋارى",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ۋىيېتنام دوڭى",
@@ -1819,7 +1829,7 @@
             "displayName": "يوچۇن پۇل",
             "displayName-count-one": "(يوچۇن پۇل بىرلىكى)",
             "displayName-count-other": "(يوچۇن پۇل)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "يەمەن دىنارى",

@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14302 $",
+          "_cldrVersion": "34"
         },
         "language": "chr"
       },
@@ -16,8 +16,8 @@
           },
           "AED": {
             "displayName": "ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᎡᎳᏈ ᎢᎹᎵᏘᏏ ᎠᏕᎳ",
-            "displayName-count-one": "ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᎡᎳᏈ ᎢᎹᎵᏘᏏ ᎠᏕᎳ",
-            "displayName-count-other": "ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᎡᎳᏈ ᎢᎹᎵᏘᏏ ᎠᏕᎳ",
+            "displayName-count-one": "UAE ᎠᏕᎳ",
+            "displayName-count-other": "UAE ᎠᏕᎳ",
             "symbol": "AED"
           },
           "AFA": {
@@ -126,9 +126,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
-            "displayName-count-one": "ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
-            "displayName-count-other": "ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
+            "displayName": "ᏉᏏᏂᎠ-ᎲᏤᎪᏫ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
+            "displayName-count-one": "ᏉᏏᏂᎠ-ᎲᏤᎪᏫ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
+            "displayName-count-other": "ᏉᏏᏂᎠ-ᎲᏤᎪᏫ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -810,9 +810,9 @@
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "ᏍᎵᎳᏂᎧ ᎠᏕᎳ",
-            "displayName-count-one": "ᏍᎵᎳᏂᎧ ᎠᏕᎳ",
-            "displayName-count-other": "ᏍᎵᎳᏂᎧ ᎠᏕᎳ",
+            "displayName": "ᏍᎵ ᎳᏂᎧ ᎠᏕᎳ",
+            "displayName-count-one": "ᏍᎵ ᎳᏂᎧ ᎠᏕᎳ",
+            "displayName-count-other": "ᏍᎵ ᎳᏂᎧ ᎠᏕᎳ",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
@@ -933,15 +933,15 @@
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ (1973–2017)",
-            "displayName-count-one": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ (1973–2017)",
-            "displayName-count-other": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ (1973–2017)",
+            "displayName": "ᎹᏈᏔᏂᎠ ᎠᏕᎳ (1973–2017)",
+            "displayName-count-one": "ᎹᏈᏔᏂᎠ ᎠᏕᎳ (1973–2017)",
+            "displayName-count-other": "ᎹᏈᏔᏂᎠ ᎠᏕᎳ (1973–2017)",
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ",
-            "displayName-count-one": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ",
-            "displayName-count-other": "ᎼᎵᏏᎥᏍ ᎠᏕᎳ",
+            "displayName": "ᎹᏈᏔᏂᎠ ᎠᏕᎳ",
+            "displayName-count-one": "ᎹᏈᏔᏂᎠ ᎠᏕᎳ",
+            "displayName-count-other": "ᎹᏈᏔᏂᎠ ᎠᏕᎳ",
             "symbol": "MRU"
           },
           "MTL": {
@@ -1274,9 +1274,9 @@
             "symbol": "STD"
           },
           "STN": {
-            "displayName": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ",
-            "displayName-count-one": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ",
-            "displayName-count-other": "ᏌᎣᏙᎺ ᎠᎴ ᏈᏂᏏᏇ ᎠᏕᎳ",
+            "displayName": "ᏌᎣᏙᎺ & ᏈᏂᏏᏇ ᎠᏕᎳ",
+            "displayName-count-one": "ᏌᎣᏙᎺ & ᏈᏂᏏᏇ ᎠᏕᎳ",
+            "displayName-count-other": "ᏌᎣᏙᎺ & ᏈᏂᏏᏇ ᎠᏕᎳ",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"
           },
@@ -1358,9 +1358,9 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ ᎠᏕᎳ",
-            "displayName-count-one": "ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ ᎠᏕᎳ",
-            "displayName-count-other": "ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ ᎠᏕᎳ",
+            "displayName": "ᏟᏂᏕᏗ & ᏙᏆᎪ ᎠᏕᎳ",
+            "displayName-count-one": "ᏟᏂᏕᏗ & ᏙᏆᎪ ᎠᏕᎳ",
+            "displayName-count-other": "ᏟᏂᏕᏗ & ᏙᏆᎪ ᎠᏕᎳ",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
@@ -1428,6 +1428,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ᎤᏍᏇᎩᏍᏖᏂ ᎠᏕᎳ",
             "displayName-count-one": "ᎤᏍᏇᎩᏍᏖᏂ ᎠᏕᎳ",
@@ -1439,11 +1443,17 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "ᏪᏁᏑᏪᎳ ᎠᏕᎳ",
+            "displayName": "ᏪᏁᏑᏪ ᎠᏕᎳ (2008–2018)",
             "displayName-count-one": "ᏪᏁᏑᏪᎳ ᎠᏕᎳ",
             "displayName-count-other": "ᏪᏁᏑᏪᎳ ᎠᏕᎳ",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "ᏪᏁᏑᏪ ᎠᏕᎳ",
+            "displayName-count-one": "ᏪᏁᏑᏪ ᎠᏕᎳ",
+            "displayName-count-other": "ᏪᏁᏑᏪ ᎠᏕᎳ",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ᏫᎡᏘᎾᎻᏍ ᎠᏕᎳ",
@@ -1561,7 +1571,7 @@
             "displayName": "ᏄᏬᎵᏍᏛᎾ ᎠᏕᎳ",
             "displayName-count-one": "(ᏄᏬᎵᏍᏛᎾ ᎠᏕᎳ)",
             "displayName-count-other": "(ᏄᏬᎵᏍᏛᎾ ᎠᏕᎳ)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

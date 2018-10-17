@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13880 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ar",
         "territory": "YE"
@@ -487,11 +487,15 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-arab": {
+          "approximately": "~{0}",
           "atLeast": "+{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "+{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

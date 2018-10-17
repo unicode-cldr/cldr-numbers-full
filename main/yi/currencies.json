@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "yi"
       },
@@ -1152,6 +1152,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "symbol": "UZS"
@@ -1164,6 +1168,10 @@
             "displayName": "VEF",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1267,7 +1275,7 @@
             "displayName": "אומבאַוואוסטע וואַלוטע",
             "displayName-count-one": "אומבאַוואוסטע וואַלוטע",
             "displayName-count-other": "אומבאַוואוסטע וואַלוטע",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

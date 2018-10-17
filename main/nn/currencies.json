@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "nn"
       },
@@ -1568,6 +1568,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "usbekiske sum",
             "displayName-count-one": "usbekisk sum",
@@ -1581,11 +1585,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "venezuelanske bolivar (2008–2018)",
+            "displayName-count-one": "venezuelansk bolivar (2008–2018)",
+            "displayName-count-other": "venezuelanske bolivar (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "venezuelanske bolivar",
             "displayName-count-one": "venezuelansk bolivar",
             "displayName-count-other": "venezuelanske bolivar",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "vietnamesiske dong",
@@ -1731,7 +1741,7 @@
             "displayName": "ukjend valuta",
             "displayName-count-one": "(ukjend valuta)",
             "displayName-count-other": "(ukjend valuta)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "jemenittiske dinarar",

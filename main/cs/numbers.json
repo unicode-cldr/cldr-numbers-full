@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "cs"
       },
@@ -214,7 +214,9 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
-          "atLeast": "{0}+",
+          "approximately": "~{0}",
+          "atLeast": "≥{0}",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {

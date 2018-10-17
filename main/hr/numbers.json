@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hr"
       },
@@ -115,7 +115,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##0%"
+          "standard": "#,##0 %"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
@@ -177,7 +177,9 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0} – {1}"
         },
         "minimalPairs": {

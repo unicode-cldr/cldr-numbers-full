@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "gsw",
         "territory": "FR"
@@ -1595,6 +1595,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Usbeekischtan-Sum",
             "displayName-count-one": "Usbeekischtan-Sum",
@@ -1608,11 +1612,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Bolivar (2008–2018)",
+            "displayName-count-one": "Bolivar (2008–2018)",
+            "displayName-count-other": "Bolivar (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Bolivar",
             "displayName-count-one": "Bolivar",
             "displayName-count-other": "Bolivar",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Dong",
@@ -1756,7 +1766,7 @@
             "displayName": "Unbekannti Währig",
             "displayName-count-one": "Unbekannti Währig",
             "displayName-count-other": "Unbekannti Währig",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "Jeme-Dinar",

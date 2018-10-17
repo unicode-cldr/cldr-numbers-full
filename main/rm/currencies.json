@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "rm"
       },
@@ -1184,6 +1184,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "sum usbec",
             "symbol": "UZS"
@@ -1193,9 +1197,13 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "bolivar venezuelan",
+            "displayName": "bolivar venezuelan (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "bolivar venezuelan",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "dong vietnamais",
@@ -1301,7 +1309,7 @@
             "displayName": "valuta nunenconuschenta",
             "displayName-count-one": "valuta nunenconuschenta",
             "displayName-count-other": "valuta nunenconuschenta",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "dinar dal Jemen",

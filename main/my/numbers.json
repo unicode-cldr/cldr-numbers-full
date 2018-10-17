@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "my"
       },
@@ -191,11 +191,15 @@
           "unitPattern-count-other": "{1} {0}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0} နှင့်အထက်",
+          "atMost": "≤{0}",
           "range": "{0} - {1}"
         },
         "miscPatterns-numberSystem-mymr": {
+          "approximately": "~{0}",
           "atLeast": "{0} နှင့်အထက်",
+          "atMost": "≤{0}",
           "range": "{0} - {1}"
         },
         "minimalPairs": {

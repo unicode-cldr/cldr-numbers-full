@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "et"
       },
@@ -1588,6 +1588,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Usbekistani somm",
             "displayName-count-one": "Usbekistani somm",
@@ -1601,11 +1605,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Venezuela boliivar (2008–2018)",
+            "displayName-count-one": "Venezuela boliivar (2008–2018)",
+            "displayName-count-other": "Venezuela boliivarit (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Venezuela boliivar",
             "displayName-count-one": "Venezuela boliivar",
             "displayName-count-other": "Venezuela boliivarit",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Vietnami dong",
@@ -1737,7 +1747,7 @@
             "displayName": "määramata rahaühik",
             "displayName-count-one": "(määramata rahaühik)",
             "displayName-count-other": "(määramata rahaühikut)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "Jeemeni dinaar",

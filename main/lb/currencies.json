@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lb"
       },
@@ -1612,6 +1612,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Usbekistan-Sum",
             "displayName-count-one": "Usbekistan-Sum",
@@ -1625,11 +1629,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Venezolanesche Bolívar (2008–2018)",
+            "displayName-count-one": "Venezolanesche Bolívar (2008–2018)",
+            "displayName-count-other": "Venezolanesch Bolívares (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Venezolanesche Bolívar",
             "displayName-count-one": "Venezolanesche Bolívar",
             "displayName-count-other": "Venezolanesch Bolívares",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Vietnameseschen Dong",
@@ -1775,7 +1785,7 @@
             "displayName": "Onbekannt Währung",
             "displayName-count-one": "Onbekannt Währung",
             "displayName-count-other": "Onbekannt Währung",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "Jemen-Dinar",

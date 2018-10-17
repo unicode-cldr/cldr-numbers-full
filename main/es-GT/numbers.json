@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "GT"
@@ -129,19 +129,21 @@
               "10000000000-count-other": "¤00MRD ",
               "100000000000-count-one": "¤000MRD ",
               "100000000000-count-other": "¤000MRD ",
-              "1000000000000-count-one": "0 B¤",
-              "1000000000000-count-other": "0 B¤",
-              "10000000000000-count-one": "00 B¤",
-              "10000000000000-count-other": "00 B¤",
-              "100000000000000-count-one": "000 B¤",
-              "100000000000000-count-other": "000 B¤"
+              "1000000000000-count-one": "¤0 B",
+              "1000000000000-count-other": "¤0 B",
+              "10000000000000-count-one": "¤00 B",
+              "10000000000000-count-other": "¤00 B",
+              "100000000000000-count-one": "¤000 B",
+              "100000000000000-count-other": "¤000 B"
             }
           },
           "unitPattern-count-one": "{1} {0}",
           "unitPattern-count-other": "{1} {0}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "Más de {0}",
+          "atMost": "≤{0}",
           "range": "{0}-{1}"
         },
         "minimalPairs": {

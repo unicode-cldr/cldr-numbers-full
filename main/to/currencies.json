@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "to"
       },
@@ -1139,6 +1139,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "UZS",
             "symbol": "UZS"
@@ -1151,6 +1155,10 @@
             "displayName": "VEF",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "VES",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "VND",
@@ -1254,7 +1262,7 @@
           "XXX": {
             "displayName": "Pa’anga Ta’e’ilo",
             "displayName-count-other": "Pa’anga Ta’e’ilo",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

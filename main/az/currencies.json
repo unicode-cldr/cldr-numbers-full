@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14453 $",
+          "_cldrVersion": "34"
         },
         "language": "az"
       },
@@ -1609,6 +1609,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "Özbəkistan Somu",
             "displayName-count-one": "Özbəkistan somu",
@@ -1622,11 +1626,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Venesuela Bolivarı (2008–2018)",
+            "displayName-count-one": "Venesuela bolivarı (2008–2018)",
+            "displayName-count-other": "Venesuela bolivarı (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "Venesuela Bolivarı",
             "displayName-count-one": "Venesuela bolivarı",
             "displayName-count-other": "Venesuela bolivarı",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "Vyetnam Donqu",
@@ -1758,7 +1768,7 @@
             "displayName": "Naməlum Valyuta",
             "displayName-count-one": "(naməlum valyuta vahidi)",
             "displayName-count-other": "(naməlum valyuta)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "Yəmən Dinarı",

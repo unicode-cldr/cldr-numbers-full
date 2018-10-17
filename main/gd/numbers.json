@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "gd"
       },
@@ -34,51 +34,51 @@
             "decimalFormat": {
               "1000-count-one": "0 mhìle",
               "1000-count-two": "0 mhìle",
-              "1000-count-few": "0 mìle",
+              "1000-count-few": "0 mìltean",
               "1000-count-other": "0 mìle",
               "10000-count-one": "00 mhìle",
               "10000-count-two": "00 mhìle",
-              "10000-count-few": "00 mìle",
+              "10000-count-few": "00 mìltean",
               "10000-count-other": "00 mìle",
               "100000-count-one": "000 mhìle",
               "100000-count-two": "000 mhìle",
-              "100000-count-few": "000 mìle",
+              "100000-count-few": "000 mìltean",
               "100000-count-other": "000 mìle",
               "1000000-count-one": "0 mhillean",
               "1000000-count-two": "0 mhillean",
-              "1000000-count-few": "0 millean",
+              "1000000-count-few": "0 milleanan",
               "1000000-count-other": "0 millean",
               "10000000-count-one": "00 mhillean",
               "10000000-count-two": "00 mhillean",
-              "10000000-count-few": "00 millean",
+              "10000000-count-few": "00 milleanan",
               "10000000-count-other": "00 millean",
               "100000000-count-one": "000 mhillean",
               "100000000-count-two": "000 mhillean",
-              "100000000-count-few": "000 millean",
+              "100000000-count-few": "000 milleanan",
               "100000000-count-other": "000 millean",
               "1000000000-count-one": "0 bhillean",
               "1000000000-count-two": "0 bhillean",
-              "1000000000-count-few": "0 billean",
+              "1000000000-count-few": "0 billeanan",
               "1000000000-count-other": "0 billean",
               "10000000000-count-one": "00 bhillean",
               "10000000000-count-two": "00 bhillean",
-              "10000000000-count-few": "00 billean",
+              "10000000000-count-few": "00 billeanan",
               "10000000000-count-other": "00 billean",
-              "100000000000-count-one": "000 billean",
-              "100000000000-count-two": "000 billean",
-              "100000000000-count-few": "000 bhillean",
-              "100000000000-count-other": "000 bhillean",
+              "100000000000-count-one": "000 bhillean",
+              "100000000000-count-two": "000 bhillean",
+              "100000000000-count-few": "000 billeanan",
+              "100000000000-count-other": "000 billean",
               "1000000000000-count-one": "0 trillean",
               "1000000000000-count-two": "0 thrillean",
-              "1000000000000-count-few": "0 trillean",
+              "1000000000000-count-few": "0 trilleanan",
               "1000000000000-count-other": "0 trillean",
               "10000000000000-count-one": "00 trillean",
               "10000000000000-count-two": "00 thrillean",
-              "10000000000000-count-few": "00 trillean",
+              "10000000000000-count-few": "00 trilleanan",
               "10000000000000-count-other": "00 trillean",
               "100000000000000-count-one": "000 trillean",
               "100000000000000-count-two": "000 thrillean",
-              "100000000000000-count-few": "000 trillean",
+              "100000000000000-count-few": "000 trilleanan",
               "100000000000000-count-other": "000 trillean"
             }
           },
@@ -214,15 +214,17 @@
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
+          "approximately": "~{0}",
           "atLeast": "{0}+",
+          "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "{0} chaora bhàin",
-          "pluralMinimalPairs-count-two": "{0} caora bàn",
-          "pluralMinimalPairs-count-few": "{0} chaora bhàn",
-          "pluralMinimalPairs-count-other": "{0} caoraich bhàna",
-          "other": "Gabh an {0}mh air an taobh dheas."
+          "pluralMinimalPairs-count-one": "{0} dealbh, {0} mhionaid",
+          "pluralMinimalPairs-count-two": "{0} dhealbh, {0} mhionaid",
+          "pluralMinimalPairs-count-few": "{0} dealbhan, {0} mionaidean",
+          "pluralMinimalPairs-count-other": "{0} dealbh, {0} mionaid",
+          "other": "{0}?"
         }
       }
     }

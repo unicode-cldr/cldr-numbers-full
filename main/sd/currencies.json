@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sd"
       },
@@ -1428,6 +1428,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ازبڪستاني سوم",
             "displayName-count-one": "ازبڪستاني سوم",
@@ -1439,11 +1443,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "Venezuelan Bolívar (2008–2018)",
+            "displayName-count-one": "وینزویلا بولیور (2008–2018)",
+            "displayName-count-other": "وینزویلا بولیور (2008–2018)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "وینزویلا بولیور",
             "displayName-count-one": "وینزویلا بولیور",
             "displayName-count-other": "وینزویلا بولیور",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "ويٽنامي ڊونگ",
@@ -1561,7 +1571,7 @@
             "displayName": "اڻڄاتل سڪو",
             "displayName-count-one": "اڻڄاتل سڪو",
             "displayName-count-other": "اڻڄاتل سڪو",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",

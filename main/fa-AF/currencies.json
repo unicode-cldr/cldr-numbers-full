@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fa",
         "territory": "AF"
@@ -1453,6 +1453,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "سوم ازبکستان",
             "displayName-count-one": "سوم ازبکستان",
@@ -1466,11 +1470,17 @@
             "symbol": "VEB"
           },
           "VEF": {
+            "displayName": "بولیوار ونزوئلا (۲۰۰۸ تا ۲۰۱۸)",
+            "displayName-count-one": "بولیوار ونزوئلا (۲۰۰۸ تا ۲۰۱۸)",
+            "displayName-count-other": "بولیوار ونزوئلا (۲۰۰۸ تا ۲۰۱۸)",
+            "symbol": "VEF",
+            "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
             "displayName": "بولیوار ونزوئلا",
             "displayName-count-one": "بولیوار ونزوئلا",
             "displayName-count-other": "بولیوار ونزوئلا",
-            "symbol": "VEF",
-            "symbol-alt-narrow": "Bs"
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "دانگ ویتنام",
@@ -1588,7 +1598,7 @@
             "displayName": "ارز نامشخص",
             "displayName-count-one": "(واحد ارز نامشخص)",
             "displayName-count-other": "(ارز نامشخص)",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "دینار یمن",

@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "dz"
       },
@@ -1136,6 +1136,10 @@
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
+          "UYW": {
+            "displayName": "UYW",
+            "symbol": "UYW"
+          },
           "UZS": {
             "displayName": "ཨུས་བེ་ཀིས་ཏཱན་གྱི་དངུལ་ སོམ",
             "symbol": "UZS"
@@ -1145,9 +1149,13 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "བེ་ནི་ཛུ་ཝེ་ལ་གི་དངུལ་ བོ་ལི་བར",
+            "displayName": "བེ་ནི་ཛུ་ཝེ་ལ་གི་དངུལ་ བོ་ལི་བར (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
+          },
+          "VES": {
+            "displayName": "བེ་ནི་ཛུ་ཝེ་ལ་གི་དངུལ་ བོ་ལི་བར",
+            "symbol": "VES"
           },
           "VND": {
             "displayName": "བེཊ་ནཱམ་གྱི་དངུལ་ ཌོང",
@@ -1249,7 +1257,7 @@
           },
           "XXX": {
             "displayName": "མ་ཤེས་པའི་དངུལ",
-            "symbol": "XXX"
+            "symbol": "¤"
           },
           "YDD": {
             "displayName": "YDD",
