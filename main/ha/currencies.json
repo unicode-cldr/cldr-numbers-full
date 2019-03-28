@@ -3,8 +3,8 @@
     "ha": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ha"
       },
@@ -200,7 +200,9 @@
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "BRL",
+            "displayName": "Ril Kudin Birazil",
+            "displayName-count-one": "Ril Kudin Birazil",
+            "displayName-count-other": "Ril Kudin Birazil",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -295,7 +297,9 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "Kuɗin Caina/Sin",
+            "displayName": "Yuwan kasar Sin",
+            "displayName-count-one": "Yuwan kasar Sin",
+            "displayName-count-other": "Yuwan kasar Sin",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -432,7 +436,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "Fam kin Ingila",
+            "displayName": "Fam na Ingila",
+            "displayName-count-one": "Fam na Ingila",
+            "displayName-count-other": "Faman na Ingila",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -583,8 +589,10 @@
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "Kuɗin Japan",
-            "symbol": "JP¥",
+            "displayName": "Yen kasar Japan",
+            "displayName-count-one": "Yen kasar Japan",
+            "displayName-count-other": "Yen kasar Japan",
+            "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
@@ -925,7 +933,9 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "RUB",
+            "displayName": "Ruble kasar Rasha",
+            "displayName-count-one": "Ruble kasar Rasha",
+            "displayName-count-other": "Ruble kasar Rasha",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
@@ -1111,8 +1121,10 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "Dalar Amurka",
-            "symbol": "US$",
+            "displayName": "Dalar Amirka",
+            "displayName-count-one": "Dalar Amirka",
+            "displayName-count-other": "Dalar Amirka",
+            "symbol": "$",
             "symbol-alt-narrow": "$"
           },
           "USN": {
@@ -1256,7 +1268,9 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "XXX",
+            "displayName": "Kudin da ba a sani ba",
+            "displayName-count-one": "Kudin sashe da ba a sani ba",
+            "displayName-count-other": "(Kudin da ba a sani ba)",
             "symbol": "¤"
           },
           "YDD": {

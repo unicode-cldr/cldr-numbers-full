@@ -3,8 +3,8 @@
     "tg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14796 $",
+          "_cldrVersion": "35"
         },
         "language": "tg"
       },
@@ -104,7 +104,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "⩾{0}",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },

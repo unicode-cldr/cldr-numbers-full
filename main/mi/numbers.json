@@ -3,8 +3,8 @@
     "mi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14415 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14785 $",
+          "_cldrVersion": "35"
         },
         "language": "mi"
       },
@@ -104,7 +104,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "⩾{0}",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },

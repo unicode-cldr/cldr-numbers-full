@@ -3,8 +3,8 @@
     "en-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14418 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "en",
         "territory": "BE"
@@ -108,7 +108,7 @@
             }
           },
           "standard": "#,##0.00 ¤",
-          "accounting": "¤#,##0.00;(¤#,##0.00)",
+          "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {
               "1000-count-one": "¤0K",

@@ -3,8 +3,8 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ig"
       },
@@ -200,7 +200,8 @@
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "BRL",
+            "displayName": "Real Brazil",
+            "displayName-count-other": "Real Brazil",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -295,7 +296,8 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "CNY",
+            "displayName": "Yuan China",
+            "displayName-count-other": "Yuan China",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -409,7 +411,8 @@
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "EUR",
+            "displayName": "Euro",
+            "displayName-count-other": "euro",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -432,7 +435,8 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "GBP",
+            "displayName": "Pound British",
+            "displayName-count-other": "Pound British",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -548,7 +552,8 @@
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "INR",
+            "displayName": "Rupee India",
+            "displayName-count-other": "Rupee India",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -583,8 +588,9 @@
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "JPY",
-            "symbol": "JP¥",
+            "displayName": "Yen Japan",
+            "displayName-count-other": "Yen Japan",
+            "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
@@ -925,7 +931,8 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "RUB",
+            "displayName": "Ruble Russia",
+            "displayName-count-other": "Ruble Russia",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
@@ -1111,8 +1118,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "USD",
-            "symbol": "US$",
+            "displayName": "Dollar US",
+            "displayName-count-other": "dollar US",
+            "symbol": "$",
             "symbol-alt-narrow": "$"
           },
           "USN": {
@@ -1256,7 +1264,8 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "XXX",
+            "displayName": "Ego Amaghị",
+            "displayName-count-other": "(ego amaghị)",
             "symbol": "¤"
           },
           "YDD": {

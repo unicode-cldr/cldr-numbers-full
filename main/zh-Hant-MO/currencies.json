@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant",
@@ -154,8 +154,8 @@
             "symbol-alt-narrow": "৳"
           },
           "BEC": {
-            "displayName": "比利時法郎（可轉換）",
-            "displayName-count-other": "比利時法郎（可轉換）",
+            "displayName": "比利時法郎（可兌換）",
+            "displayName-count-other": "比利時法郎（可兌換）",
             "symbol": "BEC"
           },
           "BEF": {
@@ -1336,6 +1336,7 @@
             "displayName": "新台幣",
             "displayName-count-other": "新台幣",
             "symbol": "NT$",
+            "symbol-alt-formal": "NT$",
             "symbol-alt-narrow": "$"
           },
           "TZS": {

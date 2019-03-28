@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14783 $",
+          "_cldrVersion": "35"
         },
         "language": "ks"
       },
@@ -26,7 +26,7 @@
           "perMille": "؉",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": "٫"
+          "timeSeparator": ":"
         },
         "symbols-numberSystem-latn": {
           "decimal": ".",

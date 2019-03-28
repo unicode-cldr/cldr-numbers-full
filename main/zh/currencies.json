@@ -3,8 +3,8 @@
     "zh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14476 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "zh"
       },
@@ -1390,7 +1390,8 @@
             "symbol-alt-narrow": "$"
           },
           "UYW": {
-            "displayName": "UYW",
+            "displayName": "乌拉圭票面工资指数单位",
+            "displayName-count-other": "乌拉圭票面工资指数单位",
             "symbol": "UYW"
           },
           "UZS": {
@@ -1509,7 +1510,8 @@
             "symbol": "XRE"
           },
           "XSU": {
-            "displayName": "XSU",
+            "displayName": "苏克雷",
+            "displayName-count-other": "苏克雷",
             "symbol": "XSU"
           },
           "XTS": {
@@ -1517,7 +1519,8 @@
             "symbol": "XTS"
           },
           "XUA": {
-            "displayName": "XUA",
+            "displayName": "非洲开发银行记账单位",
+            "displayName-count-other": "非洲开发银行记账单位",
             "symbol": "XUA"
           },
           "XXX": {

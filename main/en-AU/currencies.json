@@ -3,8 +3,8 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14418 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14843 $",
+          "_cldrVersion": "35"
         },
         "language": "en",
         "territory": "AU"
@@ -1679,9 +1679,9 @@
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "Venezuelan Bolívar",
-            "displayName-count-one": "Venezuelan bolívar",
-            "displayName-count-other": "Venezuelan bolívars",
+            "displayName": "VES",
+            "displayName-count-one": "VES",
+            "displayName-count-other": "VES",
             "symbol": "VES"
           },
           "VND": {

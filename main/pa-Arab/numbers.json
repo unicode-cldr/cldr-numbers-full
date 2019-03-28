@@ -3,8 +3,8 @@
     "pa-Arab": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "pa",
         "script": "Arab"
@@ -27,7 +27,7 @@
           "perMille": "؉",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": "٫"
+          "timeSeparator": ":"
         },
         "symbols-numberSystem-latn": {
           "decimal": ".",

@@ -3,8 +3,8 @@
     "wo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14784 $",
+          "_cldrVersion": "35"
         },
         "language": "wo"
       },
@@ -104,7 +104,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "⩾{0}",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },

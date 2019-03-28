@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "te"
       },
@@ -102,7 +102,7 @@
           }
         },
         "decimalFormats-numberSystem-telu": {
-          "standard": "#,##0.###",
+          "standard": "#,##,##0.###",
           "long": {
             "decimalFormat": {
               "1000-count-one": "0 వేయి",

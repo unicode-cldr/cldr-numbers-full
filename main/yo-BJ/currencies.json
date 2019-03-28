@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14453 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "yo",
         "territory": "BJ"
@@ -201,7 +201,8 @@
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "BRL",
+            "displayName": "Owó ti Orílɛ̀-èdè Brazil",
+            "displayName-count-other": "Awon owó ti Orílɛ̀-èdè Brazil",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -410,7 +411,8 @@
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "Uro",
+            "displayName": "owó Yúrò",
+            "displayName-count-other": "Awon owó Yúrò",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -433,7 +435,7 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "Pɔɔn ti Orílɛ́ède Bírítísì",
+            "displayName": "Pɔ́n-ùn ti Orilɛ̀-èdè Gɛ̀ɛ́sì",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -820,7 +822,7 @@
             "symbol-alt-narrow": "$"
           },
           "NGN": {
-            "displayName": "Naira ti Orílɛ́ède Nàìjíríà",
+            "displayName": "Náìrà ti Orílɛ̀-èdè Nàìjíríà",
             "symbol": "₦",
             "symbol-alt-narrow": "₦"
           },
@@ -926,8 +928,9 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "RUB",
-            "symbol": "RUB",
+            "displayName": "Owó ruble ti ilɛ̀ Rɔ́shíà",
+            "displayName-count-other": "Owó ruble ti ilɛ̀ Rɔ́shíà",
+            "symbol": "₽",
             "symbol-alt-narrow": "₽"
           },
           "RUR": {
@@ -1112,8 +1115,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "Dɔla ti Orílɛ́ède Amerika",
-            "symbol": "US$",
+            "displayName": "Dɔ́là",
+            "displayName-count-other": "Dɔ́là ti Orílɛ̀-Èdè Amɛ́ríkà",
+            "symbol": "$",
             "symbol-alt-narrow": "$"
           },
           "USN": {
@@ -1257,7 +1261,8 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "XXX",
+            "displayName": "owóníná àìmɔ̀",
+            "displayName-count-other": "owóníná àìmɔ̀",
             "symbol": "¤"
           },
           "YDD": {

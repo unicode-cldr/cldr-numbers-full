@@ -3,8 +3,8 @@
     "nl-SR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "nl",
         "territory": "SR"
@@ -1655,7 +1655,9 @@
             "symbol-alt-narrow": "$"
           },
           "UYW": {
-            "displayName": "UYW",
+            "displayName": "Uruguayaanse nominale salarisindexeenheid",
+            "displayName-count-one": "Uruguayaanse nominale salarisindexeenheid",
+            "displayName-count-other": "Uruguayaanse nominale salarisindexeenheid",
             "symbol": "UYW"
           },
           "UZS": {

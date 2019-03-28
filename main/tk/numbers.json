@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "tk"
       },
@@ -146,7 +146,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
+          "pluralMinimalPairs-count-one": "{0} gün",
+          "pluralMinimalPairs-count-other": "{0} günler",
           "other": "Sagdan {0}-nj. öwrümden öwrüliň."
         }
       }
