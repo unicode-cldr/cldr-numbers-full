@@ -3,8 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "jv"
       },
@@ -141,15 +140,15 @@
           "accounting": "¤ #,##0.00",
           "short": {
             "standard": {
-              "1000-count-other": "¤0K",
-              "10000-count-other": "¤00K",
-              "100000-count-other": "¤000K",
-              "1000000-count-other": "¤0M",
-              "10000000-count-other": "¤00M",
-              "100000000-count-other": "¤000M",
-              "1000000000-count-other": "¤0B",
-              "10000000000-count-other": "¤00B",
-              "100000000000-count-other": "¤000B",
+              "1000-count-other": "¤0È",
+              "10000-count-other": "¤00È",
+              "100000-count-other": "¤000È",
+              "1000000-count-other": "¤0Y",
+              "10000000-count-other": "¤00Y",
+              "100000000-count-other": "¤000Y",
+              "1000000000-count-other": "¤0M",
+              "10000000000-count-other": "¤00M",
+              "100000000000-count-other": "¤000M",
               "1000000000000-count-other": "¤0T",
               "10000000000000-count-other": "¤00T",
               "100000000000000-count-other": "¤000T"
@@ -174,15 +173,15 @@
           "accounting": "¤ #,##0.00",
           "short": {
             "standard": {
-              "1000-count-other": "¤0K",
-              "10000-count-other": "¤00K",
-              "100000-count-other": "¤000K",
-              "1000000-count-other": "¤0M",
-              "10000000-count-other": "¤00M",
-              "100000000-count-other": "¤000M",
-              "1000000000-count-other": "¤0B",
-              "10000000000-count-other": "¤00B",
-              "100000000000-count-other": "¤000B",
+              "1000-count-other": "¤0È",
+              "10000-count-other": "¤00È",
+              "100000-count-other": "¤000È",
+              "1000000-count-other": "¤0Y",
+              "10000000-count-other": "¤00Y",
+              "100000000-count-other": "¤000Y",
+              "1000000000-count-other": "¤0M",
+              "10000000000-count-other": "¤00M",
+              "100000000000-count-other": "¤000M",
               "1000000000000-count-other": "¤0T",
               "10000000000000-count-other": "¤00T",
               "100000000000000-count-other": "¤000T"

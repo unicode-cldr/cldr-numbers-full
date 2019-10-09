@@ -3,8 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "et"
       },
@@ -128,12 +127,12 @@
               "10000000000-count-other": "00 mld ¤",
               "100000000000-count-one": "000 mld ¤",
               "100000000000-count-other": "000 mld ¤",
-              "1000000000000-count-one": "0 trl ¤",
-              "1000000000000-count-other": "0 trl ¤",
-              "10000000000000-count-one": "00 trl ¤",
-              "10000000000000-count-other": "00 trl ¤",
-              "100000000000000-count-one": "000 trl ¤",
-              "100000000000000-count-other": "000 trl ¤"
+              "1000000000000-count-one": "0 trln ¤",
+              "1000000000000-count-other": "0 trln ¤",
+              "10000000000000-count-one": "00 trln ¤",
+              "10000000000000-count-other": "00 trln ¤",
+              "100000000000000-count-one": "000 trln ¤",
+              "100000000000000-count-other": "000 trln ¤"
             }
           },
           "unitPattern-count-one": "{0} {1}",

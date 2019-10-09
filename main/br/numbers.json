@@ -3,8 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "br"
       },
@@ -257,7 +256,11 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
+          "pluralMinimalPairs-count-one": "{0} cʼhi",
+          "pluralMinimalPairs-count-two": "{0} gi",
+          "pluralMinimalPairs-count-few": "{0} cʼhi-error",
+          "pluralMinimalPairs-count-many": "{0} a chas",
+          "pluralMinimalPairs-count-other": "{0} ki",
           "other": "{0}vet"
         }
       }

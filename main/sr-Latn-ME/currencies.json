@@ -3,8 +3,7 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -565,10 +564,10 @@
             "symbol": "DEM"
           },
           "DJF": {
-            "displayName": "Džibutanski franak",
-            "displayName-count-one": "džibutanski franak",
-            "displayName-count-few": "džibutanska franka",
-            "displayName-count-other": "džibutanskih franaka",
+            "displayName": "Džibutski franak",
+            "displayName-count-one": "džibutski franak",
+            "displayName-count-few": "džibutska franka",
+            "displayName-count-other": "džibutskih franaka",
             "symbol": "DJF"
           },
           "DKK": {
@@ -1181,7 +1180,7 @@
             "displayName": "Makedonski denar",
             "displayName-count-one": "makedonski denar",
             "displayName-count-few": "makedonska denara",
-            "displayName-count-other": "makedonskih dinara",
+            "displayName-count-other": "makedonskih denara",
             "symbol": "MKD"
           },
           "MKN": {
@@ -1226,10 +1225,10 @@
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "Mauritanijska ogija",
-            "displayName-count-one": "mauritanijska ogija",
-            "displayName-count-few": "mauritanijske ogije",
-            "displayName-count-other": "mauritanijskih ogija",
+            "displayName": "Mauritanska ogija",
+            "displayName-count-one": "mauritanska ogija",
+            "displayName-count-few": "mauritanske ogije",
+            "displayName-count-other": "mauritanskih ogija",
             "symbol": "MRU"
           },
           "MTL": {
@@ -1593,10 +1592,10 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "Sv. jelenska funta",
-            "displayName-count-one": "sv. jelenska funta",
-            "displayName-count-few": "sv. jelenske funte",
-            "displayName-count-other": "sv. jelenskih funti",
+            "displayName": "Svete Jelene funta",
+            "displayName-count-one": "Svete Jelene funta",
+            "displayName-count-few": "Svete Jelene funte",
+            "displayName-count-other": "Svete Jelene funti",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },

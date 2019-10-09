@@ -3,8 +3,7 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "so",
         "territory": "KE"
@@ -196,7 +195,7 @@
           "BMD": {
             "displayName": "Doolarka Barmuuda",
             "displayName-count-one": "doolarka Barmuuda",
-            "displayName-count-other": "doolarada Barmuuda",
+            "displayName-count-other": "Doolarka Barmuuda",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
@@ -1244,6 +1243,8 @@
           },
           "SOS": {
             "displayName": "Shilingka Soomaaliya",
+            "displayName-count-one": "Shilingka Soomaaliya",
+            "displayName-count-other": "Shilingka Soomaaliya",
             "symbol": "S"
           },
           "SRD": {

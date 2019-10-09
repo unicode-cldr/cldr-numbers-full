@@ -3,8 +3,7 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "de",
         "territory": "CH"
@@ -1671,16 +1670,16 @@
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "Venezolanischer Bolívar",
-            "displayName-count-one": "Venezolanischer Bolívar",
-            "displayName-count-other": "Venezolanische Bolívares",
+            "displayName": "Venezolanischer Bolívar (2008–2018)",
+            "displayName-count-one": "Venezolanischer Bolívar (2008–2018)",
+            "displayName-count-other": "Venezolanische Bolívares (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
-            "displayName-count-one": "VES",
-            "displayName-count-other": "VES",
+            "displayName": "Venezolanischer Bolívar",
+            "displayName-count-one": "Venezolanischer Bolívar",
+            "displayName-count-other": "Venezolanische Bolívares",
             "symbol": "VES"
           },
           "VND": {

@@ -3,8 +3,7 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ar"
       },
@@ -727,7 +726,7 @@
             "displayName-count-few": "جنيه إسترليني",
             "displayName-count-many": "جنيه إسترليني",
             "displayName-count-other": "جنيه إسترليني",
-            "symbol": "£",
+            "symbol": "UK£",
             "symbol-alt-narrow": "UK£"
           },
           "GEK": {
@@ -1154,7 +1153,7 @@
             "displayName-count-many": "دولارًا ليبيريًا",
             "displayName-count-other": "دولار ليبيري",
             "symbol": "LRD",
-            "symbol-alt-narrow": "$"
+            "symbol-alt-narrow": "$LR"
           },
           "LSL": {
             "displayName": "لوتي ليسوتو",

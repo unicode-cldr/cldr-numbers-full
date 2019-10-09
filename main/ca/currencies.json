@@ -3,8 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca"
       },
@@ -854,7 +853,7 @@
             "displayName": "ien japonès",
             "displayName-count-one": "ien japonès",
             "displayName-count-other": "iens japonesos",
-            "symbol": "JP¥",
+            "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
@@ -1495,9 +1494,9 @@
             "symbol": "SVC"
           },
           "SYP": {
-            "displayName": "lliura síria",
-            "displayName-count-one": "lliura síria",
-            "displayName-count-other": "lliures síries",
+            "displayName": "lliura siriana",
+            "displayName-count-one": "lliura siriana",
+            "displayName-count-other": "lliures sirianes",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },

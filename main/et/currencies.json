@@ -3,8 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "et"
       },
@@ -1156,7 +1155,7 @@
           "NIO": {
             "displayName": "Nicaragua kordoba",
             "displayName-count-one": "Nicaragua kordoba",
-            "displayName-count-other": "Nicaragua kordobad",
+            "displayName-count-other": "Nicaragua kordobat",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },

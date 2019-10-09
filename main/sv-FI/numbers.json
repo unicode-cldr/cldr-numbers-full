@@ -3,8 +3,7 @@
     "sv-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sv",
         "territory": "FI"
@@ -27,8 +26,8 @@
           "perMille": "‰",
           "infinity": "∞",
           "nan": "NaN",
-          "timeSeparator": ":",
-          "timeSeparator-alt-variant": "."
+          "timeSeparator": ".",
+          "timeSeparator-alt-variant": ":"
         },
         "decimalFormats-numberSystem-latn": {
           "standard": "#,##0.###",
@@ -143,7 +142,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "⩾{0}",
           "atMost": "≤{0}",
           "range": "{0}‒{1}"
         },

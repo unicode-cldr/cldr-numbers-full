@@ -3,8 +3,7 @@
     "ta-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ta",
         "territory": "SG"
@@ -348,9 +347,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "சீன யுவான் (ஆஃப்ஷோர்)",
+            "displayName-count-one": "சீன யுவான் (ஆஃப்ஷோர்)",
+            "displayName-count-other": "சீன யுவான் (ஆஃப்ஷோர்)",
             "symbol": "CNH"
           },
           "CNX": {

@@ -3,8 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gu"
       },
@@ -144,8 +143,8 @@
             "symbol-alt-narrow": "$"
           },
           "BDT": {
-            "displayName": "બાંગલાદેશી ટાકા",
-            "displayName-count-one": "બાંગલાદેશી ટાકા",
+            "displayName": "બાંગ્લાદેશી ટાકા",
+            "displayName-count-one": "બાંગ્લાદેશી ટાકા",
             "displayName-count-other": "બાંગલાદેશી ટાકા",
             "symbol": "BDT",
             "symbol-alt-narrow": "৳"

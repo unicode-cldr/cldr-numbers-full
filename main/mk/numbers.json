@@ -3,8 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14827 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mk"
       },
@@ -91,7 +90,7 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##0%"
+          "standard": "#,##0 %"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {

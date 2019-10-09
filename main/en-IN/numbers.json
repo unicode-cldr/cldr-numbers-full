@@ -3,8 +3,7 @@
     "en-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14914 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "IN"
@@ -107,7 +106,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##,##0.00",
+          "standard": "¤#,##,##0.00",
           "accounting": "¤#,##0.00;(¤#,##0.00)",
           "short": {
             "standard": {

@@ -3,8 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gd"
       },
@@ -220,10 +219,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "{0} dealbh, {0} mhionaid",
-          "pluralMinimalPairs-count-two": "{0} dhealbh, {0} mhionaid",
-          "pluralMinimalPairs-count-few": "{0} dealbhan, {0} mionaidean",
-          "pluralMinimalPairs-count-other": "{0} dealbh, {0} mionaid",
+          "pluralMinimalPairs-count-one": "{0} bhròg",
+          "pluralMinimalPairs-count-two": "{0}  bhròig",
+          "pluralMinimalPairs-count-few": "{0} brògan",
+          "pluralMinimalPairs-count-other": "{0} bròg",
           "other": "{0}?"
         }
       }

@@ -3,8 +3,7 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fo",
         "territory": "DK"
@@ -142,7 +141,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "{0} ella meira",
+          "atLeast": "{0}+",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },

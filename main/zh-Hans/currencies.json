@@ -3,8 +3,7 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hans"
@@ -278,6 +277,7 @@
           },
           "BUK": {
             "displayName": "缅元",
+            "displayName-count-other": "缅元",
             "symbol": "BUK"
           },
           "BWP": {
@@ -356,13 +356,14 @@
             "symbol": "CNH"
           },
           "CNX": {
-            "displayName": "CNX",
+            "displayName": "中国人民银行元",
+            "displayName-count-other": "中国人民银行元",
             "symbol": "CNX"
           },
           "CNY": {
             "displayName": "人民币",
             "displayName-count-other": "人民币",
-            "symbol": "￥",
+            "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "COP": {
@@ -749,10 +750,12 @@
           },
           "KRH": {
             "displayName": "韩元 (1953–1962)",
+            "displayName-count-other": "韩元 (1953–1962)",
             "symbol": "KRH"
           },
           "KRO": {
             "displayName": "韩元 (1945–1953)",
+            "displayName-count-other": "韩元 (1945–1953)",
             "symbol": "KRO"
           },
           "KRW": {
@@ -1306,6 +1309,7 @@
           },
           "TPE": {
             "displayName": "帝汶埃斯库多",
+            "displayName-count-other": "帝汶埃斯库多",
             "symbol": "TPE"
           },
           "TRL": {
@@ -1424,6 +1428,7 @@
           },
           "VNN": {
             "displayName": "越南盾 (1978–1985)",
+            "displayName-count-other": "越南盾 (1978–1985)",
             "symbol": "VNN"
           },
           "VUV": {

@@ -3,8 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cs"
       },
@@ -1040,7 +1039,7 @@
             "displayName-count-one": "izraelský nový šekel",
             "displayName-count-few": "izraelské nové šekely",
             "displayName-count-many": "izraelského nového šekelu",
-            "displayName-count-other": "izraelských nový šekelů",
+            "displayName-count-other": "izraelských nových šekelů",
             "symbol": "ILS",
             "symbol-alt-narrow": "₪"
           },

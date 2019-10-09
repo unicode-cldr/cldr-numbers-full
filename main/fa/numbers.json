@@ -3,8 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa"
       },
@@ -90,9 +89,9 @@
               "1000000000-count-other": "0 م",
               "10000000000-count-one": "00 م",
               "10000000000-count-other": "00 م",
-              "100000000000-count-one": "000 میلیارد",
+              "100000000000-count-one": "000 ب",
               "100000000000-count-other": "000 میلیارد",
-              "1000000000000-count-one": "0 تریلیون",
+              "1000000000000-count-one": "0 ت",
               "1000000000000-count-other": "0 تریلیون",
               "10000000000000-count-one": "00 ت",
               "10000000000000-count-other": "00 ت",
@@ -149,9 +148,9 @@
               "1000000000-count-other": "0 م",
               "10000000000-count-one": "00 م",
               "10000000000-count-other": "00 م",
-              "100000000000-count-one": "000 میلیارد",
+              "100000000000-count-one": "000 ب",
               "100000000000-count-other": "000 میلیارد",
-              "1000000000000-count-one": "0 تریلیون",
+              "1000000000000-count-one": "0 ت",
               "1000000000000-count-other": "0 تریلیون",
               "10000000000000-count-one": "00 ت",
               "10000000000000-count-other": "00 ت",
@@ -277,8 +276,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "او {0} فیلم در هفته می‌بیند که کمدی است.",
-          "pluralMinimalPairs-count-other": "او {0} فیلم در هفته می‌بیند که کمدی‌اند.",
+          "pluralMinimalPairs-count-one": "{0} نفر در بازی شرکت کرد.",
+          "pluralMinimalPairs-count-other": "{0} نفر در بازی شرکت کردند.",
           "other": "در پیچ {0}ام سمت راست بپیچید."
         }
       }

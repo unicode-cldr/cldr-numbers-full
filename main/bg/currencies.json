@@ -3,8 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bg"
       },
@@ -571,7 +570,7 @@
             "displayName-count-one": "фолклендска лира",
             "displayName-count-other": "фолклендски лири",
             "symbol": "FKP",
-            "symbol-alt-narrow": "£"
+            "symbol-alt-narrow": "FKP"
           },
           "FRF": {
             "displayName": "Френски франк",
@@ -1277,9 +1276,9 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "Саудитскоарабски риал",
-            "displayName-count-one": "саудитскоарабски риал",
-            "displayName-count-other": "саудитскоарабски риала",
+            "displayName": "саудитски риал",
+            "displayName-count-one": "саудитски риал",
+            "displayName-count-other": "саудитски риала",
             "symbol": "SAR"
           },
           "SBD": {
@@ -1673,9 +1672,9 @@
             "symbol": "XPD"
           },
           "XPF": {
-            "displayName": "Френскополинезийски франк",
-            "displayName-count-one": "френскополинезийски франк",
-            "displayName-count-other": "френскополинезийски франка",
+            "displayName": "CFP франк",
+            "displayName-count-one": "CFP франк",
+            "displayName-count-other": "CFP франка",
             "symbol": "CFPF"
           },
           "XPT": {

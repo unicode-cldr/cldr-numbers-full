@@ -3,8 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fi"
       },
@@ -1653,7 +1652,9 @@
             "symbol-alt-narrow": "UYU"
           },
           "UYW": {
-            "displayName": "UYW",
+            "displayName": "Uruguayn nimellinen palkkaindeksiyksikkö",
+            "displayName-count-one": "Uruguayn nimellinen palkkaindeksiyksikkö",
+            "displayName-count-other": "Uruguayn nimellistä palkkaindeksiyksikköä",
             "symbol": "UYW"
           },
           "UZS": {

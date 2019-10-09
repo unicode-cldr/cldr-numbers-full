@@ -3,8 +3,7 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hi"
       },
@@ -347,9 +346,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "चीनी यूआन",
-            "displayName-count-one": "चीनी यूआन",
-            "displayName-count-other": "चीनी यूआन",
+            "displayName": "चीनी युआन (ऑफ़शोर)",
+            "displayName-count-one": "चीनी युआन (ऑफ़शोर)",
+            "displayName-count-other": "चीनी युआन (ऑफ़शोर)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -677,7 +676,7 @@
           "INR": {
             "displayName": "भारतीय रुपया",
             "displayName-count-one": "भारतीय रुपया",
-            "displayName-count-other": "भारतीय रूपए",
+            "displayName-count-other": "भारतीय रुपए",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -1438,9 +1437,9 @@
             "symbol": "UYW"
           },
           "UZS": {
-            "displayName": "उज़्बेकिस्तान सोम",
-            "displayName-count-one": "उज़्बेकिस्तान सोम",
-            "displayName-count-other": "उज़्बेकिस्तान सोम",
+            "displayName": "उज़्बेकिस्तानी सोम",
+            "displayName-count-one": "उज़्बेकिस्तानी सोम",
+            "displayName-count-other": "उज़्बेकिस्तानी सोम",
             "symbol": "UZS"
           },
           "VEB": {

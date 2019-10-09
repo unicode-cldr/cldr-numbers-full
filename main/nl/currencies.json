@@ -3,8 +3,7 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nl"
       },
@@ -417,7 +416,7 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "Chinese renminbi (offshore)",
+            "displayName": "Chinese yuan (offshore)",
             "displayName-count-one": "Chinese yuan (offshore)",
             "displayName-count-other": "Chinese yuan (offshore)",
             "symbol": "CNH"

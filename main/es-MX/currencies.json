@@ -3,8 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14796 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "MX"
@@ -44,7 +43,7 @@
             "symbol": "ALL"
           },
           "AMD": {
-            "displayName": "dram armenio",
+            "displayName": "dram",
             "displayName-count-one": "dram armenio",
             "displayName-count-other": "drams armenios",
             "symbol": "AMD"
@@ -192,7 +191,7 @@
           "BGN": {
             "displayName": "lev búlgaro",
             "displayName-count-one": "lev búlgaro",
-            "displayName-count-other": "levas búlgaras",
+            "displayName-count-other": "leva búlgaros",
             "symbol": "BGN"
           },
           "BGO": {
@@ -390,9 +389,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "yuan chino (extracontinental)",
+            "displayName-count-one": "yuan chino (extracontinental)",
+            "displayName-count-other": "yuan chino (extracontinental)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -1587,9 +1586,9 @@
             "symbol": "UYW"
           },
           "UZS": {
-            "displayName": "sum",
-            "displayName-count-one": "sum",
-            "displayName-count-other": "sums",
+            "displayName": "som uzbeko",
+            "displayName-count-one": "som uzbeko",
+            "displayName-count-other": "soms uzbekos",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1635,9 +1634,9 @@
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "franco CFA BEAC",
-            "displayName-count-one": "franco CFA BEAC",
-            "displayName-count-other": "francos CFA BEAC",
+            "displayName": "franco CFA de África Central",
+            "displayName-count-one": "franco CFA de África Central",
+            "displayName-count-other": "francos CFA de África Central",
             "symbol": "XAF"
           },
           "XAG": {
@@ -1706,9 +1705,9 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "franco CFA BCEAO",
-            "displayName-count-one": "franco CFA BCEAO",
-            "displayName-count-other": "francos CFA BCEAO",
+            "displayName": "franco CFA de África Occidental",
+            "displayName-count-one": "franco CFA de África Occidental",
+            "displayName-count-other": "francos CFA de África Occidental",
             "symbol": "XOF"
           },
           "XPD": {

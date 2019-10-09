@@ -3,8 +3,7 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "as"
       },
@@ -266,13 +265,13 @@
         },
         "miscPatterns-numberSystem-beng": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "{0}+",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "{0}+",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },

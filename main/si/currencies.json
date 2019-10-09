@@ -3,8 +3,7 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "si"
       },
@@ -1573,8 +1572,8 @@
           },
           "XXX": {
             "displayName": "නොදත් මුදල්",
-            "displayName-count-one": "නොදත් මුදල්",
-            "displayName-count-other": "නොදත් මුදල්",
+            "displayName-count-one": "(නොදත් මුදල් ඒකකය)",
+            "displayName-count-other": "(නොදත් මුදල්)",
             "symbol": "¤"
           },
           "YDD": {

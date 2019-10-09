@@ -3,8 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14845 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ig"
       },
@@ -104,13 +103,13 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "{0}+",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
-          "other": "{0}?"
+          "pluralMinimalPairs-count-other": "ubochi {0}",
+          "other": "Si uzo aka nri {0}"
         }
       }
     }

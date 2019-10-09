@@ -3,8 +3,7 @@
     "fr-CD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fr",
         "territory": "CD"
@@ -1515,7 +1514,7 @@
             "displayName-count-one": "pa’anga tongan",
             "displayName-count-other": "pa’angas tongans",
             "symbol": "TOP",
-            "symbol-alt-narrow": "T$"
+            "symbol-alt-narrow": "$T"
           },
           "TPE": {
             "displayName": "escudo timorais",
@@ -1670,7 +1669,7 @@
             "displayName": "tala samoan",
             "displayName-count-one": "tala samoan",
             "displayName-count-other": "talas samoans",
-            "symbol": "WS$"
+            "symbol": "$WS"
           },
           "XAF": {
             "displayName": "franc CFA (BEAC)",

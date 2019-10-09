@@ -3,8 +3,7 @@
     "en-NR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "NR"
@@ -1418,9 +1417,9 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "St. Helena Pound",
-            "displayName-count-one": "St. Helena pound",
-            "displayName-count-other": "St. Helena pounds",
+            "displayName": "St Helena Pound",
+            "displayName-count-one": "St Helena pound",
+            "displayName-count-other": "St Helena pounds",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },

@@ -3,8 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zu"
       },
@@ -1403,7 +1402,7 @@
             "displayName": "i-US Dollar",
             "displayName-count-one": "i-US Dollar",
             "displayName-count-other": "i-US Dollar",
-            "symbol": "US$",
+            "symbol": "$",
             "symbol-alt-narrow": "$"
           },
           "USN": {

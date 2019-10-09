@@ -3,8 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hr",
         "territory": "BA"
@@ -399,10 +398,10 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "bjeloruska rublja",
-            "displayName-count-one": "bjeloruska rublja",
-            "displayName-count-few": "bjeloruske rublje",
-            "displayName-count-other": "bjeloruskih rublji",
+            "displayName": "bjeloruski rubalj",
+            "displayName-count-one": "bjeloruski rubalj",
+            "displayName-count-few": "bjeloruska rublja",
+            "displayName-count-other": "bjeloruskih rubalja",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -837,9 +836,9 @@
           },
           "HKD": {
             "displayName": "hongkonški dolar",
-            "displayName-count-one": "honkonški dolar",
-            "displayName-count-few": "honkonška dolara",
-            "displayName-count-other": "honkonških dolara",
+            "displayName-count-one": "hongkonški dolar",
+            "displayName-count-few": "hongkonška dolara",
+            "displayName-count-other": "hongkonških dolara",
             "symbol": "HKD",
             "symbol-alt-narrow": "$"
           },
@@ -1000,10 +999,10 @@
             "symbol": "KGS"
           },
           "KHR": {
-            "displayName": "kambođanski rijal",
-            "displayName-count-one": "kambođanski rijal",
-            "displayName-count-few": "kambođanska rijala",
-            "displayName-count-other": "kambođanskih rijala",
+            "displayName": "kambodžanski rijal",
+            "displayName-count-one": "kambodžanski rijal",
+            "displayName-count-few": "kambodžanska rijala",
+            "displayName-count-other": "kambodžanskih rijala",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
@@ -1198,10 +1197,10 @@
             "symbol": "MDL"
           },
           "MGA": {
-            "displayName": "madagaskarski ariary",
-            "displayName-count-one": "madagaskarski ariary",
-            "displayName-count-few": "madagaskarska ariarija",
-            "displayName-count-other": "madagaskarskih ariarija",
+            "displayName": "malgaški arijari",
+            "displayName-count-one": "malgaški arijari",
+            "displayName-count-few": "malgaška arijarija",
+            "displayName-count-other": "malgaških arijarija",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
@@ -1551,10 +1550,10 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "ruska rublja",
-            "displayName-count-one": "ruska rublja",
-            "displayName-count-few": "ruske rublje",
-            "displayName-count-other": "ruskih rublji",
+            "displayName": "ruski rubalj",
+            "displayName-count-one": "ruski rubalj",
+            "displayName-count-few": "ruska rublja",
+            "displayName-count-other": "ruskih rubalja",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
@@ -1575,7 +1574,7 @@
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "saudijski rial",
+            "displayName": "saudijski rijal",
             "displayName-count-one": "saudijski rijal",
             "displayName-count-few": "saudijska rijala",
             "displayName-count-other": "saudijskih rijala",
@@ -2124,7 +2123,7 @@
             "symbol": "YDD"
           },
           "YER": {
-            "displayName": "jemenski rial",
+            "displayName": "jemenski rijal",
             "displayName-count-one": "jemenski rijal",
             "displayName-count-few": "jemenska rijala",
             "displayName-count-other": "jemenskih rijala",

@@ -3,8 +3,7 @@
     "sr-Cyrl-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -565,10 +564,10 @@
             "symbol": "DEM"
           },
           "DJF": {
-            "displayName": "Џибутански франак",
-            "displayName-count-one": "џибутански франак",
-            "displayName-count-few": "џибутанскa франкa",
-            "displayName-count-other": "џибутанских франакa",
+            "displayName": "Џибутски франак",
+            "displayName-count-one": "џибутски франак",
+            "displayName-count-few": "џибутска франка",
+            "displayName-count-other": "џибутских франака",
             "symbol": "DJF"
           },
           "DKK": {
@@ -1181,7 +1180,7 @@
             "displayName": "Македонски денар",
             "displayName-count-one": "македонски денар",
             "displayName-count-few": "македонска денара",
-            "displayName-count-other": "македонских динара",
+            "displayName-count-other": "македонских денара",
             "symbol": "MKD"
           },
           "MKN": {
@@ -1226,10 +1225,10 @@
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "Мауританијска oгија",
-            "displayName-count-one": "мауританијска oгија",
-            "displayName-count-few": "мауританијскe oгијe",
-            "displayName-count-other": "мауританијских oгијa",
+            "displayName": "Мауританска огија",
+            "displayName-count-one": "мауританска огија",
+            "displayName-count-few": "мауританске огије",
+            "displayName-count-other": "мауританских огија",
             "symbol": "MRU"
           },
           "MTL": {
@@ -1593,10 +1592,10 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "Св. јеленска фунта",
-            "displayName-count-one": "св. јеленска фунта",
-            "displayName-count-few": "св. јеленске фунте",
-            "displayName-count-other": "св. јеленских фунти",
+            "displayName": "Свете Јелене фунта",
+            "displayName-count-one": "Свете Јелене фунта",
+            "displayName-count-few": "Свете Јелене фунте",
+            "displayName-count-other": "Свете Јелене фунти",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },

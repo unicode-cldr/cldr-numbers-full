@@ -3,8 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "is"
       },
@@ -85,6 +84,8 @@
           },
           "ARP": {
             "displayName": "Argentískur pesi (1983–1985)",
+            "displayName-count-one": "Argentískur pesi (1983–1985)",
+            "displayName-count-other": "Argentískur pesi (1983–1985)",
             "symbol": "ARP"
           },
           "ARS": {
@@ -219,6 +220,8 @@
           },
           "BOP": {
             "displayName": "Bólivískur pesi",
+            "displayName-count-one": "Bólivískur pesi",
+            "displayName-count-other": "Bólivískur pesi",
             "symbol": "BOP"
           },
           "BOV": {
@@ -391,8 +394,8 @@
           },
           "CUC": {
             "displayName": "kúbverskur skiptanlegur pesi",
-            "displayName-count-one": "kúbverskur skiptanlegur pesói",
-            "displayName-count-other": "kúbverskir skiptanlegir pesóar",
+            "displayName-count-one": "kúbverskur skiptanlegur pesi",
+            "displayName-count-other": "kúbverskir skiptanlegir pesar",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
@@ -991,6 +994,8 @@
           },
           "MXP": {
             "displayName": "Mexíkóskur silfurpesi (1861–1992)",
+            "displayName-count-one": "Mexíkóskur silfurpesi (1861–1992)",
+            "displayName-count-other": "Mexíkóskur silfurpesi (1861–1992)",
             "symbol": "MXP"
           },
           "MXV": {
@@ -1033,7 +1038,9 @@
             "symbol-alt-narrow": "₦"
           },
           "NIC": {
-            "displayName": "NIC",
+            "displayName": "Níkarögsk kordóva (1988–1991)",
+            "displayName-count-one": "Níkarögsk kordóva (1988–1991)",
+            "displayName-count-other": "Níkaragskar kordóvur (1988–1991)",
             "symbol": "NIC"
           },
           "NIO": {
@@ -1420,10 +1427,14 @@
           },
           "USN": {
             "displayName": "Bandaríkjadalur (næsta dag)",
+            "displayName-count-one": "Bandaríkjadalur (næsta dag)",
+            "displayName-count-other": "Bandaríkjadalur (næsta dag)",
             "symbol": "USN"
           },
           "USS": {
             "displayName": "Bandaríkjadalur (sama dag)",
+            "displayName-count-one": "Bandaríkjadalur (sama dag)",
+            "displayName-count-other": "Bandaríkjadalur (sama dag)",
             "symbol": "USS"
           },
           "UYI": {

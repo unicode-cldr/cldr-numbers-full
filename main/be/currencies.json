@@ -3,8 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "be"
       },
@@ -15,11 +14,11 @@
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "дырхем ААЭ",
-            "displayName-count-one": "дырхем ААЭ",
-            "displayName-count-few": "дырхемы ААЭ",
-            "displayName-count-many": "дырхемаў ААЭ",
-            "displayName-count-other": "дырхема ААЭ",
+            "displayName": "дырхам ААЭ",
+            "displayName-count-one": "дырхам ААЭ",
+            "displayName-count-few": "дырхамы ААЭ",
+            "displayName-count-many": "дырхамаў ААЭ",
+            "displayName-count-other": "дырхама ААЭ",
             "symbol": "AED"
           },
           "AFA": {
@@ -159,11 +158,11 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "барбадоскі долар",
-            "displayName-count-one": "барбадоскі долар",
-            "displayName-count-few": "барбадоскія долары",
-            "displayName-count-many": "барбадоскіх долараў",
-            "displayName-count-other": "барбадоскага долара",
+            "displayName": "барбадаскі долар",
+            "displayName-count-one": "барбадаскі долар",
+            "displayName-count-few": "барбадаскія долары",
+            "displayName-count-many": "барбадаскіх долараў",
+            "displayName-count-other": "барбадаскага долара",
             "symbol": "BBD",
             "symbol-alt-narrow": "Bds$"
           },
@@ -818,11 +817,11 @@
             "symbol": "IQD"
           },
           "IRR": {
-            "displayName": "іранскі рыал",
-            "displayName-count-one": "іранскі рыал",
-            "displayName-count-few": "іранскія рыалы",
-            "displayName-count-many": "іранскіх рыалаў",
-            "displayName-count-other": "іранскага рыала",
+            "displayName": "іранскі рыял",
+            "displayName-count-one": "іранскі рыял",
+            "displayName-count-few": "іранскія рыялы",
+            "displayName-count-many": "іранскіх рыялаў",
+            "displayName-count-other": "іранскага рыяла",
             "symbol": "IRR"
           },
           "ISJ": {
@@ -885,11 +884,11 @@
             "symbol": "KGS"
           },
           "KHR": {
-            "displayName": "камбаджыйскі рыэль",
-            "displayName-count-one": "камбаджыйскі рыэль",
-            "displayName-count-few": "камбаджыйскія рыэлі",
-            "displayName-count-many": "камбаджыйскіх рыэляў",
-            "displayName-count-other": "камбаджыйскага рыэля",
+            "displayName": "камбаджыйскі рыель",
+            "displayName-count-one": "камбаджыйскі рыель",
+            "displayName-count-few": "камбаджыйскія рыелі",
+            "displayName-count-many": "камбаджыйскіх рыеляў",
+            "displayName-count-other": "камбаджыйскага рыеля",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
@@ -946,11 +945,11 @@
             "symbol-alt-narrow": "CI$"
           },
           "KZT": {
-            "displayName": "казахстанскі тэнгэ",
-            "displayName-count-one": "казахстанскі тэнгэ",
-            "displayName-count-few": "казахстанскія тэнгэ",
-            "displayName-count-many": "казахстанскіх тэнгэ",
-            "displayName-count-other": "казахстанскага тэнгэ",
+            "displayName": "казахстанскі тэнге",
+            "displayName-count-one": "казахстанскі тэнге",
+            "displayName-count-few": "казахстанскія тэнге",
+            "displayName-count-many": "казахстанскіх тэнге",
+            "displayName-count-other": "казахстанскага тэнге",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
@@ -1124,11 +1123,11 @@
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "маўрытанская ўгія",
-            "displayName-count-one": "маўрытанская ўгія",
-            "displayName-count-few": "маўрытанскія ўгіі",
+            "displayName": "маўрытанская угія",
+            "displayName-count-one": "маўрытанская угія",
+            "displayName-count-few": "маўрытанскія угіі",
             "displayName-count-many": "маўрытанскіх угій",
-            "displayName-count-other": "маўрытанскай ўгіі",
+            "displayName-count-other": "маўрытанскай угіі",
             "symbol": "MRU"
           },
           "MTL": {
@@ -1220,11 +1219,11 @@
             "symbol-alt-narrow": "N$"
           },
           "NGN": {
-            "displayName": "нігерыйская найра",
-            "displayName-count-one": "нігерыйская найра",
-            "displayName-count-few": "нігерыйскія найры",
-            "displayName-count-many": "нігерыйскіх найр",
-            "displayName-count-other": "нігерыйскай найры",
+            "displayName": "нігерыйская наіра",
+            "displayName-count-one": "нігерыйская наіра",
+            "displayName-count-few": "нігерыйскія наіры",
+            "displayName-count-many": "нігерыйскіх наір",
+            "displayName-count-other": "нігерыйскай наіры",
             "symbol": "NGN",
             "symbol-alt-narrow": "₦"
           },
@@ -1273,11 +1272,11 @@
             "symbol-alt-narrow": "NZ$"
           },
           "OMR": {
-            "displayName": "аманскі рыал",
-            "displayName-count-one": "аманскі рыал",
-            "displayName-count-few": "аманскія рыалы",
-            "displayName-count-many": "аманскіх рыалаў",
-            "displayName-count-other": "аманска рыала",
+            "displayName": "аманскі рыял",
+            "displayName-count-one": "аманскі рыял",
+            "displayName-count-few": "аманскія рыялы",
+            "displayName-count-many": "аманскіх рыялаў",
+            "displayName-count-other": "аманскага рыяла",
             "symbol": "OMR"
           },
           "PAB": {
@@ -1305,11 +1304,11 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "кіна",
-            "displayName-count-one": "кіна",
-            "displayName-count-few": "кіна",
-            "displayName-count-many": "кіна",
-            "displayName-count-other": "кіна",
+            "displayName": "кіна Папуа-Новай Гвінеі",
+            "displayName-count-one": "кіна Папуа-Новай Гвінеі",
+            "displayName-count-few": "кіны Папуа-Новай Гвінеі",
+            "displayName-count-many": "кін Папуа-Новай Гвінеі",
+            "displayName-count-other": "кіны Папуа-Новай Гвінеі",
             "symbol": "PGK"
           },
           "PHP": {
@@ -1357,11 +1356,11 @@
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "катарскі рыал",
-            "displayName-count-one": "катарскі рыал",
-            "displayName-count-few": "катарскія рыалы",
-            "displayName-count-many": "катарскіх рыалаў",
-            "displayName-count-other": "катарскага рыала",
+            "displayName": "катарскі рыял",
+            "displayName-count-one": "катарскі рыял",
+            "displayName-count-few": "катарскія рыялы",
+            "displayName-count-many": "катарскіх рыялаў",
+            "displayName-count-other": "катарскага рыяла",
             "symbol": "QAR"
           },
           "RHD": {
@@ -1472,11 +1471,11 @@
             "symbol-alt-narrow": "S$"
           },
           "SHP": {
-            "displayName": "фунт Святой Алены",
-            "displayName-count-one": "фунт Святой Алены",
-            "displayName-count-few": "фунты Святой Алены",
-            "displayName-count-many": "фунтаў Святой Алены",
-            "displayName-count-other": "фунта Святой Алены",
+            "displayName": "фунт в-ва Святой Алены",
+            "displayName-count-one": "фунт в-ва Святой Алены",
+            "displayName-count-few": "фунты в-ва Святой Алены",
+            "displayName-count-many": "фунтаў в-ва Святой Алены",
+            "displayName-count-other": "фунта в-ва Святой Алены",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1489,11 +1488,11 @@
             "symbol": "SKK"
           },
           "SLL": {
-            "displayName": "леонэ",
-            "displayName-count-one": "леонэ",
-            "displayName-count-few": "леонэ",
-            "displayName-count-many": "леонэ",
-            "displayName-count-other": "леонэ",
+            "displayName": "сьера-леонскі леонэ",
+            "displayName-count-one": "сьера-леонскі леонэ",
+            "displayName-count-few": "сьера-леонскія леонэ",
+            "displayName-count-many": "сьера-леонскіх леонэ",
+            "displayName-count-other": "сьера-леонскага леонэ",
             "symbol": "SLL"
           },
           "SOS": {
@@ -1747,11 +1746,11 @@
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "венесуальскі балівар",
-            "displayName-count-one": "венесуальскі балівар",
-            "displayName-count-few": "венесуальскія балівары",
-            "displayName-count-many": "венесуальскіх балівараў",
-            "displayName-count-other": "венесуальскага балівара",
+            "displayName": "венесуэльскі балівар",
+            "displayName-count-one": "венесуэльскі балівар",
+            "displayName-count-few": "венесуэльскія балівары",
+            "displayName-count-many": "венесуэльскіх балівараў",
+            "displayName-count-other": "венесуэльскага балівара",
             "symbol": "VES"
           },
           "VND": {
@@ -1768,11 +1767,11 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "вату",
-            "displayName-count-one": "вату",
-            "displayName-count-few": "вату",
-            "displayName-count-many": "вату",
-            "displayName-count-other": "вату",
+            "displayName": "вануацкі вату",
+            "displayName-count-one": "вануацкі вату",
+            "displayName-count-few": "вануацкія вату",
+            "displayName-count-many": "вануацкіх вату",
+            "displayName-count-other": "вануацкага вату",
             "symbol": "VUV"
           },
           "WST": {
@@ -1894,10 +1893,10 @@
           },
           "YER": {
             "displayName": "еменскі рыал",
-            "displayName-count-one": "еменскі рыал",
-            "displayName-count-few": "еменскія рыалы",
-            "displayName-count-many": "еменскіх рыалаў",
-            "displayName-count-other": "еменскага рыала",
+            "displayName-count-one": "еменскі рыял",
+            "displayName-count-few": "еменскія рыялы",
+            "displayName-count-many": "еменскіх рыялаў",
+            "displayName-count-other": "еменскага рыяла",
             "symbol": "YER"
           },
           "YUD": {
@@ -1921,11 +1920,11 @@
             "symbol": "ZAL"
           },
           "ZAR": {
-            "displayName": "паўднёваафрыканскі ранд",
-            "displayName-count-one": "паўднёваафрыканскі ранд",
-            "displayName-count-few": "паўднёваафрыканскія ранды",
-            "displayName-count-many": "паўднёваафрыканскіх рандаў",
-            "displayName-count-other": "паўднёваафрыканскага ранда",
+            "displayName": "паўднёваафрыканскі рэнд",
+            "displayName-count-one": "паўднёваафрыканскі рэнд",
+            "displayName-count-few": "паўднёваафрыканскія рэнды",
+            "displayName-count-many": "паўднёваафрыканскіх рэндаў",
+            "displayName-count-other": "паўднёваафрыканскага рэнда",
             "symbol": "ZAR",
             "symbol-alt-narrow": "R"
           },

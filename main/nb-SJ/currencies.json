@@ -3,8 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nb",
         "territory": "SJ"
@@ -1021,6 +1020,8 @@
           },
           "MCF": {
             "displayName": "MCF",
+            "displayName-count-one": "MCF",
+            "displayName-count-other": "MCF",
             "symbol": "MCF"
           },
           "MDC": {
