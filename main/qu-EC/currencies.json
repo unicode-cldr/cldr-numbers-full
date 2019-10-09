@@ -16,7 +16,6 @@
           },
           "AED": {
             "displayName": "AED",
-            "displayName-count-other": "AED",
             "symbol": "AED"
           },
           "AFA": {
@@ -39,7 +38,6 @@
           },
           "AMD": {
             "displayName": "AMD",
-            "displayName-count-other": "AMD",
             "symbol": "AMD"
           },
           "ANG": {
@@ -108,7 +106,6 @@
           },
           "AZN": {
             "displayName": "AZN",
-            "displayName-count-other": "AZN",
             "symbol": "AZN"
           },
           "BAD": {
@@ -464,7 +461,6 @@
           },
           "FJD": {
             "displayName": "Dólar Fiyiano",
-            "displayName-count-other": "Dólar Fiyiano",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },

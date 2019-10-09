@@ -136,7 +136,6 @@
               "100000000000000-count-other": "¤000T"
             }
           },
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {
@@ -146,7 +145,6 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "{0}?",
           "pluralMinimalPairs-count-other": "{0}?",
           "other": "{0}?"
         }

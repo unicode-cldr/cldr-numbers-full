@@ -277,7 +277,6 @@
           },
           "BUK": {
             "displayName": "缅元",
-            "displayName-count-other": "缅元",
             "symbol": "BUK"
           },
           "BWP": {
@@ -750,12 +749,10 @@
           },
           "KRH": {
             "displayName": "韩元 (1953–1962)",
-            "displayName-count-other": "韩元 (1953–1962)",
             "symbol": "KRH"
           },
           "KRO": {
             "displayName": "韩元 (1945–1953)",
-            "displayName-count-other": "韩元 (1945–1953)",
             "symbol": "KRO"
           },
           "KRW": {
@@ -1309,7 +1306,6 @@
           },
           "TPE": {
             "displayName": "帝汶埃斯库多",
-            "displayName-count-other": "帝汶埃斯库多",
             "symbol": "TPE"
           },
           "TRL": {
@@ -1428,7 +1424,6 @@
           },
           "VNN": {
             "displayName": "越南盾 (1978–1985)",
-            "displayName-count-other": "越南盾 (1978–1985)",
             "symbol": "VNN"
           },
           "VUV": {

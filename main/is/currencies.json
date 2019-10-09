@@ -84,8 +84,6 @@
           },
           "ARP": {
             "displayName": "Argentískur pesi (1983–1985)",
-            "displayName-count-one": "Argentískur pesi (1983–1985)",
-            "displayName-count-other": "Argentískur pesi (1983–1985)",
             "symbol": "ARP"
           },
           "ARS": {
@@ -220,8 +218,6 @@
           },
           "BOP": {
             "displayName": "Bólivískur pesi",
-            "displayName-count-one": "Bólivískur pesi",
-            "displayName-count-other": "Bólivískur pesi",
             "symbol": "BOP"
           },
           "BOV": {
@@ -994,8 +990,6 @@
           },
           "MXP": {
             "displayName": "Mexíkóskur silfurpesi (1861–1992)",
-            "displayName-count-one": "Mexíkóskur silfurpesi (1861–1992)",
-            "displayName-count-other": "Mexíkóskur silfurpesi (1861–1992)",
             "symbol": "MXP"
           },
           "MXV": {
@@ -1427,14 +1421,10 @@
           },
           "USN": {
             "displayName": "Bandaríkjadalur (næsta dag)",
-            "displayName-count-one": "Bandaríkjadalur (næsta dag)",
-            "displayName-count-other": "Bandaríkjadalur (næsta dag)",
             "symbol": "USN"
           },
           "USS": {
             "displayName": "Bandaríkjadalur (sama dag)",
-            "displayName-count-one": "Bandaríkjadalur (sama dag)",
-            "displayName-count-other": "Bandaríkjadalur (sama dag)",
             "symbol": "USS"
           },
           "UYI": {

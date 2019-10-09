@@ -29,7 +29,6 @@
           },
           "ALK": {
             "displayName": "ALK",
-            "displayName-count-other": "ALK",
             "symbol": "ALK"
           },
           "ALL": {
@@ -323,7 +322,6 @@
           },
           "CNX": {
             "displayName": "CNX",
-            "displayName-count-other": "CNX",
             "symbol": "CNX"
           },
           "CNY": {
@@ -604,7 +602,6 @@
           },
           "ILR": {
             "displayName": "ILR",
-            "displayName-count-other": "ILR",
             "symbol": "ILR"
           },
           "ILS": {
@@ -631,7 +628,6 @@
           },
           "ISJ": {
             "displayName": "ISJ",
-            "displayName-count-other": "ISJ",
             "symbol": "ISJ"
           },
           "ISK": {
@@ -873,7 +869,6 @@
           },
           "MVP": {
             "displayName": "MVP",
-            "displayName-count-other": "MVP",
             "symbol": "MVP"
           },
           "MVR": {
@@ -1292,7 +1287,6 @@
           },
           "UYW": {
             "displayName": "UYW",
-            "displayName-count-other": "UYW",
             "symbol": "UYW"
           },
           "UZS": {
@@ -1410,7 +1404,6 @@
           },
           "XSU": {
             "displayName": "XSU",
-            "displayName-count-other": "XSU",
             "symbol": "XSU"
           },
           "XTS": {
@@ -1419,7 +1412,6 @@
           },
           "XUA": {
             "displayName": "XUA",
-            "displayName-count-other": "XUA",
             "symbol": "XUA"
           },
           "XXX": {
