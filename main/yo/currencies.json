@@ -3,7 +3,7 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yo"
       },
@@ -22,7 +22,7 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "AFN",
+            "displayName": "Afugánì Afuganísítàànì",
             "symbol": "AFN"
           },
           "ALK": {
@@ -30,15 +30,15 @@
             "symbol": "ALK"
           },
           "ALL": {
-            "displayName": "ALL",
+            "displayName": "Lẹ́kẹ̀ Àlìbéníà",
             "symbol": "ALL"
           },
           "AMD": {
-            "displayName": "AMD",
+            "displayName": "Dírààmù Àmẹ́níà",
             "symbol": "AMD"
           },
           "ANG": {
-            "displayName": "ANG",
+            "displayName": "Gílídà Netherlands Antillean",
             "symbol": "ANG"
           },
           "AOA": {
@@ -75,7 +75,7 @@
             "symbol": "ARP"
           },
           "ARS": {
-            "displayName": "ARS",
+            "displayName": "Pẹ́sò Agẹntínà",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -89,7 +89,7 @@
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "AWG",
+            "displayName": "Fuloríìnì Àrúbà",
             "symbol": "AWG"
           },
           "AZM": {
@@ -97,7 +97,7 @@
             "symbol": "AZM"
           },
           "AZN": {
-            "displayName": "AZN",
+            "displayName": "Mánààtì Àsàbáíjáì",
             "symbol": "AZN"
           },
           "BAD": {
@@ -105,7 +105,7 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "BAM",
+            "displayName": "Àmi Yíyípadà Bosnia-Herzegovina",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -114,12 +114,12 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "BBD",
+            "displayName": "Dọ́là Bábádọ̀ọ̀sì",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
           "BDT": {
-            "displayName": "BDT",
+            "displayName": "Tákà Báńgíládẹ̀ẹ̀ṣì",
             "symbol": "BDT",
             "symbol-alt-narrow": "৳"
           },
@@ -144,7 +144,7 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "BGN",
+            "displayName": "Owó Lẹ́fì Bọ̀lìgéríà",
             "symbol": "BGN"
           },
           "BGO": {
@@ -160,17 +160,17 @@
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "BMD",
+            "displayName": "Dọ́là Bẹ̀múdà",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
           "BND": {
-            "displayName": "BND",
+            "displayName": "Dọ́là Bùrùnéì",
             "symbol": "BND",
             "symbol-alt-narrow": "$"
           },
           "BOB": {
-            "displayName": "BOB",
+            "displayName": "Bọlifiánò Bọ̀lífíà",
             "symbol": "BOB",
             "symbol-alt-narrow": "Bs"
           },
@@ -217,12 +217,12 @@
             "symbol": "BRZ"
           },
           "BSD": {
-            "displayName": "BSD",
+            "displayName": "Dọ́là Bàhámà",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
-            "displayName": "BTN",
+            "displayName": "Ìngọ́tírọ̀mù Bútàànì",
             "symbol": "BTN"
           },
           "BUK": {
@@ -239,7 +239,7 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "BYN",
+            "displayName": "Rọ́bù Bẹ̀lárùùsì",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -248,7 +248,7 @@
             "symbol": "BYR"
           },
           "BZD": {
-            "displayName": "BZD",
+            "displayName": "Dọ́là Bẹ̀lísè",
             "symbol": "BZD",
             "symbol-alt-narrow": "$"
           },
@@ -282,12 +282,12 @@
             "symbol": "CLF"
           },
           "CLP": {
-            "displayName": "CLP",
+            "displayName": "Pẹ́sò Ṣílè",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "Yúànì Sháínà",
             "symbol": "CNH"
           },
           "CNX": {
@@ -300,7 +300,7 @@
             "symbol-alt-narrow": "¥"
           },
           "COP": {
-            "displayName": "COP",
+            "displayName": "Pẹ́sò Kòlóḿbíà",
             "symbol": "COP",
             "symbol-alt-narrow": "$"
           },
@@ -309,7 +309,7 @@
             "symbol": "COU"
           },
           "CRC": {
-            "displayName": "CRC",
+            "displayName": "Kólọ́ọ̀nì Kosita Ríkà",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -322,12 +322,12 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "CUC",
+            "displayName": "Pẹ́sò Yíyípadà Kúbà",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "CUP",
+            "displayName": "Pẹ́sò Kúbà",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -340,7 +340,7 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "CZK",
+            "displayName": "Koruna Ṣẹ́ẹ̀kì",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -357,12 +357,12 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "DKK",
+            "displayName": "Kírónì Dáníṣì",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "DOP",
+            "displayName": "Pẹ́sò Dòníníkà",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
@@ -420,12 +420,12 @@
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "FJD",
+            "displayName": "Dọ́là Fíjì",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "FKP",
+            "displayName": "Pọ́n-ùn Erékùsù Falkland",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -443,7 +443,7 @@
             "symbol": "GEK"
           },
           "GEL": {
-            "displayName": "GEL",
+            "displayName": "Lárì Jọ́jíà",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾"
           },
@@ -452,11 +452,11 @@
             "symbol": "GHC"
           },
           "GHS": {
-            "displayName": "GHS",
+            "displayName": "Sídì Ghanaian",
             "symbol": "GHS"
           },
           "GIP": {
-            "displayName": "GIP",
+            "displayName": "Pọ́n-ùn Gibraltar",
             "symbol": "GIP",
             "symbol-alt-narrow": "£"
           },
@@ -465,7 +465,7 @@
             "symbol": "GMD"
           },
           "GNF": {
-            "displayName": "GNF",
+            "displayName": "Fírànkì Gíníànì",
             "symbol": "GNF",
             "symbol-alt-narrow": "FG"
           },
@@ -482,7 +482,7 @@
             "symbol": "GRD"
           },
           "GTQ": {
-            "displayName": "GTQ",
+            "displayName": "Kúẹ́tísààlì Guatimílà",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -495,17 +495,17 @@
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "GYD",
+            "displayName": "Dọ́là Gùyánà",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
           "HKD": {
-            "displayName": "HKD",
+            "displayName": "Dọ́là Hong Kong",
             "symbol": "HK$",
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "HNL",
+            "displayName": "Lẹmipírà Ọ́ńdúrà",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
@@ -514,21 +514,21 @@
             "symbol": "HRD"
           },
           "HRK": {
-            "displayName": "HRK",
+            "displayName": "Kúnà Croatian",
             "symbol": "HRK",
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "HTG",
+            "displayName": "Gọ́dì Àítì",
             "symbol": "HTG"
           },
           "HUF": {
-            "displayName": "HUF",
+            "displayName": "Fọ́ríǹtì Họ̀ngérí",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "IDR",
+            "displayName": "Rúpìyá Indonésíà",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
@@ -545,7 +545,7 @@
             "symbol": "ILR"
           },
           "ILS": {
-            "displayName": "ILS",
+            "displayName": "Ṣékélì Tuntun Ísírẹ̀ẹ̀lì",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -555,11 +555,11 @@
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
-            "displayName": "IQD",
+            "displayName": "Dínárì Ìráákì",
             "symbol": "IQD"
           },
           "IRR": {
-            "displayName": "IRR",
+            "displayName": "Rial Iranian",
             "symbol": "IRR"
           },
           "ISJ": {
@@ -567,7 +567,7 @@
             "symbol": "ISJ"
           },
           "ISK": {
-            "displayName": "ISK",
+            "displayName": "Kòrónà Icelandic",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
@@ -576,12 +576,12 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "JMD",
+            "displayName": "Dọ́là Jàmáíkà",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "JOD",
+            "displayName": "Dínárì Jọ́dàànì",
             "symbol": "JOD"
           },
           "JPY": {
@@ -594,11 +594,11 @@
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "KGS",
+            "displayName": "Sómú Kirijísítàànì",
             "symbol": "KGS"
           },
           "KHR": {
-            "displayName": "KHR",
+            "displayName": "Ráyò Kàm̀bọ́díà",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
@@ -608,7 +608,7 @@
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "KPW",
+            "displayName": "Wọ́ọ̀nù Àríwá Kòríà",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -621,36 +621,36 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "KRW",
+            "displayName": "Wọ́ọ̀nù Gúúsù Kòríà",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "KWD",
+            "displayName": "Dínárì Kuwaiti",
             "symbol": "KWD"
           },
           "KYD": {
-            "displayName": "KYD",
+            "displayName": "Dọ́là Erékùsù Cayman",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "KZT",
+            "displayName": "Tẹngé Kasakísítàànì",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
           "LAK": {
-            "displayName": "LAK",
+            "displayName": "Kíììpù Làótì",
             "symbol": "LAK",
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "LBP",
+            "displayName": "Pọ́n-ùn Lebanese",
             "symbol": "LBP",
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "LKR",
+            "displayName": "Rúpìì Siri Láńkà",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
@@ -714,7 +714,7 @@
             "symbol": "MDC"
           },
           "MDL": {
-            "displayName": "MDL",
+            "displayName": "Owó Léhù Moldovan",
             "symbol": "MDL"
           },
           "MGA": {
@@ -727,7 +727,7 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "MKD",
+            "displayName": "Dẹ́nà Masidóníà",
             "symbol": "MKD"
           },
           "MKN": {
@@ -739,17 +739,17 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "MMK",
+            "displayName": "Kíyàtì Myanmar",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
           "MNT": {
-            "displayName": "MNT",
+            "displayName": "Túgúrììkì Mòǹgólíà",
             "symbol": "MNT",
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "MOP",
+            "displayName": "Pàtákà Màkáò",
             "symbol": "MOP"
           },
           "MRO": {
@@ -778,7 +778,7 @@
             "symbol": "MVP"
           },
           "MVR": {
-            "displayName": "MVR",
+            "displayName": "Rúfìyá Mọ̀lìdífà",
             "symbol": "MVR"
           },
           "MWK": {
@@ -786,7 +786,7 @@
             "symbol": "MWK"
           },
           "MXN": {
-            "displayName": "MXN",
+            "displayName": "Pẹ́sò Mẹ́síkò",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -799,7 +799,7 @@
             "symbol": "MXV"
           },
           "MYR": {
-            "displayName": "MYR",
+            "displayName": "Ríngìtì Màléṣíà",
             "symbol": "MYR",
             "symbol-alt-narrow": "RM"
           },
@@ -812,7 +812,7 @@
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "MZN",
+            "displayName": "Mẹ́tíkààlì Mòsáḿbíìkì",
             "symbol": "MZN"
           },
           "NAD": {
@@ -831,7 +831,7 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "NIO",
+            "displayName": "Kọ̀dóbà Naikarágúà",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -840,26 +840,26 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "NOK",
+            "displayName": "Kírónì Nọ́ọ́wè",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
           "NPR": {
-            "displayName": "NPR",
+            "displayName": "Rúpìì Nẹ̵́pààlì",
             "symbol": "NPR",
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
-            "displayName": "NZD",
+            "displayName": "Dọ́là New Zealand",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
           "OMR": {
-            "displayName": "OMR",
+            "displayName": "Ráyò Omani",
             "symbol": "OMR"
           },
           "PAB": {
-            "displayName": "PAB",
+            "displayName": "Bálíbóà Pànámà",
             "symbol": "PAB"
           },
           "PEI": {
@@ -867,7 +867,7 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "PEN",
+            "displayName": "Sólì Pèrúù",
             "symbol": "PEN"
           },
           "PES": {
@@ -875,21 +875,21 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "PGK",
+            "displayName": "Kínà Papua Guinea Tuntun",
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "PHP",
+            "displayName": "Písò Fílípìnì",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
           "PKR": {
-            "displayName": "PKR",
+            "displayName": "Rúpìì Pakisitánì",
             "symbol": "PKR",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "PLN",
+            "displayName": "Sílọ̀tì Pọ́líṣì",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
@@ -902,12 +902,12 @@
             "symbol": "PTE"
           },
           "PYG": {
-            "displayName": "PYG",
+            "displayName": "Gúáránì Párágúwè",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "QAR",
+            "displayName": "Ráyò Kàtárì",
             "symbol": "QAR"
           },
           "RHD": {
@@ -919,12 +919,12 @@
             "symbol": "ROL"
           },
           "RON": {
-            "displayName": "RON",
+            "displayName": "Léhù Ròméníà",
             "symbol": "RON",
             "symbol-alt-narrow": "lei"
           },
           "RSD": {
-            "displayName": "RSD",
+            "displayName": "Dínárì Sàbíà",
             "symbol": "RSD"
           },
           "RUB": {
@@ -948,7 +948,7 @@
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "SBD",
+            "displayName": "Dọ́là Erékùsù Sọ́lómọ́nì",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },
@@ -969,12 +969,12 @@
             "symbol": "SDP"
           },
           "SEK": {
-            "displayName": "SEK",
+            "displayName": "Kòrónà Súwídìn",
             "symbol": "SEK",
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "SGD",
+            "displayName": "Dọ́là Síngápọ̀",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
@@ -1000,7 +1000,7 @@
             "symbol": "SOS"
           },
           "SRD": {
-            "displayName": "SRD",
+            "displayName": "Dọ́là Súrínámì",
             "symbol": "SRD",
             "symbol-alt-narrow": "$"
           },
@@ -1009,7 +1009,7 @@
             "symbol": "SRG"
           },
           "SSP": {
-            "displayName": "SSP",
+            "displayName": "Pọ́n-ùn Gúúsù Sùdáànì",
             "symbol": "SSP",
             "symbol-alt-narrow": "£"
           },
@@ -1031,7 +1031,7 @@
             "symbol": "SVC"
           },
           "SYP": {
-            "displayName": "SYP",
+            "displayName": "Pọ́n-ùn Sírìà",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },
@@ -1040,7 +1040,7 @@
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "THB",
+            "displayName": "Báàtì Tháì",
             "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
@@ -1049,7 +1049,7 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "TJS",
+            "displayName": "Sómónì Tajikístàànì",
             "symbol": "TJS"
           },
           "TMM": {
@@ -1057,7 +1057,7 @@
             "symbol": "TMM"
           },
           "TMT": {
-            "displayName": "TMT",
+            "displayName": "Mánààtì Tọkimẹnístàànì",
             "symbol": "TMT"
           },
           "TND": {
@@ -1065,7 +1065,7 @@
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "TOP",
+            "displayName": "Pàángà Tóńgà",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1078,18 +1078,18 @@
             "symbol": "TRL"
           },
           "TRY": {
-            "displayName": "TRY",
+            "displayName": "Lírà Tọ́kì",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "TTD",
+            "displayName": "Dọ́là Trinidad & Tobago",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
           "TWD": {
-            "displayName": "TWD",
+            "displayName": "Dọ́là Tàìwánì Tuntun",
             "symbol": "NT$",
             "symbol-alt-narrow": "$"
           },
@@ -1098,7 +1098,7 @@
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "UAH",
+            "displayName": "Ọrifiníyà Yukiréníà",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
@@ -1137,7 +1137,7 @@
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "UYU",
+            "displayName": "Pẹ́sò Úrúgúwè",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
@@ -1146,7 +1146,7 @@
             "symbol": "UYW"
           },
           "UZS": {
-            "displayName": "UZS",
+            "displayName": "Sómú Usibẹkísítàànì",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1159,11 +1159,11 @@
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
+            "displayName": "Bọ̀lífà Fẹnẹsuẹ́là",
             "symbol": "VES"
           },
           "VND": {
-            "displayName": "VND",
+            "displayName": "Dáhùn Vietnamese",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1172,11 +1172,11 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "VUV",
+            "displayName": "Fátù Vanuatu",
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "WST",
+            "displayName": "Tálà Sàmóà",
             "symbol": "WST"
           },
           "XAF": {
@@ -1208,7 +1208,7 @@
             "symbol": "XBD"
           },
           "XCD": {
-            "displayName": "XCD",
+            "displayName": "Dọ́là Ilà Oòrùn Karíbíà",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
@@ -1237,7 +1237,7 @@
             "symbol": "XPD"
           },
           "XPF": {
-            "displayName": "XPF",
+            "displayName": "Fírànkì CFP",
             "symbol": "CFPF"
           },
           "XPT": {
@@ -1270,7 +1270,7 @@
             "symbol": "YDD"
           },
           "YER": {
-            "displayName": "YER",
+            "displayName": "Ráyò Yẹ́mẹ̀nì",
             "symbol": "YER"
           },
           "YUD": {

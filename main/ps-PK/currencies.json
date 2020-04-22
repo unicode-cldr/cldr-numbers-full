@@ -3,7 +3,7 @@
     "ps-PK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ps",
         "territory": "PK"
@@ -528,7 +528,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "GBP",
+            "displayName": "برتانوې پونډ",
+            "displayName-count-one": "برتانوې پونډ",
+            "displayName-count-other": "برتانوې پونډونه",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -537,7 +539,9 @@
             "symbol": "GEK"
           },
           "GEL": {
-            "displayName": "GEL",
+            "displayName": "جارجیاېي لارې",
+            "displayName-count-one": "جارجیا لاري",
+            "displayName-count-other": "جارجیاېي لارېز",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾"
           },
@@ -670,7 +674,9 @@
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "INR",
+            "displayName": "هندي روپۍ",
+            "displayName-count-one": "هندي روپۍ",
+            "displayName-count-other": "هندي روپۍ",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -790,7 +796,9 @@
             "symbol-alt-narrow": "₸"
           },
           "LAK": {
-            "displayName": "LAK",
+            "displayName": "لاشې کپ",
+            "displayName-count-one": "لاشې کپ",
+            "displayName-count-other": "لاشې کپس",
             "symbol": "LAK",
             "symbol-alt-narrow": "₭"
           },

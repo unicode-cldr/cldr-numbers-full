@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "am"
       },
@@ -628,7 +628,7 @@
             "symbol": "HRD"
           },
           "HRK": {
-            "displayName": "HRK",
+            "displayName": "የክሮሽያ ኩና",
             "displayName-count-one": "የክሮሽያ ኩና",
             "displayName-count-other": "የክሮሽያ ኩና",
             "symbol": "HRK",

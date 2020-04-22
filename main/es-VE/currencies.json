@@ -3,7 +3,7 @@
     "es-VE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "VE"
@@ -1608,8 +1608,7 @@
             "displayName": "bolívar soberano",
             "displayName-count-one": "bolívar soberano",
             "displayName-count-other": "bolívares soberanos",
-            "symbol": "Bs.S",
-            "symbol-alt-narrow": "Bs.S"
+            "symbol": "Bs.S"
           },
           "VND": {
             "displayName": "dong",

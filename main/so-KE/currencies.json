@@ -3,7 +3,7 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "so",
         "territory": "KE"
@@ -72,19 +72,27 @@
             "symbol": "AOR"
           },
           "ARA": {
-            "displayName": "ARA",
+            "displayName": "Argentine Austral",
+            "displayName-count-one": "Argentine Austral",
+            "displayName-count-other": "Argentine Australs",
             "symbol": "ARA"
           },
           "ARL": {
-            "displayName": "ARL",
+            "displayName": "Beesada Ley ee Arjentiin (1970–1983)",
+            "displayName-count-one": "Beesada Ley ee Arjentiin (1970–1983)",
+            "displayName-count-other": "Beesada Ley ee Arjentiin (1970–1983)",
             "symbol": "ARL"
           },
           "ARM": {
-            "displayName": "ARM",
+            "displayName": "Beesada Ley ee Arjentiin (1881–1970)",
+            "displayName-count-one": "Beesada Ley ee Arjentiin (1881–1970)",
+            "displayName-count-other": "Beesada Ley ee Arjentiin (1881–1970)",
             "symbol": "ARM"
           },
           "ARP": {
-            "displayName": "ARP",
+            "displayName": "Beesada Ley ee Arjentiin (1883–1985)",
+            "displayName-count-one": "Beesada Ley ee Arjentiin (1883–1985)",
+            "displayName-count-other": "Beesada Ley ee Arjentiin (1883–1985)",
             "symbol": "ARP"
           },
           "ARS": {
@@ -122,7 +130,9 @@
             "symbol": "AZN"
           },
           "BAD": {
-            "displayName": "BAD",
+            "displayName": "Diinaarka BBosnia-Hersogofina 1.00 konfatibal maakta Bosnia-Hersogofina 1 konfatibal maaka Bosnia-Hersogofina (1992–1994)",
+            "displayName-count-one": "Diinaarka BBosnia-Hersogofina (1992–1994)",
+            "displayName-count-other": "Diinaarka BBosnia-Hersogofina 1.00 konfatibal maakta Bosnia-Hersogofina 1 konfatibal maaka Bosnia-Hersogofina (1992–1994)",
             "symbol": "BAD"
           },
           "BAM": {
@@ -214,7 +224,9 @@
             "symbol-alt-narrow": "Bs"
           },
           "BOL": {
-            "displayName": "BOL",
+            "displayName": "Bolifiyaabka Bolifiyaano(1863–1963)",
+            "displayName-count-one": "Bolifiyaabka Bolifiyaano(1863–1963)",
+            "displayName-count-other": "Bolifiyaabka Bolifiyaano(1863–1963)",
             "symbol": "BOL"
           },
           "BOP": {
@@ -461,7 +473,9 @@
             "symbol": "ECV"
           },
           "EEK": {
-            "displayName": "EEK",
+            "displayName": "Kroonka Estooniya",
+            "displayName-count-one": "Kroonka Estooniya",
+            "displayName-count-other": "Kroonka Estooniya",
             "symbol": "EEK"
           },
           "EGP": {
@@ -504,7 +518,9 @@
             "symbol-alt-narrow": "€"
           },
           "FIM": {
-            "displayName": "FIM",
+            "displayName": "Markkada Fiinishka ah",
+            "displayName-count-one": "Markkada Fiinishka ah",
+            "displayName-count-other": "Markkada Fiinishka ah",
             "symbol": "FIM"
           },
           "FJD": {
@@ -653,7 +669,9 @@
             "symbol-alt-narrow": "Rp"
           },
           "IEP": {
-            "displayName": "IEP",
+            "displayName": "baawnka Ayrishka",
+            "displayName-count-one": "baawnka Ayrishka",
+            "displayName-count-other": "baawnka Ayrishka",
             "symbol": "IEP"
           },
           "ILP": {
@@ -692,6 +710,8 @@
           },
           "ISJ": {
             "displayName": "ISJ",
+            "displayName-count-one": "krónaha Iceland (1918–1981)",
+            "displayName-count-other": "krónaha Iceland (1918–1981)",
             "symbol": "ISJ"
           },
           "ISK": {
@@ -852,7 +872,9 @@
             "symbol-alt-narrow": "Ls"
           },
           "LVR": {
-            "displayName": "LVR",
+            "displayName": "Rubalka Latfiya",
+            "displayName-count-one": "rubalka Latvia",
+            "displayName-count-other": "rubalka Latfiya",
             "symbol": "LVR"
           },
           "LYD": {

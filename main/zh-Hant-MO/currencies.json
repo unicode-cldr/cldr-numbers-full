@@ -3,7 +3,7 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hant",
@@ -1417,7 +1417,7 @@
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
+            "displayName": "委內瑞拉玻利瓦",
             "displayName-count-other": "委內瑞拉玻利瓦",
             "symbol": "VES"
           },

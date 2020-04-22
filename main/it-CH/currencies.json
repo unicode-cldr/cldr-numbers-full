@@ -3,7 +3,7 @@
     "it-CH": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "it",
         "territory": "CH"
@@ -349,9 +349,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "renmimbi cinese offshore",
+            "displayName-count-one": "renmimbi cinese offshore",
+            "displayName-count-other": "renmimbi cinesi offshore",
             "symbol": "CNH"
           },
           "CNX": {

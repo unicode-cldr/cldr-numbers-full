@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ceb"
       },
@@ -239,7 +239,7 @@
           "BRL": {
             "displayName": "Brazilian Real",
             "displayName-count-one": "Brazilian real",
-            "displayName-count-other": "Brazilian reals",
+            "displayName-count-other": "Mga Brazilian real",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
@@ -321,7 +321,7 @@
           "CHF": {
             "displayName": "Swiss Franc",
             "displayName-count-one": "Swiss franc",
-            "displayName-count-other": "Swiss francs",
+            "displayName-count-other": "Mga Swiss franc",
             "symbol": "CHF"
           },
           "CHW": {
@@ -354,9 +354,9 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "Intsik nga Yuan",
-            "displayName-count-one": "Intsik ng yuan",
-            "displayName-count-other": "Intsik ng yuan",
+            "displayName": "Chinese Yuan",
+            "displayName-count-one": "Chinese yuan",
+            "displayName-count-other": "Chinese yuan",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -525,9 +525,9 @@
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "Inglatera nga Libra",
-            "displayName-count-one": "Inglatera nga libra",
-            "displayName-count-other": "Inglatera nga libra",
+            "displayName": "British Pound",
+            "displayName-count-one": "British pound",
+            "displayName-count-other": "Mga British pound",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
@@ -671,9 +671,9 @@
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "Rupee sa India",
-            "displayName-count-one": "rupee sa India",
-            "displayName-count-other": "Mga rupee sa India",
+            "displayName": "Indian Rupee",
+            "displayName-count-one": "Indian rupee",
+            "displayName-count-other": "Mga Indian rupee",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
@@ -718,9 +718,9 @@
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "Hapon nga Yen",
-            "displayName-count-one": "Hapon nga yen",
-            "displayName-count-other": "Hapon nga yen",
+            "displayName": "Japanese Yen",
+            "displayName-count-one": "Japanese yen",
+            "displayName-count-other": "Japanese yen",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
           },
@@ -1152,9 +1152,9 @@
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "Rusong ruble",
-            "displayName-count-one": "Rusong ruble",
-            "displayName-count-other": "Rusong ruble",
+            "displayName": "Russian Ruble",
+            "displayName-count-one": "Russian ruble",
+            "displayName-count-other": "Mga Russian ruble",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
@@ -1392,9 +1392,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "Dolyar sa US",
-            "displayName-count-one": "dolyar sa US",
-            "displayName-count-other": "dolyares sa US",
+            "displayName": "US Dollar",
+            "displayName-count-one": "US dollar",
+            "displayName-count-other": "Mga US dollar",
             "symbol": "US $",
             "symbol-alt-narrow": "$"
           },

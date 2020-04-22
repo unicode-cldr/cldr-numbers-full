@@ -3,7 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zu"
       },
@@ -347,8 +347,8 @@
           },
           "CNH": {
             "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName-count-one": "i-Chinese yuan (offshore)",
+            "displayName-count-other": "i-CNH",
             "symbol": "CNH"
           },
           "CNX": {

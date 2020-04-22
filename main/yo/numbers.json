@@ -3,7 +3,7 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yo"
       },
@@ -31,18 +31,18 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
-              "1000-count-other": "0K",
-              "10000-count-other": "00K",
-              "100000-count-other": "000K",
-              "1000000-count-other": "0M",
-              "10000000-count-other": "00M",
-              "100000000-count-other": "000M",
-              "1000000000-count-other": "0G",
-              "10000000000-count-other": "00G",
-              "100000000000-count-other": "000G",
-              "1000000000000-count-other": "0T",
-              "10000000000000-count-other": "00T",
-              "100000000000000-count-other": "000T"
+              "1000-count-other": "0 ẹgbẹ̀rún",
+              "10000-count-other": "00 ẹgbẹ̀rún",
+              "100000-count-other": "000 ẹgbẹ̀rún",
+              "1000000-count-other": "0 mílíọ̀nù",
+              "10000000-count-other": "00 mílíọ̀nù",
+              "100000000-count-other": "000 mílíọ̀nù",
+              "1000000000-count-other": "0 bilíọ̀nù",
+              "10000000000-count-other": "00 bilíọ̀nù",
+              "100000000000-count-other": "000 bilíọ̀nù",
+              "1000000000000-count-other": "0 tiriliọ̀nù",
+              "10000000000000-count-other": "00 tiriliọ̀nù",
+              "100000000000000-count-other": "000 tiriliọ̀nù"
             }
           },
           "short": {

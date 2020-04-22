@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pl"
       },
@@ -214,7 +214,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "{0}+",
+          "atLeast": "≥{0}",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
@@ -223,7 +223,7 @@
           "pluralMinimalPairs-count-few": "{0} miesiące",
           "pluralMinimalPairs-count-many": "{0} miesięcy",
           "pluralMinimalPairs-count-other": "{0} miesiąca",
-          "other": "Skręć w {0} w prawo."
+          "other": "Skręć w {0}. w prawo."
         }
       }
     }

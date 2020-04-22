@@ -3,7 +3,7 @@
     "uz": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz"
       },
@@ -346,9 +346,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "Xitoy yuani (ofshor)",
+            "displayName-count-one": "Xitoy yuani (ofshor)",
+            "displayName-count-other": "Xitoy yuani (ofshor)",
             "symbol": "CNH"
           },
           "CNX": {

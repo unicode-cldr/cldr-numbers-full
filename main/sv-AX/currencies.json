@@ -3,7 +3,7 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sv",
         "territory": "AX"
@@ -419,7 +419,7 @@
           "CNH": {
             "displayName": "kinesisk yuan (offshore)",
             "displayName-count-one": "kinesisk yuan (offshore)",
-            "displayName-count-other": "CNH",
+            "displayName-count-other": "kinesisk yuan (offshore)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -1654,7 +1654,9 @@
             "symbol-alt-narrow": "$"
           },
           "UYW": {
-            "displayName": "UYW",
+            "displayName": "uruguayansk indexenhet för nominell lön",
+            "displayName-count-one": "uruguayansk indexenhet för nominell lön",
+            "displayName-count-other": "uruguayansk indexenhet för nominell lön",
             "symbol": "UYW"
           },
           "UZS": {

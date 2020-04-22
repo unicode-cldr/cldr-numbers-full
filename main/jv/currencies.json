@@ -3,7 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jv"
       },
@@ -836,7 +836,6 @@
           },
           "MOP": {
             "displayName": "Pataca Macau",
-            "displayName-count-other": "MOP",
             "symbol": "MOP"
           },
           "MRO": {

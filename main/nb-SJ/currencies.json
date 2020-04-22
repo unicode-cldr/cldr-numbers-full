@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nb",
         "territory": "SJ"
@@ -1019,9 +1019,9 @@
             "symbol": "MAF"
           },
           "MCF": {
-            "displayName": "MCF",
-            "displayName-count-one": "MCF",
-            "displayName-count-other": "MCF",
+            "displayName": "monegaskiske franc",
+            "displayName-count-one": "monegaskisk franc",
+            "displayName-count-other": "monegaskiske franc",
             "symbol": "MCF"
           },
           "MDC": {

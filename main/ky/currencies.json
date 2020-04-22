@@ -3,7 +3,7 @@
     "ky": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ky"
       },
@@ -346,9 +346,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "Кытай юаны (офшор)",
+            "displayName-count-one": "Кытай юаны (офшор)",
+            "displayName-count-other": "Кытай юаны (офшор)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -1454,9 +1454,9 @@
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
-            "displayName-count-one": "VES",
-            "displayName-count-other": "VES",
+            "displayName": "Венесуэла боливары",
+            "displayName-count-one": "Венесуэла боливары",
+            "displayName-count-other": "Венесуэла боливары",
             "symbol": "VES"
           },
           "VND": {

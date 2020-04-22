@@ -3,7 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kok"
       },
@@ -252,7 +252,7 @@
           },
           "BWP": {
             "displayName": "बोत्सवाना पुला",
-            "displayName-count-other": "Vote बोत्सवाना पुलास",
+            "displayName-count-other": "बोत्सवाना पुलास",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -610,7 +610,6 @@
           },
           "INR": {
             "displayName": "भारतीय रुपया",
-            "displayName-count-other": "भारतीय रुपया",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },

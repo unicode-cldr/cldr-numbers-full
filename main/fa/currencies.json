@@ -3,7 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fa"
       },
@@ -887,7 +887,7 @@
             "symbol-alt-narrow": "Lt"
           },
           "LTT": {
-            "displayName": "LTT",
+            "displayName": "تالوناس لیتوانی",
             "symbol": "LTT"
           },
           "LUC": {

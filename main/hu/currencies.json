@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hu"
       },
@@ -34,7 +34,9 @@
             "symbol": "AFN"
           },
           "ALK": {
-            "displayName": "ALK",
+            "displayName": "albán lek (1946–1965)",
+            "displayName-count-one": "albán lek (1946–1965)",
+            "displayName-count-other": "albán lek (1946–1965)",
             "symbol": "ALK"
           },
           "ALL": {
@@ -152,7 +154,9 @@
             "symbol-alt-narrow": "KM"
           },
           "BAN": {
-            "displayName": "BAN",
+            "displayName": "bosznia-hercegovinai új dínár (1994–1997)",
+            "displayName-count-one": "bosznia-hercegovinai új dínár (1994–1997)",
+            "displayName-count-other": "bosznia-hercegovinai új dínár (1994–1997)",
             "symbol": "BAN"
           },
           "BBD": {
@@ -194,7 +198,9 @@
             "symbol": "BGL"
           },
           "BGM": {
-            "displayName": "BGM",
+            "displayName": "bolgár szocialista leva",
+            "displayName-count-one": "bolgár szocialista leva",
+            "displayName-count-other": "bolgár szocialista leva",
             "symbol": "BGM"
           },
           "BGN": {
@@ -204,7 +210,9 @@
             "symbol": "BGN"
           },
           "BGO": {
-            "displayName": "BGO",
+            "displayName": "bolgár leva (1879–1952)",
+            "displayName-count-one": "bolgár leva (1879–1952)",
+            "displayName-count-other": "bolgár leva (1879–1952)",
             "symbol": "BGO"
           },
           "BHD": {
@@ -325,6 +333,8 @@
           },
           "BYB": {
             "displayName": "Fehérorosz új rubel (1994–1999)",
+            "displayName-count-one": "fehérorosz új rubel (1994–1999)",
+            "displayName-count-other": "fehérorosz új rubel (1994–1999)",
             "symbol": "BYB"
           },
           "BYN": {
@@ -426,10 +436,14 @@
           },
           "CSD": {
             "displayName": "szerb dinár",
+            "displayName-count-one": "szerb dinár (2002–2006)",
+            "displayName-count-other": "szerb dinár (2002–2006)",
             "symbol": "CSD"
           },
           "CSK": {
             "displayName": "Csehszlovák kemény korona",
+            "displayName-count-one": "csehszlovák kemény korona",
+            "displayName-count-other": "csehszlovák kemény korona",
             "symbol": "CSK"
           },
           "CUC": {
@@ -524,6 +538,8 @@
           },
           "ESA": {
             "displayName": "spanyol peseta (A–kontó)",
+            "displayName-count-one": "spanyol peseta (A–kontó)",
+            "displayName-count-other": "spanyol peseta (A–kontó)",
             "symbol": "ESA"
           },
           "ESB": {
@@ -532,6 +548,8 @@
           },
           "ESP": {
             "displayName": "Spanyol peseta",
+            "displayName-count-one": "spanyol peseta",
+            "displayName-count-other": "spanyol peseta",
             "symbol": "ESP",
             "symbol-alt-narrow": "₧"
           },
@@ -631,6 +649,8 @@
           },
           "GRD": {
             "displayName": "Görög drachma",
+            "displayName-count-one": "görög drachma",
+            "displayName-count-other": "görög drachma",
             "symbol": "GRD"
           },
           "GTQ": {
@@ -671,6 +691,8 @@
           },
           "HRD": {
             "displayName": "Horvát dínár",
+            "displayName-count-one": "horvát dínár",
+            "displayName-count-other": "horvát dínár",
             "symbol": "HRD"
           },
           "HRK": {
@@ -751,6 +773,8 @@
           },
           "ITL": {
             "displayName": "Olasz líra",
+            "displayName-count-one": "olasz líra",
+            "displayName-count-other": "olasz líra",
             "symbol": "ITL"
           },
           "JMD": {
@@ -928,7 +952,9 @@
             "symbol": "MCF"
           },
           "MDC": {
-            "displayName": "MDC",
+            "displayName": "moldáv kupon",
+            "displayName-count-one": "moldáv kupon",
+            "displayName-count-other": "moldáv kupon",
             "symbol": "MDC"
           },
           "MDL": {
@@ -955,7 +981,9 @@
             "symbol": "MKD"
           },
           "MKN": {
-            "displayName": "MKN",
+            "displayName": "macedón dénár (1992–1993)",
+            "displayName-count-one": "macedón dénár (1992–1993)",
+            "displayName-count-other": "macedón dénár (1992–1993)",
             "symbol": "MKN"
           },
           "MLF": {
@@ -996,10 +1024,14 @@
           },
           "MTL": {
             "displayName": "Máltai líra",
+            "displayName-count-one": "máltai líra",
+            "displayName-count-other": "máltai líra",
             "symbol": "MTL"
           },
           "MTP": {
             "displayName": "Máltai font",
+            "displayName-count-one": "máltai font",
+            "displayName-count-other": "máltai font",
             "symbol": "MTP"
           },
           "MUR": {
@@ -1166,10 +1198,14 @@
           },
           "PLZ": {
             "displayName": "Lengyel zloty (1950–1995)",
+            "displayName-count-one": "lengyel zloty (PLZ)",
+            "displayName-count-other": "lengyel zloty (PLZ)",
             "symbol": "PLZ"
           },
           "PTE": {
             "displayName": "Portugál escudo",
+            "displayName-count-one": "portugál escudo",
+            "displayName-count-other": "portugál escudo",
             "symbol": "PTE"
           },
           "PYG": {
@@ -1291,10 +1327,14 @@
           },
           "SIT": {
             "displayName": "Szlovén tolar",
+            "displayName-count-one": "szlovén tolár",
+            "displayName-count-other": "szlovén tolár",
             "symbol": "SIT"
           },
           "SKK": {
             "displayName": "Szlovák korona",
+            "displayName-count-one": "szlovák korona",
+            "displayName-count-other": "szlovák korona",
             "symbol": "SKK"
           },
           "SLL": {
@@ -1342,6 +1382,8 @@
           },
           "SUR": {
             "displayName": "Szovjet rubel",
+            "displayName-count-one": "szovjet rubel",
+            "displayName-count-other": "szovjet rubel",
             "symbol": "SUR"
           },
           "SVC": {
@@ -1452,6 +1494,8 @@
           },
           "UAK": {
             "displayName": "Ukrán karbovanec",
+            "displayName-count-one": "ukrán karbovanec",
+            "displayName-count-other": "ukrán karbovanec",
             "symbol": "UAK"
           },
           "UGS": {
@@ -1675,18 +1719,26 @@
           },
           "YUD": {
             "displayName": "Jugoszláv kemény dínár",
+            "displayName-count-one": "jugoszláv kemény dinár (1966–1990)",
+            "displayName-count-other": "jugoszláv kemény dinár (1966–1990)",
             "symbol": "YUD"
           },
           "YUM": {
             "displayName": "Jugoszláv új dínár",
+            "displayName-count-one": "jugoszláv új dinár (1994–2002)",
+            "displayName-count-other": "jugoszláv új dinár (1994–2002)",
             "symbol": "YUM"
           },
           "YUN": {
             "displayName": "Jugoszláv konvertibilis dínár",
+            "displayName-count-one": "jugoszláv konvertibilis dinár (1990–1992)",
+            "displayName-count-other": "jugoszláv konvertibilis dinár (1990–1992)",
             "symbol": "YUN"
           },
           "YUR": {
-            "displayName": "YUR",
+            "displayName": "jugoszláv reformált dinár (1992–1993)",
+            "displayName-count-one": "jugoszláv reformált dinár (1992–1993)",
+            "displayName-count-other": "jugoszláv reformált dinár (1992–1993)",
             "symbol": "YUR"
           },
           "ZAL": {

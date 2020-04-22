@@ -3,7 +3,7 @@
     "pa-Guru": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pa",
         "script": "Guru"
@@ -1572,7 +1572,7 @@
           },
           "XEU": {
             "displayName": "ਯੂਰਪੀ ਮੁਦਰਾ ਇਕਾਈ",
-            "displayName-count-one": "XEU",
+            "displayName-count-one": "ਯੂਰਪੀਅਨ ਮੁਦਰਾ ਇਕਾਈ",
             "displayName-count-other": "ਯੂਰਪੀ ਮੁਦਰਾ ਇਕਾਈ",
             "symbol": "XEU"
           },

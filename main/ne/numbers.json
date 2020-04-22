@@ -3,7 +3,7 @@
     "ne": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ne"
       },
@@ -42,7 +42,7 @@
           "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-deva": {
-          "standard": "#,##0.###",
+          "standard": "#,##,##0.###",
           "long": {
             "decimalFormat": {
               "1000-count-one": "0 हजार",
@@ -101,7 +101,7 @@
           }
         },
         "decimalFormats-numberSystem-latn": {
-          "standard": "#,##0.###",
+          "standard": "#,##,##0.###",
           "long": {
             "decimalFormat": {
               "1000-count-one": "0 हजार",
@@ -166,10 +166,10 @@
           "standard": "#E0"
         },
         "percentFormats-numberSystem-deva": {
-          "standard": "#,##0%"
+          "standard": "#,##,##0%"
         },
         "percentFormats-numberSystem-latn": {
-          "standard": "#,##0%"
+          "standard": "#,##,##0%"
         },
         "currencyFormats-numberSystem-deva": {
           "currencySpacing": {
@@ -184,8 +184,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00",
-          "accounting": "¤ #,##0.00",
+          "standard": "¤ #,##,##0.00",
+          "accounting": "¤ #,##,##0.00",
           "short": {
             "standard": {
               "1000-count-one": "¤ 0 हजार",
@@ -230,8 +230,8 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00",
-          "accounting": "¤ #,##0.00",
+          "standard": "¤ #,##,##0.00",
+          "accounting": "¤ #,##,##0.00",
           "short": {
             "standard": {
               "1000-count-one": "¤ 0 हजार",

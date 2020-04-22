@@ -3,7 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ga"
       },
@@ -160,7 +160,7 @@
             "symbol-alt-narrow": "$"
           },
           "ATS": {
-            "displayName": "ATS",
+            "displayName": "Scilling na hOstaire",
             "displayName-count-one": "Scilling Ostarach",
             "displayName-count-two": "Scilling Ostarach",
             "displayName-count-few": "Scilling Ostarach",
@@ -249,7 +249,7 @@
             "symbol-alt-narrow": "৳"
           },
           "BEC": {
-            "displayName": "BEC",
+            "displayName": "Franc na Beilge (inmhalartaithe)",
             "displayName-count-one": "Franc Beilgeach (inathraithe)",
             "displayName-count-two": "Franc Beilgeach (inathraithe)",
             "displayName-count-few": "Franc Beilgeach (inathraithe)",
@@ -267,7 +267,7 @@
             "symbol": "BEF"
           },
           "BEL": {
-            "displayName": "BEL",
+            "displayName": "Franc na Beilge (airgeadais)",
             "displayName-count-one": "Franc Beilgeach (airgeadúil)",
             "displayName-count-two": "Franc Beilgeach (airgeadúil)",
             "displayName-count-few": "Franc Beilgeach (airgeadúil)",
@@ -582,11 +582,6 @@
           },
           "CNH": {
             "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-two": "CNH",
-            "displayName-count-few": "CNH",
-            "displayName-count-many": "CNH",
-            "displayName-count-other": "CNH",
             "symbol": "CNH"
           },
           "CNX": {
@@ -694,7 +689,7 @@
             "symbol-alt-narrow": "Kč"
           },
           "DDM": {
-            "displayName": "DDM",
+            "displayName": "Marc Ghearmáin an Oirthir",
             "displayName-count-one": "Ostmark na hOirGhearmáine",
             "displayName-count-two": "Ostmark na hOirGhearmáine",
             "displayName-count-few": "Ostmark na hOirGhearmáine",
@@ -1356,11 +1351,6 @@
           },
           "LUC": {
             "displayName": "LUC",
-            "displayName-count-one": "LUC",
-            "displayName-count-two": "LUC",
-            "displayName-count-few": "LUC",
-            "displayName-count-many": "LUC",
-            "displayName-count-other": "LUC",
             "symbol": "LUC"
           },
           "LUF": {

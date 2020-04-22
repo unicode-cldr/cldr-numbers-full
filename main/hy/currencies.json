@@ -3,7 +3,7 @@
     "hy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hy"
       },
@@ -347,9 +347,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "displayName-count-one": "CNH",
-            "displayName-count-other": "CNH",
+            "displayName": "չինական օֆշորային յուան",
+            "displayName-count-one": "չինական օֆշորային յուան",
+            "displayName-count-other": "չինական օֆշորային յուան",
             "symbol": "CNH"
           },
           "CNX": {

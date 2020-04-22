@@ -3,7 +3,7 @@
     "lrc-IQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lrc",
         "territory": "IQ"
@@ -1119,7 +1119,6 @@
           },
           "USD": {
             "displayName": "USD",
-            "displayName-count-other": "USD",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },

@@ -3,7 +3,7 @@
     "mi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mi"
       },
@@ -39,7 +39,6 @@
           },
           "ANG": {
             "displayName": "ANG",
-            "displayName-count-other": "ANG",
             "symbol": "ANG"
           },
           "AOA": {
@@ -77,7 +76,6 @@
           },
           "ARS": {
             "displayName": "ARS",
-            "displayName-count-other": "ARS",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -92,7 +90,6 @@
           },
           "AWG": {
             "displayName": "AWG",
-            "displayName-count-other": "AWG",
             "symbol": "AWG"
           },
           "AZM": {
@@ -118,7 +115,6 @@
           },
           "BBD": {
             "displayName": "BBD",
-            "displayName-count-other": "BBD",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
@@ -165,7 +161,6 @@
           },
           "BMD": {
             "displayName": "BMD",
-            "displayName-count-other": "BMD",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
@@ -223,7 +218,6 @@
           },
           "BSD": {
             "displayName": "BSD",
-            "displayName-count-other": "BSD",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
@@ -255,13 +249,11 @@
           },
           "BZD": {
             "displayName": "BZD",
-            "displayName-count-other": "BZD",
             "symbol": "BZD",
             "symbol-alt-narrow": "$"
           },
           "CAD": {
             "displayName": "CAD",
-            "displayName-count-other": "CAD",
             "symbol": "CA$",
             "symbol-alt-narrow": "$"
           },
@@ -319,7 +311,6 @@
           },
           "CRC": {
             "displayName": "CRC",
-            "displayName-count-other": "CRC",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -333,13 +324,11 @@
           },
           "CUC": {
             "displayName": "CUC",
-            "displayName-count-other": "CUC",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
             "displayName": "CUP",
-            "displayName-count-other": "CUP",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -375,7 +364,6 @@
           },
           "DOP": {
             "displayName": "DOP",
-            "displayName-count-other": "DOP",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
@@ -496,7 +484,6 @@
           },
           "GTQ": {
             "displayName": "GTQ",
-            "displayName-count-other": "GTQ",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -520,7 +507,6 @@
           },
           "HNL": {
             "displayName": "HNL",
-            "displayName-count-other": "HNL",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
@@ -535,7 +521,6 @@
           },
           "HTG": {
             "displayName": "HTG",
-            "displayName-count-other": "HTG",
             "symbol": "HTG"
           },
           "HUF": {
@@ -594,7 +579,6 @@
           },
           "JMD": {
             "displayName": "JMD",
-            "displayName-count-other": "JMD",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
@@ -650,7 +634,6 @@
           },
           "KYD": {
             "displayName": "KYD",
-            "displayName-count-other": "KYD",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
@@ -807,7 +790,6 @@
           },
           "MXN": {
             "displayName": "MXN",
-            "displayName-count-other": "MXN",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -852,7 +834,6 @@
           },
           "NIO": {
             "displayName": "NIO",
-            "displayName-count-other": "NIO",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -882,7 +863,6 @@
           },
           "PAB": {
             "displayName": "PAB",
-            "displayName-count-other": "PAB",
             "symbol": "PAB"
           },
           "PEI": {
@@ -1108,7 +1088,6 @@
           },
           "TTD": {
             "displayName": "TTD",
-            "displayName-count-other": "TTD",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
@@ -1233,7 +1212,6 @@
           },
           "XCD": {
             "displayName": "XCD",
-            "displayName-count-other": "XCD",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },

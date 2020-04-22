@@ -3,7 +3,7 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ms",
         "territory": "SG"
@@ -431,7 +431,7 @@
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
-            "displayName": "ERN",
+            "displayName": "Nakfa Eritrea",
             "displayName-count-other": "Nakfa Eritrea",
             "symbol": "ERN"
           },
@@ -810,7 +810,7 @@
             "symbol-alt-narrow": "Ar"
           },
           "MGF": {
-            "displayName": "MGF",
+            "displayName": "Franc Malagasy",
             "symbol": "MGF"
           },
           "MKD": {
@@ -902,11 +902,13 @@
             "symbol-alt-narrow": "RM"
           },
           "MZE": {
-            "displayName": "MZE",
+            "displayName": "Escudo Mozambique",
+            "displayName-count-other": "Escudo Mozambique",
             "symbol": "MZE"
           },
           "MZM": {
-            "displayName": "MZM",
+            "displayName": "Metical Mozambique (1980–2006)",
+            "displayName-count-other": "Metical Mozambique (1980–2006)",
             "symbol": "MZM"
           },
           "MZN": {
@@ -1024,7 +1026,8 @@
             "symbol": "QAR"
           },
           "RHD": {
-            "displayName": "RHD",
+            "displayName": "Dolar Rhodesia",
+            "displayName-count-other": "Dolar Rhodesia",
             "symbol": "RHD"
           },
           "ROL": {
@@ -1248,7 +1251,8 @@
             "symbol": "UAK"
           },
           "UGS": {
-            "displayName": "UGS",
+            "displayName": "Shilling Uganda (1966–1987)",
+            "displayName-count-other": "Shilling Uganda (1966–1987)",
             "symbol": "UGS"
           },
           "UGX": {
@@ -1472,15 +1476,18 @@
             "symbol": "ZRZ"
           },
           "ZWD": {
-            "displayName": "ZWD",
+            "displayName": "Dolar Zimbabwe (1980–2008)",
+            "displayName-count-other": "Dolar Zimbabwe (1980–2008)",
             "symbol": "ZWD"
           },
           "ZWL": {
-            "displayName": "ZWL",
+            "displayName": "Dolar Zimbabwe (2009)",
+            "displayName-count-other": "Dolar Zimbabwe (2009)",
             "symbol": "ZWL"
           },
           "ZWR": {
-            "displayName": "ZWR",
+            "displayName": "Dolar Zimbabwe (2008)",
+            "displayName-count-other": "Dolar Zimbabwe (2008)",
             "symbol": "ZWR"
           }
         }

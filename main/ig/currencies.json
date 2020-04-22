@@ -3,7 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ig"
       },
@@ -14,7 +14,8 @@
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "AED",
+            "displayName": "Ego Dirham obodo United Arab Emirates",
+            "displayName-count-other": "Ego dirhams obodo UAE",
             "symbol": "AED"
           },
           "AFA": {
@@ -22,7 +23,7 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "AFN",
+            "displayName": "Ego Afghani Obodo Afghanistan",
             "symbol": "AFN"
           },
           "ALK": {
@@ -30,19 +31,20 @@
             "symbol": "ALK"
           },
           "ALL": {
-            "displayName": "ALL",
+            "displayName": "Ego Lek Obodo Albania",
             "symbol": "ALL"
           },
           "AMD": {
-            "displayName": "AMD",
+            "displayName": "Ego Dram obodo Armenia",
             "symbol": "AMD"
           },
           "ANG": {
-            "displayName": "ANG",
+            "displayName": "Ego Antillean Guilder obodo Netherlands",
             "symbol": "ANG"
           },
           "AOA": {
-            "displayName": "AOA",
+            "displayName": "Ego Kwanza obodo Angola",
+            "displayName-count-other": "Ego kwanzas obodo Angola",
             "symbol": "AOA",
             "symbol-alt-narrow": "Kz"
           },
@@ -75,7 +77,7 @@
             "symbol": "ARP"
           },
           "ARS": {
-            "displayName": "ARS",
+            "displayName": "Ego Peso obodo Argentina",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
@@ -84,12 +86,13 @@
             "symbol": "ATS"
           },
           "AUD": {
-            "displayName": "AUD",
+            "displayName": "Ego Dollar obodo Australia",
+            "displayName-count-other": "Ego dollars obodo Australia",
             "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "AWG",
+            "displayName": "Ego Florin obodo Aruba",
             "symbol": "AWG"
           },
           "AZM": {
@@ -97,7 +100,8 @@
             "symbol": "AZM"
           },
           "AZN": {
-            "displayName": "AZN",
+            "displayName": "Ego Manat obodo Azerbaijan",
+            "displayName-count-other": "Ego manats obodo Azerbaijan",
             "symbol": "AZN"
           },
           "BAD": {
@@ -105,7 +109,7 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "BAM",
+            "displayName": "Akara mgbanwe ego obodo Bosnia-Herzegovina",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -114,12 +118,12 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "BBD",
+            "displayName": "Ego Dollar obodo Barbados",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
           "BDT": {
-            "displayName": "BDT",
+            "displayName": "Ego Taka obodo Bangladesh",
             "symbol": "BDT",
             "symbol-alt-narrow": "৳"
           },
@@ -144,7 +148,7 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "BGN",
+            "displayName": "Ego Lev mba Bulgaria",
             "symbol": "BGN"
           },
           "BGO": {
@@ -152,11 +156,11 @@
             "symbol": "BGO"
           },
           "BHD": {
-            "displayName": "BHD",
+            "displayName": "Ego Dinar Obodo Bahrain",
             "symbol": "BHD"
           },
           "BIF": {
-            "displayName": "BIF",
+            "displayName": "Ego Franc obodo Burundi",
             "symbol": "BIF"
           },
           "BMD": {
@@ -166,12 +170,13 @@
             "symbol-alt-narrow": "$"
           },
           "BND": {
-            "displayName": "BND",
+            "displayName": "Ego Dollar obodo Brunei",
+            "displayName-count-other": "Ego dollars obodo Brunei",
             "symbol": "BND",
             "symbol-alt-narrow": "$"
           },
           "BOB": {
-            "displayName": "BOB",
+            "displayName": "Ego Boliviano obodo Bolivia",
             "symbol": "BOB",
             "symbol-alt-narrow": "Bs"
           },
@@ -218,12 +223,12 @@
             "symbol": "BRZ"
           },
           "BSD": {
-            "displayName": "BSD",
+            "displayName": "Ego Dollar Obodo Bahamas",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
-            "displayName": "BTN",
+            "displayName": "Ego Ngultrum obodo Bhutan",
             "symbol": "BTN"
           },
           "BUK": {
@@ -231,7 +236,8 @@
             "symbol": "BUK"
           },
           "BWP": {
-            "displayName": "BWP",
+            "displayName": "Ego Pula obodo Bostwana",
+            "displayName-count-other": "Ego pulas obodo Bostwana",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
@@ -240,7 +246,7 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "BYN",
+            "displayName": "Ego Ruble mba Belarus",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -261,7 +267,8 @@
             "symbol-alt-narrow": "$"
           },
           "CDF": {
-            "displayName": "CDF",
+            "displayName": "Ego Franc obodo Congo",
+            "displayName-count-other": "Ego francs mba Congo",
             "symbol": "CDF"
           },
           "CHE": {
@@ -269,7 +276,7 @@
             "symbol": "CHE"
           },
           "CHF": {
-            "displayName": "CHF",
+            "displayName": "Ego Franc mba Switzerland",
             "symbol": "CHF"
           },
           "CHW": {
@@ -285,12 +292,12 @@
             "symbol": "CLF"
           },
           "CLP": {
-            "displayName": "CLP",
+            "displayName": "Ego Peso obodo Chile",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "Ego Yuan Obodo China (ndị bi na mmiri)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -304,7 +311,7 @@
             "symbol-alt-narrow": "¥"
           },
           "COP": {
-            "displayName": "COP",
+            "displayName": "Ego Peso obodo Columbia",
             "symbol": "COP",
             "symbol-alt-narrow": "$"
           },
@@ -313,7 +320,8 @@
             "symbol": "COU"
           },
           "CRC": {
-            "displayName": "CRC",
+            "displayName": "Ego Colón obodo Costa Rica",
+            "displayName-count-other": "Ego colóns obodo Costa Rica",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -326,12 +334,13 @@
             "symbol": "CSK"
           },
           "CUC": {
-            "displayName": "CUC",
+            "displayName": "Ego Peso e nwere ike ịgbanwe nke obodo Cuba",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "CUP",
+            "displayName": "Ego Peso obodo Cuba",
+            "displayName-count-other": "Ego pesos obodo Cuba",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -344,7 +353,7 @@
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "CZK",
+            "displayName": "Ego Koruna obodo Czech",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
@@ -357,21 +366,22 @@
             "symbol": "DEM"
           },
           "DJF": {
-            "displayName": "DJF",
+            "displayName": "Ego Franc obodo Djibouti",
+            "displayName-count-other": "ego francs obodo Djibouti",
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "DKK",
+            "displayName": "Ego Krone Obodo Denmark",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "DOP",
+            "displayName": "Ego Peso Obodo Dominica",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "DZD",
+            "displayName": "Ego Dinar Obodo Algeria",
             "symbol": "DZD"
           },
           "ECS": {
@@ -387,12 +397,13 @@
             "symbol": "EEK"
           },
           "EGP": {
-            "displayName": "EGP",
+            "displayName": "Ego Pound obodo Egypt",
             "symbol": "EGP",
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
-            "displayName": "ERN",
+            "displayName": "Ego Nakfa obodo Eritrea",
+            "displayName-count-other": "Ego nakfas obodo Eritrea",
             "symbol": "ERN"
           },
           "ESA": {
@@ -409,7 +420,8 @@
             "symbol-alt-narrow": "₧"
           },
           "ETB": {
-            "displayName": "ETB",
+            "displayName": "Ego Birr obodo Ethiopia",
+            "displayName-count-other": "Ego birrs obodo Ethiopia",
             "symbol": "ETB"
           },
           "EUR": {
@@ -423,12 +435,13 @@
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "FJD",
+            "displayName": "Ego Dollar obodo Fiji",
+            "displayName-count-other": "Ego dollars obodo Fijian",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "FKP",
+            "displayName": "Ego Pound obodo Falkland Islands",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -447,7 +460,7 @@
             "symbol": "GEK"
           },
           "GEL": {
-            "displayName": "GEL",
+            "displayName": "Ego Lari Obodo Georgia",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾"
           },
@@ -456,20 +469,20 @@
             "symbol": "GHC"
           },
           "GHS": {
-            "displayName": "GHS",
+            "displayName": "Ego Cedi obodo Ghana",
             "symbol": "GHS"
           },
           "GIP": {
-            "displayName": "GIP",
+            "displayName": "Ego Pound obodo Gibraltar",
             "symbol": "GIP",
             "symbol-alt-narrow": "£"
           },
           "GMD": {
-            "displayName": "GMD",
+            "displayName": "Ego Dalasi obodo Gambia",
             "symbol": "GMD"
           },
           "GNF": {
-            "displayName": "GNF",
+            "displayName": "Ego Franc obodo Guinea",
             "symbol": "GNF",
             "symbol-alt-narrow": "FG"
           },
@@ -486,7 +499,7 @@
             "symbol": "GRD"
           },
           "GTQ": {
-            "displayName": "GTQ",
+            "displayName": "Ego Quetzal obodo Guatemala",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
@@ -499,17 +512,17 @@
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "GYD",
+            "displayName": "Ego Dollar obodo Guyana",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
           "HKD": {
-            "displayName": "HKD",
+            "displayName": "Ego Dollar Obodo Honk Kong",
             "symbol": "HK$",
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "HNL",
+            "displayName": "Ego Lempira obodo Honduras",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
@@ -518,21 +531,22 @@
             "symbol": "HRD"
           },
           "HRK": {
-            "displayName": "HRK",
+            "displayName": "Ego Kuna obodo Croatia",
+            "displayName-count-other": "Ego kunas obodo Croatia",
             "symbol": "HRK",
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "HTG",
+            "displayName": "Ego Gourde obodo Haiti",
             "symbol": "HTG"
           },
           "HUF": {
-            "displayName": "HUF",
+            "displayName": "Ego Forint obodo Hungary",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "IDR",
+            "displayName": "Ego Rupiah Obodo Indonesia",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
@@ -549,7 +563,7 @@
             "symbol": "ILR"
           },
           "ILS": {
-            "displayName": "ILS",
+            "displayName": "Ego Shekel ọhụrụ obodo Israel",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
@@ -560,11 +574,12 @@
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
-            "displayName": "IQD",
+            "displayName": "Ego Dinar obodo Iraq",
+            "displayName-count-other": "Ego dinars obodo Iraq",
             "symbol": "IQD"
           },
           "IRR": {
-            "displayName": "IRR",
+            "displayName": "Ego Rial obodo Iran",
             "symbol": "IRR"
           },
           "ISJ": {
@@ -572,7 +587,7 @@
             "symbol": "ISJ"
           },
           "ISK": {
-            "displayName": "ISK",
+            "displayName": "Ego Króna obodo Iceland",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
@@ -581,12 +596,12 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "JMD",
+            "displayName": "Ego Dollar obodo Jamaica",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "JOD",
+            "displayName": "Ego Dinar Obodo Jordan",
             "symbol": "JOD"
           },
           "JPY": {
@@ -596,25 +611,25 @@
             "symbol-alt-narrow": "¥"
           },
           "KES": {
-            "displayName": "KES",
+            "displayName": "Ego Shilling obodo Kenya",
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "KGS",
+            "displayName": "Ego Som Obodo Kyrgyzstan",
             "symbol": "KGS"
           },
           "KHR": {
-            "displayName": "KHR",
+            "displayName": "Ego Riel obodo Cambodia",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
           "KMF": {
-            "displayName": "KMF",
+            "displayName": "Ego Franc obodo Comoros",
             "symbol": "KMF",
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "KPW",
+            "displayName": "Ego Won Obodo North Korea",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -627,41 +642,43 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "KRW",
+            "displayName": "Ego Won Obodo South Korea",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "KWD",
+            "displayName": "Ego Dinar Obodo Kuwait",
             "symbol": "KWD"
           },
           "KYD": {
-            "displayName": "KYD",
+            "displayName": "Ego Dollar obodo Cayman Islands",
+            "displayName-count-other": "Ego dollars obodo Cayman Islands",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "KZT",
+            "displayName": "Ego Tenge obodo Kazakhstani",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
           "LAK": {
-            "displayName": "LAK",
+            "displayName": "Ego Kip Obodo Laos",
             "symbol": "LAK",
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "LBP",
+            "displayName": "Ego Pound obodo Lebanon",
+            "displayName-count-other": "Ego Pound Obodo Lebanon",
             "symbol": "LBP",
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "LKR",
+            "displayName": "Ego Rupee obodo Sri Lanka",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
-            "displayName": "LRD",
+            "displayName": "Ego Dollar obodo Liberia",
             "symbol": "LRD",
             "symbol-alt-narrow": "$"
           },
@@ -700,11 +717,11 @@
             "symbol": "LVR"
           },
           "LYD": {
-            "displayName": "LYD",
+            "displayName": "Ego Dinar obodo Libya",
             "symbol": "LYD"
           },
           "MAD": {
-            "displayName": "MAD",
+            "displayName": "Ego Dirham obodo Morocco",
             "symbol": "MAD"
           },
           "MAF": {
@@ -720,11 +737,13 @@
             "symbol": "MDC"
           },
           "MDL": {
-            "displayName": "MDL",
+            "displayName": "Ego Leu obodo Moldova",
+            "displayName-count-other": "Ego leu mba Moldova",
             "symbol": "MDL"
           },
           "MGA": {
-            "displayName": "MGA",
+            "displayName": "Ego Ariary obodo Madagascar",
+            "displayName-count-other": "Ego ariaries obodo Madagascar",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
@@ -733,7 +752,8 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "MKD",
+            "displayName": "Ego Denar Obodo Macedonia",
+            "displayName-count-other": "Ego denari mba Macedonia",
             "symbol": "MKD"
           },
           "MKN": {
@@ -745,17 +765,17 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "MMK",
+            "displayName": "Ego Kyat obodo Myanmar",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
           "MNT": {
-            "displayName": "MNT",
+            "displayName": "Ego Turgik Obodo Mongolia",
             "symbol": "MNT",
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "MOP",
+            "displayName": "Ego Pataca ndị Obodo Macanese",
             "symbol": "MOP"
           },
           "MRO": {
@@ -763,7 +783,7 @@
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "MRU",
+            "displayName": "Ego Ouguiya Obodo Mauritania",
             "symbol": "MRU"
           },
           "MTL": {
@@ -775,7 +795,7 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "MUR",
+            "displayName": "Ego Rupee obodo Mauritania",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
@@ -784,15 +804,16 @@
             "symbol": "MVP"
           },
           "MVR": {
-            "displayName": "MVR",
+            "displayName": "Ego Rufiyaa obodo Moldova",
             "symbol": "MVR"
           },
           "MWK": {
-            "displayName": "MWK",
+            "displayName": "Ego Kwacha obodo Malawi",
+            "displayName-count-other": "Ego kwachas obodo Malawi",
             "symbol": "MWK"
           },
           "MXN": {
-            "displayName": "MXN",
+            "displayName": "Ego Peso obodo Mexico",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
@@ -805,7 +826,7 @@
             "symbol": "MXV"
           },
           "MYR": {
-            "displayName": "MYR",
+            "displayName": "Ego Ringgit obodo Malaysia",
             "symbol": "MYR",
             "symbol-alt-narrow": "RM"
           },
@@ -818,11 +839,12 @@
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "MZN",
+            "displayName": "Ego Metical obodo Mozambique",
+            "displayName-count-other": "Ego meticals obodo Mozambique",
             "symbol": "MZN"
           },
           "NAD": {
-            "displayName": "NAD",
+            "displayName": "Ego Dollar obodo Namibia",
             "symbol": "NAD",
             "symbol-alt-narrow": "$"
           },
@@ -836,7 +858,7 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "NIO",
+            "displayName": "Ego Córodoba obodo Nicaragua",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -845,26 +867,28 @@
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "NOK",
+            "displayName": "Ego Krone Obodo Norway",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
           "NPR": {
-            "displayName": "NPR",
+            "displayName": "Ego Rupee obodo Nepal",
             "symbol": "NPR",
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
-            "displayName": "NZD",
+            "displayName": "Ego Dollar obodo New Zealand",
+            "displayName-count-other": "Ego dollars obodo New Zealand",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
           "OMR": {
-            "displayName": "OMR",
+            "displayName": "Ego Rial obodo Oman",
+            "displayName-count-other": "Ego rials Obodo Oman",
             "symbol": "OMR"
           },
           "PAB": {
-            "displayName": "PAB",
+            "displayName": "Ego Balboa obodo Panama",
             "symbol": "PAB"
           },
           "PEI": {
@@ -872,7 +896,7 @@
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "PEN",
+            "displayName": "Ego Sol obodo Peru",
             "symbol": "PEN"
           },
           "PES": {
@@ -880,21 +904,21 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "PGK",
+            "displayName": "Ego Kina obodo Papua New Guinea",
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "PHP",
+            "displayName": "Ego piso obodo Philippine",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
           "PKR": {
-            "displayName": "PKR",
+            "displayName": "Ego Rupee obodo Pakistan",
             "symbol": "PKR",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "PLN",
+            "displayName": "Ego Zloty mba Poland",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
@@ -907,12 +931,13 @@
             "symbol": "PTE"
           },
           "PYG": {
-            "displayName": "PYG",
+            "displayName": "Ego Guarani obodo Paraguay",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "QAR",
+            "displayName": "Ego Rial obodo Qatar",
+            "displayName-count-other": "Ego rials obodo Qatar",
             "symbol": "QAR"
           },
           "RHD": {
@@ -924,12 +949,13 @@
             "symbol": "ROL"
           },
           "RON": {
-            "displayName": "RON",
+            "displayName": "Ego Leu obodo Romania",
+            "displayName-count-other": "Ego leu Obodo Romania",
             "symbol": "RON",
             "symbol-alt-narrow": "lei"
           },
           "RSD": {
-            "displayName": "RSD",
+            "displayName": "Ego Dinar obodo Serbia",
             "symbol": "RSD"
           },
           "RUB": {
@@ -944,21 +970,23 @@
             "symbol-alt-narrow": "р."
           },
           "RWF": {
-            "displayName": "RWF",
+            "displayName": "Ego Franc obodo Rwanda",
             "symbol": "RWF",
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "SAR",
+            "displayName": "Ego Riyal obodo Saudi",
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "SBD",
+            "displayName": "Ego Dollar obodo Solomon Islands",
+            "displayName-count-other": "Ego dollars obodo Solomon Islands",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },
           "SCR": {
-            "displayName": "SCR",
+            "displayName": "Ego Rupee obodo Seychelles",
+            "displayName-count-other": "Ego rupees obodo Seychelles",
             "symbol": "SCR"
           },
           "SDD": {
@@ -966,7 +994,7 @@
             "symbol": "SDD"
           },
           "SDG": {
-            "displayName": "SDG",
+            "displayName": "Ego Pound obodo Sudan",
             "symbol": "SDG"
           },
           "SDP": {
@@ -974,17 +1002,17 @@
             "symbol": "SDP"
           },
           "SEK": {
-            "displayName": "SEK",
+            "displayName": "Ego Krona Obodo Sweden",
             "symbol": "SEK",
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "SGD",
+            "displayName": "Ego Dollar obodo Singapore",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "SHP",
+            "displayName": "Ego Pound obodo St Helena",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -997,11 +1025,11 @@
             "symbol": "SKK"
           },
           "SLL": {
-            "displayName": "SLL",
+            "displayName": "Ego Leone obodo Sierra Leone",
             "symbol": "SLL"
           },
           "SOS": {
-            "displayName": "SOS",
+            "displayName": "Ego shilling obodo Somali",
             "symbol": "SOS"
           },
           "SRD": {
@@ -1015,7 +1043,8 @@
             "symbol": "SRG"
           },
           "SSP": {
-            "displayName": "SSP",
+            "displayName": "Ego Pound obodo South Sudan",
+            "displayName-count-other": "Ego pounds mba ọdịda anyanwụ Sudan",
             "symbol": "SSP",
             "symbol-alt-narrow": "£"
           },
@@ -1024,7 +1053,7 @@
             "symbol": "STD"
           },
           "STN": {
-            "displayName": "STN",
+            "displayName": "Ego Dobra nke obodo Sāo Tomé na Principe",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"
           },
@@ -1037,16 +1066,17 @@
             "symbol": "SVC"
           },
           "SYP": {
-            "displayName": "SYP",
+            "displayName": "Ego Pound obodo Syria",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "SZL",
+            "displayName": "Ego Lilangeni obodo Swaziland",
+            "displayName-count-other": "Ego emalangeni obodo Swaziland",
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "THB",
+            "displayName": "Ego Baht obodo Thai",
             "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
@@ -1055,7 +1085,7 @@
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "TJS",
+            "displayName": "Who Somoni obodo Tajikistan",
             "symbol": "TJS"
           },
           "TMM": {
@@ -1063,15 +1093,15 @@
             "symbol": "TMM"
           },
           "TMT": {
-            "displayName": "TMT",
+            "displayName": "Ego Manat Obodo Turkmenistan",
             "symbol": "TMT"
           },
           "TND": {
-            "displayName": "TND",
+            "displayName": "Ego Dinar Obodo Tunisia",
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "TOP",
+            "displayName": "Ego paʻanga obodo Tonga",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1084,7 +1114,7 @@
             "symbol": "TRL"
           },
           "TRY": {
-            "displayName": "TRY",
+            "displayName": "Ego Lira obodo Turkey",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
@@ -1096,16 +1126,17 @@
             "symbol-alt-narrow": "$"
           },
           "TWD": {
-            "displayName": "TWD",
+            "displayName": "Dollar obodo New Taiwan",
             "symbol": "NT$",
             "symbol-alt-narrow": "$"
           },
           "TZS": {
-            "displayName": "TZS",
+            "displayName": "Ego Shilling Obodo Tanzania",
+            "displayName-count-other": "Ego Shillings Obodo Tanzania",
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "UAH",
+            "displayName": "Ego Hryvnia obodo Ukraine",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
@@ -1118,7 +1149,8 @@
             "symbol": "UGS"
           },
           "UGX": {
-            "displayName": "UGX",
+            "displayName": "Ego Shilling obodo Uganda",
+            "displayName-count-other": "Ego shillings obodo Uganda",
             "symbol": "UGX"
           },
           "USD": {
@@ -1144,7 +1176,7 @@
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "UYU",
+            "displayName": "Ego Peso obodo Uruguay",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
@@ -1153,7 +1185,8 @@
             "symbol": "UYW"
           },
           "UZS": {
-            "displayName": "UZS",
+            "displayName": "Ego Som obodo Uzbekistan",
+            "displayName-count-other": "Ego som obodo Uzbekistan",
             "symbol": "UZS"
           },
           "VEB": {
@@ -1166,11 +1199,11 @@
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
+            "displayName": "Ego Bolivar obodo Venezuela",
             "symbol": "VES"
           },
           "VND": {
-            "displayName": "VND",
+            "displayName": "Ego Dong obodo Vietnam",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1179,15 +1212,17 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "VUV",
+            "displayName": "Ego Vatu obodo Vanuatu",
+            "displayName-count-other": "Ego Vanuatu vatus obodo Vanuatu",
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "WST",
+            "displayName": "Ego Tala obodo Samoa",
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "XAF",
+            "displayName": "Ego Franc mba etiti Africa",
+            "displayName-count-other": "Ego francs mba etiti Africa",
             "symbol": "FCFA"
           },
           "XAG": {
@@ -1215,7 +1250,7 @@
             "symbol": "XBD"
           },
           "XCD": {
-            "displayName": "XCD",
+            "displayName": "Ego Dollar obodo East Carribbean",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
@@ -1236,7 +1271,8 @@
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "XOF",
+            "displayName": "Ego CFA Franc obodo West Africa",
+            "displayName-count-other": "Ego CFA francs mba ọdịda anyanwụ Afrịka",
             "symbol": "CFA"
           },
           "XPD": {
@@ -1244,7 +1280,8 @@
             "symbol": "XPD"
           },
           "XPF": {
-            "displayName": "XPF",
+            "displayName": "Ego Franc obodo CFP",
+            "displayName-count-other": "Ego francs obodo CFP",
             "symbol": "CFPF"
           },
           "XPT": {
@@ -1277,7 +1314,7 @@
             "symbol": "YDD"
           },
           "YER": {
-            "displayName": "YER",
+            "displayName": "Ego Rial obodo Yemeni",
             "symbol": "YER"
           },
           "YUD": {
@@ -1301,7 +1338,8 @@
             "symbol": "ZAL"
           },
           "ZAR": {
-            "displayName": "ZAR",
+            "displayName": "Ego Rand obodo South Africa",
+            "displayName-count-other": "Ego rand obodo South Africa",
             "symbol": "ZAR",
             "symbol-alt-narrow": "R"
           },
@@ -1310,7 +1348,8 @@
             "symbol": "ZMK"
           },
           "ZMW": {
-            "displayName": "ZMW",
+            "displayName": "Ego Kwacha Obodo Zambia",
+            "displayName-count-other": "Ego kwachas obodo Zambia",
             "symbol": "ZMW",
             "symbol-alt-narrow": "ZK"
           },
