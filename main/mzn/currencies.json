@@ -3,7 +3,7 @@
     "mzn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mzn"
       },
@@ -25,7 +25,8 @@
           "AFN": {
             "displayName": "افغانستون ِافغانی",
             "displayName-count-other": "افغانستون ِافغانی",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -39,7 +40,8 @@
           "AMD": {
             "displayName": "ارمنستون درهم",
             "displayName-count-other": "ارمنستون درهم",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "هلند ِآنتیل ِجزایر ِگویلدر",
@@ -107,7 +109,8 @@
           "AZN": {
             "displayName": "آذربایجون ِمنات",
             "displayName-count-other": "آذربایجون ِمنات",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -499,7 +502,8 @@
           "GHS": {
             "displayName": "غنای ِسدی",
             "displayName-count-other": "غنای ِسدی",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "جبل‌طارق ِپوند",

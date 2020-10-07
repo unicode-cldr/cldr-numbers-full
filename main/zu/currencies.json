@@ -3,7 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "zu"
       },
@@ -27,7 +27,8 @@
             "displayName": "i-Afghan Afghani",
             "displayName-count-one": "i-Afghan Afghani",
             "displayName-count-other": "i-Afghan Afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "i-Armenian Dram",
             "displayName-count-one": "i-Armenian Dram",
             "displayName-count-other": "i-Armenian Dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "i-Netherlands Antillean Guilder",
@@ -118,7 +120,8 @@
             "displayName": "i-Azerbaijani Manat",
             "displayName-count-one": "i-Azerbaijani Manat",
             "displayName-count-other": "i-Azerbaijani Manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -346,7 +349,7 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "i-CNH",
             "displayName-count-one": "i-Chinese yuan (offshore)",
             "displayName-count-other": "i-CNH",
             "symbol": "CNH"
@@ -553,7 +556,8 @@
             "displayName": "i-Ghanaian Cedi",
             "displayName-count-one": "i-Ghanaian Cedi",
             "displayName-count-other": "i-Ghanaian cedis",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "i-Gibraltar Pound",

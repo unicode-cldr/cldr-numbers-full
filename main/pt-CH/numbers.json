@@ -3,7 +3,7 @@
     "pt-CH": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt",
         "territory": "CH"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -148,7 +149,9 @@
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} dia",
           "pluralMinimalPairs-count-other": "{0} dias",
-          "other": "{0}.º lugar"
+          "other": "{0}.º lugar",
+          "feminine": "a {0}",
+          "masculine": "o {0}"
         }
       }
     }

@@ -3,7 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "th"
       },
@@ -25,7 +25,8 @@
           "AFN": {
             "displayName": "อัฟกานิอัฟกานิสถาน",
             "displayName-count-other": "อัฟกานิอัฟกานิสถาน",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -39,7 +40,8 @@
           "AMD": {
             "displayName": "แดรมอาร์เมเนีย",
             "displayName-count-other": "แดรมอาร์เมเนีย",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "กิลเดอร์เนเธอร์แลนด์แอนทิลลิส",
@@ -108,7 +110,8 @@
           "AZN": {
             "displayName": "มานัตอาเซอร์ไบจาน",
             "displayName-count-other": "มานัตอาเซอร์ไบจาน",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "ดีนาร์บอสเนีย-เฮอร์เซโกวีนา",
@@ -502,7 +505,8 @@
           "GHS": {
             "displayName": "เซดีกานา",
             "displayName-count-other": "เซดีกานา",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ปอนด์ยิบรอลตาร์",

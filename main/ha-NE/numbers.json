@@ -3,7 +3,7 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ha",
         "territory": "NE"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -140,12 +141,13 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "{0}+",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
+          "pluralMinimalPairs-count-one": "rana {0}",
+          "pluralMinimalPairs-count-other": "ranaku {0}",
           "other": "{0}?"
         }
       }

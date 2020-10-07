@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "US"
@@ -30,7 +30,8 @@
             "displayName": "afgani",
             "displayName-count-one": "afgani",
             "displayName-count-other": "afganis",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,9 +45,10 @@
           },
           "AMD": {
             "displayName": "dram",
-            "displayName-count-one": "dram armenio",
-            "displayName-count-other": "drams armenios",
-            "symbol": "AMD"
+            "displayName-count-one": "dram",
+            "displayName-count-other": "drams",
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "florín de las Antillas Neerlandesas",
@@ -127,7 +129,8 @@
             "displayName": "manat azerbaiyano",
             "displayName-count-one": "manat azerbaiyano",
             "displayName-count-other": "manat azerbaiyanos",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "dinar bosnio",
@@ -325,7 +328,7 @@
             "displayName-count-one": "rublo bielorruso",
             "displayName-count-other": "rublos bielorrusos",
             "symbol": "BYN",
-            "symbol-alt-narrow": "p."
+            "symbol-alt-narrow": "р."
           },
           "BYR": {
             "displayName": "rublo bielorruso (2000–2016)",
@@ -559,9 +562,9 @@
             "symbol-alt-narrow": "₧"
           },
           "ETB": {
-            "displayName": "bir",
-            "displayName-count-one": "bir",
-            "displayName-count-other": "bires",
+            "displayName": "birr",
+            "displayName-count-one": "birr",
+            "displayName-count-other": "birres",
             "symbol": "ETB"
           },
           "EUR": {
@@ -624,7 +627,8 @@
             "displayName": "cedi",
             "displayName-count-one": "cedi",
             "displayName-count-other": "cedis",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "libra gibraltareña",
@@ -817,15 +821,15 @@
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "som kirguís",
+            "displayName": "som",
             "displayName-count-one": "som",
             "displayName-count-other": "soms",
             "symbol": "KGS"
           },
           "KHR": {
             "displayName": "riel",
-            "displayName-count-one": "riel camboyano",
-            "displayName-count-other": "rieles camboyanos",
+            "displayName-count-one": "riel",
+            "displayName-count-other": "rieles",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
@@ -1407,9 +1411,9 @@
             "symbol": "STD"
           },
           "STN": {
-            "displayName": "dobra santotomense",
-            "displayName-count-one": "dobra santotomense",
-            "displayName-count-other": "dobra santotomense",
+            "displayName": "dobra",
+            "displayName-count-one": "dobra",
+            "displayName-count-other": "dobras",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"
           },
@@ -1607,7 +1611,7 @@
           "VES": {
             "displayName": "bolívar venezolano",
             "displayName-count-one": "bolívar venezolano",
-            "displayName-count-other": "bolivares venezolanos",
+            "displayName-count-other": "bolívares venezolanos",
             "symbol": "VES"
           },
           "VND": {

@@ -3,7 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sk"
       },
@@ -39,7 +39,8 @@
             "displayName-count-few": "afganské afgání",
             "displayName-count-many": "afganského afgání",
             "displayName-count-other": "afganských afgání",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "albánsky lek (1946 – 1965)",
@@ -63,7 +64,8 @@
             "displayName-count-few": "arménske dramy",
             "displayName-count-many": "arménskeho dramu",
             "displayName-count-other": "arménskych dramov",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "antilský gulden",
@@ -186,7 +188,8 @@
             "displayName-count-few": "azerbajdžanské manaty",
             "displayName-count-many": "azerbajdžanského manatu",
             "displayName-count-other": "azerbajdžanských manatov",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "bosniansko-hercegovinský dinár (1992 – 1994)",
@@ -863,7 +866,8 @@
             "displayName-count-few": "ghanské cedi",
             "displayName-count-many": "ghanského cedi",
             "displayName-count-other": "ghanských cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gibraltárska libra",

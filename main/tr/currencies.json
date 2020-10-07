@@ -3,7 +3,7 @@
     "tr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "tr"
       },
@@ -31,7 +31,8 @@
             "displayName": "Afganistan Afganisi",
             "displayName-count-one": "Afganistan afganisi",
             "displayName-count-other": "Afganistan afganisi",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Arnavutluk Leki (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "Ermenistan Dramı",
             "displayName-count-one": "Ermenistan dramı",
             "displayName-count-other": "Ermenistan dramı",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Hollanda Antilleri Guldeni",
@@ -136,7 +138,8 @@
             "displayName": "Azerbaycan Manatı",
             "displayName-count-one": "Azerbaycan manatı",
             "displayName-count-other": "Azerbaycan manatı",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosna Hersek Dinarı",
@@ -649,7 +652,8 @@
             "displayName": "Gana Sedisi",
             "displayName-count-one": "Gana sedisi",
             "displayName-count-other": "Gana sedisi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Cebelitarık Lirası",

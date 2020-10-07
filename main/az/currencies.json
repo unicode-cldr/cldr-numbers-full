@@ -3,7 +3,7 @@
     "az": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "az"
       },
@@ -31,7 +31,8 @@
             "displayName": "Əfqanıstan Əfqanisi",
             "displayName-count-one": "Əfqanıstan əfqanisi",
             "displayName-count-other": "Əfqanıstan əfqanisi",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Albaniya Leki (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "Ermənistan Dramı",
             "displayName-count-one": "Ermənistan dramı",
             "displayName-count-other": "Ermənistan dramı",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Niderland Antilyası Gilderi",
@@ -138,7 +140,8 @@
             "displayName": "Azərbaycan Manatı",
             "displayName-count-one": "Azərbaycan manatı",
             "displayName-count-other": "Azərbaycan manatı",
-            "symbol": "₼"
+            "symbol": "₼",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosniya-Herseqovina Dinarı",
@@ -633,7 +636,8 @@
             "displayName": "Qana Sedisi",
             "displayName-count-one": "Qana sedisi",
             "displayName-count-other": "Qana sedisi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Cəbəli-Tariq Funtu",

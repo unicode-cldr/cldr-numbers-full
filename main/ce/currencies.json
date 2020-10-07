@@ -3,7 +3,7 @@
     "ce": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ce"
       },
@@ -27,7 +27,8 @@
             "displayName": "ОвхӀан-пачхьалкхан афгани",
             "displayName-count-one": "ОвхӀан-пачхьалкхан афгани",
             "displayName-count-other": "ОвхӀан-пачхьалкхан афганиш",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Эрмалойчоьнан драм",
             "displayName-count-one": "Эрмалойчоьнан драм",
             "displayName-count-other": "Эрмалойчоьнан драмаш",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Нидерландин Антилин гульден",
@@ -118,7 +120,8 @@
             "displayName": "Азербайджанан манат",
             "displayName-count-one": "Азербайджанан манат",
             "displayName-count-other": "Азербайджанан манаташ",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -551,7 +554,8 @@
             "displayName": "Ганан седи",
             "displayName-count-one": "Ганан седи",
             "displayName-count-other": "Ганан седиш",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Гибралтаран фунт",

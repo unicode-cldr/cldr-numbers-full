@@ -3,7 +3,7 @@
     "bs": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs"
       },
@@ -20,6 +20,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "≈",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -119,12 +120,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -182,9 +183,9 @@
           "range": "{0} – {1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "{0} sat",
-          "pluralMinimalPairs-count-few": "{0} sata",
-          "pluralMinimalPairs-count-other": "{0} sati",
+          "pluralMinimalPairs-count-one": "{0} dan",
+          "pluralMinimalPairs-count-few": "{0} dana",
+          "pluralMinimalPairs-count-other": "{0} drugih",
           "other": "Skrenite na {0}. križanju desno."
         }
       }

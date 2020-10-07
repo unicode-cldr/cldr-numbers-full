@@ -3,7 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "rm"
       },
@@ -20,6 +20,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "−",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -71,12 +72,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -109,7 +110,8 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-other": "{0}?",
+          "pluralMinimalPairs-count-one": "{0} di",
+          "pluralMinimalPairs-count-other": "{0} dis",
           "other": "{0}?"
         }
       }

@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb",
         "territory": "SJ"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "−",
+          "approximatelySign": "ca.",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -41,15 +42,15 @@
               "100000-count-other": "000 tusen",
               "1000000-count-one": "0 million",
               "1000000-count-other": "0 millioner",
-              "10000000-count-one": "00 million",
+              "10000000-count-one": "00 millioner",
               "10000000-count-other": "00 millioner",
-              "100000000-count-one": "000 million",
+              "100000000-count-one": "000 millioner",
               "100000000-count-other": "000 millioner",
               "1000000000-count-one": "0 milliard",
               "1000000000-count-other": "0 milliarder",
-              "10000000000-count-one": "00 milliard",
+              "10000000000-count-one": "00 milliarder",
               "10000000000-count-other": "00 milliarder",
-              "100000000000-count-one": "000 milliard",
+              "100000000000-count-one": "000 milliarder",
               "100000000000-count-other": "000 milliarder",
               "1000000000000-count-one": "0 billion",
               "1000000000000-count-other": "0 billioner",
@@ -97,12 +98,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -149,7 +150,9 @@
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} dag",
           "pluralMinimalPairs-count-other": "{0} dager",
-          "other": "Ta {0}. sving til høyre."
+          "other": "Ta {0}. sving til høyre.",
+          "masculine": "Min {0} den har tre kanter",
+          "neuter": "Mitt {0} det har tre kanter"
         }
       }
     }

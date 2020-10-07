@@ -3,7 +3,7 @@
     "de": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "de"
       },
@@ -31,7 +31,8 @@
             "displayName": "Afghanischer Afghani",
             "displayName-count-one": "Afghanischer Afghani",
             "displayName-count-other": "Afghanische Afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Albanischer Lek (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "Armenischer Dram",
             "displayName-count-one": "Armenischer Dram",
             "displayName-count-other": "Armenische Dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Niederländische-Antillen-Gulden",
@@ -142,7 +144,8 @@
             "displayName": "Aserbaidschan-Manat",
             "displayName-count-one": "Aserbaidschan-Manat",
             "displayName-count-other": "Aserbaidschan-Manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosnien und Herzegowina Dinar (1992–1994)",
@@ -151,9 +154,9 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Bosnien und Herzegowina Konvertierbare Mark",
-            "displayName-count-one": "Bosnien und Herzegowina Konvertierbare Mark",
-            "displayName-count-other": "Bosnien und Herzegowina Konvertierbare Mark",
+            "displayName": "Konvertible Mark Bosnien und Herzegowina",
+            "displayName-count-one": "Konvertible Mark Bosnien und Herzegowina",
+            "displayName-count-other": "Konvertible Mark Bosnien und Herzegowina",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -416,9 +419,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "Renminbi Yuan (Off–Shore)",
-            "displayName-count-one": "Renminbi Yuan (Off–Shore)",
-            "displayName-count-other": "Renminbi Yuan (Off–Shore)",
+            "displayName": "Renminbi-Yuan (Offshore)",
+            "displayName-count-one": "Renminbi-Yuan (Offshore)",
+            "displayName-count-other": "Renminbi-Yuan (Offshore)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -657,7 +660,8 @@
             "displayName": "Ghanaischer Cedi",
             "displayName-count-one": "Ghanaischer Cedi",
             "displayName-count-other": "Ghanaische Cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "₵"
           },
           "GIP": {
             "displayName": "Gibraltar-Pfund",
@@ -1268,9 +1272,9 @@
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "Papua-Neuguineischer Kina",
-            "displayName-count-one": "Papua-Neuguineischer Kina",
-            "displayName-count-other": "Papua-Neuguineische Kina",
+            "displayName": "Papua-neuguineischer Kina",
+            "displayName-count-one": "Papua-neuguineischer Kina",
+            "displayName-count-other": "Papua-neuguineischer Kina",
             "symbol": "PGK"
           },
           "PHP": {
@@ -1417,9 +1421,9 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "St. Helena-Pfund",
-            "displayName-count-one": "St. Helena-Pfund",
-            "displayName-count-other": "St. Helena-Pfund",
+            "displayName": "St.-Helena-Pfund",
+            "displayName-count-one": "St.-Helena-Pfund",
+            "displayName-count-other": "St.-Helena-Pfund",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1570,9 +1574,9 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "Trinidad und Tobago-Dollar",
-            "displayName-count-one": "Trinidad und Tobago-Dollar",
-            "displayName-count-other": "Trinidad und Tobago-Dollar",
+            "displayName": "Trinidad-und-Tobago-Dollar",
+            "displayName-count-one": "Trinidad-und-Tobago-Dollar",
+            "displayName-count-other": "Trinidad-und-Tobago-Dollar",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },

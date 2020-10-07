@@ -3,7 +3,7 @@
     "en-JE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "JE"
@@ -30,9 +30,10 @@
           },
           "AFN": {
             "displayName": "Afghan Afghani",
-            "displayName-count-one": "Afghan Afghani",
-            "displayName-count-other": "Afghan Afghanis",
-            "symbol": "AFN"
+            "displayName-count-one": "Afghan afghani",
+            "displayName-count-other": "Afghan afghanis",
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Albanian Lek (1946–1965)",
@@ -50,7 +51,8 @@
             "displayName": "Armenian Dram",
             "displayName-count-one": "Armenian dram",
             "displayName-count-other": "Armenian drams",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Netherlands Antillean Guilder",
@@ -143,7 +145,8 @@
             "displayName": "Azerbaijani Manat",
             "displayName-count-one": "Azerbaijani manat",
             "displayName-count-other": "Azerbaijani manats",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosnia-Herzegovina Dinar (1992–1994)",
@@ -233,9 +236,9 @@
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "Bermudan Dollar",
-            "displayName-count-one": "Bermudan dollar",
-            "displayName-count-other": "Bermudan dollars",
+            "displayName": "Bermudian Dollar",
+            "displayName-count-one": "Bermudian dollar",
+            "displayName-count-other": "Bermudian dollars",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
@@ -591,7 +594,7 @@
           "ETB": {
             "displayName": "Ethiopian Birr",
             "displayName-count-one": "Ethiopian birr",
-            "displayName-count-other": "Ethiopian birrs",
+            "displayName-count-other": "Ethiopian birr",
             "symbol": "ETB"
           },
           "EUR": {
@@ -657,7 +660,8 @@
             "displayName": "Ghanaian Cedi",
             "displayName-count-one": "Ghanaian cedi",
             "displayName-count-other": "Ghanaian cedis",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltar Pound",
@@ -956,7 +960,7 @@
           "LSL": {
             "displayName": "Lesotho Loti",
             "displayName-count-one": "Lesotho loti",
-            "displayName-count-other": "Lesotho lotis",
+            "displayName-count-other": "Lesotho maloti",
             "symbol": "LSL"
           },
           "LTL": {
@@ -1042,7 +1046,7 @@
           "MGA": {
             "displayName": "Malagasy Ariary",
             "displayName-count-one": "Malagasy ariary",
-            "displayName-count-other": "Malagasy ariaries",
+            "displayName-count-other": "Malagasy ariary",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
@@ -1130,7 +1134,7 @@
           "MVR": {
             "displayName": "Maldivian Rufiyaa",
             "displayName-count-one": "Maldivian rufiyaa",
-            "displayName-count-other": "Maldivian rufiyaas",
+            "displayName-count-other": "Maldivian rufiyaa",
             "symbol": "MVR"
           },
           "MWK": {
@@ -1274,9 +1278,9 @@
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "Philippine Piso",
-            "displayName-count-one": "Philippine piso",
-            "displayName-count-other": "Philippine pisos",
+            "displayName": "Philippine Peso",
+            "displayName-count-one": "Philippine peso",
+            "displayName-count-other": "Philippine pesos",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
@@ -1699,7 +1703,7 @@
           "VUV": {
             "displayName": "Vanuatu Vatu",
             "displayName-count-one": "Vanuatu vatu",
-            "displayName-count-other": "Vanuatu vatus",
+            "displayName-count-other": "Vanuatu vatu",
             "symbol": "VUV"
           },
           "WST": {

@@ -3,7 +3,7 @@
     "km": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "km"
       },
@@ -25,7 +25,8 @@
           "AFN": {
             "displayName": "អាហ្វហ្គានី​អាហ្វហ្គានីស្ថាន",
             "displayName-count-other": "អាហ្វហ្គានី​អាហ្វហ្គានីស្ថាន",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -38,8 +39,8 @@
           },
           "AMD": {
             "displayName": "ដ្រាំ​អាមេនី",
-            "displayName-count-other": "ដ្រាំ អាមេនី",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "ហ្គីឌិន​ហុល្លង់​អង់ទីលៀន",
@@ -108,7 +109,8 @@
           "AZN": {
             "displayName": "ម៉ាណាត​អាស៊ែបៃហ្សង់",
             "displayName-count-other": "ម៉ាណាត​អាស៊ែបៃហ្សង់",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -182,8 +184,8 @@
             "symbol-alt-narrow": "$"
           },
           "BND": {
-            "displayName": "ដុល្លារ​ប្រុយណេ",
-            "displayName-count-other": "ដុល្លារ​ប្រុយណេ",
+            "displayName": "ដុល្លារព្រុយណេ",
+            "displayName-count-other": "ដុល្លារព្រុយណេ",
             "symbol": "BND",
             "symbol-alt-narrow": "$"
           },
@@ -316,8 +318,8 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "យ៉ន់ចិន (ក្រៅប្រទេស)",
-            "displayName-count-other": "យ៉ន់ចិន (ក្រៅប្រទេស)",
+            "displayName": "យ័នចិន (ក្រៅប្រទេស)",
+            "displayName-count-other": "យ័នចិន (ក្រៅប្រទេស)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -325,8 +327,8 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "យ៉ន់​ចិន",
-            "displayName-count-other": "យ៉ន់​ចិន",
+            "displayName": "យ័នចិន",
+            "displayName-count-other": "យ័នចិន",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
@@ -502,7 +504,8 @@
           "GHS": {
             "displayName": "ស៊ីឌី​ហ្គាណា",
             "displayName-count-other": "ស៊ីឌី​ហ្គាណា",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ផោន​ហ្ស៊ីប្រាល់តា",
@@ -931,8 +934,8 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "ខឌូបា​នីការ៉ាហ្គា",
-            "displayName-count-other": "ខឌូបា​នីការ៉ាហ្គា",
+            "displayName": "ខឌូបា​នីការ៉ាហ្កា",
+            "displayName-count-other": "ខឌូបា​នីការ៉ាហ្កា",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },

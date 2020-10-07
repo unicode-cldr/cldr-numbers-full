@@ -3,7 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "da",
         "territory": "GL"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -148,7 +149,9 @@
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} dag",
           "pluralMinimalPairs-count-other": "{0} dage",
-          "other": "Tag den {0}. vej til højre."
+          "other": "Tag den {0}. vej til højre.",
+          "common": "En {0}",
+          "neuter": "Et {0}"
         }
       }
     }

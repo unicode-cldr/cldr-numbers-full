@@ -3,7 +3,7 @@
     "as": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "as"
       },
@@ -27,7 +27,8 @@
             "displayName": "আফগান আফগানী",
             "displayName-count-one": "আফগান আফগানী",
             "displayName-count-other": "আফগান আফগানী",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "আৰ্মেনিয়ান ড্ৰাম",
             "displayName-count-one": "আৰ্মেনিয়ান ড্ৰাম",
             "displayName-count-other": "আৰ্মেনিয়ান ড্ৰাম",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "নেডাৰলেণ্ডছ এণ্টিলিয়েন গিল্ডাৰ",
@@ -118,7 +120,8 @@
             "displayName": "আজেৰবাইজানী মানাত",
             "displayName-count-one": "আজেৰবাইজানী মানাত",
             "displayName-count-other": "আজেৰবাইজানী মানাত",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -550,7 +553,8 @@
             "displayName": "ঘানাৰ চেডি",
             "displayName-count-one": "ঘানাৰ চেডি",
             "displayName-count-other": "ঘানাৰ চেডি",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "জিব্ৰাল্টৰ পাউণ্ড",

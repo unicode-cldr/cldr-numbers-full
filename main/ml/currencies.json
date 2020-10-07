@@ -3,7 +3,7 @@
     "ml": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ml"
       },
@@ -31,7 +31,8 @@
             "displayName": "അഫ്‌ഗാൻ അഫ്‌‌ഗാനി",
             "displayName-count-one": "അഫ്‌ഗാൻ അഫ്‌‌ഗാനി",
             "displayName-count-other": "അഫ്‌ഗാൻ അഫ്‌‌ഗാനി",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -47,7 +48,8 @@
             "displayName": "അർമേനിയൻ ഡ്രാം",
             "displayName-count-one": "അർമേനിയൻ ഡ്രാം",
             "displayName-count-other": "അർമേനിയൻ ഡ്രാം",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "നെതർലാൻഡ്‌സ് ആന്റിലൻ ഗിൽഡർ",
@@ -136,7 +138,8 @@
             "displayName": "അസർബൈജാനി മനത്",
             "displayName-count-one": "അസർബൈജാനി മനത്",
             "displayName-count-other": "അസർബൈജാനി മനത്",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "ബോസ്നിയ-ഹെർസഗോവിന ദിനാർ",
@@ -637,7 +640,8 @@
             "displayName": "ഘാനയൻ കെഡി",
             "displayName-count-one": "ഘാനയൻ കെഡി",
             "displayName-count-other": "ഘാനയൻ കെഡി",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ജിബ്രാൾട്ടർ പൗണ്ട്",

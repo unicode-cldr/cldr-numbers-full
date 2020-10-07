@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bn"
       },
@@ -27,7 +27,8 @@
             "displayName": "আফগান আফগানি",
             "displayName-count-one": "আফগান আফগানি",
             "displayName-count-other": "আফগান আফগানি",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "আরমেনিয়ান দ্রাম",
             "displayName-count-one": "আরমেনিয়ান দ্রাম",
             "displayName-count-other": "আরমেনিয়ান দ্রাম",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "নেদারল্যান্ড এ্যান্টিলিয়ান গুল্ডের",
@@ -118,7 +120,8 @@
             "displayName": "আজারবাইজান মানাত",
             "displayName-count-one": "আজারবাইজান মানাত",
             "displayName-count-other": "আজারবাইজান মানাত",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "বসনিয়া এবং হার্জেগোভিনা দিনার",
@@ -553,7 +556,8 @@
             "displayName": "ঘানা সেডি",
             "displayName-count-one": "ঘানা সেডি",
             "displayName-count-other": "ঘানা সেডি",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "জিব্রাল্টার পাউন্ড",

@@ -3,7 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "af"
       },
@@ -27,7 +27,8 @@
             "displayName": "Afgaanse afgani",
             "displayName-count-one": "Afgaanse afgani",
             "displayName-count-other": "Afgaanse afgani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Armeense dram",
             "displayName-count-one": "Armeense dram",
             "displayName-count-other": "Armeense dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Nederlands-Antilliaanse gulde",
@@ -118,7 +120,8 @@
             "displayName": "Azerbeidjaanse manat",
             "displayName-count-one": "Azerbeidjaanse manat",
             "displayName-count-other": "Azerbeidjaanse manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -553,7 +556,8 @@
             "displayName": "Ghanese cedi",
             "displayName-count-one": "Ghanese cedi",
             "displayName-count-other": "Ghanese cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltarese pond",

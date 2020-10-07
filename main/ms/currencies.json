@@ -3,7 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms"
       },
@@ -25,7 +25,8 @@
           "AFN": {
             "displayName": "Afghani Afghanistan",
             "displayName-count-other": "Afghani Afghanistan",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -39,7 +40,8 @@
           "AMD": {
             "displayName": "Dram Armenia",
             "displayName-count-other": "Dram Armenia",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Guilder Antillen Belanda",
@@ -108,7 +110,8 @@
           "AZN": {
             "displayName": "Manat Azerbaijan",
             "displayName-count-other": "Manat Azerbaijan",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -501,7 +504,8 @@
           "GHS": {
             "displayName": "Cedi Ghana",
             "displayName-count-other": "Cedi Ghana",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Paun Gibraltar",

@@ -3,7 +3,7 @@
     "es": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es"
       },
@@ -29,7 +29,8 @@
             "displayName": "afgani",
             "displayName-count-one": "afgani",
             "displayName-count-other": "afganis",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -45,12 +46,13 @@
             "displayName": "dram",
             "displayName-count-one": "dram",
             "displayName-count-other": "drams",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
-            "displayName": "florín de las Antillas Neerlandesas",
-            "displayName-count-one": "florín de las Antillas Neerlandesas",
-            "displayName-count-other": "florines de las Antillas Neerlandesas",
+            "displayName": "florín antillano",
+            "displayName-count-one": "florín antillano",
+            "displayName-count-other": "florines antillanos",
             "symbol": "ANG"
           },
           "AOA": {
@@ -126,7 +128,8 @@
             "displayName": "manat azerbaiyano",
             "displayName-count-one": "manat azerbaiyano",
             "displayName-count-other": "manat azerbaiyanos",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "dinar bosnio",
@@ -210,9 +213,9 @@
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "dólar de Bermudas",
-            "displayName-count-one": "dólar de Bermudas",
-            "displayName-count-other": "dólares de Bermudas",
+            "displayName": "dólar bermudeño",
+            "displayName-count-one": "dólar bermudeño",
+            "displayName-count-other": "dólares bermudeños",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
@@ -343,7 +346,7 @@
             "displayName": "dólar canadiense",
             "displayName-count-one": "dólar canadiense",
             "displayName-count-other": "dólares canadienses",
-            "symbol": "CA$",
+            "symbol": "CAD",
             "symbol-alt-narrow": "$"
           },
           "CDF": {
@@ -623,7 +626,8 @@
             "displayName": "cedi",
             "displayName-count-one": "cedi",
             "displayName-count-other": "cedis",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "libra gibraltareña",
@@ -1140,9 +1144,9 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "córdoba nicaragüense",
-            "displayName-count-one": "córdoba nicaragüense",
-            "displayName-count-other": "córdobas nicaragüenses",
+            "displayName": "córdoba oro",
+            "displayName-count-one": "córdoba oro",
+            "displayName-count-other": "córdobas oro",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },

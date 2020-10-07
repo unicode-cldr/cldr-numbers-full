@@ -3,7 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv"
       },
@@ -20,6 +20,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "−",
+          "approximatelySign": "~",
           "exponential": "×10^",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -149,7 +150,9 @@
           "pluralMinimalPairs-count-one": "om {0} dag",
           "pluralMinimalPairs-count-other": "om {0} dagar",
           "one": "Ta {0}:a svängen till höger",
-          "other": "Ta {0}:e svängen till höger"
+          "other": "Ta {0}:e svängen till höger",
+          "common": "En {0} är",
+          "neuter": "Ett {0} är"
         }
       }
     }

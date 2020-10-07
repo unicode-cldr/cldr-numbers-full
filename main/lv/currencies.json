@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lv"
       },
@@ -29,7 +29,8 @@
             "displayName-count-zero": "Afganistānas afgāni",
             "displayName-count-one": "Afganistānas afgāns",
             "displayName-count-other": "Afganistānas afgāni",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -47,7 +48,8 @@
             "displayName-count-zero": "Armēnijas drami",
             "displayName-count-one": "Armēnijas drams",
             "displayName-count-other": "Armēnijas drami",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Nīderlandes Antiļu guldenis",
@@ -131,7 +133,8 @@
             "displayName-count-zero": "Azerbaidžānas manati",
             "displayName-count-one": "Azerbaidžānas manats",
             "displayName-count-other": "Azerbaidžānas manati",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -610,7 +613,8 @@
             "displayName-count-zero": "Ganas sedi",
             "displayName-count-one": "Ganas sedi",
             "displayName-count-other": "Ganas sedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GHS"
           },
           "GIP": {
             "displayName": "Gibraltāra mārciņa",

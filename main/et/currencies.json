@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "et"
       },
@@ -31,7 +31,8 @@
             "displayName": "Afganistani afgaani",
             "displayName-count-one": "Afganistani afgaani",
             "displayName-count-other": "Afganistani afgaanit",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Albaania lekk (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "Armeenia dramm",
             "displayName-count-one": "Armeenia dramm",
             "displayName-count-other": "Armeenia drammi",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Hollandi Antillide kulden",
@@ -136,7 +138,8 @@
             "displayName": "Aserbaidžaani manat",
             "displayName-count-one": "Aserbaidžaani manat",
             "displayName-count-other": "Aserbaidžaani manatit",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosnia ja Hertsegoviina dinaar (1992–1994)",
@@ -620,7 +623,8 @@
             "displayName": "Ghana sedi",
             "displayName-count-one": "Ghana sedi",
             "displayName-count-other": "Ghana sedit",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltari nael",

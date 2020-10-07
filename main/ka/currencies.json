@@ -3,7 +3,7 @@
     "ka": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ka"
       },
@@ -27,7 +27,8 @@
             "displayName": "ავღანური ავღანი",
             "displayName-count-one": "ავღანური ავღანი",
             "displayName-count-other": "ავღანური ავღანი",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "სომხური დრამი",
             "displayName-count-one": "სომხური დრამი",
             "displayName-count-other": "სომხური დრამი",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "ნიდერლანდების ანტილების გულდენი",
@@ -118,7 +120,8 @@
             "displayName": "აზერბაიჯანული მანათი",
             "displayName-count-one": "აზერბაიჯანული მანათი",
             "displayName-count-other": "აზერბაიჯანული მანათი",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "ბოსნია-ჰერცოგოვინას დინარი",
@@ -552,7 +555,8 @@
             "displayName": "განური სედი",
             "displayName-count-one": "განური სედი",
             "displayName-count-other": "განური სედი",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "გიბრალტარული ფუნტი",
@@ -1035,7 +1039,7 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "ნიკარაგუული კორდობა",
+            "displayName": "ნიკარაგუას ოქროს კორდობა",
             "displayName-count-one": "ნიკარაგუას ოქროს კორდობა",
             "displayName-count-other": "ნიკარაგუას ოქროს კორდობა",
             "symbol": "NIO",

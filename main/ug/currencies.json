@@ -3,7 +3,7 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ug"
       },
@@ -31,7 +31,8 @@
             "displayName": "ئافغان ئافغانى",
             "displayName-count-one": "ئافغان ئافغانى",
             "displayName-count-other": "ئافغان ئافغانى",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ئالبانىيە لېكى (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "ئەرمېنىيە دىرامى",
             "displayName-count-one": "ئەرمېنىيە دىرامى",
             "displayName-count-other": "ئەرمېنىيە دىرامى",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "گوللاندىيەگە قاراشلىق ئانتىللېن گۇلدېنى",
@@ -142,7 +144,8 @@
             "displayName": "ئەزەربەيجان ماناتى",
             "displayName-count-one": "ئەزەربەيجان ماناتى",
             "displayName-count-other": "ئەزەربەيجان ماناتى",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "بوسنىيە-خېرتسېگوۋىنا دىنارى (1992–1994)",
@@ -654,7 +657,8 @@
             "displayName": "گانا سېدىسى",
             "displayName-count-one": "گانا سېدىسى",
             "displayName-count-other": "گانا سېدىسى",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "جەبىلتارىق فوند سىتېرلىڭى",

@@ -3,7 +3,7 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "dsb"
       },
@@ -35,7 +35,8 @@
             "displayName-count-two": "afghaniskej afganija",
             "displayName-count-few": "afghaniske afganije",
             "displayName-count-other": "afghaniskich afganijow",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -55,7 +56,8 @@
             "displayName-count-two": "armeńskej drama",
             "displayName-count-few": "armeńske dramy",
             "displayName-count-other": "armeńskich dramow",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "nižozemsko-antilski gulden",
@@ -170,7 +172,8 @@
             "displayName-count-two": "azerbajdžaniskej manata",
             "displayName-count-few": "azerbajdžaniske manaty",
             "displayName-count-other": "azerbajdžaniskich manatow",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "bosniski dinar",
@@ -738,7 +741,8 @@
             "displayName-count-two": "ghanaskej cedi",
             "displayName-count-few": "ghanaske cedi",
             "displayName-count-other": "ghanaskich cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gibraltiski punt",

@@ -3,7 +3,7 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "uz",
         "script": "Latn"
@@ -28,7 +28,8 @@
             "displayName": "Afg‘oniston afg‘oniysi",
             "displayName-count-one": "Afg‘oniston afg‘oniysi",
             "displayName-count-other": "Afg‘oniston afg‘oniysi",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,7 +45,8 @@
             "displayName": "Armaniston drami",
             "displayName-count-one": "Armaniston drami",
             "displayName-count-other": "Armaniston drami",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Niderlandiya antil guldeni",
@@ -119,7 +121,8 @@
             "displayName": "Ozarbayjon manati",
             "displayName-count-one": "Ozarbayjon manati",
             "displayName-count-other": "Ozarbayjon manati",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -554,7 +557,8 @@
             "displayName": "Gana sedisi",
             "displayName-count-one": "Gana sedisi",
             "displayName-count-other": "Gana sedisi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltar funti",

@@ -3,7 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "is"
       },
@@ -27,7 +27,8 @@
             "displayName": "afgani",
             "displayName-count-one": "afgani",
             "displayName-count-other": "afganar",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "armenskt dramm",
             "displayName-count-one": "armenskt dramm",
             "displayName-count-other": "armensk drömm",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "hollenskt Antillugyllini",
@@ -118,7 +120,8 @@
             "displayName": "aserskt manat",
             "displayName-count-one": "aserskt manat",
             "displayName-count-other": "asersk manöt",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -555,7 +558,8 @@
             "displayName": "ganverskur sedi",
             "displayName-count-one": "ganverskur sedi",
             "displayName-count-other": "ganverskir sedar",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gíbraltarspund",
@@ -1038,7 +1042,7 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "níkaraögsk kordóva",
+            "displayName": "níkarögsk kordóva",
             "displayName-count-one": "níkarögsk kordóva",
             "displayName-count-other": "níkaragskar kordóvur",
             "symbol": "NIO",

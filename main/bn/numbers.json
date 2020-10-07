@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bn"
       },
@@ -20,6 +20,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -34,6 +35,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -89,8 +91,8 @@
               "1000000000-count-other": "000 কো",
               "10000000000-count-one": "00 শত কো",
               "10000000000-count-other": "00শত কো",
-              "100000000000-count-one": "00000 কো",
-              "100000000000-count-other": "00000 কো",
+              "100000000000-count-one": "000কো",
+              "100000000000-count-other": "000কো",
               "1000000000000-count-one": "0 লা'.'কো'.'",
               "1000000000000-count-other": "0 লা'.'কো'.'",
               "10000000000000-count-one": "00 লা'.'কো'.'",
@@ -148,8 +150,8 @@
               "1000000000-count-other": "000 কো",
               "10000000000-count-one": "00 শত কো",
               "10000000000-count-other": "00শত কো",
-              "100000000000-count-one": "00000 কো",
-              "100000000000-count-other": "00000 কো",
+              "100000000000-count-one": "000কো",
+              "100000000000-count-other": "000কো",
               "1000000000000-count-one": "0 লা'.'কো'.'",
               "1000000000000-count-other": "0 লা'.'কো'.'",
               "10000000000000-count-one": "00 লা'.'কো'.'",
@@ -174,12 +176,12 @@
         "currencyFormats-numberSystem-beng": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -220,12 +222,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }

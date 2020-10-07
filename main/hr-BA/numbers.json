@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hr",
         "territory": "BA"
@@ -20,7 +20,8 @@
           "list": ";",
           "percentSign": "%",
           "plusSign": "+",
-          "minusSign": "-",
+          "minusSign": "−",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -120,12 +121,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -134,9 +135,9 @@
           "accounting": "#,##0.00 ¤",
           "short": {
             "standard": {
-              "1000-count-one": "0000¤",
-              "1000-count-few": "0000¤",
-              "1000-count-other": "0000¤",
+              "1000-count-one": "0",
+              "1000-count-few": "0",
+              "1000-count-other": "0",
               "10000-count-one": "00 tis'.' ¤",
               "10000-count-few": "00 tis'.' ¤",
               "10000-count-other": "00 tis'.' ¤",

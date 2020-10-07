@@ -3,7 +3,7 @@
     "gsw": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gsw"
       },
@@ -31,7 +31,8 @@
             "displayName": "Afghani",
             "displayName-count-one": "Afghani",
             "displayName-count-other": "Afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -47,7 +48,8 @@
             "displayName": "Dram",
             "displayName-count-one": "Dram",
             "displayName-count-other": "Dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Niderländischi-Antille-Gulde",
@@ -132,7 +134,8 @@
             "displayName": "Aserbeidschanische Manat",
             "displayName-count-one": "Aserbeidschanische Manat",
             "displayName-count-other": "Aserbeidschanischi Manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosnie-und-Herzegowina-Dinar",
@@ -618,7 +621,8 @@
             "displayName": "Ghanaische Cedi (GHS)",
             "displayName-count-one": "Ghanaische Cedi (GHS)",
             "displayName-count-other": "Ghanaischi Cedi (GHS)",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltar-Pfund",

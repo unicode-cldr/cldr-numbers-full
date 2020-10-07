@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hr",
         "territory": "BA"
@@ -36,7 +36,8 @@
             "displayName-count-one": "afganistanski afgan",
             "displayName-count-few": "afganistanska afgana",
             "displayName-count-other": "afganistanskih afgana",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "stari albanski lek",
@@ -57,7 +58,8 @@
             "displayName-count-one": "armenski dram",
             "displayName-count-few": "armenska drama",
             "displayName-count-other": "armenskih drama",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "nizozemskoantilski gulden",
@@ -165,7 +167,8 @@
             "displayName-count-one": "azerbajdžanski manat",
             "displayName-count-few": "azerbajdžanska manata",
             "displayName-count-other": "azerbajdžanskih manata",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "bosansko-hercegovački dinar",
@@ -758,7 +761,8 @@
             "displayName-count-one": "ganski cedi",
             "displayName-count-few": "ganska ceda",
             "displayName-count-other": "ganskih ceda",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gibraltarska funta",
@@ -2110,9 +2114,9 @@
           },
           "XXX": {
             "displayName": "nepoznata valuta",
-            "displayName-count-one": "nepoznata valuta",
-            "displayName-count-few": "nepoznata valuta",
-            "displayName-count-other": "nepoznata valuta",
+            "displayName-count-one": "(nepoznata valuta)",
+            "displayName-count-few": "(nepoznata valuta)",
+            "displayName-count-other": "(nepoznata valuta)",
             "symbol": "XXX"
           },
           "YDD": {

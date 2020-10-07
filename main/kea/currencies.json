@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kea"
       },
@@ -24,7 +24,8 @@
           },
           "AFN": {
             "displayName": "AFN",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -36,7 +37,8 @@
           },
           "AMD": {
             "displayName": "AMD",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "ANG",
@@ -101,7 +103,8 @@
           },
           "AZN": {
             "displayName": "AZN",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -427,8 +430,8 @@
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "Euro",
-            "displayName-count-other": "Euro",
+            "displayName": "euro",
+            "displayName-count-other": "euro",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -471,7 +474,8 @@
           },
           "GHS": {
             "displayName": "GHS",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "GIP",
@@ -1060,13 +1064,12 @@
             "symbol-alt-narrow": "£"
           },
           "STD": {
-            "displayName": "Dobra di Sãu Tume i Prínsipi (1977–2017)",
-            "displayName-count-other": "Dobra di Sãu Tume i Prinsipi (1977–2017)",
+            "displayName": "Dobra di San Tume i Prínsipi (1977–2017)",
+            "displayName-count-other": "Dobra di San Tume i Prínsipi (1977–2017)",
             "symbol": "STD"
           },
           "STN": {
             "displayName": "Dobra di San Tume i Prínsipi",
-            "displayName-count-other": "Dobra di San Tume i Prinsipi",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"
           },
@@ -1147,8 +1150,8 @@
             "symbol-alt-narrow": "$"
           },
           "TZS": {
-            "displayName": "Xelin di Tanzania",
-            "displayName-count-other": "Xelin di Tanzania",
+            "displayName": "Xelin di Tanzánia",
+            "displayName-count-other": "Xelin di Tanzánia",
             "symbol": "TZS"
           },
           "UAH": {

@@ -3,7 +3,7 @@
     "de-LI": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "de",
         "territory": "LI"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "≈",
           "exponential": "E",
           "superscriptingExponent": "·",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -148,7 +149,14 @@
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} Tag",
           "pluralMinimalPairs-count-other": "{0} Tage",
-          "other": "{0}. Abzweigung nach rechts nehmen"
+          "other": "{0}. Abzweigung nach rechts nehmen",
+          "accusative": "… für {0} …",
+          "dative": "… mit {0} …",
+          "genitive": "Anstatt {0} …",
+          "nominative": "{0} kostet (kosten) € 3,50.",
+          "feminine": "Die {0} ist …",
+          "masculine": "Der {0} ist …",
+          "neuter": "Das {0} ist …"
         }
       }
     }

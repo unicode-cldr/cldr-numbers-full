@@ -3,7 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr",
         "territory": "CA"
@@ -32,7 +32,8 @@
             "displayName": "afghani afghan",
             "displayName-count-one": "afghani afghan",
             "displayName-count-other": "afghanis afghan",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "lek albanais (1947–1961)",
@@ -50,7 +51,8 @@
             "displayName": "dram arménien",
             "displayName-count-one": "dram arménien",
             "displayName-count-other": "drams arméniens",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "florin antillais",
@@ -139,7 +141,8 @@
             "displayName": "manat azerbaïdjanais",
             "displayName-count-one": "manat azerbaïdjanais",
             "displayName-count-other": "manats azerbaïdjanais",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "dinar bosniaque",
@@ -356,7 +359,7 @@
             "displayName": "dollar canadien",
             "displayName-count-one": "dollar canadien",
             "displayName-count-other": "dollars canadiens",
-            "symbol": "$",
+            "symbol": "$ CA",
             "symbol-alt-narrow": "$"
           },
           "CDF": {
@@ -597,9 +600,9 @@
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "livre des Îles Malouines",
-            "displayName-count-one": "livre des Îles Malouines",
-            "displayName-count-other": "livres des Îles Malouines",
+            "displayName": "livre des îles Malouines",
+            "displayName-count-one": "livre des îles Malouines",
+            "displayName-count-other": "livres des îles Malouines",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
@@ -640,7 +643,8 @@
             "displayName": "cédi ghanéen",
             "displayName-count-one": "cédi ghanéen",
             "displayName-count-other": "cédis ghanéens",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "livre de Gibraltar",

@@ -3,7 +3,7 @@
     "ru-KZ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ru",
         "territory": "KZ"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "≈",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -144,12 +145,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -224,7 +225,16 @@
           "pluralMinimalPairs-count-few": "из {0} книг за {0} дня",
           "pluralMinimalPairs-count-many": "из {0} книг за {0} дней",
           "pluralMinimalPairs-count-other": "из {0} книги за {0} дня",
-          "other": "Сверните направо на {0}-м перекрестке."
+          "other": "Сверните направо на {0}-м перекрестке.",
+          "accusative": "Вижу {0}",
+          "dative": "Верю {0}",
+          "genitive": "Не хватает {0}",
+          "instrumental": "Занимаюсь {0}",
+          "locative": "Сижу на {0}",
+          "nominative": "{0} здесь",
+          "vocative": "Эй, {0}",
+          "feminine": "эта {0}",
+          "masculine": "этот {0}"
         }
       }
     }

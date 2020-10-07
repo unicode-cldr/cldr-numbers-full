@@ -3,7 +3,7 @@
     "es-PY": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "PY"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -148,7 +149,9 @@
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} día",
           "pluralMinimalPairs-count-other": "{0} días",
-          "other": "Toma la {0}.ª a la derecha."
+          "other": "Toma la {0}.ª a la derecha.",
+          "feminine": "La {0} es...",
+          "masculine": "El {0} es…"
         }
       }
     }

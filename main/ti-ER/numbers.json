@@ -3,7 +3,7 @@
     "ti-ER": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ti",
         "territory": "ER"
@@ -22,6 +22,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -97,12 +98,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -142,7 +143,7 @@
         },
         "miscPatterns-numberSystem-latn": {
           "approximately": "~{0}",
-          "atLeast": "≥{0}",
+          "atLeast": "⩾{0}",
           "atMost": "≤{0}",
           "range": "{0}–{1}"
         },

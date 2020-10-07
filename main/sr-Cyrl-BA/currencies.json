@@ -3,7 +3,7 @@
     "sr-Cyrl-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -37,7 +37,8 @@
             "displayName-count-one": "aвганистански авгани",
             "displayName-count-few": "авганистанска авгана",
             "displayName-count-other": "авганистанских авгана",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -55,7 +56,8 @@
             "displayName-count-one": "јерменски драм",
             "displayName-count-few": "јерменска драма",
             "displayName-count-other": "јерменска драма",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Холандскоантилски гулден",
@@ -157,7 +159,8 @@
             "displayName-count-one": "азербејџански манат",
             "displayName-count-few": "азербејџанска маната",
             "displayName-count-other": "азербејџанских маната",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Босанско-Херцеговачки динар",
@@ -167,10 +170,10 @@
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "Босанско-херцеговачка конвертибилна марка",
-            "displayName-count-one": "босанско-херцеговачка конвертибилна марка",
-            "displayName-count-few": "босанско-херцеговачке конвертибилне маркe",
-            "displayName-count-other": "босанско-херцеговачких конвертибилних марака",
+            "displayName": "Босанскохерцеговачка конвертибилна марка",
+            "displayName-count-one": "босанскохерцеговачка конвертибилна марка",
+            "displayName-count-few": "босанскохерцеговачке конвертибилне маркe",
+            "displayName-count-other": "босанскохерцеговачких конвертибилних марака",
             "symbol": "КМ",
             "symbol-alt-narrow": "KM"
           },
@@ -378,10 +381,10 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "Белоруска рубља",
-            "displayName-count-one": "белоруска рубља",
-            "displayName-count-few": "белоруске рубље",
-            "displayName-count-other": "белоруских рубљи",
+            "displayName": "Бјелоруска рубља",
+            "displayName-count-one": "бјелоруска рубља",
+            "displayName-count-few": "бјелоруске рубље",
+            "displayName-count-other": "бјелоруских рубљи",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -493,7 +496,7 @@
             "displayName": "Костарикански колон",
             "displayName-count-one": "костарикански колон",
             "displayName-count-few": "костариканска колона",
-            "displayName-count-other": "костарикански колони",
+            "displayName-count-other": "костариканских колона",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -732,7 +735,8 @@
             "displayName-count-one": "гански седи",
             "displayName-count-few": "ганска седија",
             "displayName-count-other": "ганских седија",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Гибралтарска фунта",
@@ -989,10 +993,10 @@
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "Севернокорејски вон",
-            "displayName-count-one": "севернокорејски вон",
-            "displayName-count-few": "севернокорејска вона",
-            "displayName-count-other": "севернокорејских вона",
+            "displayName": "Сјевернокорејски вон",
+            "displayName-count-one": "сјевернокорејски вон",
+            "displayName-count-few": "сјевернокорејска вона",
+            "displayName-count-other": "сјевернокорејских вона",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },

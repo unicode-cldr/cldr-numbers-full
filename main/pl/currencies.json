@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pl"
       },
@@ -39,7 +39,8 @@
             "displayName-count-few": "afgani afgańskie",
             "displayName-count-many": "afgani afgańskich",
             "displayName-count-other": "afgani afgańskiego",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -55,11 +56,12 @@
           },
           "AMD": {
             "displayName": "dram armeński",
-            "displayName-count-one": "dram ormiański",
+            "displayName-count-one": "dram armeński",
             "displayName-count-few": "dramy armeńskie",
             "displayName-count-many": "dramów armeńskich",
-            "displayName-count-other": "dramy ormiańskiej",
-            "symbol": "AMD"
+            "displayName-count-other": "drama armeńskiego",
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "gulden antylski",
@@ -162,7 +164,8 @@
             "displayName-count-few": "manaty azerskie",
             "displayName-count-many": "manatów azerskich",
             "displayName-count-other": "manata azerskiego",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "dinar Bośni i Hercegowiny",
@@ -182,11 +185,11 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "dolar Barbadosu",
-            "displayName-count-one": "dolar Barbadosu",
-            "displayName-count-few": "dolary Barbadosu",
-            "displayName-count-many": "dolarów Barbadosu",
-            "displayName-count-other": "dolara Barbadosu",
+            "displayName": "dolar barbadoski",
+            "displayName-count-one": "dolar barbadoski",
+            "displayName-count-few": "dolary barbadoskie",
+            "displayName-count-many": "dolarów barbadoskich",
+            "displayName-count-other": "dolara barbadoskiego",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
@@ -715,7 +718,8 @@
             "displayName-count-few": "cedi ghańskie",
             "displayName-count-many": "cedi ghańskich",
             "displayName-count-other": "cedi ghańskiego",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "funt gibraltarski",
@@ -1234,9 +1238,9 @@
           "MWK": {
             "displayName": "kwacha malawijska",
             "displayName-count-one": "kwacha malawijska",
-            "displayName-count-few": "kwacha malawijskie",
-            "displayName-count-many": "kwacha malawijskich",
-            "displayName-count-other": "kwacha malawijskiej",
+            "displayName-count-few": "kwachy malawijskie",
+            "displayName-count-many": "kwach malawijskich",
+            "displayName-count-other": "kwachy malawijskiej",
             "symbol": "MWK"
           },
           "MXN": {
@@ -1752,11 +1756,11 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "dolar Trynidadu i Tobago",
-            "displayName-count-one": "dolar Trynidadu i Tobago",
-            "displayName-count-few": "dolary Trynidadu i Tobago",
-            "displayName-count-many": "dolarów Trynidadu i Tobago",
-            "displayName-count-other": "dolara Trynidadu i Tobago",
+            "displayName": "dolar trynidadzki",
+            "displayName-count-one": "dolar trynidadzki",
+            "displayName-count-few": "dolary trynidadzkie",
+            "displayName-count-many": "dolarów trynidadzkich",
+            "displayName-count-other": "dolara trynidadzkiego",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },

@@ -3,7 +3,7 @@
     "ga-GB": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ga",
         "territory": "GB"
@@ -44,7 +44,8 @@
             "displayName-count-few": "afghani na hAfganastáine",
             "displayName-count-many": "n-afghani na hAfganastáine",
             "displayName-count-other": "afghani na hAfganastáine",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Lek na hAlbáine (1946–1965)",
@@ -71,7 +72,8 @@
             "displayName-count-few": "dhram na hAirméine",
             "displayName-count-many": "ndram na hAirméine",
             "displayName-count-other": "dram na hAirméine",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Gildear Aintillí na hÍsiltíre",
@@ -204,7 +206,8 @@
             "displayName-count-few": "mhanat na hAsarbaiseáine",
             "displayName-count-many": "manat na hAsarbaiseáine",
             "displayName-count-other": "manat na hAsarbaiseáine",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Dínear Bhoisnia-Heirseagaivéin (1992–1994)",
@@ -582,7 +585,12 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "Yuan na Síne (seachairgeadra)",
+            "displayName-count-one": "Yuan na Síne (seachairgeadra)",
+            "displayName-count-two": "Yuan na Síne (seachairgeadra)",
+            "displayName-count-few": "Yuan na Síne (seachairgeadra)",
+            "displayName-count-many": "Yuan na Síne (seachairgeadra)",
+            "displayName-count-other": "Yuan na Síne (seachairgeadra)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -858,7 +866,7 @@
             "symbol-alt-narrow": "£"
           },
           "FRF": {
-            "displayName": "FRF",
+            "displayName": "Franc na Fraince",
             "displayName-count-one": "Franc Francach",
             "displayName-count-two": "Franc Francach",
             "displayName-count-few": "Franc Francach",
@@ -911,7 +919,8 @@
             "displayName-count-few": "chedi Ghána",
             "displayName-count-many": "gcedi Ghána",
             "displayName-count-other": "cedi Ghána",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Punt Ghiobráltar",
@@ -1351,7 +1360,12 @@
             "symbol": "LTT"
           },
           "LUC": {
-            "displayName": "LUC",
+            "displayName": "Franc Inmhalartach Lucsamburgach",
+            "displayName-count-one": "Franc Inmhalartach Lucsamburgach",
+            "displayName-count-two": "Franc Inmhalartach Lucsamburgach",
+            "displayName-count-few": "Franc Inmhalartach Lucsamburgach",
+            "displayName-count-many": "Franc Inmhalartach Lucsamburgach",
+            "displayName-count-other": "Franc Inmhalartach Lucsamburgach",
             "symbol": "LUC"
           },
           "LUF": {
@@ -1378,7 +1392,7 @@
             "symbol-alt-narrow": "Ls"
           },
           "LVR": {
-            "displayName": "LVR",
+            "displayName": "Rúbal na Laitvia",
             "displayName-count-one": "Rúbal Laitviach",
             "displayName-count-two": "Rúbal Laitviach",
             "displayName-count-few": "Rúbal Laitviach",
@@ -1593,7 +1607,7 @@
             "symbol": "MXP"
           },
           "MXV": {
-            "displayName": "MXV",
+            "displayName": "Aonad Infheistíochta Meicsiceach",
             "displayName-count-one": "Unidad de Inversion (UDI) Meicsiceo",
             "displayName-count-two": "Unidad de Inversion (UDI) Meicsiceo",
             "displayName-count-few": "Unidad de Inversion (UDI) Meicsiceo",
@@ -2601,7 +2615,7 @@
             "symbol": "YUM"
           },
           "YUN": {
-            "displayName": "YUN",
+            "displayName": "Dinar Inmhalartaithe Iúgslavach (1990–1992)",
             "displayName-count-one": "Dínear Inathraithe Iúgslavach",
             "displayName-count-two": "Dínear Inathraithe Iúgslavach",
             "displayName-count-few": "Dínear Inathraithe Iúgslavach",

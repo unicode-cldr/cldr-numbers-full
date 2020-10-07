@@ -3,7 +3,7 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sw",
         "territory": "KE"
@@ -28,7 +28,8 @@
             "displayName": "Afghani ya Afghanistani",
             "displayName-count-one": "afghani ya Afghanistani",
             "displayName-count-other": "afghani za Afghanistani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,7 +45,8 @@
             "displayName": "Dram ya Armenia",
             "displayName-count-one": "dram ya Armenia",
             "displayName-count-other": "dram za Armenia",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Gilda ya Antili ya Uholanzi",
@@ -119,7 +121,8 @@
             "displayName": "Manati ya Azabajani",
             "displayName-count-one": "manati ya Azabajani",
             "displayName-count-other": "manati za Azabajani",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -554,7 +557,8 @@
             "displayName": "Sidi ya Ghana",
             "displayName-count-one": "sidi ya Ghana",
             "displayName-count-other": "sidi za Ghana",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Pauni ya Jibrata",
@@ -944,9 +948,9 @@
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "Ouguiya ya Mauritania",
-            "displayName-count-one": "ouguiya ya Mauritania",
-            "displayName-count-other": "ouguiya za Mauritania",
+            "displayName": "Ouguiya ya Moritania",
+            "displayName-count-one": "ouguiya ya Moritania",
+            "displayName-count-other": "ouguiya za Moritania",
             "symbol": "MRU"
           },
           "MTL": {
@@ -958,9 +962,9 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "Rupia ya Mauritius",
-            "displayName-count-one": "rupia ya Mauritius",
-            "displayName-count-other": "rupia za Mauritius",
+            "displayName": "Rupia ya Morisi",
+            "displayName-count-one": "rupia ya Morisi",
+            "displayName-count-other": "rupia za Morisi",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
@@ -1014,8 +1018,8 @@
           },
           "MZN": {
             "displayName": "Metikali ya Msumbiji",
-            "displayName-count-one": "Metikali ya Msumbiji",
-            "displayName-count-other": "Metikali za Msumbiji",
+            "displayName-count-one": "metikali ya Msumbiji",
+            "displayName-count-other": "metikali za Msumbiji",
             "symbol": "MZN"
           },
           "NAD": {

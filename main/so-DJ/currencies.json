@@ -3,7 +3,7 @@
     "so-DJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "so",
         "territory": "DJ"
@@ -28,7 +28,8 @@
             "displayName": "Afgan Afgani",
             "displayName-count-one": "Afgan Afgani",
             "displayName-count-other": "Afgan Afgani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,7 +45,8 @@
             "displayName": "Daraamka Armeniya",
             "displayName-count-one": "daraamka Armeniya",
             "displayName-count-other": "daraamka Armeniya",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Galdarka Nadarlaan Antiliyaan",
@@ -127,7 +129,8 @@
             "displayName": "Manaata Asarbeyjan",
             "displayName-count-one": "manaata Asarbeyjan",
             "displayName-count-other": "manaata Asarbeyjan",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Diinaarka BBosnia-Hersogofina 1.00 konfatibal maakta Bosnia-Hersogofina 1 konfatibal maaka Bosnia-Hersogofina (1992–1994)",
@@ -567,7 +570,8 @@
             "displayName": "Sedida Gana",
             "displayName-count-one": "sedida Gana",
             "displayName-count-other": "sedida Gana",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Bowndka Gibraltar",

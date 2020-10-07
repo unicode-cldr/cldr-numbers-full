@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gd"
       },
@@ -39,7 +39,8 @@
             "displayName-count-two": "afghani Afghanach",
             "displayName-count-few": "afghani Afghanach",
             "displayName-count-other": "afghani Afghanach",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Lek Albàineach (1946–1965)",
@@ -63,7 +64,8 @@
             "displayName-count-two": "dhram Airmeineach",
             "displayName-count-few": "dram Airmeineach",
             "displayName-count-other": "dram Airmeineach",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Gulden Eileanan Aintilia nan Tìrean Ìsle",
@@ -186,7 +188,8 @@
             "displayName-count-two": "mhanat Asarbaideànach",
             "displayName-count-few": "manat Asarbaideànach",
             "displayName-count-other": "manat Asarbaideànach",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Dinar Bhosna agus Hearsagobhana (1992–1994)",
@@ -862,7 +865,8 @@
             "displayName-count-two": "chedi Gànach",
             "displayName-count-few": "cedi Gànach",
             "displayName-count-other": "cedi Gànach",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Punnd Diobraltarach",
@@ -2168,7 +2172,7 @@
             "symbol-alt-narrow": "$"
           },
           "UYW": {
-            "displayName": "aonad inneacs tuarastail ainmeach Uruguaidh",
+            "displayName": "Aonad inneacs tuarastail ainmeach Uruguaidh",
             "displayName-count-one": "aonad inneacs tuarastail ainmeach Uruguaidh",
             "displayName-count-two": "aonad inneacs tuarastail ainmeach Uruguaidh",
             "displayName-count-few": "aonadan inneacs tuarastail ainmeach Uruguaidh",

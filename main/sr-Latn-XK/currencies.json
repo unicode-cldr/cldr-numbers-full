@@ -3,7 +3,7 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Latn",
@@ -37,7 +37,8 @@
             "displayName-count-one": "avganistanski avgani",
             "displayName-count-few": "avganistanska avgana",
             "displayName-count-other": "avganistanskih avgana",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -55,7 +56,8 @@
             "displayName-count-one": "jermenski dram",
             "displayName-count-few": "jermenska drama",
             "displayName-count-other": "jermenska drama",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Holandskoantilski gulden",
@@ -157,7 +159,8 @@
             "displayName-count-one": "azerbejdžanski manat",
             "displayName-count-few": "azerbejdžanska manata",
             "displayName-count-other": "azerbejdžanskih manata",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosansko-Hercegovački dinar",
@@ -493,7 +496,7 @@
             "displayName": "Kostarikanski kolon",
             "displayName-count-one": "kostarikanski kolon",
             "displayName-count-few": "kostarikanska kolona",
-            "displayName-count-other": "kostarikanski koloni",
+            "displayName-count-other": "kostarikanskih kolona",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -732,7 +735,8 @@
             "displayName-count-one": "ganski sedi",
             "displayName-count-few": "ganska sedija",
             "displayName-count-other": "ganskih sedija",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltarska funta",

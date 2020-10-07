@@ -3,7 +3,7 @@
     "kk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kk"
       },
@@ -27,7 +27,8 @@
             "displayName": "Ауғанстан афганиі",
             "displayName-count-one": "Ауғанстан афганиі",
             "displayName-count-other": "Ауғанстан афганиі",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Армения драмы",
             "displayName-count-one": "Армения драмы",
             "displayName-count-other": "Армения драмы",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Нидерланд антиль гульдені",
@@ -118,7 +120,8 @@
             "displayName": "Әзірбайжан манаты",
             "displayName-count-one": "Әзірбайжан манаты",
             "displayName-count-other": "Әзірбайжан манаты",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -553,7 +556,8 @@
             "displayName": "Гана седиі",
             "displayName-count-one": "Гана седиі",
             "displayName-count-other": "Гана седиі",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Гибралтар фунты",

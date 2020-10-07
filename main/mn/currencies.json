@@ -3,7 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mn"
       },
@@ -27,7 +27,8 @@
             "displayName": "Афганистаны афгани",
             "displayName-count-one": "Афганистаны афгани",
             "displayName-count-other": "Афганистаны афгани",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Арменийн драм",
             "displayName-count-one": "Арменийн драм",
             "displayName-count-other": "Арменийн драм",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Нидерландын Антиллийн гулдер",
@@ -118,7 +120,8 @@
             "displayName": "Азербайжаны манат",
             "displayName-count-one": "Азербайжаны манат",
             "displayName-count-other": "Азербайжаны манат",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -552,7 +555,8 @@
             "displayName": "Ганагийн седи",
             "displayName-count-one": "Ганагийн седи",
             "displayName-count-other": "Ганагийн седи",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Гибралтарын фунт",

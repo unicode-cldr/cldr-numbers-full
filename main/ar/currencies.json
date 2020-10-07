@@ -3,7 +3,7 @@
     "ar": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ar"
       },
@@ -35,7 +35,8 @@
             "displayName-count-few": "أفغاني أفغانستاني",
             "displayName-count-many": "أفغاني أفغانستاني",
             "displayName-count-other": "أفغاني أفغانستاني",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -59,7 +60,8 @@
             "displayName-count-few": "درام أرميني",
             "displayName-count-many": "درام أرميني",
             "displayName-count-other": "درام أرميني",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "غيلدر أنتيلي هولندي",
@@ -158,7 +160,8 @@
             "displayName-count-few": "مانت أذربيجاني",
             "displayName-count-many": "مانت أذربيجاني",
             "displayName-count-other": "مانت أذربيجاني",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "دينار البوسنة والهرسك",
@@ -757,7 +760,8 @@
             "displayName-count-few": "سيدي غانا",
             "displayName-count-many": "سيدي غانا",
             "displayName-count-other": "سيدي غانا",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "جنيه جبل طارق",

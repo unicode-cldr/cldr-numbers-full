@@ -3,7 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lo"
       },
@@ -25,7 +25,8 @@
           "AFN": {
             "displayName": "ອັຟ​ກັນ ອັຟ​ກາ​ນິ",
             "displayName-count-other": "ອັຟ​ກັນ ອັຟ​ກາ​ນິ",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -39,7 +40,8 @@
           "AMD": {
             "displayName": "ອາ​ເມ​ນຽນ ແດຣມ",
             "displayName-count-other": "ອາ​ເມ​ນຽນ ແດຣມ",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "ເນ​ເທີ​ແລນ ແອນ​ຕິ​ລຽນ ກິວ​ເດີ",
@@ -108,7 +110,8 @@
           "AZN": {
             "displayName": "ອາ​ເຊີ​ໄບ​ຈາ​ນິ ມາ​ນັດ",
             "displayName-count-other": "ອາ​ເຊີ​ໄບ​ຈາ​ນິ ມາ​ນັດ",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "ດີນາ ບອສເນຍ ເຮີເຊໂບວາເນຍ (1992–1994)",
@@ -502,7 +505,8 @@
           "GHS": {
             "displayName": "ກາ​ນາ​ອຽນ ເຊ​ດິ",
             "displayName-count-other": "ກາ​ນາ​ອຽນ ເຊ​ດິ",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ກິບ​ຣາ​ທາ ພາ​ວດ໌",

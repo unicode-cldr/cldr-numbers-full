@@ -3,7 +3,7 @@
     "sr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr"
       },
@@ -35,7 +35,8 @@
             "displayName-count-one": "aвганистански авгани",
             "displayName-count-few": "авганистанска авгана",
             "displayName-count-other": "авганистанских авгана",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -53,7 +54,8 @@
             "displayName-count-one": "јерменски драм",
             "displayName-count-few": "јерменска драма",
             "displayName-count-other": "јерменска драма",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Холандскоантилски гулден",
@@ -155,7 +157,8 @@
             "displayName-count-one": "азербејџански манат",
             "displayName-count-few": "азербејџанска маната",
             "displayName-count-other": "азербејџанских маната",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Босанско-Херцеговачки динар",
@@ -491,7 +494,7 @@
             "displayName": "Костарикански колон",
             "displayName-count-one": "костарикански колон",
             "displayName-count-few": "костариканска колона",
-            "displayName-count-other": "костарикански колони",
+            "displayName-count-other": "костариканских колона",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
@@ -730,7 +733,8 @@
             "displayName-count-one": "гански седи",
             "displayName-count-few": "ганска седија",
             "displayName-count-other": "ганских седија",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Гибралтарска фунта",

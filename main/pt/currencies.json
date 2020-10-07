@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt"
       },
@@ -31,7 +31,8 @@
             "displayName": "Afegane afegão",
             "displayName-count-one": "Afegane afegão",
             "displayName-count-other": "Afeganes afegãos",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Lek Albanês (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "Dram armênio",
             "displayName-count-one": "Dram armênio",
             "displayName-count-other": "Drams armênios",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Florim das Antilhas Holandesas",
@@ -142,7 +144,8 @@
             "displayName": "Manat azeri",
             "displayName-count-one": "Manat azeri",
             "displayName-count-other": "Manats azeris",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Dinar da Bósnia-Herzegovina (1992–1994)",
@@ -657,7 +660,8 @@
             "displayName": "Cedi ganês",
             "displayName-count-one": "Cedi ganês",
             "displayName-count-other": "Cedis ganeses",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Libra de Gibraltar",
@@ -940,9 +944,9 @@
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "Rupia do Sri Lanka",
-            "displayName-count-one": "Rupia do Sri Lanka",
-            "displayName-count-other": "Rupias do Sri Lanka",
+            "displayName": "Rupia cingalesa",
+            "displayName-count-one": "Rupia cingalesa",
+            "displayName-count-other": "Rupias cingalesas",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
@@ -1071,9 +1075,9 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "Quiat de Myanmar",
-            "displayName-count-one": "Quiat de Myanmar",
-            "displayName-count-other": "Quiat de Myanmar",
+            "displayName": "Quiate mianmarense",
+            "displayName-count-one": "Quiate mianmarense",
+            "displayName-count-other": "Quiates mianmarenses",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
@@ -1085,9 +1089,9 @@
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "Pataca de Macau",
-            "displayName-count-one": "Pataca de Macau",
-            "displayName-count-other": "Patacas de Macau",
+            "displayName": "Pataca macaense",
+            "displayName-count-one": "Pataca macaense",
+            "displayName-count-other": "Patacas macaenses",
             "symbol": "MOP"
           },
           "MRO": {

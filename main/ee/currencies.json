@@ -3,7 +3,7 @@
     "ee": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ee"
       },
@@ -31,7 +31,8 @@
             "displayName": "afghanistanga afghani",
             "displayName-count-one": "afghanistanga afghani",
             "displayName-count-other": "afghanistanga afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "albaniaga lek (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "armeniaga dram",
             "displayName-count-one": "armeniaga dram",
             "displayName-count-other": "armeniaga dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "netherlands antilleaga guilder",
@@ -142,7 +144,8 @@
             "displayName": "azerbaidzanga manat",
             "displayName-count-one": "azerbaidzanga manat",
             "displayName-count-other": "azerbaidzanga manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "bosnia-herzegovinaga dinar (1992–1994)",
@@ -654,7 +657,8 @@
             "displayName": "ghana siɖi",
             "displayName-count-one": "ghana siɖi",
             "displayName-count-other": "ghana siɖi",
-            "symbol": "GH₵"
+            "symbol": "GH₵",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gilbratarga pound",

@@ -3,7 +3,7 @@
     "it-VA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "it",
         "territory": "VA"
@@ -28,7 +28,8 @@
             "displayName": "afghani",
             "displayName-count-one": "afghani",
             "displayName-count-other": "afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,12 +45,13 @@
             "displayName": "dram armeno",
             "displayName-count-one": "dram armeno",
             "displayName-count-other": "dram armeni",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "fiorino delle Antille olandesi",
             "displayName-count-one": "fiorino delle Antille olandesi",
-            "displayName-count-other": "fiorino delle Antille olandesi",
+            "displayName-count-other": "fiorini delle Antille olandesi",
             "symbol": "ANG"
           },
           "AOA": {
@@ -119,7 +121,8 @@
             "displayName": "manat azero",
             "displayName-count-one": "manat azero",
             "displayName-count-other": "manat azeri",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "dinar Bosnia-Herzegovina",
@@ -556,7 +559,8 @@
             "displayName": "cedi ghanese",
             "displayName-count-one": "cedi ghanese",
             "displayName-count-other": "cedi ghanesi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "sterlina di Gibilterra",
@@ -680,7 +684,7 @@
             "displayName": "rupia indiana",
             "displayName-count-one": "rupia indiana",
             "displayName-count-other": "rupie indiane",
-            "symbol": "₹",
+            "symbol": "INR",
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
@@ -709,6 +713,8 @@
           "ITL": {
             "pattern": "¤ #,##0.00",
             "displayName": "lira italiana",
+            "displayName-count-one": "lire italiane",
+            "displayName-count-other": "lire italiane",
             "symbol": "ITL",
             "decimal": ",",
             "group": "."
@@ -736,7 +742,7 @@
           "KES": {
             "displayName": "scellino keniota",
             "displayName-count-one": "scellino keniota",
-            "displayName-count-other": "scellini keniota",
+            "displayName-count-other": "scellini kenioti",
             "symbol": "KES"
           },
           "KGS": {
@@ -909,13 +915,15 @@
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "denar macedone",
+            "displayName": "dinaro macedone",
             "displayName-count-one": "dinaro macedone",
             "displayName-count-other": "dinari macedoni",
             "symbol": "MKD"
           },
           "MKN": {
-            "displayName": "MKN",
+            "displayName": "dinaro macedone (1992–1993)",
+            "displayName-count-one": "dinaro macedone (1992–1993)",
+            "displayName-count-other": "dinari macedoni (1992–1993)",
             "symbol": "MKN"
           },
           "MLF": {
@@ -1477,7 +1485,7 @@
             "displayName": "dong vietnamita",
             "displayName-count-one": "dong vietnamita",
             "displayName-count-other": "dong vietnamiti",
-            "symbol": "₫",
+            "symbol": "VND",
             "symbol-alt-narrow": "₫"
           },
           "VNN": {
@@ -1635,7 +1643,7 @@
             "symbol": "ZMK"
           },
           "ZMW": {
-            "displayName": "kwacha dello Zambia",
+            "displayName": "kwacha zambiano",
             "displayName-count-one": "kwacha zambiano",
             "displayName-count-other": "kwacha zambiani",
             "symbol": "ZMW",

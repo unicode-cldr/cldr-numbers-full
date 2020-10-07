@@ -3,7 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "uk"
       },
@@ -35,7 +35,8 @@
             "displayName-count-few": "афганські афгані",
             "displayName-count-many": "афганських афгані",
             "displayName-count-other": "афганського афгані",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -55,7 +56,8 @@
             "displayName-count-few": "вірменські драми",
             "displayName-count-many": "вірменських драмів",
             "displayName-count-other": "вірменського драма",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "нідерландський антильський гульден",
@@ -162,7 +164,8 @@
             "displayName-count-few": "азербайджанські манати",
             "displayName-count-many": "азербайджанських манатів",
             "displayName-count-other": "азербайджанського маната",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "динар (Боснія і Герцеговина)",
@@ -497,7 +500,7 @@
             "displayName": "кубинський песо",
             "displayName-count-one": "кубинський песо",
             "displayName-count-few": "кубинські песо",
-            "displayName-count-many": "кубинськх песо",
+            "displayName-count-many": "кубинських песо",
             "displayName-count-other": "кубинського песо",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
@@ -691,7 +694,8 @@
             "displayName-count-few": "ганські седі",
             "displayName-count-many": "ганських седі",
             "displayName-count-other": "ганського седі",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "гібралтарський фунт",
@@ -1673,11 +1677,11 @@
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "тонґанська паанга",
-            "displayName-count-one": "тонґанська паанга",
-            "displayName-count-few": "тонґанські паанги",
-            "displayName-count-many": "тонґанських паанг",
-            "displayName-count-other": "тонґанської паанги",
+            "displayName": "тонганська паанга",
+            "displayName-count-one": "тонганська паанга",
+            "displayName-count-few": "тонганські паанги",
+            "displayName-count-many": "тонганських паанг",
+            "displayName-count-other": "тонганської паанги",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1704,11 +1708,11 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "долар Трінідаду і Тобаґо",
-            "displayName-count-one": "долар Трінідаду і Тобаґо",
+            "displayName": "долар Тринідаду і Тобаго",
+            "displayName-count-one": "долар Тринідаду і Тобаго",
             "displayName-count-few": "долари Тринідаду і Тобаго",
             "displayName-count-many": "доларів Тринідаду і Тобаго",
-            "displayName-count-other": "долара Трінідаду і Тобаґо",
+            "displayName-count-other": "долара Тринідаду і Тобаго",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
@@ -1731,10 +1735,10 @@
           },
           "UAH": {
             "displayName": "українська гривня",
-            "displayName-count-one": "гривня",
-            "displayName-count-few": "гривні",
-            "displayName-count-many": "гривень",
-            "displayName-count-other": "гривні",
+            "displayName-count-one": "українська гривня",
+            "displayName-count-few": "українські гривні",
+            "displayName-count-many": "українських гривень",
+            "displayName-count-other": "української гривні",
             "symbol": "₴",
             "symbol-alt-narrow": "₴",
             "symbol-alt-variant": "грн."

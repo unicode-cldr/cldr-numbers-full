@@ -3,7 +3,7 @@
     "nl-SR": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl",
         "territory": "SR"
@@ -32,7 +32,8 @@
             "displayName": "Afghaanse afghani",
             "displayName-count-one": "Afghaanse afghani",
             "displayName-count-other": "Afghaanse afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Albanese lek (1946–1965)",
@@ -50,7 +51,8 @@
             "displayName": "Armeense dram",
             "displayName-count-one": "Armeense dram",
             "displayName-count-other": "Armeense dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Nederlands-Antilliaanse gulden",
@@ -143,7 +145,8 @@
             "displayName": "Azerbeidzjaanse manat",
             "displayName-count-one": "Azerbeidzjaanse manat",
             "displayName-count-other": "Azerbeidzjaanse manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosnische dinar",
@@ -347,9 +350,9 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "Wit-Russische roebel",
-            "displayName-count-one": "Wit-Russische roebel",
-            "displayName-count-other": "Wit-Russische roebel",
+            "displayName": "Belarussische roebel",
+            "displayName-count-one": "Belarussische roebel",
+            "displayName-count-other": "Belarussische roebel",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -658,7 +661,8 @@
             "displayName": "Ghanese cedi",
             "displayName-count-one": "Ghanese cedi",
             "displayName-count-other": "Ghanese cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltarees pond",

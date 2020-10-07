@@ -3,7 +3,7 @@
     "te": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "te"
       },
@@ -26,8 +26,9 @@
           "AFN": {
             "displayName": "ఆఫ్ఘాన్ ఆఫ్ఘాని",
             "displayName-count-one": "ఆఫ్ఘాన్ ఆఫ్ఘాని",
-            "displayName-count-other": "ఆఫ్ఘాన్ ఆఫ్ఘాని",
-            "symbol": "AFN"
+            "displayName-count-other": "ఆఫ్ఘాన్ ఆఫ్ఘానీలు",
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "అమెరికన్ డ్రామ్",
             "displayName-count-one": "అమెరికన్ డ్రామ్",
             "displayName-count-other": "అమెరికన్ డ్రామ్‌లు",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "నెదర్లాండ్స్ యాంటిల్లియన్ గిల్‌డర్",
@@ -118,7 +120,8 @@
             "displayName": "అజర్బైజాన్ మానట్",
             "displayName-count-one": "అజర్బైజాన్ మానట్",
             "displayName-count-other": "అజర్బైజాన్ మానట్‌లు",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -553,7 +556,8 @@
             "displayName": "గానెయన్ సెడి",
             "displayName-count-one": "గానెయన్ సెడి",
             "displayName-count-other": "గానెయన్ సెడిలు",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "జిబ్రల్‌టూర్ పౌండ్",

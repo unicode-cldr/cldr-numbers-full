@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "vi"
       },
@@ -25,7 +25,8 @@
           "AFN": {
             "displayName": "Afghani Afghanistan",
             "displayName-count-other": "Afghani Afghanistan",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -39,7 +40,8 @@
           "AMD": {
             "displayName": "Dram Armenia",
             "displayName-count-other": "Dram Armenia",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Guilder Antille Hà Lan",
@@ -108,7 +110,8 @@
           "AZN": {
             "displayName": "Manat Azerbaijan",
             "displayName-count-other": "Manat Azerbaijan",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Đồng Dinar của Bosnia-Herzegovina (1992–1994)",
@@ -502,7 +505,8 @@
           "GHS": {
             "displayName": "Cedi Ghana",
             "displayName-count-other": "Cedi Ghana",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Bảng Gibraltar",
@@ -654,7 +658,7 @@
           "JPY": {
             "displayName": "Yên Nhật",
             "displayName-count-other": "Yên Nhật",
-            "symbol": "JP¥",
+            "symbol": "¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {

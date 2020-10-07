@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pa"
       },
@@ -27,7 +27,8 @@
             "displayName": "ਅਫ਼ਗਾਨ ਅਫ਼ਗਾਨੀ",
             "displayName-count-one": "ਅਫ਼ਗਾਨ ਅਫ਼ਗਾਨੀ",
             "displayName-count-other": "ਅਫ਼ਗਾਨ ਅਫ਼ਗਾਨੀ",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "ਅਰਮੀਨੀਆਈ ਦਰਾਮ",
             "displayName-count-one": "ਅਰਮੀਨੀਆਈ ਦਰਾਮ",
             "displayName-count-other": "ਅਰਮੀਨੀਆਈ ਦਰਾਮ",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "ਨੀਦਰਲੈਂਡਸ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ",
@@ -126,7 +128,8 @@
             "displayName": "ਅਜ਼ਰਬਾਈਜਾਨ ਮਾਨਤ",
             "displayName-count-one": "ਅਜ਼ਰਬਾਈਜਾਨ ਮਾਨਤ",
             "displayName-count-other": "ਅਜ਼ਰਬਾਈਜਾਨ ਮਾਨਤ",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -581,7 +584,8 @@
             "displayName": "ਘਾਨਾਈ ਸੇਡੀ",
             "displayName-count-one": "ਘਾਨਾਈ ਸੇਡੀ",
             "displayName-count-other": "ਘਾਨਾਈ ਸੇਡੀ",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ਜਿਬਰਾਲਟਰ ਪੌਂਡ",
@@ -730,7 +734,7 @@
           },
           "ISK": {
             "displayName": "ਆਈਸਲੈਂਡੀ ਕਰੋਨਾ",
-            "displayName-count-one": "ਆਈਸਲੈਂਡਿਕ ਕਰੌਨ",
+            "displayName-count-one": "ਆਈਸਲੈਂਡੀ ਕਰੋਨਾ",
             "displayName-count-other": "ਆਈਸਲੈਂਡੀ ਕਰੋਨਾ",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
@@ -1311,7 +1315,7 @@
           },
           "STN": {
             "displayName": "ਸਾਉ ਟੋਮੀ ਐਂਡ ਪ੍ਰਿੰਸਪੀ ਡੋਬਰਾ",
-            "displayName-count-one": "ਸਾਉ ਟੋਮੀ ਅਤੇ ਪ੍ਰਿੰਸਪੀ ਡੋਬਰਾ",
+            "displayName-count-one": "ਸਾਉ ਟੋਮੀ ਐਂਡ ਪ੍ਰਿੰਸਪੀ ਡੋਬਰਾ",
             "displayName-count-other": "ਸਾਉ ਟੋਮੀ ਐਂਡ ਪ੍ਰਿੰਸਪੀ ਡੋਬਰਾ",
             "symbol": "STN",
             "symbol-alt-narrow": "Db"

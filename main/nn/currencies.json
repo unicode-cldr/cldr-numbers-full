@@ -3,7 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nn"
       },
@@ -27,7 +27,8 @@
             "displayName": "afghanske afghani",
             "displayName-count-one": "afghansk afghani",
             "displayName-count-other": "afghanske afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "armenske dram",
             "displayName-count-one": "armensk dram",
             "displayName-count-other": "armenske dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "nederlandske antillegylden",
@@ -118,7 +120,8 @@
             "displayName": "aserbajdsjanske manat",
             "displayName-count-one": "aserbajdsjansk manat",
             "displayName-count-other": "aserbajdsjanske manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "bosnisk-hercegovinske dinarar",
@@ -264,7 +267,7 @@
           },
           "BTN": {
             "displayName": "bhutanske ngultrum",
-            "displayName-count-one": "bhutanske ngultrum",
+            "displayName-count-one": "bhutansk ngultrum",
             "displayName-count-other": "bhutanske ngultrum",
             "symbol": "BTN"
           },
@@ -286,9 +289,9 @@
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "kviterussiske rublar",
-            "displayName-count-one": "kviterussisk rubel",
-            "displayName-count-other": "kviterussiske rublar",
+            "displayName": "nye kviterussiske rublar",
+            "displayName-count-one": "ny kviterussisk rubel",
+            "displayName-count-other": "nye kviterussiske rublar",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
@@ -354,7 +357,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
+            "displayName": "kinesiske yuan (offshore)",
+            "displayName-count-one": "kinesisk yuan (offshore)",
+            "displayName-count-other": "kinesiske yuan (offshore)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -590,7 +595,8 @@
             "displayName": "ghanesiske cedi",
             "displayName-count-one": "ghanesisk cedi",
             "displayName-count-other": "ghanesiske cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gibraltarske pund",
@@ -718,9 +724,9 @@
             "symbol": "ILR"
           },
           "ILS": {
-            "displayName": "israelske nye sheklar",
-            "displayName-count-one": "israelsk ny shekel",
-            "displayName-count-other": "israelske nye sheklar",
+            "displayName": "nye israelske sheklar",
+            "displayName-count-one": "ny israelsk shekel",
+            "displayName-count-other": "nye israelske sheklar",
             "symbol": "ILS",
             "symbol-alt-narrow": "₪"
           },
@@ -1003,7 +1009,7 @@
           },
           "MOP": {
             "displayName": "makaoiske pataca",
-            "displayName-count-one": "macaoisk pataca",
+            "displayName-count-one": "makaoisk pataca",
             "displayName-count-other": "makaoiske pataca",
             "symbol": "MOP"
           },
@@ -1032,9 +1038,9 @@
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "mauritanske rupiar",
-            "displayName-count-one": "mauritansk rupi",
-            "displayName-count-other": "mauritanske rupiar",
+            "displayName": "mauritiske rupiar",
+            "displayName-count-one": "mauritisk rupi",
+            "displayName-count-other": "mauritiske rupiar",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
@@ -1095,7 +1101,7 @@
           "MZN": {
             "displayName": "mosambikiske metical",
             "displayName-count-one": "mosambikisk metical",
-            "displayName-count-other": "mosambikisk metical",
+            "displayName-count-other": "mosambikiske metical",
             "symbol": "MZN"
           },
           "NAD": {
@@ -1191,7 +1197,7 @@
           "PHP": {
             "displayName": "filippinske pesos",
             "displayName-count-one": "filippinsk peso",
-            "displayName-count-other": "filippinske peso",
+            "displayName-count-other": "filippinske pesos",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
@@ -1223,7 +1229,7 @@
           },
           "PYG": {
             "displayName": "paraguayanske guaraní",
-            "displayName-count-one": "ṕaraguayansk guaraní",
+            "displayName-count-one": "paraguayansk guaraní",
             "displayName-count-other": "paraguayanske guaraní",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
@@ -1415,9 +1421,9 @@
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "swazilandske lilangeni",
-            "displayName-count-one": "swazilandsk lilangeni",
-            "displayName-count-other": "swazilandske lilangeni",
+            "displayName": "eswatinisk lilangeni",
+            "displayName-count-one": "eswatinisk lilangeni",
+            "displayName-count-other": "eswatiniske emalangeni",
             "symbol": "SZL"
           },
           "THB": {

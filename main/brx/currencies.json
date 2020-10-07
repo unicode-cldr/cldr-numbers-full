@@ -3,7 +3,7 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "brx"
       },
@@ -23,7 +23,8 @@
           },
           "AFN": {
             "displayName": "अफ़ग़ानी",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -35,7 +36,8 @@
           },
           "AMD": {
             "displayName": "आरमिनियाई दिर्हाम",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "नेदरलैण्ड एन्टीलीज़ का गील्डर",
@@ -98,7 +100,8 @@
           },
           "AZN": {
             "displayName": "आज़रबैजानी मनात",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "बोसनिया हेर्ज़ेगोविना का दीनार",
@@ -450,7 +453,8 @@
           },
           "GHS": {
             "displayName": "घाना चेदी",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "जीब्रालटर का पौण्ड",

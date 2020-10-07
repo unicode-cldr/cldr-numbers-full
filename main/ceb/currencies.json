@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ceb"
       },
@@ -27,7 +27,8 @@
             "displayName": "Afghan Afghani",
             "displayName-count-one": "Afghan Afghani",
             "displayName-count-other": "Mga Afghan Afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Armenian Dram",
             "displayName-count-one": "Armenian dram",
             "displayName-count-other": "Mga Armenian dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Netherlands Antillean Guilder",
@@ -118,7 +120,8 @@
             "displayName": "Azerbaijani Manat",
             "displayName-count-one": "Azerbaijani manat",
             "displayName-count-other": "Mga Azerbaijani manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -550,7 +553,8 @@
             "displayName": "Ghanaian Cedi",
             "displayName-count-one": "Ghanaian cedi",
             "displayName-count-other": "Mga Ghanaian cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltar Pound",
@@ -1559,9 +1563,9 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "Wala Nahibaluan nga Currency",
-            "displayName-count-one": "(wala nahibaluan nga yunit sa currency)",
-            "displayName-count-other": "(wala nahibaluan nga currency)",
+            "displayName": "Wala Nailhi nga Kwarta",
+            "displayName-count-one": "(wala mailhi nga yunit sa kwarta)",
+            "displayName-count-other": "(wala mailhi nga kwarta)",
             "symbol": "¤"
           },
           "YDD": {

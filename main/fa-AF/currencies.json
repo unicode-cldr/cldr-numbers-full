@@ -3,7 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fa",
         "territory": "AF"
@@ -32,7 +32,8 @@
             "displayName": "افغانی افغانستان",
             "displayName-count-one": "افغانی افغانستان",
             "displayName-count-other": "افغانی افغانستان",
-            "symbol": "؋"
+            "symbol": "؋",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "لک آلبانی (۱۹۴۶ تا ۱۹۶۵)",
@@ -50,7 +51,8 @@
             "displayName": "درام ارمنستان",
             "displayName-count-one": "درام ارمنستان",
             "displayName-count-other": "درام ارمنستان",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "گیلدر آنتیل هلند",
@@ -133,7 +135,8 @@
             "displayName": "منات جمهوری آذربایجان",
             "displayName-count-one": "منات جمهوری آذربایجان",
             "displayName-count-other": "منات جمهوری آذربایجان",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "دینار بوسنی و هرزگوین (۱۹۹۲ تا ۱۹۹۴)",
@@ -588,7 +591,8 @@
             "displayName": "سدی غنا",
             "displayName-count-one": "سدی غنا",
             "displayName-count-other": "سدی غنا",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "پوند جبل‌الطارق",

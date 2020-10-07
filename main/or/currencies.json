@@ -3,7 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "or"
       },
@@ -27,7 +27,8 @@
             "displayName": "ଆଫଗାନ ଆଫଗାନି",
             "displayName-count-one": "ଆଫଗାନ ଆଫଗାନି",
             "displayName-count-other": "ଆଫଗାନ ଆଫଗାନି",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "ଅର୍ମେନୀୟ ଡ୍ରାମ୍",
             "displayName-count-one": "ଅର୍ମେନୀୟ ଡ୍ରାମ୍",
             "displayName-count-other": "ଅର୍ମେନୀୟ ଡ୍ରାମ୍",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗିଲଡର୍",
@@ -118,7 +120,8 @@
             "displayName": "ଆଜେରବାଇଜାନି ମନତ୍",
             "displayName-count-one": "ଆଜେରବାଇଜାନି ମନତ୍",
             "displayName-count-other": "ଆଜେରବାଇଜାନି ମନତ୍",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -550,7 +553,8 @@
             "displayName": "ଘାନିୟ ସେଡି",
             "displayName-count-one": "ଘାନିୟ ସେଡି",
             "displayName-count-other": "ଘାନିୟ ସେଡି",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ଗିବ୍ରାଲଟର୍ ପାଉଣ୍ଡ୍",

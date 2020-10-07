@@ -3,7 +3,7 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl",
         "territory": "BE"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -96,12 +97,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -148,7 +149,9 @@
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} dag",
           "pluralMinimalPairs-count-other": "{0} dagen",
-          "other": "Neem de {0}e afslag rechts."
+          "other": "Neem de {0}e afslag rechts.",
+          "common": "De {0} is",
+          "neuter": "Het {0} is"
         }
       }
     }

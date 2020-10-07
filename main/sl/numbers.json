@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sl"
       },
@@ -20,6 +20,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "−",
+          "approximatelySign": "~",
           "exponential": "e",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -143,12 +144,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -219,10 +220,10 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "{0} ura",
-          "pluralMinimalPairs-count-two": "{0} uri",
-          "pluralMinimalPairs-count-few": "{0} ure",
-          "pluralMinimalPairs-count-other": "{0} ur",
+          "pluralMinimalPairs-count-one": "{0} dan",
+          "pluralMinimalPairs-count-two": "{0} dneva",
+          "pluralMinimalPairs-count-few": "{0} dnevi",
+          "pluralMinimalPairs-count-other": "{0} dni",
           "other": "V {0}. križišču zavijte desno."
         }
       }

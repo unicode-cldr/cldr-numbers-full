@@ -3,7 +3,7 @@
     "he": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "he"
       },
@@ -31,7 +31,8 @@
             "displayName-count-two": "אפגני אפגני",
             "displayName-count-many": "אפגני אפגני",
             "displayName-count-other": "אפגני אפגני",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -51,7 +52,8 @@
             "displayName-count-two": "דראם ארמני",
             "displayName-count-many": "דראם ארמני",
             "displayName-count-other": "דראם ארמני",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "גילדר של האנטילים ההולנדיים",
@@ -138,7 +140,8 @@
             "displayName-count-two": "מאנאט אזרבייג׳ני",
             "displayName-count-many": "מאנאט אזרבייג׳ני",
             "displayName-count-other": "מאנאט אזרבייג׳ני",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "דינר של בוסניה־הרצגובינה",
@@ -655,7 +658,8 @@
             "displayName-count-two": "סדי גאני",
             "displayName-count-many": "סדי גאני",
             "displayName-count-other": "סדי גאני",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "פאונד גיברלטר",

@@ -3,7 +3,7 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "el",
         "territory": "CY"
@@ -32,7 +32,8 @@
             "displayName": "Αφγάνι Αφγανιστάν",
             "displayName-count-one": "αφγάνι Αφγανιστάν",
             "displayName-count-other": "αφγάνια Αφγανιστάν",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -48,7 +49,8 @@
             "displayName": "Ντραμ Αρμενίας",
             "displayName-count-one": "ντραμ Αρμενίας",
             "displayName-count-other": "ντραμ Αρμενίας",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Γκίλντα Ολλανδικών Αντιλλών",
@@ -135,7 +137,8 @@
             "displayName": "Μανάτ Αζερμπαϊτζάν",
             "displayName-count-one": "μανάτ Αζερμπαϊτζάν",
             "displayName-count-other": "μανάτ Αζερμπαϊτζάν",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Δηνάριο Βοσνίας-Ερζεγοβίνης",
@@ -632,7 +635,8 @@
             "displayName": "Σέντι Γκάνας",
             "displayName-count-one": "σέντι Γκάνας",
             "displayName-count-other": "σέντι Γκάνας",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Λίρα Γιβραλτάρ",

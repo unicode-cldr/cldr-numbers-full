@@ -3,7 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "da",
         "territory": "GL"
@@ -32,7 +32,8 @@
             "displayName": "afghansk afghani",
             "displayName-count-one": "afghansk afghani",
             "displayName-count-other": "afghanske afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -48,11 +49,12 @@
             "displayName": "armensk dram",
             "displayName-count-one": "armensk dram",
             "displayName-count-other": "armenske dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Nederlandske Antiller-gylden",
-            "displayName-count-one": "Nederlandsk Antiller-gylden",
+            "displayName-count-one": "Nederlandske Antiller-gylden",
             "displayName-count-other": "Nederlandske Antiller-gylden",
             "symbol": "ANG"
           },
@@ -137,7 +139,8 @@
             "displayName": "aserbajdsjansk manat",
             "displayName-count-one": "aserbajdsjansk manat",
             "displayName-count-other": "aserbajdsjanske manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Bosnien-Hercegovinsk dinar",
@@ -632,7 +635,8 @@
             "displayName": "ghanesisk cedi",
             "displayName-count-one": "ghanesisk cedi",
             "displayName-count-other": "ghanesiske cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gibraltarisk pund",
@@ -1197,7 +1201,7 @@
           "OMR": {
             "displayName": "omansk rial",
             "displayName-count-one": "omansk rial",
-            "displayName-count-other": "omanske rial",
+            "displayName-count-other": "omanske rialer",
             "symbol": "OMR"
           },
           "PAB": {
@@ -1525,9 +1529,9 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "dollar fra Trinidad og Tobago",
-            "displayName-count-one": "dollar fra Trinidad og Tobago",
-            "displayName-count-other": "dollar fra Trinidad og Tobago",
+            "displayName": "trinidadisk dollar",
+            "displayName-count-one": "trinidadisk dollar",
+            "displayName-count-other": "trinidadiske dollar",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },

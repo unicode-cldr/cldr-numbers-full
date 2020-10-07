@@ -1,20 +1,21 @@
 {
   "main": {
-    "vo": {
+    "ks-Arab": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
-        "language": "vo"
+        "language": "ks",
+        "script": "Arab"
       },
       "numbers": {
         "currencies": {
           "ADP": {
-            "displayName": "ADP",
+            "displayName": "اؠڑورَن پیسِٹا",
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "AED",
+            "displayName": "مُتحدہ عرب اِمارات دِرہم",
             "symbol": "AED"
           },
           "AFA": {
@@ -22,27 +23,29 @@
             "symbol": "AFA"
           },
           "AFN": {
-            "displayName": "AFN",
-            "symbol": "AFN"
+            "displayName": "افغان افغٲنی",
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
             "symbol": "ALK"
           },
           "ALL": {
-            "displayName": "ALL",
+            "displayName": "اؠلبینِیَن لِک",
             "symbol": "ALL"
           },
           "AMD": {
-            "displayName": "AMD",
-            "symbol": "AMD"
+            "displayName": "اَرمانؠن ڈرؠم",
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
-            "displayName": "ANG",
+            "displayName": "نایدَرلینڑ اؠنٹٕلیٖیَن گِلڑَر",
             "symbol": "ANG"
           },
           "AOA": {
-            "displayName": "AOA",
+            "displayName": "اؠنگولَن کوانزا",
             "symbol": "AOA",
             "symbol-alt-narrow": "Kz"
           },
@@ -55,11 +58,11 @@
             "symbol": "AON"
           },
           "AOR": {
-            "displayName": "AOR",
+            "displayName": "اؠنگولَن کوانزا رؠجِسٹاڑو",
             "symbol": "AOR"
           },
           "ARA": {
-            "displayName": "ARA",
+            "displayName": "أرجَنٹیٖن اَسٹرل",
             "symbol": "ARA"
           },
           "ARL": {
@@ -75,21 +78,21 @@
             "symbol": "ARP"
           },
           "ARS": {
-            "displayName": "ARS",
+            "displayName": "أرجَنٹیٖن پِسو",
             "symbol": "ARS",
             "symbol-alt-narrow": "$"
           },
           "ATS": {
-            "displayName": "ATS",
+            "displayName": "آسٹریَن شِلِنگ",
             "symbol": "ATS"
           },
           "AUD": {
-            "displayName": "AUD",
+            "displayName": "آسٹریلِیَن ڈالَر",
             "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "AWG",
+            "displayName": "اَروبَن فِلورِن",
             "symbol": "AWG"
           },
           "AZM": {
@@ -97,15 +100,16 @@
             "symbol": "AZM"
           },
           "AZN": {
-            "displayName": "AZN",
-            "symbol": "AZN"
+            "displayName": "آزَرباجانی مَنَٹ",
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
-            "displayName": "BAD",
+            "displayName": "بوزنِیاہَرزِگووِنا دیٖنار",
             "symbol": "BAD"
           },
           "BAM": {
-            "displayName": "BAM",
+            "displayName": "بوزنِیاہَرزِگووِنا کَنوٲٹیبٕل مارٕک",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -114,12 +118,12 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "BBD",
+            "displayName": "بابیڑِیَن ڈالَر",
             "symbol": "BBD",
             "symbol-alt-narrow": "$"
           },
           "BDT": {
-            "displayName": "BDT",
+            "displayName": "بَنگلادیٖشی ٹَکا",
             "symbol": "BDT",
             "symbol-alt-narrow": "৳"
           },
@@ -128,7 +132,7 @@
             "symbol": "BEC"
           },
           "BEF": {
-            "displayName": "BEF",
+            "displayName": "بَلجِیَن فرینک",
             "symbol": "BEF"
           },
           "BEL": {
@@ -144,7 +148,7 @@
             "symbol": "BGM"
           },
           "BGN": {
-            "displayName": "BGN",
+            "displayName": "بیلگیرِیَن ہاڑ لِو",
             "symbol": "BGN"
           },
           "BGO": {
@@ -152,25 +156,25 @@
             "symbol": "BGO"
           },
           "BHD": {
-            "displayName": "BHD",
+            "displayName": "بحریٖنی دیٖنار",
             "symbol": "BHD"
           },
           "BIF": {
-            "displayName": "BIF",
+            "displayName": "بُرُنڑِین فرینک",
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "BMD",
+            "displayName": "بٔرمیوٗڑَن ڈالَر",
             "symbol": "BMD",
             "symbol-alt-narrow": "$"
           },
           "BND": {
-            "displayName": "BND",
+            "displayName": "برونی ڈالَر",
             "symbol": "BND",
             "symbol-alt-narrow": "$"
           },
           "BOB": {
-            "displayName": "BOB",
+            "displayName": "بولِوِیَن بولوینو",
             "symbol": "BOB",
             "symbol-alt-narrow": "Bs"
           },
@@ -179,36 +183,36 @@
             "symbol": "BOL"
           },
           "BOP": {
-            "displayName": "BOP",
+            "displayName": "بولویَن پِسو",
             "symbol": "BOP"
           },
           "BOV": {
-            "displayName": "BOV",
+            "displayName": "بولوِیَن مَوڈال",
             "symbol": "BOV"
           },
           "BRB": {
-            "displayName": "BRB",
+            "displayName": "برازیٖلین کروزِرو نووو",
             "symbol": "BRB"
           },
           "BRC": {
-            "displayName": "BRC",
+            "displayName": "برازیٖلین کروزیڑو",
             "symbol": "BRC"
           },
           "BRE": {
-            "displayName": "BRE",
+            "displayName": "برازیٖلین کروزِرو",
             "symbol": "BRE"
           },
           "BRL": {
-            "displayName": "BRL",
+            "displayName": "برازیٖلین رِیَل",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
           "BRN": {
-            "displayName": "BRN",
+            "displayName": "برازیٖلین کروزیڑو نووو",
             "symbol": "BRN"
           },
           "BRR": {
-            "displayName": "BRR",
+            "displayName": "برازیٖلین کروزیرو",
             "symbol": "BRR"
           },
           "BRZ": {
@@ -216,60 +220,60 @@
             "symbol": "BRZ"
           },
           "BSD": {
-            "displayName": "BSD",
+            "displayName": "بہامِیَن ڈالر",
             "symbol": "BSD",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
-            "displayName": "BTN",
+            "displayName": "بوٗٹینیٖز نگُلٹرم",
             "symbol": "BTN"
           },
           "BUK": {
-            "displayName": "BUK",
+            "displayName": "بٔرمیٖز کیٹ",
             "symbol": "BUK"
           },
           "BWP": {
-            "displayName": "BWP",
+            "displayName": "بوٹٕسوانَن پُلا",
             "symbol": "BWP",
             "symbol-alt-narrow": "P"
           },
           "BYB": {
-            "displayName": "BYB",
+            "displayName": "بِلیروشِیَن نِو رِبٕل",
             "symbol": "BYB"
           },
           "BYN": {
-            "displayName": "BYN",
+            "displayName": "بِلیروشِیَن رِبٕل",
             "symbol": "BYN",
             "symbol-alt-narrow": "р."
           },
           "BYR": {
-            "displayName": "BYR",
+            "displayName": "بِلیروشِیَن رِبٕل (۲۰۰۰–۲۰۱۶)",
             "symbol": "BYR"
           },
           "BZD": {
-            "displayName": "BZD",
+            "displayName": "بِلِزی ڈالر",
             "symbol": "BZD",
             "symbol-alt-narrow": "$"
           },
           "CAD": {
-            "displayName": "CAD",
+            "displayName": "کینَڑِیَن ڈالر",
             "symbol": "CA$",
             "symbol-alt-narrow": "$"
           },
           "CDF": {
-            "displayName": "CDF",
+            "displayName": "کونگولیٖز فریک",
             "symbol": "CDF"
           },
           "CHE": {
-            "displayName": "CHE",
+            "displayName": "وِر یوٗرو",
             "symbol": "CHE"
           },
           "CHF": {
-            "displayName": "CHF",
+            "displayName": "سُوِز فریک",
             "symbol": "CHF"
           },
           "CHW": {
-            "displayName": "CHW",
+            "displayName": "وِر فریک",
             "symbol": "CHW"
           },
           "CLE": {
@@ -277,11 +281,11 @@
             "symbol": "CLE"
           },
           "CLF": {
-            "displayName": "CLF",
+            "displayName": "چِلِن یوٗنِڑیدیٖز ڑِ فومیٹو",
             "symbol": "CLF"
           },
           "CLP": {
-            "displayName": "CLP",
+            "displayName": "چِلِن پِسو",
             "symbol": "CLP",
             "symbol-alt-narrow": "$"
           },
@@ -294,30 +298,30 @@
             "symbol": "CNX"
           },
           "CNY": {
-            "displayName": "CNY",
+            "displayName": "چینیٖز یَن رِنمِنبی",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
           "COP": {
-            "displayName": "COP",
+            "displayName": "کولَمبِین پِسو",
             "symbol": "COP",
             "symbol-alt-narrow": "$"
           },
           "COU": {
-            "displayName": "COU",
+            "displayName": "ِٖیوٗنِڑیڑ ڑِ ویلور رِیل",
             "symbol": "COU"
           },
           "CRC": {
-            "displayName": "CRC",
+            "displayName": "کوسٹا رِکَن کولَن",
             "symbol": "CRC",
             "symbol-alt-narrow": "₡"
           },
           "CSD": {
-            "displayName": "CSD",
+            "displayName": "پرون سٔربِین ڈالر",
             "symbol": "CSD"
           },
           "CSK": {
-            "displayName": "CSK",
+            "displayName": "چِکوسولوواک ہاڑ کوروٗنا",
             "symbol": "CSK"
           },
           "CUC": {
@@ -326,7 +330,7 @@
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "CUP",
+            "displayName": "کیوٗبَن پِسو",
             "symbol": "CUP",
             "symbol-alt-narrow": "$"
           },
@@ -335,20 +339,20 @@
             "symbol": "CVE"
           },
           "CYP": {
-            "displayName": "CYP",
+            "displayName": "کیپروٹ پَوُڑ",
             "symbol": "CYP"
           },
           "CZK": {
-            "displayName": "CZK",
+            "displayName": "چیک کوریٖنا",
             "symbol": "CZK",
             "symbol-alt-narrow": "Kč"
           },
           "DDM": {
-            "displayName": "DDM",
+            "displayName": "مٔشرِقی جٔرمَن مارٕک",
             "symbol": "DDM"
           },
           "DEM": {
-            "displayName": "DEM",
+            "displayName": "جٔرمَن مارٕک",
             "symbol": "DEM"
           },
           "DJF": {
@@ -356,17 +360,17 @@
             "symbol": "DJF"
           },
           "DKK": {
-            "displayName": "DKK",
+            "displayName": "ڈٔنِش کرون",
             "symbol": "DKK",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "DOP",
+            "displayName": "ڈومِنِکَن پِسو",
             "symbol": "DOP",
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "DZD",
+            "displayName": "اؠلجیرِیَن ڈیٖنار",
             "symbol": "DZD"
           },
           "ECS": {
@@ -378,16 +382,16 @@
             "symbol": "ECV"
           },
           "EEK": {
-            "displayName": "EEK",
+            "displayName": "اؠسٹونِیَن کرون",
             "symbol": "EEK"
           },
           "EGP": {
-            "displayName": "EGP",
+            "displayName": "اِجِپٹِیَن پَوُنڑ",
             "symbol": "EGP",
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
-            "displayName": "ERN",
+            "displayName": "رِٹریٖن نَفکا",
             "symbol": "ERN"
           },
           "ESA": {
@@ -399,142 +403,143 @@
             "symbol": "ESB"
           },
           "ESP": {
-            "displayName": "ESP",
+            "displayName": "سِپینِش پیسِٹا",
             "symbol": "ESP",
             "symbol-alt-narrow": "₧"
           },
           "ETB": {
-            "displayName": "ETB",
+            "displayName": "اِتھوپِیَن بِر",
             "symbol": "ETB"
           },
           "EUR": {
-            "displayName": "EUR",
+            "displayName": "یوٗرو",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
           "FIM": {
-            "displayName": "FIM",
+            "displayName": "فِنِش مارکا",
             "symbol": "FIM"
           },
           "FJD": {
-            "displayName": "FJD",
+            "displayName": "فِجین ڈالر",
             "symbol": "FJD",
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "FKP",
+            "displayName": "فیکلینڑِس آیلینڑ پونڑ",
             "symbol": "FKP",
             "symbol-alt-narrow": "£"
           },
           "FRF": {
-            "displayName": "FRF",
+            "displayName": "فرانسِسی فریک",
             "symbol": "FRF"
           },
           "GBP": {
-            "displayName": "GBP",
+            "displayName": "برطٲنوی پاونڑ سٹٔرلِنگ",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
           "GEK": {
-            "displayName": "GEK",
+            "displayName": "جارجِیَن کیوٗپَن لَرِٹ",
             "symbol": "GEK"
           },
           "GEL": {
-            "displayName": "GEL",
+            "displayName": "جارجِیَن لاری",
             "symbol": "GEL",
             "symbol-alt-narrow": "₾"
           },
           "GHC": {
-            "displayName": "GHC",
+            "displayName": "گَنییَن سؠڑی(۱۹۷۹–۲٠٠۷)",
             "symbol": "GHC"
           },
           "GHS": {
-            "displayName": "GHS",
-            "symbol": "GHS"
+            "displayName": "گَنییَن سؠڑی",
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
-            "displayName": "GIP",
+            "displayName": "گِبریلٹَر پَاونڑ",
             "symbol": "GIP",
             "symbol-alt-narrow": "£"
           },
           "GMD": {
-            "displayName": "GMD",
+            "displayName": "گیمبِیاہُک دلاسی",
             "symbol": "GMD"
           },
           "GNF": {
-            "displayName": "GNF",
+            "displayName": "گِنِیَن فرینک",
             "symbol": "GNF",
             "symbol-alt-narrow": "FG"
           },
           "GNS": {
-            "displayName": "GNS",
+            "displayName": "گِنِیَن سِلی",
             "symbol": "GNS"
           },
           "GQE": {
-            "displayName": "GQE",
+            "displayName": "اِکویٹورِیَل گِنِیَن اؠکویٖل",
             "symbol": "GQE"
           },
           "GRD": {
-            "displayName": "GRD",
+            "displayName": "گریٖسُک ڑرؠکما",
             "symbol": "GRD"
           },
           "GTQ": {
-            "displayName": "GTQ",
+            "displayName": "گواٹَمالَن قیوٗٹزَل",
             "symbol": "GTQ",
             "symbol-alt-narrow": "Q"
           },
           "GWE": {
-            "displayName": "GWE",
+            "displayName": "پورتگیٖزُک گِنی اؠسکیوٗڑو",
             "symbol": "GWE"
           },
           "GWP": {
-            "displayName": "GWP",
+            "displayName": "گِنی بِساوُک پؠسو",
             "symbol": "GWP"
           },
           "GYD": {
-            "displayName": "GYD",
+            "displayName": "گَیَنیٖزُک ڑالَر",
             "symbol": "GYD",
             "symbol-alt-narrow": "$"
           },
           "HKD": {
-            "displayName": "HKD",
+            "displayName": "حانگ کانگُک ڑالَر",
             "symbol": "HK$",
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "HNL",
+            "displayName": "حونڑورنُک لؠمپیٖرا",
             "symbol": "HNL",
             "symbol-alt-narrow": "L"
           },
           "HRD": {
-            "displayName": "HRD",
+            "displayName": "کروایشنُک دیٖنار",
             "symbol": "HRD"
           },
           "HRK": {
-            "displayName": "HRK",
+            "displayName": "کروایشنُک کوٗنا",
             "symbol": "HRK",
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "HTG",
+            "displayName": "حیشَنُک گوڑ",
             "symbol": "HTG"
           },
           "HUF": {
-            "displayName": "HUF",
+            "displayName": "حَنگیرِیَن فورِنٹ",
             "symbol": "HUF",
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "IDR",
+            "displayName": "اِنڑونیشیاہُک رُپِیاہ",
             "symbol": "IDR",
             "symbol-alt-narrow": "Rp"
           },
           "IEP": {
-            "displayName": "IEP",
+            "displayName": "اَیرلینڑُک پاونڑ",
             "symbol": "IEP"
           },
           "ILP": {
-            "displayName": "ILP",
+            "displayName": "اِزرٲیِلی پاونڑ",
             "symbol": "ILP"
           },
           "ILR": {
@@ -542,21 +547,21 @@
             "symbol": "ILR"
           },
           "ILS": {
-            "displayName": "ILS",
+            "displayName": "اِزرٲیِلی نٔوۍ شؠقٕل",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "INR",
+            "displayName": "ہِندُستٲنۍ رۄپَے",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
-            "displayName": "IQD",
+            "displayName": "ایٖراقُک دیٖنار",
             "symbol": "IQD"
           },
           "IRR": {
-            "displayName": "IRR",
+            "displayName": "ایٖرانُک رِیال",
             "symbol": "IRR"
           },
           "ISJ": {
@@ -564,48 +569,48 @@
             "symbol": "ISJ"
           },
           "ISK": {
-            "displayName": "ISK",
+            "displayName": "اَیسلینڑُک کرونا",
             "symbol": "ISK",
             "symbol-alt-narrow": "kr"
           },
           "ITL": {
-            "displayName": "ITL",
+            "displayName": "اِٹلیٖ یُک لیٖرا",
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "JMD",
+            "displayName": "جَمَیکاہُک ڑالَر",
             "symbol": "JMD",
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "JOD",
+            "displayName": "جَرڑینیاہُک دیٖنار",
             "symbol": "JOD"
           },
           "JPY": {
-            "displayName": "JPY",
+            "displayName": "جاپانُک یَن",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
-            "displayName": "KES",
+            "displayName": "کؠنیَن شِلِنگ",
             "symbol": "KES"
           },
           "KGS": {
-            "displayName": "KGS",
+            "displayName": "کِرگِستانُک سوم",
             "symbol": "KGS"
           },
           "KHR": {
-            "displayName": "KHR",
+            "displayName": "کَمبوڑِیاہُک رِیال",
             "symbol": "KHR",
             "symbol-alt-narrow": "៛"
           },
           "KMF": {
-            "displayName": "KMF",
+            "displayName": "کومورِیَن فرینک",
             "symbol": "KMF",
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "KPW",
+            "displayName": "جنوٗبی کورِیَن وَن",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -618,88 +623,88 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "KRW",
+            "displayName": "ساوتھ کورِیَن وَن",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "KWD",
+            "displayName": "قُویتُک دیٖنار",
             "symbol": "KWD"
           },
           "KYD": {
-            "displayName": "KYD",
+            "displayName": "کیمین ججیٖرُک ڑالَر",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "KZT",
+            "displayName": "کزاکِستان ٹینج",
             "symbol": "KZT",
             "symbol-alt-narrow": "₸"
           },
           "LAK": {
-            "displayName": "LAK",
+            "displayName": "لَوٹِیَن کِپ",
             "symbol": "LAK",
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "LBP",
+            "displayName": "لیبنیٖزُک پاونڑ",
             "symbol": "LBP",
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "LKR",
+            "displayName": "سری لَنکاہٕچ رۄپَے",
             "symbol": "LKR",
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
-            "displayName": "LRD",
+            "displayName": "لَیبیرِیَن ڑالَر",
             "symbol": "LRD",
             "symbol-alt-narrow": "$"
           },
           "LSL": {
-            "displayName": "LSL",
+            "displayName": "لِسوتھو لوٹی",
             "symbol": "LSL"
           },
           "LTL": {
-            "displayName": "LTL",
+            "displayName": "لِتھوینِیَن لِٹاس",
             "symbol": "LTL",
             "symbol-alt-narrow": "Lt"
           },
           "LTT": {
-            "displayName": "LTT",
+            "displayName": "لِتھوینِیَن ٹؠلوناس",
             "symbol": "LTT"
           },
           "LUC": {
-            "displayName": "LUC",
+            "displayName": "لَکزٕمبورگِیَن کَنؤرٹِبٕل فرینک",
             "symbol": "LUC"
           },
           "LUF": {
-            "displayName": "LUF",
+            "displayName": "لَکزٕمبورگِیَن فرینک",
             "symbol": "LUF"
           },
           "LUL": {
-            "displayName": "LUL",
+            "displayName": "لَکزٕمبوگ فَینانشَل فرینک",
             "symbol": "LUL"
           },
           "LVL": {
-            "displayName": "LVL",
+            "displayName": "لَتوِیَن لیٹس",
             "symbol": "LVL",
             "symbol-alt-narrow": "Ls"
           },
           "LVR": {
-            "displayName": "LVR",
+            "displayName": "لَتوِیَن رَبٕل",
             "symbol": "LVR"
           },
           "LYD": {
-            "displayName": "LYD",
+            "displayName": "لِبیَن دیٖنار",
             "symbol": "LYD"
           },
           "MAD": {
-            "displayName": "MAD",
+            "displayName": "موروکَن دِرہَم",
             "symbol": "MAD"
           },
           "MAF": {
-            "displayName": "MAF",
+            "displayName": "موروکَن فرینک",
             "symbol": "MAF"
           },
           "MCF": {
@@ -711,20 +716,20 @@
             "symbol": "MDC"
           },
           "MDL": {
-            "displayName": "MDL",
+            "displayName": "مولڑووین لیوٗ",
             "symbol": "MDL"
           },
           "MGA": {
-            "displayName": "MGA",
+            "displayName": "مؠلؠگیسی اؠریَری",
             "symbol": "MGA",
             "symbol-alt-narrow": "Ar"
           },
           "MGF": {
-            "displayName": "MGF",
+            "displayName": "مؠلؠگیسی فرینک",
             "symbol": "MGF"
           },
           "MKD": {
-            "displayName": "MKD",
+            "displayName": "مؠکَڑونِیَن دیٖنار",
             "symbol": "MKD"
           },
           "MKN": {
@@ -732,41 +737,41 @@
             "symbol": "MKN"
           },
           "MLF": {
-            "displayName": "MLF",
+            "displayName": "میلِیَن فرینک",
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "MMK",
+            "displayName": "مِیانما کیاٹ",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
           "MNT": {
-            "displayName": "MNT",
+            "displayName": "مۄنگولِیَن ٹُگرِک",
             "symbol": "MNT",
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "MOP",
+            "displayName": "مؠکانیٖز پَٹاکا",
             "symbol": "MOP"
           },
           "MRO": {
-            "displayName": "MRO",
+            "displayName": "مورِٹینِیَن عوگیوٗیا (1973–2017)",
             "symbol": "MRO"
           },
           "MRU": {
-            "displayName": "MRU",
+            "displayName": "مورِٹینِیَن عوگیوٗیا",
             "symbol": "MRU"
           },
           "MTL": {
-            "displayName": "MTL",
+            "displayName": "مالٹیٖزُک لیٖرا",
             "symbol": "MTL"
           },
           "MTP": {
-            "displayName": "MTP",
+            "displayName": "مالٹیٖزُک پاونڑ",
             "symbol": "MTP"
           },
           "MUR": {
-            "displayName": "MUR",
+            "displayName": "مورؠشِیاہٕچ رۄپَے",
             "symbol": "MUR",
             "symbol-alt-narrow": "Rs"
           },
@@ -775,20 +780,20 @@
             "symbol": "MVP"
           },
           "MVR": {
-            "displayName": "MVR",
+            "displayName": "مالدِیٖوِیَن رُفِیا",
             "symbol": "MVR"
           },
           "MWK": {
-            "displayName": "MWK",
+            "displayName": "مؠلیوِیَن کواچا",
             "symbol": "MWK"
           },
           "MXN": {
-            "displayName": "MXN",
+            "displayName": "مؠکسِکَن پؠسو",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
           "MXP": {
-            "displayName": "MXP",
+            "displayName": "مؠکسِکَن سِلوَر پؠسو (۱۸۶۱–۱۹۹۲)",
             "symbol": "MXP"
           },
           "MXV": {
@@ -796,154 +801,154 @@
             "symbol": "MXV"
           },
           "MYR": {
-            "displayName": "MYR",
+            "displayName": "مَلیشِیَن رِنگِٹ",
             "symbol": "MYR",
             "symbol-alt-narrow": "RM"
           },
           "MZE": {
-            "displayName": "MZE",
+            "displayName": "موزیمبِکَن سکیوٗڑو",
             "symbol": "MZE"
           },
           "MZM": {
-            "displayName": "MZM",
+            "displayName": "پرون موزیمبِکَن مؠٹِکَل",
             "symbol": "MZM"
           },
           "MZN": {
-            "displayName": "MZN",
+            "displayName": "موزیمبِکَن مؠٹِکَل",
             "symbol": "MZN"
           },
           "NAD": {
-            "displayName": "NAD",
+            "displayName": "نامِبِیَن ڑالَر",
             "symbol": "NAD",
             "symbol-alt-narrow": "$"
           },
           "NGN": {
-            "displayName": "NGN",
+            "displayName": "نَیجیرِیَن ڑالَر",
             "symbol": "NGN",
             "symbol-alt-narrow": "₦"
           },
           "NIC": {
-            "displayName": "NIC",
+            "displayName": "نِکؠراگُوؠن کورڑوبا",
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "NIO",
+            "displayName": "نِکؠراگُوؠن کورڑوبا اورو",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
           "NLG": {
-            "displayName": "NLG",
+            "displayName": "ڈَچ گِلڑَر",
             "symbol": "NLG"
           },
           "NOK": {
-            "displayName": "NOK",
+            "displayName": "نوروییِنُک کرون",
             "symbol": "NOK",
             "symbol-alt-narrow": "kr"
           },
           "NPR": {
-            "displayName": "NPR",
+            "displayName": "نیپالٕچ رۄپَے",
             "symbol": "NPR",
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
-            "displayName": "NZD",
+            "displayName": "نِوزیٖلینڑُک ڑالَر",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
           "OMR": {
-            "displayName": "OMR",
+            "displayName": "اومِنی رِیال",
             "symbol": "OMR"
           },
           "PAB": {
-            "displayName": "PAB",
+            "displayName": "پانامانِیَن بالبوز",
             "symbol": "PAB"
           },
           "PEI": {
-            "displayName": "PEI",
+            "displayName": "پٔریوٗوِیَن اِنٹی",
             "symbol": "PEI"
           },
           "PEN": {
-            "displayName": "PEN",
+            "displayName": "پٔریوٗوِیَن سولٕز",
             "symbol": "PEN"
           },
           "PES": {
-            "displayName": "PES",
+            "displayName": "پٔریوٗوِیَن سول (۱۸۶۳–۱۹۶۵)",
             "symbol": "PES"
           },
           "PGK": {
-            "displayName": "PGK",
+            "displayName": "نیوٗ پیپُعا گِنِیَن کیٖنا",
             "symbol": "PGK"
           },
           "PHP": {
-            "displayName": "PHP",
+            "displayName": "پھِلِپایِٔن پؠسو",
             "symbol": "PHP",
             "symbol-alt-narrow": "₱"
           },
           "PKR": {
-            "displayName": "PKR",
+            "displayName": "پاکِستٲنۍ رۄپَے",
             "symbol": "PKR",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "PLN",
+            "displayName": "پولِش زلوٹی",
             "symbol": "PLN",
             "symbol-alt-narrow": "zł"
           },
           "PLZ": {
-            "displayName": "PLZ",
+            "displayName": "پولِش زلوٹی(۱۹۵٠–۱۹۹۵)",
             "symbol": "PLZ"
           },
           "PTE": {
-            "displayName": "PTE",
+            "displayName": "پورتُگیٖز اؠسکیوٗڑو",
             "symbol": "PTE"
           },
           "PYG": {
-            "displayName": "PYG",
+            "displayName": "پؠرؠگیوٗوَیَن گُعارانی",
             "symbol": "PYG",
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "QAR",
+            "displayName": "قطاری رِیال",
             "symbol": "QAR"
           },
           "RHD": {
-            "displayName": "RHD",
+            "displayName": "رھوڑیشِیَن ڑالَر",
             "symbol": "RHD"
           },
           "ROL": {
-            "displayName": "ROL",
+            "displayName": "اولڑ رومانِیَن لؠیوٗ",
             "symbol": "ROL"
           },
           "RON": {
-            "displayName": "RON",
+            "displayName": "رومانِیَن لؠیوٗ",
             "symbol": "RON",
             "symbol-alt-narrow": "lei"
           },
           "RSD": {
-            "displayName": "RSD",
+            "displayName": "سٔربِیَن دیٖنار",
             "symbol": "RSD"
           },
           "RUB": {
-            "displayName": "RUB",
+            "displayName": "رٔشیَن رَبٕل",
             "symbol": "RUB",
             "symbol-alt-narrow": "₽"
           },
           "RUR": {
-            "displayName": "RUR",
+            "displayName": "رٔشیَن رَبٕل(۱۹۹۱–۱۹۹۸)",
             "symbol": "RUR",
             "symbol-alt-narrow": "р."
           },
           "RWF": {
-            "displayName": "RWF",
+            "displayName": "روانڑَن فرانک",
             "symbol": "RWF",
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "SAR",
+            "displayName": "سودیٖیُک رِیال",
             "symbol": "SAR"
           },
           "SBD": {
-            "displayName": "SBD",
+            "displayName": "سولَمَن جٔزیٖرُک ڈالَر",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },
@@ -952,38 +957,38 @@
             "symbol": "SCR"
           },
           "SDD": {
-            "displayName": "SDD",
+            "displayName": "پرون سوٗڈانُک دیٖنار",
             "symbol": "SDD"
           },
           "SDG": {
-            "displayName": "SDG",
+            "displayName": "سوٗڈانُک پونڈ",
             "symbol": "SDG"
           },
           "SDP": {
-            "displayName": "SDP",
+            "displayName": "پرون سوٗڈانُک پونڈ",
             "symbol": "SDP"
           },
           "SEK": {
-            "displayName": "SEK",
+            "displayName": "سویٖڈِش کَرونا",
             "symbol": "SEK",
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "SGD",
+            "displayName": "سِنگاپورُک ڈالَر",
             "symbol": "SGD",
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "SHP",
+            "displayName": "سینٹ ہیلِنا پونڈ",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
           "SIT": {
-            "displayName": "SIT",
+            "displayName": "سلووینُک ٹولَر",
             "symbol": "SIT"
           },
           "SKK": {
-            "displayName": "SKK",
+            "displayName": "سلووَک کَرونا",
             "symbol": "SKK"
           },
           "SLL": {
@@ -991,16 +996,16 @@
             "symbol": "SLL"
           },
           "SOS": {
-            "displayName": "SOS",
+            "displayName": "سومالی شِلِنگ",
             "symbol": "SOS"
           },
           "SRD": {
-            "displayName": "SRD",
+            "displayName": "سُریٖنامُک ڈالَر",
             "symbol": "SRD",
             "symbol-alt-narrow": "$"
           },
           "SRG": {
-            "displayName": "SRG",
+            "displayName": "سُریٖنام گِلدَر",
             "symbol": "SRG"
           },
           "SSP": {
@@ -1018,37 +1023,37 @@
             "symbol-alt-narrow": "Db"
           },
           "SUR": {
-            "displayName": "SUR",
+            "displayName": "سوویت روبٕل",
             "symbol": "SUR"
           },
           "SVC": {
-            "displayName": "SVC",
+            "displayName": "سَلویدَرُک کولَن",
             "symbol": "SVC"
           },
           "SYP": {
-            "displayName": "SYP",
+            "displayName": "سیٖریاہُک پونڈ",
             "symbol": "SYP",
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "SZL",
+            "displayName": "سوازی لِلَنگینی",
             "symbol": "SZL"
           },
           "THB": {
-            "displayName": "THB",
+            "displayName": "تھایھک بات",
             "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
           "TJR": {
-            "displayName": "TJR",
+            "displayName": "تاجکِستانُک رَبٕل",
             "symbol": "TJR"
           },
           "TJS": {
-            "displayName": "TJS",
+            "displayName": "تاجِکتانُک سَمونی",
             "symbol": "TJS"
           },
           "TMM": {
-            "displayName": "TMM",
+            "displayName": "تُکَمَنِستانُک مَنَت",
             "symbol": "TMM"
           },
           "TMT": {
@@ -1056,82 +1061,82 @@
             "symbol": "TMT"
           },
           "TND": {
-            "displayName": "TND",
+            "displayName": "ٹُنیشیاہُک دیٖنار",
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "TOP",
+            "displayName": "ٹونگَن پانگا",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
           "TPE": {
-            "displayName": "TPE",
+            "displayName": "ٹیموریسو ایکیٖڈو",
             "symbol": "TPE"
           },
           "TRL": {
-            "displayName": "TRL",
+            "displayName": "پرون تُرکِش لیرا",
             "symbol": "TRL"
           },
           "TRY": {
-            "displayName": "TRY",
+            "displayName": "تُرکیہُک لیرا",
             "symbol": "TRY",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "TTD",
+            "displayName": "ٹرِنہِ ڈیڈ تہٕ ٹوبیگو ڈالَر",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
           "TWD": {
-            "displayName": "TWD",
+            "displayName": "نۆو تیوانُک ڈالَر",
             "symbol": "NT$",
             "symbol-alt-narrow": "$"
           },
           "TZS": {
-            "displayName": "TZS",
+            "displayName": "تَنزانیاہُک شِلِنگ",
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "UAH",
+            "displayName": "یوٗکرینیاہُک ہرِوِنیا",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
           "UAK": {
-            "displayName": "UAK",
+            "displayName": "یوٗکرینیاہُک کاربووَنیٹس",
             "symbol": "UAK"
           },
           "UGS": {
-            "displayName": "UGS",
+            "displayName": "اُگاداہُک شِلِنگ(۱۹۶۶–۱۹۸۷)",
             "symbol": "UGS"
           },
           "UGX": {
-            "displayName": "UGX",
+            "displayName": "اُگاداہُک شِلِنگ",
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "USD",
+            "displayName": "یوٗ ایس ڈالَر",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },
           "USN": {
-            "displayName": "USN",
+            "displayName": "یوٗ ایس ڈالَر(پَگاہ)",
             "symbol": "USN"
           },
           "USS": {
-            "displayName": "USS",
+            "displayName": "یوٗ ایس ڈالَر(تَمی دًۄہ)",
             "symbol": "USS"
           },
           "UYI": {
-            "displayName": "UYI",
+            "displayName": "اُرگایَن پیسو یوٗنِڈیڈَس اِنڈیکسَس",
             "symbol": "UYI"
           },
           "UYP": {
-            "displayName": "UYP",
+            "displayName": "اُرگایَن پیسو(۱۹۷۵–۱۹۹۳)",
             "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "UYU",
+            "displayName": "اُروٗگایَن پیسو",
             "symbol": "UYU",
             "symbol-alt-narrow": "$"
           },
@@ -1140,24 +1145,24 @@
             "symbol": "UYW"
           },
           "UZS": {
-            "displayName": "UZS",
+            "displayName": "اُبیکِستان سوم",
             "symbol": "UZS"
           },
           "VEB": {
-            "displayName": "VEB",
+            "displayName": "وینٕزوٗلیُک بولِوَر (۱۸۷۱–۲۰۰۸)",
             "symbol": "VEB"
           },
           "VEF": {
-            "displayName": "VEF",
+            "displayName": "وینٕزوٗلیُک بولِوَر (2008–2018)",
             "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
+            "displayName": "وینٕزوٗلیُک بولِوَر",
             "symbol": "VES"
           },
           "VND": {
-            "displayName": "VND",
+            "displayName": "وِیَنَمُک ڈانگ",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
@@ -1166,80 +1171,80 @@
             "symbol": "VNN"
           },
           "VUV": {
-            "displayName": "VUV",
+            "displayName": "وَنوٗاَتوٗ وَتوٗ",
             "symbol": "VUV"
           },
           "WST": {
-            "displayName": "WST",
+            "displayName": "سَمون تَلا",
             "symbol": "WST"
           },
           "XAF": {
-            "displayName": "XAF",
+            "displayName": "سی ایف اے فرینک بی ایٖ اے سی",
             "symbol": "FCFA"
           },
           "XAG": {
-            "displayName": "XAG",
+            "displayName": "رۄپھ",
             "symbol": "XAG"
           },
           "XAU": {
-            "displayName": "XAU",
+            "displayName": "سۄن",
             "symbol": "XAU"
           },
           "XBA": {
-            "displayName": "XBA",
+            "displayName": "یوٗرپی کَمپوسِٹ یوٗنِٹ",
             "symbol": "XBA"
           },
           "XBB": {
-            "displayName": "XBB",
+            "displayName": "یوٗرپی مونِٹَری یوٗنِٹ",
             "symbol": "XBB"
           },
           "XBC": {
-            "displayName": "XBC",
+            "displayName": "یوٗرپی یوٗنِٹ آف ایکاوُنٹ (ایکس بی سی)",
             "symbol": "XBC"
           },
           "XBD": {
-            "displayName": "XBD",
+            "displayName": "یوٗرپی یوٗنِٹ آف ایکاوُنٹ (ایکس بی ڈی)",
             "symbol": "XBD"
           },
           "XCD": {
-            "displayName": "XCD",
+            "displayName": "مَشرِقی کیرِبِیَن ڈالَر",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
           "XDR": {
-            "displayName": "XDR",
+            "displayName": "خاص ڈرایِنگ رایٹس",
             "symbol": "XDR"
           },
           "XEU": {
-            "displayName": "XEU",
+            "displayName": "یوٗرپی کَرَنسی یوٗنِٹ",
             "symbol": "XEU"
           },
           "XFO": {
-            "displayName": "XFO",
+            "displayName": "فرینچ گولڈ فرینک",
             "symbol": "XFO"
           },
           "XFU": {
-            "displayName": "XFU",
+            "displayName": "فرینچ یوٗ اے سی فرینک",
             "symbol": "XFU"
           },
           "XOF": {
-            "displayName": "XOF",
+            "displayName": "سی ایف اے فرینک بی سی ایٖ اے او",
             "symbol": "CFA"
           },
           "XPD": {
-            "displayName": "XPD",
+            "displayName": "پُلیڈیَم",
             "symbol": "XPD"
           },
           "XPF": {
-            "displayName": "XPF",
+            "displayName": "سی ایف پی فرینک",
             "symbol": "CFPF"
           },
           "XPT": {
-            "displayName": "XPT",
+            "displayName": "پلیٹِنَم",
             "symbol": "XPT"
           },
           "XRE": {
-            "displayName": "XRE",
+            "displayName": "آر آے این ایٖ ٹی فَنڈ",
             "symbol": "XRE"
           },
           "XSU": {
@@ -1247,7 +1252,7 @@
             "symbol": "XSU"
           },
           "XTS": {
-            "displayName": "XTS",
+            "displayName": "ٹیسٹِنگ کَرَنسی کوڈ",
             "symbol": "XTS"
           },
           "XUA": {
@@ -1255,27 +1260,27 @@
             "symbol": "XUA"
           },
           "XXX": {
-            "displayName": "XXX",
+            "displayName": "اَنزٲنۍ یا نالَگہٕ ہار سِکہٕ",
             "symbol": "¤"
           },
           "YDD": {
-            "displayName": "YDD",
+            "displayName": "یَمنُک دیٖنار",
             "symbol": "YDD"
           },
           "YER": {
-            "displayName": "YER",
+            "displayName": "یَمنُک رِیال",
             "symbol": "YER"
           },
           "YUD": {
-            "displayName": "YUD",
+            "displayName": "یوگوسلاوِیَن ہاڑ دیٖنار",
             "symbol": "YUD"
           },
           "YUM": {
-            "displayName": "YUM",
+            "displayName": "یوگوسلاوِیَن نووِے دیٖنار",
             "symbol": "YUM"
           },
           "YUN": {
-            "displayName": "YUN",
+            "displayName": "یوگوسلاوِیَن کَنؤٹِبٕل دیٖنار",
             "symbol": "YUN"
           },
           "YUR": {
@@ -1287,29 +1292,29 @@
             "symbol": "ZAL"
           },
           "ZAR": {
-            "displayName": "ZAR",
+            "displayName": "ساوُتھ افریٖکاہُک رینڈ",
             "symbol": "ZAR",
             "symbol-alt-narrow": "R"
           },
           "ZMK": {
-            "displayName": "ZMK",
+            "displayName": "زِمبابیُک کواچا (1968–2012)",
             "symbol": "ZMK"
           },
           "ZMW": {
-            "displayName": "ZMW",
+            "displayName": "زِمبابیُک کواچا",
             "symbol": "ZMW",
             "symbol-alt-narrow": "ZK"
           },
           "ZRN": {
-            "displayName": "ZRN",
+            "displayName": "زایرِیَن نِو زایِر",
             "symbol": "ZRN"
           },
           "ZRZ": {
-            "displayName": "ZRZ",
+            "displayName": "زَیرُک ڈالَر",
             "symbol": "ZRZ"
           },
           "ZWD": {
-            "displayName": "ZWD",
+            "displayName": "زِمبابِیُک ڈالَر",
             "symbol": "ZWD"
           },
           "ZWL": {

@@ -3,7 +3,7 @@
     "ne-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ne",
         "territory": "IN"
@@ -28,7 +28,8 @@
             "displayName": "अफ्गान अफ्गानी",
             "displayName-count-one": "अफ्गान अफ्गानी",
             "displayName-count-other": "अफ्गान अफ्गानी",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,7 +45,8 @@
             "displayName": "आर्मेनियाली ड्राम",
             "displayName-count-one": "आर्मेनियाली ड्राम",
             "displayName-count-other": "आर्मेनियाली ड्राम",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "नेदरल्याण्ड्स एन्टिलियन गिल्डर",
@@ -119,7 +121,8 @@
             "displayName": "अजरबैजानी मानात",
             "displayName-count-one": "अजरबैजानी मानात",
             "displayName-count-other": "अजरबैजानी मानात",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -554,7 +557,8 @@
             "displayName": "घानाली सेडी",
             "displayName-count-one": "घानाली सेडी",
             "displayName-count-other": "घानाली सेडी",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "जिब्राल्टर पाउण्ड",

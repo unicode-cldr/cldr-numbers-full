@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "eu"
       },
@@ -27,7 +27,8 @@
             "displayName": "afgani afganiarra",
             "displayName-count-one": "afgani afganiar",
             "displayName-count-other": "afgani afganiar",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "dram armeniarra",
             "displayName-count-one": "dram armeniar",
             "displayName-count-other": "dram armeniar",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Holandarren Antilletako florina",
@@ -118,7 +120,8 @@
             "displayName": "manat azerbaijandarra",
             "displayName-count-one": "manat azerbaijandar",
             "displayName-count-other": "manat azerbaijandar",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -555,7 +558,8 @@
             "displayName": "cedi ghanatarra",
             "displayName-count-one": "cedi ghanatar",
             "displayName-count-other": "cedi ghanatar",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "libera gibraltartarra",
@@ -710,7 +714,7 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "Jamaikako dolarra",
+            "displayName": "dolar jamaikarra",
             "displayName-count-one": "dolar jamaikar",
             "displayName-count-other": "dolar jamaikar",
             "symbol": "JMD",
@@ -970,9 +974,9 @@
             "symbol": "MVP"
           },
           "MVR": {
-            "displayName": "errupia maldivarra",
-            "displayName-count-one": "errupia maldivar",
-            "displayName-count-other": "errupia maldivar",
+            "displayName": "rufiyaa maldivarra",
+            "displayName-count-one": "rufiyaa maldivar",
+            "displayName-count-other": "rufiyaa maldivar",
             "symbol": "MVR"
           },
           "MWK": {
@@ -1036,9 +1040,9 @@
             "symbol": "NIC"
           },
           "NIO": {
-            "displayName": "córdoba nikaraguarra",
-            "displayName-count-one": "córdoba nikaraguar",
-            "displayName-count-other": "córdoba nikaraguar",
+            "displayName": "cordoba nikaraguarra",
+            "displayName-count-one": "cordoba nikaraguar",
+            "displayName-count-other": "cordoba nikaraguar",
             "symbol": "NIO",
             "symbol-alt-narrow": "C$"
           },
@@ -1086,7 +1090,7 @@
           "PEN": {
             "displayName": "sol perutarra",
             "displayName-count-one": "sol perutar",
-            "displayName-count-other": "Peruko sol",
+            "displayName-count-other": "sol perutar",
             "symbol": "PEN"
           },
           "PES": {
@@ -1341,9 +1345,9 @@
             "symbol": "TND"
           },
           "TOP": {
-            "displayName": "Tongako Paʻanga",
-            "displayName-count-one": "Tongako Paʻanga",
-            "displayName-count-other": "Tongako Paʻanga",
+            "displayName": "paʻanga tongatarra",
+            "displayName-count-one": "paʻanga tongatar",
+            "displayName-count-other": "paʻanga tongatar",
             "symbol": "TOP",
             "symbol-alt-narrow": "T$"
           },
@@ -1384,9 +1388,9 @@
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "Ukrainako hryvnia",
-            "displayName-count-one": "Ukrainako hryvnia",
-            "displayName-count-other": "Ukrainako hryvnia",
+            "displayName": "hryvnia ukrainarra",
+            "displayName-count-one": "hryvnia ukrainar",
+            "displayName-count-other": "hryvnia ukrainar",
             "symbol": "UAH",
             "symbol-alt-narrow": "₴"
           },
@@ -1623,7 +1627,7 @@
           "ZMW": {
             "displayName": "kwacha zambiarra",
             "displayName-count-one": "kwacha zambiar",
-            "displayName-count-other": "Zambiako kwacha",
+            "displayName-count-other": "kwacha zambiar",
             "symbol": "ZMW",
             "symbol-alt-narrow": "ZK"
           },

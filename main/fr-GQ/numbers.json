@@ -3,7 +3,7 @@
     "fr-GQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr",
         "territory": "GQ"
@@ -21,6 +21,7 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "≃",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -32,6 +33,7 @@
           "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
+              "1000-count-1": "mille",
               "1000-count-one": "0 millier",
               "1000-count-other": "0 mille",
               "10000-count-one": "00 mille",
@@ -96,12 +98,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -147,9 +149,12 @@
         },
         "minimalPairs": {
           "pluralMinimalPairs-count-one": "{0} jour",
+          "pluralMinimalPairs-count-many": "{0} de jours",
           "pluralMinimalPairs-count-other": "{0} jours",
           "one": "Prenez la {0}re à droite.",
-          "other": "Prenez la {0}e à droite."
+          "other": "Prenez la {0}e à droite.",
+          "feminine": "La {0} est",
+          "masculine": "Le {0} est"
         }
       }
     }

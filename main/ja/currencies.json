@@ -3,7 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ja"
       },
@@ -27,7 +27,8 @@
           "AFN": {
             "displayName": "アフガニスタン アフガニー",
             "displayName-count-other": "アフガニスタン アフガニー",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "アルバニア レク (1946–1965)",
@@ -42,7 +43,8 @@
           "AMD": {
             "displayName": "アルメニア ドラム",
             "displayName-count-other": "アルメニア ドラム",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "オランダ領アンティル ギルダー",
@@ -108,8 +110,8 @@
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "アルバ ギルダー",
-            "displayName-count-other": "アルバ ギルダー",
+            "displayName": "アルバ フロリン",
+            "displayName-count-other": "アルバ フロリン",
             "symbol": "AWG"
           },
           "AZM": {
@@ -120,7 +122,8 @@
           "AZN": {
             "displayName": "アゼルバイジャン マナト",
             "displayName-count-other": "アゼルバイジャン マナト",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "ボスニア・ヘルツェゴビナ ディナール (1992–1994)",
@@ -554,7 +557,8 @@
           "GHS": {
             "displayName": "ガーナ セディ",
             "displayName-count-other": "ガーナ セディ",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ジブラルタル ポンド",

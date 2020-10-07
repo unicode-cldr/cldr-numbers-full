@@ -3,7 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fa",
         "territory": "AF"
@@ -21,6 +21,7 @@
           "percentSign": "٪",
           "plusSign": "‎+",
           "minusSign": "‎−",
+          "approximatelySign": "~",
           "exponential": "×۱۰^",
           "superscriptingExponent": "×",
           "perMille": "؉",
@@ -35,6 +36,7 @@
           "percentSign": "%",
           "plusSign": "‎+",
           "minusSign": "‎−",
+          "approximatelySign": "~",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
@@ -91,7 +93,7 @@
               "10000000000-count-one": "00 م",
               "10000000000-count-other": "00 م",
               "100000000000-count-one": "000 ب",
-              "100000000000-count-other": "000 میلیارد",
+              "100000000000-count-other": "000B",
               "1000000000000-count-one": "0 ت",
               "1000000000000-count-other": "0 تریلیون",
               "10000000000000-count-one": "00 ت",
@@ -150,7 +152,7 @@
               "10000000000-count-one": "00 م",
               "10000000000-count-other": "00 م",
               "100000000000-count-one": "000 ب",
-              "100000000000-count-other": "000 میلیارد",
+              "100000000000-count-other": "000B",
               "1000000000000-count-one": "0 ت",
               "1000000000000-count-other": "0 تریلیون",
               "10000000000000-count-one": "00 ت",
@@ -175,12 +177,12 @@
         "currencyFormats-numberSystem-arabext": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -221,12 +223,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }

@@ -3,7 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ast"
       },
@@ -31,7 +31,8 @@
             "displayName": "Afganí afganistanu",
             "displayName-count-one": "afganí afganistanu",
             "displayName-count-other": "afganís afganistanos",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "Lek albanés (1946–1965)",
@@ -49,7 +50,8 @@
             "displayName": "Dram armeniu",
             "displayName-count-one": "dram armeniu",
             "displayName-count-other": "drams armenios",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Guílder de les Antilles Neerlandeses",
@@ -142,7 +144,8 @@
             "displayName": "Manat azerbaixanu",
             "displayName-count-one": "manat azerbaixanu",
             "displayName-count-other": "manats azerbaixanos",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Dinar de Bosnia-Herzegovina (1992–1994)",
@@ -654,7 +657,8 @@
             "displayName": "cedi ghanianu",
             "displayName-count-one": "cedi ghanianu",
             "displayName-count-other": "cedis ghanianos",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "llibra de Xibraltar",

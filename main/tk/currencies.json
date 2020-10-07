@@ -3,7 +3,7 @@
     "tk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "tk"
       },
@@ -27,7 +27,8 @@
             "displayName": "Owgan afganisi",
             "displayName-count-one": "owgan afganisi",
             "displayName-count-other": "owgan afganisi",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Ermeni dramy",
             "displayName-count-one": "ermeni dramy",
             "displayName-count-other": "ermeni dramy",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Niderland antil guldeni",
@@ -118,7 +120,8 @@
             "displayName": "Azerbaýjan manady",
             "displayName-count-one": "azerbaýjan manady",
             "displayName-count-other": "azerbaýjan manady",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -553,7 +556,8 @@
             "displayName": "Gano sedisi",
             "displayName-count-one": "gano sedisi",
             "displayName-count-other": "gano sedisi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Gibraltar funty",

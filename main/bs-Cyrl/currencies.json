@@ -3,7 +3,7 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -36,7 +36,8 @@
             "displayName-count-one": "афганистански афгани",
             "displayName-count-few": "афганистанска афганија",
             "displayName-count-other": "афганистанских афганија",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -54,7 +55,8 @@
             "displayName-count-one": "арменски драм",
             "displayName-count-few": "арменска драма",
             "displayName-count-other": "арменских драма",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "Холандски антили гилдер",
@@ -156,7 +158,8 @@
             "displayName-count-one": "азербејџански манат",
             "displayName-count-few": "азербејџанска маната",
             "displayName-count-other": "азербејџанских маната",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "Босанско-Херцеговачки динар",
@@ -730,7 +733,8 @@
             "displayName-count-one": "гански цеди",
             "displayName-count-few": "гански цедиа",
             "displayName-count-other": "ганских цедиа",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Гибралтаска фунта",

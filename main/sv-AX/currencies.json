@@ -3,7 +3,7 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv",
         "territory": "AX"
@@ -17,9 +17,9 @@
             "symbol": "ADP"
           },
           "AED": {
-            "displayName": "Förenade Arabemiratens dirham",
-            "displayName-count-one": "Förenade Arabemiratens dirham",
-            "displayName-count-other": "Förenade Arabemiratens dirham",
+            "displayName": "emiratisk dirham",
+            "displayName-count-one": "emiratisk dirham",
+            "displayName-count-other": "emiratisk dirham",
             "symbol": "AED"
           },
           "AFA": {
@@ -32,7 +32,8 @@
             "displayName": "afghansk afghani",
             "displayName-count-one": "afghansk afghani",
             "displayName-count-other": "afghanska afghani",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "albansk lek (1946–1965)",
@@ -50,12 +51,13 @@
             "displayName": "armenisk dram",
             "displayName-count-one": "armenisk dram",
             "displayName-count-other": "armeniska dram",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
-            "displayName": "Nederländska Antillernas gulden",
-            "displayName-count-one": "Nederländska Antillernas gulden",
-            "displayName-count-other": "Nederländska Antillernas gulden",
+            "displayName": "Antillergulden",
+            "displayName-count-one": "Antillergulden",
+            "displayName-count-other": "Antillergulden",
             "symbol": "ANG"
           },
           "AOA": {
@@ -143,7 +145,8 @@
             "displayName": "azerbajdzjansk manat",
             "displayName-count-one": "azerbajdzjansk manat",
             "displayName-count-other": "azerbajdzjanska manat",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "bosnisk-hercegovinsk dinar (1992–1994)",
@@ -165,9 +168,9 @@
             "symbol": "BAN"
           },
           "BBD": {
-            "displayName": "Barbados-dollar",
-            "displayName-count-one": "Barbados-dollar",
-            "displayName-count-other": "Barbados-dollar",
+            "displayName": "barbadisk dollar",
+            "displayName-count-one": "barbadisk dollar",
+            "displayName-count-other": "barbadisk dollar",
             "symbol": "Bds$",
             "symbol-alt-narrow": "$"
           },
@@ -233,9 +236,9 @@
             "symbol": "BIF"
           },
           "BMD": {
-            "displayName": "Bermuda-dollar",
-            "displayName-count-one": "Bermuda-dollar",
-            "displayName-count-other": "Bermuda-dollar",
+            "displayName": "bermudisk dollar",
+            "displayName-count-one": "bermudisk dollar",
+            "displayName-count-other": "bermudisk dollar",
             "symbol": "BM$",
             "symbol-alt-narrow": "$"
           },
@@ -658,7 +661,8 @@
             "displayName": "ghanansk cedi",
             "displayName-count-one": "ghanansk cedi",
             "displayName-count-other": "ghananska cedi",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "gibraltiskt pund",
@@ -835,9 +839,9 @@
             "symbol": "ITL"
           },
           "JMD": {
-            "displayName": "Jamaica-dollar",
+            "displayName": "jamaicansk dollar",
             "displayName-count-one": "Jamaica-dollar",
-            "displayName-count-other": "Jamaica-dollar",
+            "displayName-count-other": "jamaicansk dollar",
             "symbol": "JM$",
             "symbol-alt-narrow": "$"
           },
@@ -913,9 +917,9 @@
             "symbol": "KWD"
           },
           "KYD": {
-            "displayName": "Cayman-dollar",
-            "displayName-count-one": "Cayman-dollar",
-            "displayName-count-other": "Cayman-dollar",
+            "displayName": "caymansk dollar",
+            "displayName-count-one": "caymansk dollar",
+            "displayName-count-other": "caymansk dollar",
             "symbol": "KYD",
             "symbol-alt-narrow": "$"
           },
@@ -1418,9 +1422,9 @@
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "S:t Helena-pund",
-            "displayName-count-one": "S:t Helena-pund",
-            "displayName-count-other": "S:t Helena-pund",
+            "displayName": "sankthelenskt pund",
+            "displayName-count-one": "sankthelenskt pund",
+            "displayName-count-other": "sankthelenskt pund",
             "symbol": "SHP",
             "symbol-alt-narrow": "£"
           },
@@ -1571,16 +1575,16 @@
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "Trinidad och Tobago-dollar",
-            "displayName-count-one": "Trinidad och Tobago-dollar",
-            "displayName-count-other": "Trinidad och Tobago-dollar",
+            "displayName": "Trinidaddollar",
+            "displayName-count-one": "Trinidaddollar",
+            "displayName-count-other": "Trinidaddollar",
             "symbol": "TTD",
             "symbol-alt-narrow": "$"
           },
           "TWD": {
-            "displayName": "Taiwandollar",
-            "displayName-count-one": "Taiwandollar",
-            "displayName-count-other": "Taiwandollar",
+            "displayName": "taiwanesisk dollar",
+            "displayName-count-one": "taiwanesisk dollar",
+            "displayName-count-other": "taiwanesisk dollar",
             "symbol": "TWD",
             "symbol-alt-narrow": "NT$"
           },
@@ -1616,9 +1620,9 @@
             "symbol": "UGX"
           },
           "USD": {
-            "displayName": "US-dollar",
-            "displayName-count-one": "US-dollar",
-            "displayName-count-other": "US-dollar",
+            "displayName": "amerikansk dollar",
+            "displayName-count-one": "amerikansk dollar",
+            "displayName-count-other": "amerikansk dollar",
             "symbol": "US$",
             "symbol-alt-narrow": "$"
           },

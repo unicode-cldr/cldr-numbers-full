@@ -3,7 +3,7 @@
     "hi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hi"
       },
@@ -27,7 +27,8 @@
             "displayName": "अफ़गान अफ़गानी",
             "displayName-count-one": "अफ़गान अफ़गानी",
             "displayName-count-other": "अफ़गान अफ़गानी",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "आर्मेनियाई द्राम",
             "displayName-count-one": "आर्मेनियाई द्राम",
             "displayName-count-other": "आर्मेनियाई द्राम",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "नीदरलैंड एंटीलियन गिल्डर",
@@ -118,7 +120,8 @@
             "displayName": "अज़रबैजानी मैनेट",
             "displayName-count-one": "अज़रबैजानी मैनेट",
             "displayName-count-other": "अज़रबैजानी मैनेट",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -269,7 +272,7 @@
             "symbol": "BTN"
           },
           "BUK": {
-            "displayName": "BUK",
+            "displayName": "बर्मी क्यात",
             "symbol": "BUK"
           },
           "BWP": {
@@ -553,7 +556,8 @@
             "displayName": "घानियन सेडी",
             "displayName-count-one": "घानियन सेडी",
             "displayName-count-other": "घानियन सेडी",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "जिब्राल्टर पाउंड",
@@ -1346,7 +1350,7 @@
             "symbol-alt-narrow": "T$"
           },
           "TPE": {
-            "displayName": "TPE",
+            "displayName": "तिमोरी एस्कूडो",
             "symbol": "TPE"
           },
           "TRL": {
@@ -1467,7 +1471,7 @@
             "symbol-alt-narrow": "₫"
           },
           "VNN": {
-            "displayName": "VNN",
+            "displayName": "वियतनामी डोंग (1978–1985)",
             "symbol": "VNN"
           },
           "VUV": {
@@ -1524,7 +1528,9 @@
             "symbol": "XDR"
           },
           "XEU": {
-            "displayName": "XEU",
+            "displayName": "यूरोपीय मुद्रा इकाई",
+            "displayName-count-one": "यूरोपीय मुद्रा इकाई",
+            "displayName-count-other": "यूरोपीय मुद्रा इकाई",
             "symbol": "XEU"
           },
           "XFO": {

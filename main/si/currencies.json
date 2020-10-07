@@ -3,7 +3,7 @@
     "si": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "si"
       },
@@ -27,7 +27,8 @@
             "displayName": "ඇෆ්ගනිථාන ඇෆ්ගනි",
             "displayName-count-one": "ඇෆ්ගනිථාන ඇෆ්ගනි",
             "displayName-count-other": "ඇෆ්ගනිථාන ඇෆ්ගනි",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "ආර්මේනියානු ඩ්‍රෑම්",
             "displayName-count-one": "ආර්මේනියානු ඩ්‍රෑම්",
             "displayName-count-other": "ආර්මේනියානු ඩ්‍රෑම්",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "නෙදර්ලන්ත ඇන්ටිලියන් ගිල්ඩර්",
@@ -118,7 +120,8 @@
             "displayName": "අසර්බයිජානු මනාට්",
             "displayName-count-one": "අසර්බයිජානු මනාට්",
             "displayName-count-other": "අසර්බයිජානු මනාට්",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -553,7 +556,8 @@
             "displayName": "ඝානා සෙඩි",
             "displayName-count-one": "ඝානා සෙඩි",
             "displayName-count-other": "ඝානා සෙඩි",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "ජිබ්‍රෝල්ටා පවුම්",

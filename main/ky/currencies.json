@@ -3,7 +3,7 @@
     "ky": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ky"
       },
@@ -27,7 +27,8 @@
             "displayName": "Афганстан афганиси",
             "displayName-count-one": "Афганстан афганиси",
             "displayName-count-other": "Афганстан афганиси",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -43,7 +44,8 @@
             "displayName": "Армения драмы",
             "displayName-count-one": "Армения драмы",
             "displayName-count-other": "Армения драмы",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "нидерланд-антил гулдени",
@@ -118,7 +120,8 @@
             "displayName": "Азербайжан манаты",
             "displayName-count-one": "Азербайжан манаты",
             "displayName-count-other": "Азербайжан манаты",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -127,7 +130,7 @@
           "BAM": {
             "displayName": "босния-герцоговина конвертациялануучу маркасы",
             "displayName-count-one": "босния-герцоговина конвертациялануучу маркасы",
-            "displayName-count-other": "босния-герцоговина конвертациялануучу маркалары",
+            "displayName-count-other": "босния-герцоговина конвертациялануучу маркасы",
             "symbol": "BAM",
             "symbol-alt-narrow": "KM"
           },
@@ -306,7 +309,7 @@
           "CAD": {
             "displayName": "канада доллары",
             "displayName-count-one": "канада доллары",
-            "displayName-count-other": "канада долларлары",
+            "displayName-count-other": "канада доллары",
             "symbol": "CAD",
             "symbol-alt-narrow": "C$"
           },
@@ -346,9 +349,9 @@
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "Кытай юаны (офшор)",
-            "displayName-count-one": "Кытай юаны (офшор)",
-            "displayName-count-other": "Кытай юаны (офшор)",
+            "displayName": "Кытай юаны (оффшор)",
+            "displayName-count-one": "Кытай юаны (оффшор)",
+            "displayName-count-other": "Кытай юаны (оффшор)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -391,7 +394,7 @@
           "CUC": {
             "displayName": "кубанын конвертациялануучу песосу",
             "displayName-count-one": "кубанын конвертациялануучу песосу",
-            "displayName-count-other": "кубанын конвертациялануучу песолору",
+            "displayName-count-other": "кубанын конвертациялануучу песосу",
             "symbol": "CUC",
             "symbol-alt-narrow": "$"
           },
@@ -500,7 +503,7 @@
           "EUR": {
             "displayName": "Евро",
             "displayName-count-one": "евро",
-            "displayName-count-other": "евролор",
+            "displayName-count-other": "евро",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
@@ -553,7 +556,8 @@
             "displayName": "Гана седиси",
             "displayName-count-one": "Гана седиси",
             "displayName-count-other": "Гана седиси",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "гибралтар фунту",
@@ -754,9 +758,9 @@
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "Түндүк Корея уону",
+            "displayName": "Түндүк Корея вону",
             "displayName-count-one": "Түндүк Корея уону",
-            "displayName-count-other": "Түндүк Корея уону",
+            "displayName-count-other": "Түндүк Корея вону",
             "symbol": "KPW",
             "symbol-alt-narrow": "₩"
           },
@@ -769,9 +773,9 @@
             "symbol": "KRO"
           },
           "KRW": {
-            "displayName": "Түштүк Корея уону",
-            "displayName-count-one": "Түштүк Корея уону",
-            "displayName-count-other": "Түштүк Корея уону",
+            "displayName": "Түштүк Корея вону",
+            "displayName-count-one": "Түштүк Корея вону",
+            "displayName-count-other": "Түштүк Корея вону",
             "symbol": "KRW",
             "symbol-alt-narrow": "₩"
           },
@@ -1188,7 +1192,7 @@
           "SBD": {
             "displayName": "Соломон аралдарынын доллары",
             "displayName-count-one": "Соломон аралдарынын доллары",
-            "displayName-count-other": "Соломон аралдарынын долларлары",
+            "displayName-count-other": "Соломон аралдарынын доллары",
             "symbol": "SBD",
             "symbol-alt-narrow": "$"
           },

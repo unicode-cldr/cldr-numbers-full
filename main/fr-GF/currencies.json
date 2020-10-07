@@ -3,7 +3,7 @@
     "fr-GF": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr",
         "territory": "GF"
@@ -32,7 +32,8 @@
             "displayName": "afghani afghan",
             "displayName-count-one": "afghani afghan",
             "displayName-count-other": "afghanis afghan",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "lek albanais (1947–1961)",
@@ -50,7 +51,8 @@
             "displayName": "dram arménien",
             "displayName-count-one": "dram arménien",
             "displayName-count-other": "drams arméniens",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "florin antillais",
@@ -139,7 +141,8 @@
             "displayName": "manat azéri",
             "displayName-count-one": "manat azéri",
             "displayName-count-other": "manats azéris",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "dinar bosniaque",
@@ -640,7 +643,8 @@
             "displayName": "cédi ghanéen",
             "displayName-count-one": "cédi ghanéen",
             "displayName-count-other": "cédis ghanéens",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "livre de Gibraltar",
@@ -1537,7 +1541,7 @@
             "symbol-alt-variant": "LT"
           },
           "TTD": {
-            "displayName": "dollar trinidadien",
+            "displayName": "dollar de Trinité-et-Tobago",
             "displayName-count-one": "dollar de Trinité-et-Tobago",
             "displayName-count-other": "dollars de Trinité-et-Tobago",
             "symbol": "$TT",

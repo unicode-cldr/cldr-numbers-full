@@ -3,7 +3,7 @@
     "sq-XK": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sq",
         "territory": "XK"
@@ -28,7 +28,8 @@
             "displayName": "Afgani afgan",
             "displayName-count-one": "afgan afgan",
             "displayName-count-other": "afganë afgan",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "AFN"
           },
           "ALK": {
             "displayName": "ALK",
@@ -44,7 +45,8 @@
             "displayName": "Dramia armene",
             "displayName-count-one": "drami armene",
             "displayName-count-other": "drami armene",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "AMD"
           },
           "ANG": {
             "displayName": "Gilderi antilian holandez",
@@ -119,7 +121,8 @@
             "displayName": "Manata azerbajxhanase",
             "displayName-count-one": "manatë azerbajxhanase",
             "displayName-count-other": "manata azerbajxhanase",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "AZN"
           },
           "BAD": {
             "displayName": "BAD",
@@ -553,7 +556,8 @@
             "displayName": "Sejda ganeze",
             "displayName-count-one": "sejdë ganeze",
             "displayName-count-other": "sejda ganeze",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "Sterlina e Gjibraltarit",

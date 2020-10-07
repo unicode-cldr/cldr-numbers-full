@@ -3,7 +3,7 @@
     "ga-GB": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ga",
         "territory": "GB"
@@ -21,11 +21,12 @@
           "percentSign": "%",
           "plusSign": "+",
           "minusSign": "-",
+          "approximatelySign": "≈",
           "exponential": "E",
           "superscriptingExponent": "×",
           "perMille": "‰",
           "infinity": "∞",
-          "nan": "NaN",
+          "nan": "Nuimh",
           "timeSeparator": ":"
         },
         "decimalFormats-numberSystem-latn": {
@@ -168,12 +169,12 @@
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
             "beforeCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             },
             "afterCurrency": {
-              "currencyMatch": "[:^S:]",
+              "currencyMatch": "[[:^S:]&[:^Z:]]",
               "surroundingMatch": "[:digit:]",
               "insertBetween": " "
             }
@@ -257,11 +258,11 @@
           "range": "{0}–{1}"
         },
         "minimalPairs": {
-          "pluralMinimalPairs-count-one": "{0} ci, {0} gath",
-          "pluralMinimalPairs-count-two": "{0} gi, {0} gath",
-          "pluralMinimalPairs-count-few": "{0} chi, {0} cath",
-          "pluralMinimalPairs-count-many": "{0} chi, {0} chath",
-          "pluralMinimalPairs-count-other": "{0} ci, {0} cath",
+          "pluralMinimalPairs-count-one": "{0} cheann, {0} uair, {0} chat, {0} éan, {0} bhróg",
+          "pluralMinimalPairs-count-two": "{0} cheann, {0} uair, {0} chat, {0} éan, {0} bhróig",
+          "pluralMinimalPairs-count-few": "{0} cinn, {0} huaire, {0} chat, {0} éan, {0} bhróg",
+          "pluralMinimalPairs-count-many": "{0} gcinn, {0} n-uaire, {0} gcat, {0} n-éan, {0} mbróg",
+          "pluralMinimalPairs-count-other": "{0} ceann, {0} uair, {0} cat, {0} éan, {0} bróg",
           "one": "Glac an {0}ú chasadh ar dheis.",
           "other": "Glac an {0}ú casadh ar dheis."
         }

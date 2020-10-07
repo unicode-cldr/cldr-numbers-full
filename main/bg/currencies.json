@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bg"
       },
@@ -31,7 +31,8 @@
             "displayName": "Афганистански афган",
             "displayName-count-one": "афганистански афган",
             "displayName-count-other": "афганистански афгана",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "Af"
           },
           "ALK": {
             "displayName": "ALK",
@@ -47,7 +48,8 @@
             "displayName": "Арменски драм",
             "displayName-count-one": "арменски драм",
             "displayName-count-other": "арменски драма",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "AMD"
           },
           "ANG": {
             "displayName": "Антилски гулден",
@@ -136,7 +138,8 @@
             "displayName": "Азербайджански манат",
             "displayName-count-one": "азербайджански манат",
             "displayName-count-other": "азербайджански маната",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "AZN"
           },
           "BAD": {
             "displayName": "Босна и Херцеговина-динар",
@@ -382,9 +385,9 @@
             "symbol-alt-narrow": "CLP"
           },
           "CNH": {
-            "displayName": "Китайски ренминби юан (offshore)",
-            "displayName-count-one": "китайски ренминби юан (offshore)",
-            "displayName-count-other": "китайски ренминби юан (offshore)",
+            "displayName": "Китайски юан (офшорен)",
+            "displayName-count-one": "китайски юан (офшорен)",
+            "displayName-count-other": "китайски юана (офшорни)",
             "symbol": "CNH"
           },
           "CNX": {
@@ -566,9 +569,9 @@
             "symbol-alt-narrow": "FJD"
           },
           "FKP": {
-            "displayName": "Фолклендска лира",
-            "displayName-count-one": "фолклендска лира",
-            "displayName-count-other": "фолклендски лири",
+            "displayName": "Фолкландска лира",
+            "displayName-count-one": "фолкландска лира",
+            "displayName-count-other": "фолкландски лири",
             "symbol": "FKP",
             "symbol-alt-narrow": "FKP"
           },
@@ -607,7 +610,8 @@
             "displayName": "Ганайско седи",
             "displayName-count-one": "ганайско седи",
             "displayName-count-other": "ганайски седи",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GHS"
           },
           "GIP": {
             "displayName": "Гибралтарска лира",
@@ -958,9 +962,9 @@
             "symbol": "MDC"
           },
           "MDL": {
-            "displayName": "Молдовско леу",
-            "displayName-count-one": "молдовско леу",
-            "displayName-count-other": "молдовски леу",
+            "displayName": "Молдовска лея",
+            "displayName-count-one": "молдовска лея",
+            "displayName-count-other": "молдовски леи",
             "symbol": "MDL"
           },
           "MGA": {
@@ -991,9 +995,9 @@
             "symbol": "MLF"
           },
           "MMK": {
-            "displayName": "Мианмарски кият",
-            "displayName-count-one": "мианмарски кият",
-            "displayName-count-other": "мианмарски кията",
+            "displayName": "Мианмарски киат",
+            "displayName-count-one": "мианмарски киат",
+            "displayName-count-other": "мианмарски киата",
             "symbol": "MMK",
             "symbol-alt-narrow": "K"
           },
@@ -1050,9 +1054,9 @@
             "symbol": "MVR"
           },
           "MWK": {
-            "displayName": "Малавийска квача",
-            "displayName-count-one": "малавийска квача",
-            "displayName-count-other": "малавийски квачи",
+            "displayName": "Малавийска куача",
+            "displayName-count-one": "малавийска куача",
+            "displayName-count-other": "малавийски куачи",
             "symbol": "MWK"
           },
           "MXN": {
@@ -1498,9 +1502,9 @@
             "symbol": "TZS"
           },
           "UAH": {
-            "displayName": "Украинска хривня",
-            "displayName-count-one": "украинска хривня",
-            "displayName-count-other": "украински хривни",
+            "displayName": "Украинска гривня",
+            "displayName-count-one": "украинска гривня",
+            "displayName-count-other": "украински гривни",
             "symbol": "UAH",
             "symbol-alt-narrow": "UAH"
           },

@@ -3,7 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gl"
       },
@@ -29,7 +29,8 @@
             "displayName": "afgani afgán",
             "displayName-count-one": "afgani afgán",
             "displayName-count-other": "afganis afgáns",
-            "symbol": "AFN"
+            "symbol": "AFN",
+            "symbol-alt-narrow": "؋"
           },
           "ALK": {
             "displayName": "ALK",
@@ -45,7 +46,8 @@
             "displayName": "dram armenio",
             "displayName-count-one": "dram armenio",
             "displayName-count-other": "drams armenios",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "symbol-alt-narrow": "֏"
           },
           "ANG": {
             "displayName": "florín das Antillas Neerlandesas",
@@ -122,7 +124,8 @@
             "displayName": "manat acerbaixano",
             "displayName-count-one": "manat acerbaixano",
             "displayName-count-other": "manats acerbaixanos",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "symbol-alt-narrow": "₼"
           },
           "BAD": {
             "displayName": "BAD",
@@ -588,7 +591,8 @@
             "displayName": "cedi ghanés",
             "displayName-count-one": "cedi ghanés",
             "displayName-count-other": "cedis ghaneses",
-            "symbol": "GHS"
+            "symbol": "GHS",
+            "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
             "displayName": "libra xibraltareña",
@@ -923,7 +927,7 @@
             "symbol": "MDC"
           },
           "MDL": {
-            "displayName": "Leu moldavo",
+            "displayName": "leu moldavo",
             "displayName-count-one": "leu moldavo",
             "displayName-count-other": "leus moldavos",
             "symbol": "MDL"
@@ -1345,8 +1349,8 @@
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "lilangeni de Eswatini",
-            "displayName-count-one": "lilangeni de Suacilandia",
+            "displayName": "lilangeni de Swazilandia",
+            "displayName-count-one": "lilangeni de Swazilandia",
             "displayName-count-other": "lilangenis de Eswatini",
             "symbol": "SZL"
           },
